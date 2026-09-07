@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 import pytz
 
-# প্রোমো চ্যানেল ডেটা
+# প্রোমো চ্যানেল ডেটা (M3U এর ১ নম্বরে অ্যাড হওয়ার জন্য)
 PROMO_CHANNEL = {
     "name": "IreenTV Promo",
     "logo": "https://i.ibb.co.com/XkDv6gpS/ireenTV.png",
@@ -24,20 +24,17 @@ def get_dhaka_time():
     return datetime.now(tz).strftime('%Y-%m-%d %I:%M:%S %p')
 
 def extract_headers(ch):
-    """
-    সোর্স থেকে User-Agent, Referer, Cookie সহ সব হেডার 
-    আলাদা আলাদা থাকলে বা অবজেক্টে থাকলে তা নিখুঁতভাবে সংগ্রহ করা
-    """
+    """সোর্স জেসনে থাকা আলাদা আলাদা হেডারগুলো M3U-এর জন্য ফিল্টার করা"""
     headers = {}
 
-    # যদি সোর্সে আগে থেকেই 'headers' অবজেক্ট থাকে
+    # যদি অবজেক্ট হিসেবে থাকে
     raw_headers = ch.get("headers")
     if isinstance(raw_headers, dict):
         for k, v in raw_headers.items():
             if v:
                 headers[k.strip()] = str(v).strip()
 
-    # সোর্সে আলাদা ফিল্ড হিসেবে থাকলে তা খুঁজে বের করা (Case-insensitive)
+    # যদি আলাদা আলাদা কি (Key) আকারে থাকে
     for key, value in ch.items():
         if not value or not isinstance(value, (str, int)):
             continue
@@ -58,12 +55,11 @@ def extract_headers(ch):
 
     return headers
 
-def clean_channel_data(ch):
+def clean_channel_for_m3u(ch):
     name = ch.get("name") or ch.get("channel_name") or ch.get("title") or ch.get("tvg_name") or "Unnamed Channel"
     logo = ch.get("logo") or ch.get("tvg_logo") or ch.get("image") or ""
     group = ch.get("group") or ch.get("category") or ch.get("group_title") or "General"
     url = ch.get("url") or ch.get("stream_url") or ch.get("link") or ""
-    
     headers = extract_headers(ch)
 
     return {
@@ -75,7 +71,6 @@ def clean_channel_data(ch):
     }
 
 def generate_m3u(playlist_name, channels, last_update):
-    # M3U ফাইলের শুরুতে আপনার পার্সোনাল ডিটেইলস
     lines = [
         f'#EXTM3U url-tvg="" name="{playlist_name}"',
         '# =====================================================',
@@ -94,7 +89,7 @@ def generate_m3u(playlist_name, channels, last_update):
         # EXTINF লাইন
         lines.append(f'#EXTINF:-1 tvg-logo="{ch["logo"]}" group-title="{ch["group"]}" tvg-name="{ch["name"]}",{ch["name"]}')
         
-        # আলাদা আলাদা হেডারের জন্য নির্দিষ্ট M3U অপশন
+        # আলাদা আলাদা হেডার অপশন
         if "User-Agent" in headers:
             lines.append(f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}')
         if "Referer" in headers:
@@ -104,13 +99,11 @@ def generate_m3u(playlist_name, channels, last_update):
         if "Origin" in headers:
             lines.append(f'#EXTVLCOPT:http-origin={headers["Origin"]}')
 
-        # অন্যান্য সমস্ত প্লেয়ার (যেমন TiviMate, OTT Navigator, Kodi)-এর জন্য সাপোর্ট
+        # অন্যান্য প্লেয়ারের সামঞ্জস্যতার জন্য
         if headers:
-            # Kodi / OTT Navigator হেডার প্রপস
             kodi_headers = "&".join([f"{k}={v}" for k, v in headers.items()])
             lines.append(f'#KODIPROP:inputstream.adaptive.manifest_headers={kodi_headers}')
             lines.append(f'#KODIPROP:inputstream.adaptive.stream_headers={kodi_headers}')
-            # জেসন আকারে হেডার ট্যাগ
             lines.append(f'#EXTHTTP:{json.dumps(headers)}')
             
         lines.append(ch["url"])
@@ -136,44 +129,34 @@ def process():
         try:
             res = requests.get(source_url, timeout=30)
             res.raise_for_status()
-            data = res.json()
             
+            safe_name = playlist_name.lower().replace(" ", "_")
+
+            # ১. সোর্স JSON ফাইলটি হুবহু (কোনো পরিবর্তন ছাড়া) রুট ডিরেক্টরিতে সেভ করা
+            with open(f"{safe_name}.json", "w", encoding="utf-8") as f:
+                f.write(res.text)
+
+            # ২. JSON থেকে M3U বানানোর প্রক্রিয়া
+            data = res.json()
             raw_channels = []
             if isinstance(data, list):
                 raw_channels = data
             elif isinstance(data, dict):
                 raw_channels = data.get("channels") or data.get("data") or data.get("streams") or []
 
-            # সোর্স থেকে ক্রিয়েটর ডিটেইলস বাদ দিয়ে শুধু চ্যানেল প্রসেস করা
-            processed_channels = [PROMO_CHANNEL]  # শুরুতে ১ নম্বরে প্রোমো চ্যানেল
+            # M3U এর জন্য প্রোমো চ্যানেল শুরুতে রেখে চ্যানেল প্রসেস করা
+            m3u_channels = [PROMO_CHANNEL]
             for item in raw_channels:
-                clean_ch = clean_channel_data(item)
-                if clean_ch["url"]:  # যদি স্ট্রীম URL থাকে
-                    processed_channels.append(clean_ch)
+                clean_ch = clean_channel_for_m3u(item)
+                if clean_ch["url"]:
+                    m3u_channels.append(clean_ch)
 
-            # ১. আপনার কাস্টম JSON ফরম্যাট
-            custom_json = {
-                "playlist_name": playlist_name,
-                "developer": DEVELOPER_INFO["developer"],
-                "telegram": DEVELOPER_INFO["telegram"],
-                "website": DEVELOPER_INFO["website"],
-                "channels_amount": len(processed_channels),
-                "last_update": last_update_time,
-                "channels": processed_channels
-            }
-
-            safe_name = playlist_name.lower().replace(" ", "_")
-
-            # সরাসরি রুটে JSON সেভ
-            with open(f"{safe_name}.json", "w", encoding="utf-8") as f:
-                json.dump(custom_json, f, indent=4, ensure_ascii=False)
-
-            # ২. পার্সোনাল ডিটেইলস ও হেডারসহ সরাসরি রুটে M3U সেভ
-            m3u_content = generate_m3u(playlist_name, processed_channels, last_update_time)
+            # M3U ফাইলটি পার্সোনাল ডিটেইলস ও হেডারসহ সরাসরি রুটে সেভ করা
+            m3u_content = generate_m3u(playlist_name, m3u_channels, last_update_time)
             with open(f"{safe_name}.m3u", "w", encoding="utf-8") as f:
                 f.write(m3u_content)
 
-            print(f"Successfully generated: {safe_name}.json & {safe_name}.m3u directly in root.")
+            print(f"Successfully saved original {safe_name}.json and generated {safe_name}.m3u")
 
         except Exception as err:
             print(f"Failed to process {playlist_name}: {err}")
