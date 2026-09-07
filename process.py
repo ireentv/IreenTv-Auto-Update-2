@@ -1,10 +1,11 @@
 import os
 import json
+import time
 import requests
 from datetime import datetime
 import pytz
 
-# প্রোমো চ্যানেল ডেটা (M3U এর একদম শুরুতে ১ নম্বরে থাকবে)
+# প্রোমো চ্যানেল ডেটা (JSON ও M3U উভয়ের ১ নম্বরে যুক্ত হবে)
 PROMO_CHANNEL = {
     "name": "IreenTV Promo",
     "logo": "https://i.ibb.co.com/XkDv6gpS/ireenTV.png",
@@ -13,7 +14,7 @@ PROMO_CHANNEL = {
     "headers": {}
 }
 
-# আপনার পার্সোনাল ডিটেইলস
+# আপনার পার্সোনাল মেটাডেটা
 DEVELOPER_INFO = {
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
@@ -25,11 +26,6 @@ def get_dhaka_time():
     return datetime.now(tz).strftime('%Y-%m-%d %I:%M:%S %p')
 
 def extract_logo(ch):
-    """
-    জেসনে লোগো যে নামেই থাকুক না কেন (logo, tvg-logo, stream_icon, icon ইত্যাদি), 
-    তা সঠিকভাবে খুঁজে বের করা
-    """
-    # ১. সাধারণ কী-গুলোর লিস্ট
     possible_keys = [
         "tvg-logo", "tvg_logo", "tvgLogo", "logo", "logo_url", "logoUrl",
         "stream_icon", "icon", "image", "img", "poster", "thumbnail",
@@ -40,13 +36,11 @@ def extract_logo(ch):
         if val and isinstance(val, str) and val.strip():
             return val.strip()
 
-    # ২. কেস-ইনসেনসিটিভ চেক (যদি কী-এর নাম ছোট-বড় হাতের অক্ষরের হয়)
     for k, v in ch.items():
         k_lower = k.lower().replace("-", "_").strip()
         if any(term in k_lower for term in ["logo", "icon", "poster", "thumb", "image"]):
             if v and isinstance(v, str) and (v.startswith("http://") or v.startswith("https://")):
                 return v.strip()
-                
     return ""
 
 def extract_name(ch):
@@ -75,19 +69,15 @@ def extract_url(ch):
 
 def extract_headers(ch):
     headers = {}
-
-    # যদি অবজেক্ট আকারে থাকে
     raw_headers = ch.get("headers")
     if isinstance(raw_headers, dict):
         for k, v in raw_headers.items():
             if v:
                 headers[k.strip()] = str(v).strip()
 
-    # যদি আলাদা আলাদা ফিল্ড আকারে থাকে
     for key, value in ch.items():
         if not value or not isinstance(value, (str, int)):
             continue
-        
         k_lower = key.lower().replace("-", "_").strip()
         val_str = str(value).strip()
 
@@ -104,15 +94,6 @@ def extract_headers(ch):
 
     return headers
 
-def clean_channel_for_m3u(ch):
-    return {
-        "name": extract_name(ch),
-        "logo": extract_logo(ch),
-        "group": extract_group(ch),
-        "url": extract_url(ch),
-        "headers": extract_headers(ch)
-    }
-
 def generate_m3u(playlist_name, channels, last_update):
     lines = [
         f'#EXTM3U name="{playlist_name}"',
@@ -127,10 +108,17 @@ def generate_m3u(playlist_name, channels, last_update):
     ]
     
     for ch in channels:
-        headers = ch.get("headers", {})
-        
-        # ১. EXTINF লাইন (টিভি লোগো নিখুঁতভাবে বসানো হয়েছে)
-        lines.append(f'#EXTINF:-1 tvg-name="{ch["name"]}" tvg-logo="{ch["logo"]}" group-title="{ch["group"]}",{ch["name"]}')
+        headers = extract_headers(ch)
+        name = extract_name(ch)
+        logo = extract_logo(ch)
+        group = extract_group(ch)
+        url = extract_url(ch)
+
+        if not url:
+            continue
+
+        # ১. EXTINF লাইন (tvg-logo সহ)
+        lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}')
         
         # ২. User-Agent
         if "User-Agent" in headers and headers["User-Agent"]:
@@ -157,7 +145,7 @@ def generate_m3u(playlist_name, channels, last_update):
             lines.append(f'#EXTHTTP:{json.dumps(exthttp_data)}')
             
         # ৬. স্ট্রিম URL
-        lines.append(ch["url"])
+        lines.append(url)
         
     return "\n".join(lines)
 
@@ -175,39 +163,58 @@ def process():
 
     last_update_time = get_dhaka_time()
 
+    # ক্যাশ এড়ানোর জন্য রিকোয়েস্ট হেডার
+    req_headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache",
+        "Expires": "0"
+    }
+
     for playlist_name, source_url in sources.items():
         print(f"Processing: {playlist_name}...")
         try:
-            res = requests.get(source_url, timeout=30)
+            # ক্যাশ বাইপাস করতে টাইমস্ট্যাম্প যোগ করা
+            url_sep = "&" if "?" in source_url else "?"
+            fetch_url = f"{source_url}{url_sep}_t={int(time.time())}"
+
+            res = requests.get(fetch_url, headers=req_headers, timeout=30)
             res.raise_for_status()
-            
-            safe_name = playlist_name.lower().replace(" ", "_")
-
-            # ১. অরিজিনাল সোর্স জেসন সরাসরি রুটে সেভ
-            with open(f"{safe_name}.json", "w", encoding="utf-8") as f:
-                f.write(res.text)
-
-            # ২. JSON ডেটা পার্স করা
             data = res.json()
+            
+            # সোর্সের চ্যানেল লিস্ট বের করা
             raw_channels = []
             if isinstance(data, list):
                 raw_channels = data
             elif isinstance(data, dict):
                 raw_channels = data.get("channels") or data.get("data") or data.get("streams") or []
 
-            # প্রমো চ্যানেল প্রথমে যুক্ত করা
-            m3u_channels = [PROMO_CHANNEL]
-            for item in raw_channels:
-                clean_ch = clean_channel_for_m3u(item)
-                if clean_ch["url"]:
-                    m3u_channels.append(clean_ch)
+            # সোর্সের চ্যানেলগুলোর সব ডেটা অপরিবর্তিত রেখে ১ নম্বরে প্রোমো চ্যানেল যোগ
+            all_channels = [PROMO_CHANNEL] + raw_channels
 
-            # ৩. লোগোসহ M3U ফাইল রুটে সেভ
-            m3u_content = generate_m3u(playlist_name, m3u_channels, last_update_time)
+            # ১. কাস্টম ডিটেইলস ও ফ্রেশ টাইমস্ট্যাম্পসহ JSON প্লেলিস্ট তৈরি
+            final_json = {
+                "playlist_name": playlist_name,
+                "developer": DEVELOPER_INFO["developer"],
+                "telegram": DEVELOPER_INFO["telegram"],
+                "website": DEVELOPER_INFO["website"],
+                "channels_amount": len(all_channels),
+                "last_update": last_update_time,
+                "channels": all_channels
+            }
+
+            safe_name = playlist_name.lower().replace(" ", "_")
+
+            # সরাসরি রুটে JSON ফাইল সেভ
+            with open(f"{safe_name}.json", "w", encoding="utf-8") as f:
+                json.dump(final_json, f, indent=4, ensure_ascii=False)
+
+            # ২. M3U ফাইল তৈরি এবং রুটে সেভ
+            m3u_content = generate_m3u(playlist_name, all_channels, last_update_time)
             with open(f"{safe_name}.m3u", "w", encoding="utf-8") as f:
                 f.write(m3u_content)
 
-            print(f"Done: {safe_name}.json & {safe_name}.m3u saved with TV Logo.")
+            print(f"Updated successfully: {safe_name}.json and {safe_name}.m3u")
 
         except Exception as err:
             print(f"Failed to process {playlist_name}: {err}")
