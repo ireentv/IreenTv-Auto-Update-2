@@ -5,35 +5,14 @@
 # Website: https://anamul.pages.dev
 # Developer: MD ANAMUL HOQUE
 # Version: 1.0
-# Channels Amount: 13
-# Last Update: 2026-09-06 05:49:39 PM
+# Channels Amount: 6
+# Last Update: 2026-09-07 02:11:51 AM
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788572513540x302.jpg" tvg-name="Men's & Women's Singles" status="Live",Men's & Women's Singles
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788570280540x302.jpg" tvg-name="Barbados Tridents vs St Lucia Kings" status="Live",Barbados Tridents vs St Lucia Kings
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788572574540x302.jpg" tvg-name="Men's & Women's Singles" status="Live",Men's & Women's Singles
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530587540x302.jpg" tvg-name="Alaves vs Osasuna" status="Live",Alaves vs Osasuna
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530657540x302.jpg" tvg-name="Malaga vs Levante" status="Live",Malaga vs Levante
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788528834540x302.jpg" tvg-name="Scootering Men Final - Central Plaza Live" status="Live",Scootering Men Final - Central Plaza Live
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788571269540x302.jpg" tvg-name="Guyana Amazon Warriors Women vs Jamaica Empress Women" status="Live",Guyana Amazon Warriors Women vs Jamaica Empress Women
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788569719540x302.jpg" tvg-name="Guyana Amazon Warriors vs St Kitts and Nevis Patriots" status="Upcoming",Guyana Amazon Warriors vs St Kitts and Nevis Patriots
-https://upcoming-match-no-stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530786540x302.jpg" tvg-name="Espanyol vs Sevilla" status="Upcoming",Espanyol vs Sevilla
-https://upcoming-match-no-stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788570280540x302.jpg" tvg-name="Barbados Tridents vs St Lucia Kings" status="Upcoming",Barbados Tridents vs St Lucia Kings
-https://upcoming-match-no-stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788572574540x302.jpg" tvg-name="Men's & Women's Singles" status="Upcoming",Men's & Women's Singles
-https://upcoming-match-no-stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788572632540x302.jpg" tvg-name="Men's & Women's Singles" status="Upcoming",Men's & Women's Singles
 https://upcoming-match-no-stream.m3u8

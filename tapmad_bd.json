@@ -6,80 +6,24 @@
   "developer": "MD ANAMUL HOQUE",
   "version": "1.0",
   "name": "tapmad_bd",
-  "channels_amount": 13,
-  "Last_update": "2026-09-06 05:49:39 PM",
+  "channels_amount": 6,
+  "Last_update": "2026-09-07 02:11:51 AM",
   "channels": [
-    {
-      "name": "Men's & Women's Singles",
-      "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788572513540x302.jpg",
-      "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
-      "group": "General",
-      "url_raw": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
-      "status": "Live"
-    },
-    {
-      "name": "Alaves vs Osasuna",
-      "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530587540x302.jpg",
-      "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8",
-      "group": "General",
-      "url_raw": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8",
-      "status": "Live"
-    },
-    {
-      "name": "Malaga vs Levante",
-      "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530657540x302.jpg",
-      "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-      "group": "General",
-      "url_raw": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8",
-      "status": "Live"
-    },
-    {
-      "name": "Scootering Men Final - Central Plaza Live",
-      "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788528834540x302.jpg",
-      "url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-      "group": "General",
-      "url_raw": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-      "status": "Live"
-    },
-    {
-      "name": "Guyana Amazon Warriors Women vs Jamaica Empress Women",
-      "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788571269540x302.jpg",
-      "url": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-      "group": "General",
-      "url_raw": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-      "status": "Live"
-    },
-    {
-      "name": "Guyana Amazon Warriors vs St Kitts and Nevis Patriots",
-      "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788569719540x302.jpg",
-      "url": "https://upcoming-match-no-stream.m3u8",
-      "group": "General",
-      "url_raw": "https://upcoming-match-no-stream.m3u8",
-      "status": "Upcoming"
-    },
-    {
-      "name": "Espanyol vs Sevilla",
-      "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788530786540x302.jpg",
-      "url": "https://upcoming-match-no-stream.m3u8",
-      "group": "General",
-      "url_raw": "https://upcoming-match-no-stream.m3u8",
-      "status": "Upcoming"
-    },
     {
       "name": "Barbados Tridents vs St Lucia Kings",
       "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788570280540x302.jpg",
-      "url": "https://upcoming-match-no-stream.m3u8",
+      "url": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
       "group": "General",
-      "url_raw": "https://upcoming-match-no-stream.m3u8",
-      "status": "Upcoming"
+      "url_raw": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
+      "status": "Live"
     },
     {
       "name": "Men's & Women's Singles",
       "logo": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1788572574540x302.jpg",
-      "url": "https://upcoming-match-no-stream.m3u8",
+      "url": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
       "group": "General",
-      "url_raw": "https://upcoming-match-no-stream.m3u8",
-      "status": "Upcoming"
+      "url_raw": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8",
+      "status": "Live"
     },
     {
       "name": "Men's & Women's Singles",
