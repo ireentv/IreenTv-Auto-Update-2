@@ -19,7 +19,7 @@
   <a href="https://anamul.pages.dev">
     <img src="https://img.shields.io/badge/Developer-MD_ANAMUL_HOQUE-6C5CE7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://ireentvlive.pages.dev">
+  <a href="https://ireentvhd.pages.dev">
     <img src="https://img.shields.io/badge/Live_Portal-IreenTV-FD79A8?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </p>
@@ -77,22 +77,8 @@
 
 ---
 
-## 🚀 সিক্রেট কনফিগারেশন (`SOURCE_PLAYLISTS`)
 
-আপনার GitHub Repository-তে যান ➔ **Settings** ➔ **Secrets and variables** ➔ **Actions** ➔ **New repository secret**
 
-- **Name:** `SOURCE_PLAYLISTS`
-- **Secret:** নিচের মতো করে আপনার সোর্স JSON এবং M3U প্লেলিস্টের লিংকগুলো বসিয়ে দিন:
-
-```json
-{
-  "Bangla Live TV": "https://example.com/source_bangla.json",
-  "Sports HD": "https://example.com/sports_ott.m3u",
-  "World Entertainment": "https://example.com/entertainment.m3u8",
-  "News 24x7": "https://raw.githubusercontent.com/username/repo/main/news.json"
-}
-
-```
 📱 সাপোর্টেড প্লেয়ার ও প্ল্যাটফর্ম
 <div align="center">
 <img src="https://img.shields.io/badge/TiviMate-Supported-0984E3?style=for-the-badge&logo=android&logoColor=white"/>
