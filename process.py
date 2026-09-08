@@ -63,7 +63,7 @@ def extract_group(ch):
     return "General"
 
 def extract_url(ch):
-    possible_keys = ["url", "stream_url", "link", "stream_link", "streamUrl", "src"]
+    possible_keys = ["url", "stream_url", "link", "stream_link", "streamUrl", "src", "mpd_url", "manifest_url"]
     for key in possible_keys:
         val = ch.get(key)
         if val and isinstance(val, str) and val.strip():
@@ -72,53 +72,81 @@ def extract_url(ch):
 
 def extract_headers(ch):
     headers = {}
+    
+    # ১. headers ডিকশনারি থাকলে তা রিড করা
     raw_headers = ch.get("headers")
     if isinstance(raw_headers, dict):
         for k, v in raw_headers.items():
             if v:
                 headers[k.strip()] = str(v).strip()
 
+    # ২. ফ্ল্যাট কি-ওয়ার্ড যেমন "user_agent", "referer", "cookie", "origin" চেক করা
     for key, value in ch.items():
         if not value or not isinstance(value, (str, int)):
             continue
         k_lower = key.lower().replace("-", "_").strip()
         val_str = str(value).strip()
 
-        if k_lower in ["user_agent", "useragent", "http_user_agent"]:
+        if k_lower in ["user_agent", "useragent", "http_user_agent", "user-agent"]:
             headers["User-Agent"] = val_str
-        elif k_lower in ["referer", "referrer", "http_referrer"]:
+        elif k_lower in ["referer", "referrer", "http_referrer", "http-referrer"]:
             headers["Referer"] = val_str
-        elif k_lower in ["cookie", "http_cookie"]:
+        elif k_lower in ["cookie", "http_cookie", "http-cookie"]:
             headers["Cookie"] = val_str
-        elif k_lower in ["origin", "http_origin"]:
+        elif k_lower in ["origin", "http_origin", "http-origin"]:
             headers["Origin"] = val_str
-        elif k_lower in ["authorization", "auth"]:
+        elif k_lower in ["authorization", "auth", "token"]:
             headers["Authorization"] = val_str
 
     return headers
 
 def extract_drm(ch):
-    """DRM / ClearKey ডেটা বের করার ফাংশন"""
+    """JSON সোর্সের সব ধরণের ClearKey / DRM ফরম্যাট সাপোর্ট করবে"""
     drm = {}
+    
+    # drm ডিকশনারি থাকলে
     if isinstance(ch.get("drm"), dict):
         drm.update(ch.get("drm"))
-    
-    # JSON সোর্সে থাকা সম্ভাব্য Clear Key কি-ওয়ার্ড
-    for k in ["clearkey", "clear_key", "license_key", "key", "key_id", "license_type"]:
-        if k in ch and ch[k]:
-            drm[k] = ch[k]
-            
+        
+    # clearkey ডিকশনারি থাকলে
+    if isinstance(ch.get("clearkey"), dict):
+        ck = ch.get("clearkey")
+        if "key_id" in ck and "key" in ck:
+            drm["license_key"] = f"{ck['key_id']}:{ck['key']}"
+            drm["license_type"] = "clearkey"
+        elif "keyId" in ck and "key" in ck:
+            drm["license_key"] = f"{ck['keyId']}:{ck['key']}"
+            drm["license_type"] = "clearkey"
+
+    # ফ্ল্যাট Clear Key ফরম্যাট: "key_id" এবং "key"
+    key_id = ch.get("key_id") or ch.get("keyId") or ch.get("kid")
+    key_val = ch.get("key") or ch.get("k")
+    if key_id and key_val:
+        drm["license_key"] = f"{str(key_id).strip()}:{str(key_val).strip()}"
+        drm["license_type"] = "clearkey"
+
+    # ফ্ল্যাট ক্লিয়ারকি স্ট্রিং: "license_key" / "clearkey"
+    for k in ["clearkey", "clear_key", "license_key", "licenseKey"]:
+        if k in ch and isinstance(ch[k], str) and ch[k].strip():
+            drm["license_key"] = ch[k].strip()
+            if "license_type" not in drm:
+                drm["license_type"] = "clearkey"
+
+    # license_type থাকলে
+    if "license_type" in ch and isinstance(ch["license_type"], str):
+        drm["license_type"] = ch["license_type"].strip()
+
     return drm
 
 def extract_kodi_props(ch):
-    """Kodi Props ডেটা বের করার ফাংশন"""
+    """Kodi Properties রিড করা"""
     kodi_props = {}
     if isinstance(ch.get("kodi_props"), dict):
         kodi_props.update(ch.get("kodi_props"))
     return kodi_props
 
 # ========================================================
-# M3U প্লেলিস্ট পার্সার (OTT Headers & ClearKey DRM সহ)
+# M3U পার্সার (সোর্স M3U হলে তা JSON এ কনভার্ট করার জন্য)
 # ========================================================
 def parse_m3u_content(text):
     channels = []
@@ -134,7 +162,6 @@ def parse_m3u_content(text):
         if not line:
             continue
 
-        # ১. EXTINF লাইন থেকে চ্যানেলের মেটাডেটা নেওয়া
         if line.startswith("#EXTINF:"):
             current_channel = {}
             temp_headers = {}
@@ -154,7 +181,6 @@ def parse_m3u_content(text):
             current_channel["logo"] = logo_match.group(1) if logo_match else ""
             current_channel["group"] = group_match.group(1) if group_match else "General"
 
-        # ২. Kodi Props / DRM / ClearKey রিড করা
         elif line.startswith("#KODIPROP:"):
             prop_data = line.replace("#KODIPROP:", "").strip()
             if "=" in prop_data:
@@ -163,7 +189,6 @@ def parse_m3u_content(text):
                 v = v.strip()
                 temp_kodi_props[k] = v
                 
-                # ClearKey ও DRM ফিল্টার করে DRM অবজেক্টে সেভ
                 if "license_key" in k.lower() or "clearkey" in k.lower():
                     temp_drm["license_key"] = v
                 elif "license_type" in k.lower():
@@ -171,7 +196,6 @@ def parse_m3u_content(text):
                 elif "manifest_type" in k.lower():
                     temp_drm["manifest_type"] = v
 
-        # ৩. EXTVLCOPT হেডারস
         elif line.startswith("#EXTVLCOPT:"):
             vlc_opt = line.replace("#EXTVLCOPT:", "").strip()
             if "=" in vlc_opt:
@@ -184,7 +208,6 @@ def parse_m3u_content(text):
                 elif k_lower in ["http-cookie", "cookie"]:
                     temp_headers["Cookie"] = v.strip()
 
-        # ৪. EXTHTTP (JSON হেডার্স যেমন: Origin, Authorization ইত্যাদি)
         elif line.startswith("#EXTHTTP:"):
             raw_exthttp = line.replace("#EXTHTTP:", "").strip()
             try:
@@ -194,7 +217,6 @@ def parse_m3u_content(text):
             except Exception:
                 pass
 
-        # ৫. স্ট্রিম URL (Pipe হেডার থাকলে তা সহ আলাদা করা)
         elif not line.startswith("#"):
             url_part = line
             if "|" in line:
@@ -215,8 +237,6 @@ def parse_m3u_content(text):
                     current_channel["kodi_props"] = temp_kodi_props
                 
                 channels.append(current_channel)
-                
-                # রিসেট
                 current_channel = {}
                 temp_headers = {}
                 temp_kodi_props = {}
@@ -238,7 +258,7 @@ def parse_m3u_content(text):
     return channels
 
 # ========================================================
-# M3U জেনারেটর (DRM/ClearKey ও সমস্ত হেডার সহ)
+# M3U জেনারেটর (JSON ও M3U উভয়ের OTT/DRM/ClearKey সাপোর্ট)
 # ========================================================
 def generate_m3u(playlist_name, channels, last_update):
     lines = [
@@ -268,19 +288,27 @@ def generate_m3u(playlist_name, channels, last_update):
         # ১. EXTINF লাইন
         lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}')
         
-        # ২. Kodi Props / ClearKey DRM যুক্ত করা
+        # ২. Kodi Props / DRM / ClearKey যুক্ত করা
+        has_kodi_license = False
         if kodi_props:
             for kp_k, kp_v in kodi_props.items():
                 lines.append(f'#KODIPROP:{kp_k}={kp_v}')
-        elif drm:
-            # DRM ডিকশনারি থাকলে Kodi ফরম্যাটে আউটপুট দেওয়া
-            if "license_type" in drm:
-                lines.append(f'#KODIPROP:inputstream.adaptive.license_type={drm["license_type"]}')
-            if "license_key" in drm:
-                lines.append(f'#KODIPROP:inputstream.adaptive.license_key={drm["license_key"]}')
-            elif "key" in drm and "key_id" in drm:
-                lines.append(f'#KODIPROP:inputstream.adaptive.license_type=clearkey')
-                lines.append(f'#KODIPROP:inputstream.adaptive.license_key={drm["key_id"]}:{drm["key"]}')
+                if "license_key" in kp_k:
+                    has_kodi_license = True
+        
+        # যদি kodi_props এ সরাসরি না থাকে কিন্তু drm / clearkey ডিকশনারি থাকে:
+        if not has_kodi_license and drm:
+            lic_type = drm.get("license_type", "clearkey")
+            lic_key = drm.get("license_key") or drm.get("key") or (f"{drm.get('key_id')}:{drm.get('key')}" if "key_id" in drm and "key" in drm else None)
+
+            if ".mpd" in url.lower() and "inputstream.adaptive.manifest_type" not in kodi_props:
+                lines.append('#KODIPROP:inputstream=inputstream.adaptive')
+                lines.append('#KODIPROP:inputstream.adaptive.manifest_type=mpd')
+
+            if lic_type:
+                lines.append(f'#KODIPROP:inputstream.adaptive.license_type={lic_type}')
+            if lic_key:
+                lines.append(f'#KODIPROP:inputstream.adaptive.license_key={lic_key}')
 
         # ৩. User-Agent
         if "User-Agent" in headers and headers["User-Agent"]:
@@ -294,7 +322,7 @@ def generate_m3u(playlist_name, channels, last_update):
         if "Cookie" in headers and headers["Cookie"]:
             lines.append(f'#EXTVLCOPT:http-cookie={headers["Cookie"]}')
             
-        # ৬. EXTHTTP (Origin, Auth ও অন্যান্য কাস্টম হেডার)
+        # ৬. EXTHTTP (Origin, Authorization ও অন্যান্য কাস্টম হেডার)
         exthttp_data = {}
         if "Origin" in headers and headers["Origin"]:
             exthttp_data["Origin"] = headers["Origin"]
@@ -344,14 +372,14 @@ def process():
             
             raw_channels = []
 
-            # সোর্সটি M3U নাকি JSON তা শনাক্ত করা
+            # সোর্সটি M3U নাকি JSON তা অটো-ডিটেক্ট করা
             if content_text.startswith("#EXTM3U") or content_text.startswith("#EXTINF") or ".m3u" in source_url.lower():
-                print(f"-> Detected M3U Playlist. Parsing OTT Headers & ClearKeys...")
+                print(f"-> Detected M3U Source. Converting to JSON & M3U...")
                 raw_channels = parse_m3u_content(content_text)
             else:
                 try:
                     data = res.json()
-                    print(f"-> Detected JSON Playlist.")
+                    print(f"-> Detected JSON Source. Preserving OTT DRM/Headers & Converting to M3U...")
                     if isinstance(data, list):
                         raw_channels = data
                     elif isinstance(data, dict):
@@ -360,10 +388,10 @@ def process():
                     print(f"-> Fallback to M3U Parser...")
                     raw_channels = parse_m3u_content(content_text)
 
-            # ১ নম্বরে প্রোমো চ্যানেল যোগ
+            # সোর্সের চ্যানেলগুলোর সাথে ১ নম্বরে প্রোমো চ্যানেল যোগ করা
             all_channels = [PROMO_CHANNEL] + raw_channels
 
-            # কাস্টম ডিটেইলস ও হেডারসহ JSON প্লেলিস্ট তৈরি
+            # কাস্টম মেটাডেটা সহ সম্পূর্ণ JSON প্লেলিস্ট তৈরি (অরিজিনাল সব ফিল্ড সুরক্ষিত থাকবে)
             final_json = {
                 "playlist_name": playlist_name,
                 "developer": DEVELOPER_INFO["developer"],
@@ -376,11 +404,11 @@ def process():
 
             safe_name = playlist_name.lower().replace(" ", "_")
 
-            # ১. রুট ডিরেক্টরিতে JSON ফাইল সেভ
+            # ১. রুট ফোল্ডারে JSON ফাইল সেভ
             with open(f"{safe_name}.json", "w", encoding="utf-8") as f:
                 json.dump(final_json, f, indent=4, ensure_ascii=False)
 
-            # ২. রুট ডিরেক্টরিতে M3U ফাইল সেভ
+            # ২. রুট ফোল্ডারে M3U ফাইল সেভ (KODIPROP, EXTVLCOPT সহ)
             m3u_content = generate_m3u(playlist_name, all_channels, last_update_time)
             with open(f"{safe_name}.m3u", "w", encoding="utf-8") as f:
                 f.write(m3u_content)
