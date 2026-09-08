@@ -12,7 +12,9 @@ PROMO_CHANNEL = {
     "logo": "https://i.ibb.co.com/XkDv6gpS/ireenTV.png",
     "group": "Bangla",
     "url": "https://ireentvlive.pages.dev/promo/master.m3u8",
-    "headers": {}
+    "headers": {},
+    "drm": {},
+    "kodi_props": {}
 }
 
 # আপনার পার্সোনাল মেটাডেটা
@@ -95,38 +97,81 @@ def extract_headers(ch):
 
     return headers
 
-# M3U কনটেন্ট পার্স করে চ্যানেলের লিস্ট বের করার ফাংশন
+def extract_drm(ch):
+    """DRM / ClearKey ডেটা বের করার ফাংশন"""
+    drm = {}
+    if isinstance(ch.get("drm"), dict):
+        drm.update(ch.get("drm"))
+    
+    # JSON সোর্সে থাকা সম্ভাব্য Clear Key কি-ওয়ার্ড
+    for k in ["clearkey", "clear_key", "license_key", "key", "key_id", "license_type"]:
+        if k in ch and ch[k]:
+            drm[k] = ch[k]
+            
+    return drm
+
+def extract_kodi_props(ch):
+    """Kodi Props ডেটা বের করার ফাংশন"""
+    kodi_props = {}
+    if isinstance(ch.get("kodi_props"), dict):
+        kodi_props.update(ch.get("kodi_props"))
+    return kodi_props
+
+# ========================================================
+# M3U প্লেলিস্ট পার্সার (OTT Headers & ClearKey DRM সহ)
+# ========================================================
 def parse_m3u_content(text):
     channels = []
     lines = text.strip().splitlines()
     
     current_channel = {}
     temp_headers = {}
+    temp_kodi_props = {}
+    temp_drm = {}
 
     for line in lines:
         line = line.strip()
         if not line:
             continue
 
+        # ১. EXTINF লাইন থেকে চ্যানেলের মেটাডেটা নেওয়া
         if line.startswith("#EXTINF:"):
             current_channel = {}
             temp_headers = {}
+            temp_kodi_props = {}
+            temp_drm = {}
 
-            # tvg-name
             name_match = re.search(r'tvg-name="([^"]*)"', line, re.IGNORECASE)
-            # tvg-logo
             logo_match = re.search(r'tvg-logo="([^"]*)"', line, re.IGNORECASE)
-            # group-title
             group_match = re.search(r'group-title="([^"]*)"', line, re.IGNORECASE)
+            tvg_id_match = re.search(r'tvg-id="([^"]*)"', line, re.IGNORECASE)
 
-            # কমা (,) এর পরের অংশ নাম হিসেবে নেওয়া
             title = line.split(",")[-1].strip() if "," in line else ""
-
             ch_name = name_match.group(1) if name_match else (title if title else "Unnamed Channel")
+            
             current_channel["name"] = ch_name
+            current_channel["tvg_id"] = tvg_id_match.group(1) if tvg_id_match else ""
             current_channel["logo"] = logo_match.group(1) if logo_match else ""
             current_channel["group"] = group_match.group(1) if group_match else "General"
 
+        # ২. Kodi Props / DRM / ClearKey রিড করা
+        elif line.startswith("#KODIPROP:"):
+            prop_data = line.replace("#KODIPROP:", "").strip()
+            if "=" in prop_data:
+                k, v = prop_data.split("=", 1)
+                k = k.strip()
+                v = v.strip()
+                temp_kodi_props[k] = v
+                
+                # ClearKey ও DRM ফিল্টার করে DRM অবজেক্টে সেভ
+                if "license_key" in k.lower() or "clearkey" in k.lower():
+                    temp_drm["license_key"] = v
+                elif "license_type" in k.lower():
+                    temp_drm["license_type"] = v
+                elif "manifest_type" in k.lower():
+                    temp_drm["manifest_type"] = v
+
+        # ৩. EXTVLCOPT হেডারস
         elif line.startswith("#EXTVLCOPT:"):
             vlc_opt = line.replace("#EXTVLCOPT:", "").strip()
             if "=" in vlc_opt:
@@ -139,6 +184,7 @@ def parse_m3u_content(text):
                 elif k_lower in ["http-cookie", "cookie"]:
                     temp_headers["Cookie"] = v.strip()
 
+        # ৪. EXTHTTP (JSON হেডার্স যেমন: Origin, Authorization ইত্যাদি)
         elif line.startswith("#EXTHTTP:"):
             raw_exthttp = line.replace("#EXTHTTP:", "").strip()
             try:
@@ -148,15 +194,14 @@ def parse_m3u_content(text):
             except Exception:
                 pass
 
+        # ৫. স্ট্রিম URL (Pipe হেডার থাকলে তা সহ আলাদা করা)
         elif not line.startswith("#"):
-            # এটি চ্যানেল লিংক / URL
-            # অনেক সময় লিংকের সাথে পাইপ (|) দিয়ে হেডার দেওয়া থাকে
             url_part = line
             if "|" in line:
                 parts = line.split("|", 1)
                 url_part = parts[0].strip()
-                header_params = parts[1].split("&")
-                for param in header_params:
+                pipe_params = parts[1].split("&")
+                for param in pipe_params:
                     if "=" in param:
                         hk, hv = param.split("=", 1)
                         temp_headers[hk.strip()] = hv.strip()
@@ -164,22 +209,37 @@ def parse_m3u_content(text):
             if current_channel:
                 current_channel["url"] = url_part
                 current_channel["headers"] = temp_headers
+                if temp_drm:
+                    current_channel["drm"] = temp_drm
+                if temp_kodi_props:
+                    current_channel["kodi_props"] = temp_kodi_props
+                
                 channels.append(current_channel)
+                
+                # রিসেট
                 current_channel = {}
                 temp_headers = {}
+                temp_kodi_props = {}
+                temp_drm = {}
             else:
-                # যদি EXTINF ছাড়াও কোনো ডিরেক্ট URL থাকে
                 channels.append({
                     "name": "Unnamed Channel",
                     "logo": "",
                     "group": "General",
                     "url": url_part,
-                    "headers": temp_headers
+                    "headers": temp_headers,
+                    "drm": temp_drm,
+                    "kodi_props": temp_kodi_props
                 })
                 temp_headers = {}
+                temp_kodi_props = {}
+                temp_drm = {}
 
     return channels
 
+# ========================================================
+# M3U জেনারেটর (DRM/ClearKey ও সমস্ত হেডার সহ)
+# ========================================================
 def generate_m3u(playlist_name, channels, last_update):
     lines = [
         f'#EXTM3U name="{playlist_name}"',
@@ -195,6 +255,8 @@ def generate_m3u(playlist_name, channels, last_update):
     
     for ch in channels:
         headers = extract_headers(ch)
+        drm = extract_drm(ch)
+        kodi_props = extract_kodi_props(ch)
         name = extract_name(ch)
         logo = extract_logo(ch)
         group = extract_group(ch)
@@ -206,19 +268,33 @@ def generate_m3u(playlist_name, channels, last_update):
         # ১. EXTINF লাইন
         lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}')
         
-        # ২. User-Agent
+        # ২. Kodi Props / ClearKey DRM যুক্ত করা
+        if kodi_props:
+            for kp_k, kp_v in kodi_props.items():
+                lines.append(f'#KODIPROP:{kp_k}={kp_v}')
+        elif drm:
+            # DRM ডিকশনারি থাকলে Kodi ফরম্যাটে আউটপুট দেওয়া
+            if "license_type" in drm:
+                lines.append(f'#KODIPROP:inputstream.adaptive.license_type={drm["license_type"]}')
+            if "license_key" in drm:
+                lines.append(f'#KODIPROP:inputstream.adaptive.license_key={drm["license_key"]}')
+            elif "key" in drm and "key_id" in drm:
+                lines.append(f'#KODIPROP:inputstream.adaptive.license_type=clearkey')
+                lines.append(f'#KODIPROP:inputstream.adaptive.license_key={drm["key_id"]}:{drm["key"]}')
+
+        # ৩. User-Agent
         if "User-Agent" in headers and headers["User-Agent"]:
             lines.append(f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}')
             
-        # ৩. Referer
+        # ৪. Referer
         if "Referer" in headers and headers["Referer"]:
             lines.append(f'#EXTVLCOPT:http-referrer={headers["Referer"]}')
             
-        # ৪. Cookie
+        # ৫. Cookie
         if "Cookie" in headers and headers["Cookie"]:
             lines.append(f'#EXTVLCOPT:http-cookie={headers["Cookie"]}')
             
-        # ৫. EXTHTTP (Origin ও অন্যান্য কাস্টম হেডার)
+        # ৬. EXTHTTP (Origin, Auth ও অন্যান্য কাস্টম হেডার)
         exthttp_data = {}
         if "Origin" in headers and headers["Origin"]:
             exthttp_data["Origin"] = headers["Origin"]
@@ -230,7 +306,7 @@ def generate_m3u(playlist_name, channels, last_update):
         if exthttp_data:
             lines.append(f'#EXTHTTP:{json.dumps(exthttp_data)}')
             
-        # ৬. স্ট্রিম URL
+        # ৭. স্ট্রিম URL
         lines.append(url)
         
     return "\n".join(lines)
@@ -249,7 +325,6 @@ def process():
 
     last_update_time = get_dhaka_time()
 
-    # ক্যাশ এড়ানোর জন্য রিকোয়েস্ট হেডার
     req_headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
         "Cache-Control": "no-cache, no-store, must-revalidate",
@@ -260,7 +335,6 @@ def process():
     for playlist_name, source_url in sources.items():
         print(f"Processing: {playlist_name}...")
         try:
-            # ক্যাশ বাইপাস করতে টাইমস্ট্যাম্প যোগ করা
             url_sep = "&" if "?" in source_url else "?"
             fetch_url = f"{source_url}{url_sep}_t={int(time.time())}"
 
@@ -270,27 +344,26 @@ def process():
             
             raw_channels = []
 
-            # অটো ডিটেকশন: সোর্সটি কি JSON নাকি M3U?
+            # সোর্সটি M3U নাকি JSON তা শনাক্ত করা
             if content_text.startswith("#EXTM3U") or content_text.startswith("#EXTINF") or ".m3u" in source_url.lower():
-                print(f"Detected format: M3U playlist for '{playlist_name}'")
+                print(f"-> Detected M3U Playlist. Parsing OTT Headers & ClearKeys...")
                 raw_channels = parse_m3u_content(content_text)
             else:
                 try:
                     data = res.json()
-                    print(f"Detected format: JSON playlist for '{playlist_name}'")
+                    print(f"-> Detected JSON Playlist.")
                     if isinstance(data, list):
                         raw_channels = data
                     elif isinstance(data, dict):
                         raw_channels = data.get("channels") or data.get("data") or data.get("streams") or []
                 except Exception:
-                    # যদি JSON হিসেবে পার্স না হয় তবে M3U হিসেবে চেষ্টা করবে
-                    print(f"Fallback format: Parsing as M3U for '{playlist_name}'")
+                    print(f"-> Fallback to M3U Parser...")
                     raw_channels = parse_m3u_content(content_text)
 
-            # সোর্সের চ্যানেলগুলোর সব ডেটা অপরিবর্তিত রেখে ১ নম্বরে প্রোমো চ্যানেল যোগ
+            # ১ নম্বরে প্রোমো চ্যানেল যোগ
             all_channels = [PROMO_CHANNEL] + raw_channels
 
-            # ১. কাস্টম ডিটেইলস ও ফ্রেশ টাইমস্ট্যাম্পসহ JSON প্লেলিস্ট তৈরি
+            # কাস্টম ডিটেইলস ও হেডারসহ JSON প্লেলিস্ট তৈরি
             final_json = {
                 "playlist_name": playlist_name,
                 "developer": DEVELOPER_INFO["developer"],
@@ -303,16 +376,16 @@ def process():
 
             safe_name = playlist_name.lower().replace(" ", "_")
 
-            # সরাসরি রুটে JSON ফাইল সেভ
+            # ১. রুট ডিরেক্টরিতে JSON ফাইল সেভ
             with open(f"{safe_name}.json", "w", encoding="utf-8") as f:
                 json.dump(final_json, f, indent=4, ensure_ascii=False)
 
-            # ২. M3U ফাইল তৈরি এবং রুটে সেভ
+            # ২. রুট ডিরেক্টরিতে M3U ফাইল সেভ
             m3u_content = generate_m3u(playlist_name, all_channels, last_update_time)
             with open(f"{safe_name}.m3u", "w", encoding="utf-8") as f:
                 f.write(m3u_content)
 
-            print(f"Updated successfully: {safe_name}.json and {safe_name}.m3u (Total: {len(all_channels)} channels)")
+            print(f"✓ Saved: {safe_name}.json and {safe_name}.m3u (Total: {len(all_channels)} Channels)")
 
         except Exception as err:
             print(f"Failed to process {playlist_name}: {err}")
