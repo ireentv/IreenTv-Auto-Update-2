@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 353,
-    "last_update": "2026-09-09 01:14:32 PM",
+    "channels_amount": 350,
+    "last_update": "2026-09-09 06:50:57 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -165,6 +165,14 @@
             "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/DBC_News_HD.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Independent TV",
+            "tvg_id": "Combined_M3U_20_aHR0cHM6",
+            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Independent_TV.m3u8",
             "headers": {}
         },
         {
@@ -352,14 +360,6 @@
             "headers": {}
         },
         {
-            "name": "Green tv",
-            "tvg_id": "Combined_M3U_46_aHR0cHM6",
-            "logo": "https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Green_tv.m3u8",
-            "headers": {}
-        },
-        {
             "name": "NAGORIK TV HD",
             "tvg_id": "Combined_M3U_47_aHR0cHM6",
             "logo": "https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png",
@@ -425,14 +425,6 @@
         },
         {
             "name": "MAASRANGA HD",
-            "tvg_id": "Combined_M3U_57_aHR0cHM6",
-            "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/MAASRANGA_HD.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MAASRANGA HD",
             "tvg_id": "Combined_M3U_58_aHR0cDov",
             "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png",
             "group": "Bangla",
@@ -469,6 +461,14 @@
             "logo": "https://otapp.store/uploads/tv_image/sm/my-tv.png",
             "group": "BANGLA",
             "url": "https://ireentv.pages.dev/My_TV.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "NEXUS TV",
+            "tvg_id": "Combined_M3U_63_aHR0cHM6",
+            "logo": "https://assets-prod.services.toffeelive.com/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/NEXUS_TV.m3u8",
             "headers": {}
         },
         {
@@ -570,14 +570,6 @@
         {
             "name": "Bangla TV",
             "tvg_id": "Combined_M3U_77_aHR0cHM6",
-            "logo": "https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Bangla_TV.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Bangla TV",
-            "tvg_id": "Combined_M3U_78_aHR0cHM6",
             "logo": "https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Bangla_TV.m3u8",
@@ -752,14 +744,6 @@
             "headers": {}
         },
         {
-            "name": "Ayna TV",
-            "tvg_id": "Combined_M3U_103_aHR0cHM6",
-            "logo": "https://i.ibb.co.com/5hy7S3wB/Ayna-TV.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Ayna_TV.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Global TV",
             "tvg_id": "Combined_M3U_104_aHR0cHM6",
             "logo": "https://i.ibb.co.com/Q7Q7X64N/Global-TV.png",
@@ -917,14 +901,6 @@
             "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ABK7g4ZwY1Kre_fjEa2ItzSVcUFWhf6856ogWQEhbLS6I6Zrwfa40ctvKHFiv9d63aoJOekbffCjcdMXipWT2QWAHOUWgpgyk0Agodv-MwUqAvP57w92iu8nXQlViVICM6R98H5L0q-Wor0lf1umABAiveSXg6pYYegAJNsucF4SXwmv1j9b8BtWOA/s1080/1000060521.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/JaTV.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Bengali Beats",
-            "tvg_id": "Combined_M3U_125_aHR0cHM6",
-            "logo": "https://i.ibb.co.com/jPCD1N8z/Bengali-Beats.png",
-            "group": "Bangla Music",
-            "url": "https://ireentv.pages.dev/Bengali_Beats.m3u8",
             "headers": {}
         },
         {
@@ -1541,14 +1517,6 @@
             "logo": "https://iptvx.one/picons/bridge-tv-ruxit.png",
             "group": "Music",
             "url": "https://ireentv.pages.dev/Bridge__nt.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "KpopTV Play",
-            "tvg_id": "Combined_M3U_255_aHR0cHM6",
-            "logo": "https://i.imgur.com/Tf0vweF.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/KpopTV_Play.m3u8",
             "headers": {}
         },
         {
@@ -2605,6 +2573,14 @@
             "logo": "https://i.imgur.com/ubZMeQv.jpg",
             "group": "Kids",
             "url": "https://ireentv.pages.dev/PBS_Kids.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "ZB Cartoon",
+            "tvg_id": "Combined_M3U_424_aHR0cHM6",
+            "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
+            "group": "Kids",
+            "url": "https://ireentv.pages.dev/ZB_Cartoon.m3u8",
             "headers": {}
         },
         {
