@@ -62,13 +62,42 @@ def extract_group(ch):
             return val.strip()
     return "General"
 
-def extract_url(ch):
-    possible_keys = ["url", "stream_url", "link", "stream_link", "streamUrl", "src", "mpd_url", "manifest_url"]
-    for key in possible_keys:
+def extract_urls(ch):
+    """
+    সিঙ্গেল বা মাল্টিপল (লিস্ট) যেকোনো ফরম্যাট থেকে সব URL এক্সট্রাক্ট করবে।
+    """
+    urls = []
+    
+    # ১. মাল্টি-ইউআরএল লিস্ট কি (Multi-URL List Keys) চেক করা
+    list_keys = ["streamUrls", "stream_urls", "urls", "links", "servers", "sources", "streams", "stream_links"]
+    for key in list_keys:
         val = ch.get(key)
-        if val and isinstance(val, str) and val.strip():
-            return val.strip()
-    return ""
+        if isinstance(val, list):
+            for item in val:
+                if isinstance(item, str) and item.strip():
+                    urls.append(item.strip())
+                elif isinstance(item, dict):
+                    # যদি লিস্টের ভেতরে অবজেক্ট থাকে
+                    nested_url = extract_urls(item)
+                    urls.extend(nested_url)
+            if urls:
+                return urls
+
+    # ২. সিঙ্গেল কি (বা যদি সিঙ্গেল কি-এর ভ্যালু লিস্ট বা স্ট্রিং হয়)
+    single_keys = ["url", "stream_url", "link", "stream_link", "streamUrl", "src", "mpd_url", "manifest_url"]
+    for key in single_keys:
+        val = ch.get(key)
+        if isinstance(val, list):
+            for item in val:
+                if isinstance(item, str) and item.strip():
+                    urls.append(item.strip())
+        elif isinstance(val, str) and val.strip():
+            urls.append(val.strip())
+            
+        if urls:
+            return urls
+
+    return urls
 
 def extract_headers(ch):
     headers = {}
@@ -80,7 +109,7 @@ def extract_headers(ch):
             if v:
                 headers[k.strip()] = str(v).strip()
 
-    # ২. ফ্ল্যাট কি-ওয়ার্ড যেমন "user_agent", "referer", "cookie", "origin" চেক করা
+    # ২. ফ্ল্যাট কি-ওয়ার্ড চেক করা
     for key, value in ch.items():
         if not value or not isinstance(value, (str, int)):
             continue
@@ -258,86 +287,94 @@ def parse_m3u_content(text):
     return channels
 
 # ========================================================
-# M3U জেনারেটর (JSON ও M3U উভয়ের OTT/DRM/ClearKey সাপোর্ট)
+# M3U জেনারেটর (মাল্টি-সার্ভার URL হ্যান্ডলিং সহ)
 # ========================================================
 def generate_m3u(playlist_name, channels, last_update):
-    lines = [
-        f'#EXTM3U name="{playlist_name}"',
-        '# =====================================================',
-        f'# Playlist Name   : {playlist_name}',
-        f'# Developer       : {DEVELOPER_INFO["developer"]}',
-        f'# Telegram Channel: {DEVELOPER_INFO["telegram"]}',
-        f'# Website         : {DEVELOPER_INFO["website"]}',
-        f'# Total Channels  : {len(channels)}',
-        f'# Last Updated    : {last_update}',
-        '# =====================================================\n'
-    ]
+    channel_entries = []
     
     for ch in channels:
+        urls = extract_urls(ch)
+        if not urls:
+            continue
+
         headers = extract_headers(ch)
         drm = extract_drm(ch)
         kodi_props = extract_kodi_props(ch)
         name = extract_name(ch)
         logo = extract_logo(ch)
         group = extract_group(ch)
-        url = extract_url(ch)
 
-        if not url:
-            continue
-
-        # ১. EXTINF লাইন
-        lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}')
-        
-        # ২. Kodi Props / DRM / ClearKey যুক্ত করা
-        has_kodi_license = False
-        if kodi_props:
-            for kp_k, kp_v in kodi_props.items():
-                lines.append(f'#KODIPROP:{kp_k}={kp_v}')
-                if "license_key" in kp_k:
-                    has_kodi_license = True
-        
-        # যদি kodi_props এ সরাসরি না থাকে কিন্তু drm / clearkey ডিকশনারি থাকে:
-        if not has_kodi_license and drm:
-            lic_type = drm.get("license_type", "clearkey")
-            lic_key = drm.get("license_key") or drm.get("key") or (f"{drm.get('key_id')}:{drm.get('key')}" if "key_id" in drm and "key" in drm else None)
-
-            if ".mpd" in url.lower() and "inputstream.adaptive.manifest_type" not in kodi_props:
-                lines.append('#KODIPROP:inputstream=inputstream.adaptive')
-                lines.append('#KODIPROP:inputstream.adaptive.manifest_type=mpd')
-
-            if lic_type:
-                lines.append(f'#KODIPROP:inputstream.adaptive.license_type={lic_type}')
-            if lic_key:
-                lines.append(f'#KODIPROP:inputstream.adaptive.license_key={lic_key}')
-
-        # ৩. User-Agent
-        if "User-Agent" in headers and headers["User-Agent"]:
-            lines.append(f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}')
+        # প্রতিটি URL বা সার্ভারের জন্য আলাদা M3U এন্ট্রি তৈরি হবে
+        for url in urls:
+            lines = []
+            # ১. EXTINF লাইন
+            lines.append(f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}",{name}')
             
-        # ৪. Referer
-        if "Referer" in headers and headers["Referer"]:
-            lines.append(f'#EXTVLCOPT:http-referrer={headers["Referer"]}')
+            # ২. Kodi Props / DRM / ClearKey যুক্ত করা
+            has_kodi_license = False
+            if kodi_props:
+                for kp_k, kp_v in kodi_props.items():
+                    lines.append(f'#KODIPROP:{kp_k}={kp_v}')
+                    if "license_key" in kp_k:
+                        has_kodi_license = True
             
-        # ৫. Cookie
-        if "Cookie" in headers and headers["Cookie"]:
-            lines.append(f'#EXTVLCOPT:http-cookie={headers["Cookie"]}')
-            
-        # ৬. EXTHTTP (Origin, Authorization ও অন্যান্য কাস্টম হেডার)
-        exthttp_data = {}
-        if "Origin" in headers and headers["Origin"]:
-            exthttp_data["Origin"] = headers["Origin"]
-        
-        for k, v in headers.items():
-            if k not in ["User-Agent", "Referer", "Cookie", "Origin"] and v:
-                exthttp_data[k] = v
+            # যদি kodi_props এ সরাসরি না থাকে কিন্তু drm / clearkey থাকে:
+            if not has_kodi_license and drm:
+                lic_type = drm.get("license_type", "clearkey")
+                lic_key = drm.get("license_key") or drm.get("key") or (f"{drm.get('key_id')}:{drm.get('key')}" if "key_id" in drm and "key" in drm else None)
+
+                if ".mpd" in url.lower() and "inputstream.adaptive.manifest_type" not in kodi_props:
+                    lines.append('#KODIPROP:inputstream=inputstream.adaptive')
+                    lines.append('#KODIPROP:inputstream.adaptive.manifest_type=mpd')
+
+                if lic_type:
+                    lines.append(f'#KODIPROP:inputstream.adaptive.license_type={lic_type}')
+                if lic_key:
+                    lines.append(f'#KODIPROP:inputstream.adaptive.license_key={lic_key}')
+
+            # ৩. User-Agent
+            if "User-Agent" in headers and headers["User-Agent"]:
+                lines.append(f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}')
                 
-        if exthttp_data:
-            lines.append(f'#EXTHTTP:{json.dumps(exthttp_data)}')
+            # ৪. Referer
+            if "Referer" in headers and headers["Referer"]:
+                lines.append(f'#EXTVLCOPT:http-referrer={headers["Referer"]}')
+                
+            # ৫. Cookie
+            if "Cookie" in headers and headers["Cookie"]:
+                lines.append(f'#EXTVLCOPT:http-cookie={headers["Cookie"]}')
+                
+            # ৬. EXTHTTP (Origin, Authorization ও অন্যান্য কাস্টম হেডার)
+            exthttp_data = {}
+            if "Origin" in headers and headers["Origin"]:
+                exthttp_data["Origin"] = headers["Origin"]
             
-        # ৭. স্ট্রিম URL
-        lines.append(url)
-        
-    return "\n".join(lines)
+            for k, v in headers.items():
+                if k not in ["User-Agent", "Referer", "Cookie", "Origin"] and v:
+                    exthttp_data[k] = v
+                    
+            if exthttp_data:
+                lines.append(f'#EXTHTTP:{json.dumps(exthttp_data)}')
+                
+            # ৭. স্ট্রিম URL
+            lines.append(url)
+            
+            channel_entries.append("\n".join(lines))
+
+    # প্লেলিস্ট হেডার
+    header_lines = [
+        f'#EXTM3U name="{playlist_name}"',
+        '# =====================================================',
+        f'# Playlist Name   : {playlist_name}',
+        f'# Developer       : {DEVELOPER_INFO["developer"]}',
+        f'# Telegram Channel: {DEVELOPER_INFO["telegram"]}',
+        f'# Website         : {DEVELOPER_INFO["website"]}',
+        f'# Total Channels  : {len(channel_entries)}',
+        f'# Last Updated    : {last_update}',
+        '# =====================================================\n'
+    ]
+    
+    return "\n".join(header_lines) + "\n" + "\n".join(channel_entries)
 
 def process():
     sources_env = os.getenv("SOURCE_PLAYLISTS")
@@ -391,7 +428,7 @@ def process():
             # সোর্সের চ্যানেলগুলোর সাথে ১ নম্বরে প্রোমো চ্যানেল যোগ করা
             all_channels = [PROMO_CHANNEL] + raw_channels
 
-            # কাস্টম মেটাডেটা সহ সম্পূর্ণ JSON প্লেলিস্ট তৈরি (অরিজিনাল সব ফিল্ড সুরক্ষিত থাকবে)
+            # কাস্টম মেটাডেটা সহ সম্পূর্ণ JSON প্লেলিস্ট তৈরি (অরিজিনাল স্ট্রাকচার অক্ষুণ্ণ থাকবে)
             final_json = {
                 "playlist_name": playlist_name,
                 "developer": DEVELOPER_INFO["developer"],
@@ -408,12 +445,12 @@ def process():
             with open(f"{safe_name}.json", "w", encoding="utf-8") as f:
                 json.dump(final_json, f, indent=4, ensure_ascii=False)
 
-            # ২. রুট ফোল্ডারে M3U ফাইল সেভ (KODIPROP, EXTVLCOPT সহ)
+            # ২. রুট ফোল্ডারে M3U ফাইল সেভ (মাল্টি-সার্ভার ও DRM হ্যান্ডলিং সহ)
             m3u_content = generate_m3u(playlist_name, all_channels, last_update_time)
             with open(f"{safe_name}.m3u", "w", encoding="utf-8") as f:
                 f.write(m3u_content)
 
-            print(f"✓ Saved: {safe_name}.json and {safe_name}.m3u (Total: {len(all_channels)} Channels)")
+            print(f"✓ Saved: {safe_name}.json and {safe_name}.m3u")
 
         except Exception as err:
             print(f"Failed to process {playlist_name}: {err}")
