@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 366,
-    "last_update": "2026-09-11 02:52:06 PM",
+    "channels_amount": 370,
+    "last_update": "2026-09-11 07:26:18 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -168,11 +168,19 @@
             "headers": {}
         },
         {
-            "name": "Independent TV",
+            "name": "Independent TV Server 1",
+            "tvg_id": "Combined_M3U_20_aHR0cHM6",
+            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Independent_TV_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Independent TV Server 2",
             "tvg_id": "Combined_M3U_21_aHR0cDov",
             "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Independent_TV.m3u8",
+            "url": "https://ireentv.pages.dev/Independent_TV_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -320,11 +328,27 @@
             "headers": {}
         },
         {
-            "name": "Asian TV",
+            "name": "Asian TV Server 1",
+            "tvg_id": "Combined_M3U_42_aHR0cHM6",
+            "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Asian_TV_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Asian TV Server 2",
+            "tvg_id": "Combined_M3U_43_aHR0cHM6",
+            "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Asian_TV_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Asian TV Server 3",
             "tvg_id": "Combined_M3U_44_aHR0cHM6",
             "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Asian_TV.m3u8",
+            "url": "https://ireentv.pages.dev/Asian_TV_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -808,11 +832,19 @@
             "headers": {}
         },
         {
-            "name": "Thikana TV",
+            "name": "Thikana TV Server 1",
             "tvg_id": "Combined_M3U_112_aHR0cHM6",
             "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV.m3u8",
+            "url": "https://ireentv.pages.dev/Thikana_TV_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Thikana TV Server 2",
+            "tvg_id": "Combined_M3U_113_aHR0cHM6",
+            "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Thikana_TV_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -2553,10 +2585,18 @@
         },
         {
             "name": "Sony Ten 1 Server 2",
-            "tvg_id": "Combined_M3U_407_aHR0cDov",
+            "tvg_id": "Combined_M3U_405_aHR0cHM6",
             "logo": "https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Sony_Ten_1_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Sony Ten 1 Server 3",
+            "tvg_id": "Combined_M3U_407_aHR0cDov",
+            "logo": "https://i.ibb.co.com/LzLSWTDq/Sony-Sports-Ten-1.webp",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/Sony_Ten_1_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -2701,14 +2741,6 @@
             "logo": "https://i.imgur.com/ubZMeQv.jpg",
             "group": "Kids",
             "url": "https://ireentv.pages.dev/PBS_Kids.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "ZB Cartoon",
-            "tvg_id": "Combined_M3U_440_aHR0cHM6",
-            "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-            "group": "Kids",
-            "url": "https://ireentv.pages.dev/ZB_Cartoon.m3u8",
             "headers": {}
         },
         {
