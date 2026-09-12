@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 379,
-    "last_update": "2026-09-12 10:52:41 PM",
+    "channels_amount": 381,
+    "last_update": "2026-09-13 01:05:12 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -2824,6 +2824,14 @@
             "headers": {}
         },
         {
+            "name": "ZB Cartoon",
+            "tvg_id": "Combined_M3U_450_aHR0cHM6",
+            "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
+            "group": "Kids",
+            "url": "https://ireentv.pages.dev/ZB_Cartoon.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Jungle Book",
             "tvg_id": "Combined_M3U_451_aHR0cHM6",
             "logo": "https://i.imgur.com/ubZMeQv.jpg",
@@ -2861,6 +2869,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/en/a/a1/Bantul_The_Great_logo.jpeg",
             "group": "Kids",
             "url": "https://ireentv.pages.dev/Bantul_The_Great.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cartoon Network",
+            "tvg_id": "Combined_M3U_456_aHR0cHM6",
+            "logo": "https://otapp.store/uploads/tv_image/sm/cartoon-network-hindi.png",
+            "group": "Kids",
+            "url": "https://ireentv.pages.dev/Cartoon_Network.m3u8",
             "headers": {}
         },
         {
