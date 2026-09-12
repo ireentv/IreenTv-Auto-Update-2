@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 745,
-    "last_update": "2026-09-12 05:06:47 AM",
+    "channels_amount": 748,
+    "last_update": "2026-09-12 10:02:21 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -64,11 +64,11 @@
             "headers": {}
         },
         {
-            "name": "7S Music (360p)",
+            "name": "7S Music (576p)",
             "tvg_id": "7SMusic.in@SD",
             "logo": "https://i.imgur.com/zDiIhdN.png",
             "group": "Music",
-            "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1257/master.m3u8",
             "headers": {}
         },
         {
@@ -1021,6 +1021,14 @@
             "logo": "https://i.imgur.com/s3h67hx.png",
             "group": "Music",
             "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Dhamaal (576p)",
+            "tvg_id": "Dhamaal.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png",
+            "group": "Music",
+            "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -3888,6 +3896,14 @@
             "headers": {}
         },
         {
+            "name": "Raj Musix Kannada (576p)",
+            "tvg_id": "RajMusixKannada.in@SD",
+            "logo": "https://i.imgur.com/z7fhhyX.png",
+            "group": "Music",
+            "url": "https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Raj Musix Malayalam (576p)",
             "tvg_id": "RajMusixMalayalam.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png",
@@ -5517,6 +5533,14 @@
             "logo": "https://i.imgur.com/owUXUih.png",
             "group": "Music",
             "url": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "VH1 (720p)",
+            "tvg_id": "VH1.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+            "group": "Music",
+            "url": "http://4.30.180.36:8420/vh1/index.m3u8?token=test",
             "headers": {}
         },
         {

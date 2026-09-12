@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 760,
-    "last_update": "2026-09-12 05:06:47 AM",
+    "channels_amount": 752,
+    "last_update": "2026-09-12 10:02:21 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -96,14 +96,6 @@
             "headers": {}
         },
         {
-            "name": "&pictures (720p)",
-            "tvg_id": "Andpictures.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540",
-            "group": "Movies",
-            "url": "https://tvsen3.aynaott.com/jzT482XQ/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "&TV HD (1080p)",
             "tvg_id": "AndTV.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
@@ -120,11 +112,11 @@
             "headers": {}
         },
         {
-            "name": "&xplor HD (1080p)",
+            "name": "&xplor HD (1080p) [Geo-blocked]",
             "tvg_id": "AndxplorHD.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
-            "url": "http://66.102.126.10:8000/play/a028/index.m3u8",
+            "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
             "headers": {}
         },
         {
@@ -196,7 +188,7 @@
             "tvg_id": "AllTimeMovies.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ALL_TIME_MOVIES/images/LOGO_HD/image.png",
             "group": "Movies",
-            "url": "https://streams.tangotv.in/ALLTIMEMOVIES/ORIGIN/index.m3u8",
+            "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
             "headers": {}
         },
         {
@@ -1240,14 +1232,6 @@
             "headers": {}
         },
         {
-            "name": "Colors Cineplex HD (1080p)",
-            "tvg_id": "ColorsCineplex.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",
-            "group": "Movies",
-            "url": "http://66.102.126.10:8000/play/a076/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Cosmos Tv",
             "tvg_id": "CosmosTv.ar@HD",
             "logo": "https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",
@@ -1968,6 +1952,14 @@
             "headers": {}
         },
         {
+            "name": "Goldmines Action (576p)",
+            "tvg_id": "GoldminesAction.in@SD",
+            "logo": "https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",
+            "group": "Movies",
+            "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Goldmines Bollywood (576p)",
             "tvg_id": "GoldminesBollywood.in@SD",
             "logo": "https://i.imgur.com/6mNQ9mM.png",
@@ -2656,14 +2648,6 @@
             "headers": {}
         },
         {
-            "name": "MNX HD (1080p)",
-            "tvg_id": "MNX.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png",
-            "group": "Movies",
-            "url": "http://149.71.34.166:8000/play/a05u/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "More TV Sci-fi",
             "tvg_id": "MoreTVScifi.de@GB",
             "logo": "https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png",
@@ -2725,22 +2709,6 @@
             "logo": "https://i.imgur.com/NIVhISa.png",
             "group": "Movies",
             "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Movies Now + (1080p)",
-            "tvg_id": "MoviesNowPlus.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png",
-            "group": "Movies",
-            "url": "http://149.71.34.166:8000/play/a05t/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Movies Now HD (1080p)",
-            "tvg_id": "MoviesNow.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
-            "group": "Movies",
-            "url": "http://103.161.153.165:8000/play/mnh/index.m3u8",
             "headers": {}
         },
         {
@@ -3093,6 +3061,14 @@
             "logo": "https://i.imgur.com/sj5h9bl.png",
             "group": "Movies",
             "url": "https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Paramount Network (720p)",
+            "tvg_id": "ParamountNetwork.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
+            "group": "Movies;Series",
+            "url": "http://4.30.180.36:8420/paramount/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -4924,7 +4900,7 @@
             "tvg_id": "ShemarooJosh.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540",
             "group": "Movies",
-            "url": "http://103.213.31.109:90/ChumbakTv/playlist.m3u8",
+            "url": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
             "headers": {}
         },
         {
@@ -4997,14 +4973,6 @@
             "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
             "group": "Movies",
             "url": "https://cloudplay-sonyliv.pages.dev/max.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sony Max 1 (720p)",
-            "tvg_id": "SonyMax1.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
-            "group": "Movies",
-            "url": "http://103.159.180.34:5001/live/3418.m3u8",
             "headers": {}
         },
         {
@@ -5148,7 +5116,7 @@
             "tvg_id": "StarGold2.in@SD",
             "logo": "https://i.imgur.com/G0ZfzZr.png",
             "group": "Movies",
-            "url": "http://66.102.126.10:8000/play/a00g/index.m3u8",
+            "url": "http://107.167.16.138/stargold2/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -5157,30 +5125,6 @@
             "logo": "https://i.imgur.com/G0ZfzZr.png",
             "group": "Movies",
             "url": "http://66.102.126.10:8000/play/a077/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Gold HD (1080p)",
-            "tvg_id": "StarGold.in@HD",
-            "logo": "https://i.imgur.com/xC460sj.png",
-            "group": "Movies",
-            "url": "http://66.102.126.10:8000/play/a00f/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Gold Romance (576p)",
-            "tvg_id": "StarGoldRomance.in@SD",
-            "logo": "https://i.imgur.com/gSWv9U3.png",
-            "group": "Movies",
-            "url": "http://66.102.126.10:8000/play/a00r/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Gold Select HD (1080p)",
-            "tvg_id": "StarGoldSelect.in@HD",
-            "logo": "https://i.imgur.com/U7eiuqv.png",
-            "group": "Movies",
-            "url": "http://149.71.34.166:8000/play/a01d/index.m3u8",
             "headers": {}
         },
         {
@@ -5800,35 +5744,19 @@
             "headers": {}
         },
         {
+            "name": "Zee Action (576p)",
+            "tvg_id": "ZeeAction.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540",
+            "group": "Movies",
+            "url": "http://107.167.16.138/zeeaction/index.m3u8?token=test",
+            "headers": {}
+        },
+        {
             "name": "Zee Biskope (576p)",
             "tvg_id": "ZeeBiskope.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BISKOPE/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
             "url": "http://103.175.73.12:8080/live/347/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zee Bollymovies (1080p) [Geo-blocked]",
-            "tvg_id": "ZeeBollymovies.in@SD",
-            "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
-            "group": "Movies",
-            "url": "https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zee Bollymovies Australia (1080p) [Geo-blocked]",
-            "tvg_id": "ZeeBollymovies.in@Australia",
-            "logo": "https://framerusercontent.com/images/mqfJ18x4jYe0GbZUbxSHsbnWU.png?scale-down-to=512",
-            "group": "Movies",
-            "url": "https://amg17931-zee-amg17931c8-samsung-au-8871.playouts.now.amagi.tv/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zee Bollywood (580p)",
-            "tvg_id": "ZeeBollywood.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DM.png?lock=720x540",
-            "group": "Movies",
-            "url": "https://s3.itcnbd.live/channel/a5979fd53c01d1b2.m3u8",
             "headers": {}
         },
         {
@@ -5861,6 +5789,14 @@
             "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
             "group": "Movies",
             "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Talkies (576p)",
+            "tvg_id": "ZeeTalkies.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Movies",
+            "url": "http://107.167.16.138/zeetalkies/index.m3u8?token=test",
             "headers": {}
         },
         {

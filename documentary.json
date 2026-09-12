@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 250,
-    "last_update": "2026-09-12 05:06:47 AM",
+    "channels_amount": 249,
+    "last_update": "2026-09-12 10:02:21 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -928,14 +928,6 @@
             "headers": {}
         },
         {
-            "name": "National Geographic HD (576p)",
-            "tvg_id": "NationalGeographic.in@HD",
-            "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-            "group": "Documentary",
-            "url": "http://103.165.93.31:8095/nationalGeographic/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "National Geographic HD (1080p)",
             "tvg_id": "NationalGeographic.nl@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
@@ -1584,11 +1576,11 @@
             "headers": {}
         },
         {
-            "name": "Safari TV (480p) [Not 24/7]",
+            "name": "Safari TV (576p)",
             "tvg_id": "SafariTV.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png",
             "group": "Documentary",
-            "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+            "url": "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8",
             "headers": {}
         },
         {

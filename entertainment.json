@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 879,
-    "last_update": "2026-09-12 05:06:47 AM",
+    "channels_amount": 877,
+    "last_update": "2026-09-12 10:02:21 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1560,14 +1560,6 @@
             "headers": {}
         },
         {
-            "name": "Colors Infinity HD (1080p)",
-            "tvg_id": "ColorsInfinity.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
-            "group": "Entertainment",
-            "url": "http://66.102.126.10:8000/play/a014/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Colors Kannada HD (1080i)",
             "tvg_id": "ColorsKannada.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png",
@@ -1712,19 +1704,19 @@
             "headers": {}
         },
         {
+            "name": "DD National (576p)",
+            "tvg_id": "DDNational.in@SD",
+            "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png",
+            "group": "Entertainment",
+            "url": "http://107.167.16.138/ddnational/index.m3u8?token=test",
+            "headers": {}
+        },
+        {
             "name": "DD National HD (1080p)",
             "tvg_id": "DDNational.in@HD",
             "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png",
             "group": "Entertainment",
             "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "DD National SD (576p)",
-            "tvg_id": "DDNational.in@SD",
-            "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png",
-            "group": "Entertainment",
-            "url": "https://cdn-1.pishow.tv/live/11/master.m3u8",
             "headers": {}
         },
         {
@@ -2301,14 +2293,6 @@
             "logo": "",
             "group": "Entertainment",
             "url": "https://toonixhls.wns.live/hls/stream.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "FXX (1080p)",
-            "tvg_id": "FXX.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png",
-            "group": "Entertainment",
-            "url": "http://23.237.104.106:8080/USA_FXX/index.m3u8",
             "headers": {}
         },
         {
@@ -3304,11 +3288,11 @@
             "headers": {}
         },
         {
-            "name": "Lifetime (576p)",
+            "name": "Lifetime (720p)",
             "tvg_id": "Lifetime.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
             "group": "Entertainment",
-            "url": "https://tvsen7.aynaott.com/lifetime/index.m3u8",
+            "url": "http://4.30.180.36:8420/lifetime/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -3640,11 +3624,11 @@
             "headers": {}
         },
         {
-            "name": "Mazhavil Manorama HD (576p)",
+            "name": "Mazhavil Manorama HD (1080p)",
             "tvg_id": "MazhavilManorama.in@HD",
             "logo": "https://i.imgur.com/fjgzW20.png",
             "group": "Entertainment",
-            "url": "http://103.175.73.12:8080/live/245/master.m3u8",
+            "url": "https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8",
             "headers": {}
         },
         {
