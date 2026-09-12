@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 379,
-    "last_update": "2026-09-12 03:08:13 PM",
+    "last_update": "2026-09-12 07:28:29 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -832,19 +832,11 @@
             "headers": {}
         },
         {
-            "name": "Thikana TV Server 1",
+            "name": "Thikana TV",
             "tvg_id": "Combined_M3U_112_aHR0cHM6",
             "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Thikana TV Server 2",
-            "tvg_id": "Combined_M3U_113_aHR0cHM6",
-            "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Thikana_TV.m3u8",
             "headers": {}
         },
         {
@@ -853,6 +845,14 @@
             "logo": "https://i.postimg.cc/9fq1Q4Hz/20240825_070144.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Me_Tv.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "NRB",
+            "tvg_id": "Combined_M3U_115_aHR0cHM6",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctL8rD_FYfZ1rHUDhs_Q3rJwRYGSDbMX0-XHpHFXLjeTC2D9iYwo8Gq3J&s=10",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/NRB.m3u8",
             "headers": {}
         },
         {
