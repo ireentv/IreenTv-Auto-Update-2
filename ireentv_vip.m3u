@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 373
-# Last Updated    : 2026-09-13 05:28:32 PM
+# Total Channels  : 380
+# Last Updated    : 2026-09-13 09:57:23 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla",IreenTV Promo
@@ -20,6 +20,10 @@ https://ireentv.pages.dev/BTV_National.m3u8
 https://ireentv.pages.dev/T_Sports_HD_Server_1.m3u8
 #EXTINF:-1 tvg-name="T Sports HD Server 2" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports",T Sports HD Server 2
 https://ireentv.pages.dev/T_Sports_HD_Server_2.m3u8
+#EXTINF:-1 tvg-name="T Sports HD Server 3" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports",T Sports HD Server 3
+https://ireentv.pages.dev/T_Sports_HD_Server_3.m3u8
+#EXTINF:-1 tvg-name="T Sports HD Server 4" tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="Sports",T Sports HD Server 4
+https://ireentv.pages.dev/T_Sports_HD_Server_4.m3u8
 #EXTINF:-1 tvg-name="Duronto TV Server 1" tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV Server 1
 https://ireentv.pages.dev/Duronto_TV_Server_1.m3u8
 #EXTINF:-1 tvg-name="Duronto TV Server 2" tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Kids",Duronto TV Server 2
@@ -44,12 +48,16 @@ https://ireentv.pages.dev/Jamuna_TV_Server_4.m3u8
 https://ireentv.pages.dev/DBC_News_HD_Server_1.m3u8
 #EXTINF:-1 tvg-name="DBC News HD Server 2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="Bangla",DBC News HD Server 2
 https://ireentv.pages.dev/DBC_News_HD_Server_2.m3u8
-#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="Bangla",Independent TV
-https://ireentv.pages.dev/Independent_TV.m3u8
+#EXTINF:-1 tvg-name="Independent TV Server 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="Bangla",Independent TV Server 1
+https://ireentv.pages.dev/Independent_TV_Server_1.m3u8
+#EXTINF:-1 tvg-name="Independent TV Server 2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="Bangla",Independent TV Server 2
+https://ireentv.pages.dev/Independent_TV_Server_2.m3u8
 #EXTINF:-1 tvg-name="Ekattor TV Server 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla",Ekattor TV Server 1
 https://ireentv.pages.dev/Ekattor_TV_Server_1.m3u8
 #EXTINF:-1 tvg-name="Ekattor TV Server 2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla",Ekattor TV Server 2
 https://ireentv.pages.dev/Ekattor_TV_Server_2.m3u8
+#EXTINF:-1 tvg-name="Ekattor TV Server 3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla",Ekattor TV Server 3
+https://ireentv.pages.dev/Ekattor_TV_Server_3.m3u8
 #EXTINF:-1 tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="Bangla",Channel 24 HD
 https://ireentv.pages.dev/Channel_24_HD.m3u8
 #EXTINF:-1 tvg-name="News 24 HD Server 1" tvg-logo="https://i.ibb.co.com/FLgCtB1S/1770186895850.png" group-title="Bangla",News 24 HD Server 1
@@ -132,6 +140,8 @@ https://ireentv.pages.dev/NEXUS_TV_Server_3.m3u8
 https://ireentv.pages.dev/Deepto_TV_HD_Server_1.m3u8
 #EXTINF:-1 tvg-name="Deepto TV HD Server 2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Bangla",Deepto TV HD Server 2
 https://ireentv.pages.dev/Deepto_TV_HD_Server_2.m3u8
+#EXTINF:-1 tvg-name="Deepto TV HD Server 3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Bangla",Deepto TV HD Server 3
+https://ireentv.pages.dev/Deepto_TV_HD_Server_3.m3u8
 #EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangla",SRK TV
 https://ireentv.pages.dev/SRK_TV.m3u8
 #EXTINF:-1 tvg-name="Channel i Server 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Bangla",Channel i Server 1
@@ -248,6 +258,8 @@ https://ireentv.pages.dev/Sanonda_Tv.m3u8
 https://ireentv.pages.dev/Zee_Bangla_Sonar_Server_1.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Sonar Server 2" tvg-logo="https://i.ibb.co.com/LzpTBRRn/zee-bangla-sonar-in.png" group-title="Bangla",Zee Bangla Sonar Server 2
 https://ireentv.pages.dev/Zee_Bangla_Sonar_Server_2.m3u8
+#EXTINF:-1 tvg-name="Zee Bangla Sonar Server 3" tvg-logo="https://i.ibb.co.com/LzpTBRRn/zee-bangla-sonar-in.png" group-title="Bangla",Zee Bangla Sonar Server 3
+https://ireentv.pages.dev/Zee_Bangla_Sonar_Server_3.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Server 1" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Bangla",Zee Bangla Server 1
 https://ireentv.pages.dev/Zee_Bangla_Server_1.m3u8
 #EXTINF:-1 tvg-name="Zee Bangla Server 2" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png" group-title="Bangla",Zee Bangla Server 2
@@ -672,8 +684,10 @@ https://ireentv.pages.dev/Sony_Ten_2_Server_3.m3u8
 https://ireentv.pages.dev/Sony_Ten_3_Server_1.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 3 Server 2" tvg-logo="https://i.ibb.co.com/rfbqJxMh/Sony-Sports-Ten-3.webp" group-title="Sports",Sony Ten 3 Server 2
 https://ireentv.pages.dev/Sony_Ten_3_Server_2.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 5" tvg-logo="" group-title="General",Sony Ten 5
-https://ireentv.pages.dev/Sony_Ten_5.m3u8
+#EXTINF:-1 tvg-name="Sony Ten 5 Server 1" tvg-logo="" group-title="General",Sony Ten 5 Server 1
+https://ireentv.pages.dev/Sony_Ten_5_Server_1.m3u8
+#EXTINF:-1 tvg-name="Sony Ten 5 Server 2" tvg-logo="" group-title="General",Sony Ten 5 Server 2
+https://ireentv.pages.dev/Sony_Ten_5_Server_2.m3u8
 #EXTINF:-1 tvg-name="PTV Sports Server 1" tvg-logo="https://i.ibb.co.com/WWrnXpb5/PTV-Sports.png" group-title="Sports",PTV Sports Server 1
 https://ireentv.pages.dev/PTV_Sports_Server_1.m3u8
 #EXTINF:-1 tvg-name="PTV Sports Server 2" tvg-logo="https://i.ibb.co.com/WWrnXpb5/PTV-Sports.png" group-title="Sports",PTV Sports Server 2
