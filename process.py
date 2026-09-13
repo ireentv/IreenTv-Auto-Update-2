@@ -166,81 +166,100 @@ def extract_headers(ch):
     return clean_headers
 
 def extract_drm(ch):
-    """JSON সোর্সের সব ধরণের ClearKey / Widevine / DRM ফরম্যাট সাপোর্ট করবে"""
+    """JSON সোর্সের drm_key, clearkey, keys, widevine সহ সব DRM এক্সট্রাক্ট করবে"""
     drm = {}
-    
-    # ১. drm ডিকশনারি থাকলে
-    if isinstance(ch.get("drm"), dict):
-        drm.update(ch.get("drm"))
 
-    # ২. clearkey অবজেক্ট / লিস্ট / স্ট্রিং হ্যান্ডলিং
-    ck = ch.get("clearkey") or ch.get("clearKey") or ch.get("clear_key")
-    if isinstance(ck, dict):
-        k_id = ck.get("key_id") or ck.get("keyId") or ck.get("kid")
-        k_val = ck.get("key") or ck.get("k")
-        if k_id and k_val:
-            drm["license_key"] = f"{str(k_id).strip()}:{str(k_val).strip()}"
-            drm["license_type"] = "clearkey"
-        elif "license_key" in ck:
-            drm["license_key"] = str(ck["license_key"]).strip()
-            drm["license_type"] = "clearkey"
-    elif isinstance(ck, list):
-        keys_list = []
-        for item in ck:
-            if isinstance(item, dict):
-                k_id = item.get("key_id") or item.get("keyId") or item.get("kid")
-                k_val = item.get("key") or item.get("k")
-                if k_id and k_val:
-                    keys_list.append(f"{str(k_id).strip()}:{str(k_val).strip()}")
-            elif isinstance(item, str) and ":" in item:
-                keys_list.append(item.strip())
-        if keys_list:
-            drm["license_key"] = ",".join(keys_list)
-            drm["license_type"] = "clearkey"
-    elif isinstance(ck, str) and ck.strip():
-        drm["license_key"] = ck.strip()
+    # ১. drm অবজেক্ট যদি থাকে
+    raw_drm = ch.get("drm")
+    if isinstance(raw_drm, dict):
+        drm.update(raw_drm)
+    elif isinstance(raw_drm, str) and raw_drm.strip():
+        drm["license_key"] = raw_drm.strip()
+
+    # ২. সরাসরি drm_key, clearkey, keys ইত্যাদি কী চেক করা
+    drm_keys_to_check = [
+        "drm_key", "drmKey", "drm_keys", "drmKeys",
+        "license_key", "licenseKey", "lic_key", "licence_key",
+        "clearkey", "clearKey", "clear_key", "clearkeys",
+        "key", "keys", "license", "licence"
+    ]
+
+    for k in drm_keys_to_check:
+        val = ch.get(k)
+        if not val:
+            continue
+
+        # স্ট্রিং ফরম্যাট (যেমন "0b59ce...:48e4ba...")
+        if isinstance(val, str) and val.strip():
+            v_str = val.strip()
+            if v_str.startswith("{") or v_str.startswith("["):
+                try:
+                    parsed = json.loads(v_str)
+                    val = parsed
+                except Exception:
+                    pass
+
+            if isinstance(val, str):
+                drm["license_key"] = v_str
+                if "license_type" not in drm:
+                    drm["license_type"] = "clearkey"
+                break
+
+        # ডিকশনারি ফরম্যাট
+        if isinstance(val, dict):
+            k_id = val.get("key_id") or val.get("keyId") or val.get("kid") or val.get("id")
+            k_val = val.get("key") or val.get("k") or val.get("value")
+            if k_id and k_val:
+                drm["license_key"] = f"{str(k_id).strip()}:{str(k_val).strip()}"
+                drm["license_type"] = "clearkey"
+                break
+            elif "license_key" in val:
+                drm["license_key"] = str(val["license_key"]).strip()
+                break
+            elif "drm_key" in val:
+                drm["license_key"] = str(val["drm_key"]).strip()
+                break
+
+        # লিস্ট ফরম্যাট ([{"kid": "...", "k": "..."}, ...])
+        if isinstance(val, list):
+            keys_list = []
+            for item in val:
+                if isinstance(item, dict):
+                    k_id = item.get("key_id") or item.get("keyId") or item.get("kid")
+                    k_val = item.get("key") or item.get("k") or item.get("value")
+                    if k_id and k_val:
+                        keys_list.append(f"{str(k_id).strip()}:{str(k_val).strip()}")
+                elif isinstance(item, str) and ":" in item:
+                    keys_list.append(item.strip())
+            if keys_list:
+                drm["license_key"] = ",".join(keys_list)
+                drm["license_type"] = "clearkey"
+                break
+
+    # ৩. আলাদা key_id এবং key থাকলে
+    k_id = ch.get("key_id") or ch.get("keyId") or ch.get("kid")
+    k_val = ch.get("key") or ch.get("k")
+    if k_id and k_val and "license_key" not in drm:
+        drm["license_key"] = f"{str(k_id).strip()}:{str(k_val).strip()}"
         drm["license_type"] = "clearkey"
 
-    # ৩. 'keys' লিস্ট ফরম্যাট (W3C ClearKey JWK)
-    keys_arr = ch.get("keys")
-    if isinstance(keys_arr, list):
-        keys_list = []
-        for item in keys_arr:
-            if isinstance(item, dict):
-                k_id = item.get("key_id") or item.get("keyId") or item.get("kid")
-                k_val = item.get("key") or item.get("k")
-                if k_id and k_val:
-                    keys_list.append(f"{str(k_id).strip()}:{str(k_val).strip()}")
-            elif isinstance(item, str) and ":" in item:
-                keys_list.append(item.strip())
-        if keys_list:
-            drm["license_key"] = ",".join(keys_list)
-            drm["license_type"] = "clearkey"
-
-    # ৪. ফ্ল্যাট কী: "key_id" / "kid" এবং "key" / "k"
-    key_id = ch.get("key_id") or ch.get("keyId") or ch.get("kid")
-    key_val = ch.get("key") or ch.get("k")
-    if key_id and key_val:
-        drm["license_key"] = f"{str(key_id).strip()}:{str(key_val).strip()}"
-        drm["license_type"] = "clearkey"
-
-    # ৫. লাইসেন্স URL (Widevine বা অন্য লাইসেন্স সার্ভার)
+    # ৪. Widevine / License URL
     lic_url = ch.get("license_url") or ch.get("licence_url") or ch.get("widevine_url") or ch.get("drm_url") or ch.get("licenseUrl")
     if lic_url and isinstance(lic_url, str) and lic_url.strip():
         drm["license_key"] = lic_url.strip()
         if "license_type" not in drm:
             drm["license_type"] = "com.widevine.alpha"
 
-    # ৬. কাস্টম license_key স্ট্রিং
-    for k in ["license_key", "licenseKey", "lic_key"]:
-        if k in ch and isinstance(ch[k], str) and ch[k].strip():
-            drm["license_key"] = ch[k].strip()
-
-    # ৭. license_type নরমালাইজেশন
-    if "license_type" in ch and isinstance(ch["license_type"], str) and ch["license_type"].strip():
+    # ৫. DRM Type সেট ও নরমালাইজেশন
+    if "drm_type" in ch and isinstance(ch["drm_type"], str) and ch["drm_type"].strip():
+        drm["license_type"] = ch["drm_type"].strip()
+    elif "license_type" in ch and isinstance(ch["license_type"], str) and ch["license_type"].strip():
         drm["license_type"] = ch["license_type"].strip()
 
-    if "license_type" in drm:
+    if "license_key" in drm:
+        if "license_type" not in drm or not drm["license_type"]:
+            drm["license_type"] = "clearkey" if ":" in str(drm["license_key"]) else "com.widevine.alpha"
+        
         lt = drm["license_type"].lower()
         if lt in ["clearkey", "clear_key", "org.w3.clearkey"]:
             drm["license_type"] = "clearkey"
@@ -256,7 +275,7 @@ def extract_kodi_props(ch):
     return kodi_props
 
 # ========================================================
-# M3U পার্সার (সোর্স M3U হলে তা JSON এ কনভার্ট করার জন্য)
+# M3U পার্সার
 # ========================================================
 def parse_m3u_content(text):
     channels = []
@@ -368,7 +387,7 @@ def parse_m3u_content(text):
     return channels
 
 # ========================================================
-# M3U জেনারেটর (DRM ও হেডার সহ সম্পূর্ণ সাপোর্ট)
+# M3U জেনারেটর
 # ========================================================
 def generate_m3u(playlist_name, channels, last_update):
     channel_entries = []
