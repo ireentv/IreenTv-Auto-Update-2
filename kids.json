@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 408,
-    "last_update": "2026-09-13 06:43:36 AM",
+    "last_update": "2026-09-13 11:49:40 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1632,11 +1632,11 @@
             "headers": {}
         },
         {
-            "name": "Nick Jr. (1080p)",
+            "name": "Nick Jr. (720p)",
             "tvg_id": "NickJr.us@East",
             "logo": "https://i.imgur.com/KT4tdQs.png",
             "group": "Kids",
-            "url": "https://sra72yz.s.gy/NICK_JR_US.m3u8",
+            "url": "http://212.5.144.156:8080/nickjr/index.m3u8",
             "headers": {}
         },
         {
@@ -1776,11 +1776,11 @@
             "headers": {}
         },
         {
-            "name": "Nickelodeon (1080p)",
+            "name": "Nickelodeon (720p)",
             "tvg_id": "Nickelodeon.us@East",
             "logo": "https://i.imgur.com/E84jnP8.png",
             "group": "Kids",
-            "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
+            "url": "http://198.58.104.90:8989/nickelodeon/index.m3u8",
             "headers": {}
         },
         {
@@ -1960,11 +1960,11 @@
             "headers": {}
         },
         {
-            "name": "Nicktoons (1080p)",
+            "name": "Nicktoons (720p)",
             "tvg_id": "Nicktoons.us@East",
             "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
             "group": "Kids",
-            "url": "https://sra72yz.s.gy/NICKTOONS_US.m3u8",
+            "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
             "headers": {}
         },
         {
