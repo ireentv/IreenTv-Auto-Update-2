@@ -17,7 +17,7 @@ PROMO_CHANNEL = {
     "kodi_props": {}
 }
 
-# আপনার পার্সোনাল মেটাডেটা
+# পার্সোনাল মেটাডেটা
 DEVELOPER_INFO = {
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
@@ -69,7 +69,6 @@ def extract_group(ch):
     return "General"
 
 def extract_urls(ch):
-    """যেকোনো ডিকশনারি থেকে স্ট্রিম URL খুঁজে বের করে"""
     urls = []
     if not isinstance(ch, dict):
         return urls
@@ -87,7 +86,7 @@ def extract_urls(ch):
             if urls:
                 return urls
 
-    single_keys = ["url", "stream_url", "link", "stream_link", "streamUrl", "src", "mpd_url", "manifest_url", "play_url", "file"]
+    single_keys = ["link", "url", "stream_url", "stream_link", "streamUrl", "src", "mpd_url", "manifest_url", "play_url", "file"]
     for key in single_keys:
         val = ch.get(key)
         if isinstance(val, list):
@@ -103,7 +102,7 @@ def extract_urls(ch):
     return urls
 
 def extract_headers(ch):
-    """ডীপ সার্চ করে সমস্ত হেডার (Referer, User-Agent, Cookie, ইত্যাদি) সংগ্রহ করে"""
+    """হেডার এবং রেফারার শুধুমাত্র নন-এম্পটি (Non-empty) হলে এক্সট্রাক্ট করবে"""
     headers = {}
     
     def scan_dict(d):
@@ -115,7 +114,7 @@ def extract_headers(ch):
             raw_h = d.get(hk)
             if isinstance(raw_h, dict):
                 for k, v in raw_h.items():
-                    if v:
+                    if v and str(v).strip():
                         headers[str(k).strip()] = str(v).strip()
             elif isinstance(raw_h, str) and raw_h.strip():
                 if raw_h.startswith("{") and raw_h.endswith("}"):
@@ -123,7 +122,7 @@ def extract_headers(ch):
                         parsed = json.loads(raw_h)
                         if isinstance(parsed, dict):
                             for k, v in parsed.items():
-                                if v:
+                                if v and str(v).strip():
                                     headers[str(k).strip()] = str(v).strip()
                     except Exception:
                         pass
@@ -131,7 +130,8 @@ def extract_headers(ch):
                     for part in raw_h.split("&"):
                         if "=" in part:
                             k_n, v_n = part.split("=", 1)
-                            headers[k_n.strip()] = v_n.strip()
+                            if v_n.strip():
+                                headers[k_n.strip()] = v_n.strip()
 
         # ২. ফ্ল্যাট কি-ওয়ার্ড চেক
         for k, v in d.items():
@@ -155,32 +155,35 @@ def extract_headers(ch):
 
     if isinstance(ch, dict):
         scan_dict(ch)
-        # নেস্টেড সাব-অবজেক্টগুলোও স্ক্যান করা
         for sub_val in ch.values():
             if isinstance(sub_val, dict):
                 scan_dict(sub_val)
 
-    # স্ট্যান্ডার্ডাইযেশন
     clean_headers = {}
     for k, v in headers.items():
+        if not v or not str(v).strip():
+            continue
         k_lower = k.lower().replace("-", "_").strip()
         if k_lower in ["user_agent", "useragent"]:
-            clean_headers["User-Agent"] = v
+            clean_headers["User-Agent"] = str(v).strip()
         elif k_lower in ["referer", "referrer"]:
-            clean_headers["Referer"] = v
+            clean_headers["Referer"] = str(v).strip()
         elif k_lower == "cookie":
-            clean_headers["Cookie"] = v
+            clean_headers["Cookie"] = str(v).strip()
         elif k_lower == "origin":
-            clean_headers["Origin"] = v
+            clean_headers["Origin"] = str(v).strip()
         elif k_lower in ["authorization", "auth"]:
-            clean_headers["Authorization"] = v
+            clean_headers["Authorization"] = str(v).strip()
         else:
-            clean_headers[k] = v
+            clean_headers[k.strip()] = str(v).strip()
 
     return clean_headers
 
 def extract_drm(ch):
-    """ডীপ সার্চ করে drm_key, clearkey, keys, widevine সহ সমস্ত DRM এক্সট্রাক্ট করে"""
+    """
+    শুধুমাত্র যদি ভ্যালিড ও নন-এম্পটি DRM Key থাকে তবেই এক্সট্রাক্ট করবে,
+    ফাঁকা ("") থাকলে সম্পূর্ণ ইগনোর করবে।
+    """
     drm = {}
 
     def scan_for_drm(obj):
@@ -193,7 +196,6 @@ def extract_drm(ch):
                 scan_for_drm(item)
             return
 
-        # ডিকশনারির ভেতরের কি-গুলো চেক
         target_keys = [
             "drm_key", "drmKey", "drm_keys", "drmKeys",
             "license_key", "licenseKey", "lic_key", "licence_key",
@@ -206,7 +208,7 @@ def extract_drm(ch):
             if not val:
                 continue
 
-            # স্ট্রিং ফরম্যাট (যেমন "0b59ce...:48e4ba...")
+            # স্ট্রিং ফরম্যাট (যেমন: "kid:key")
             if isinstance(val, str) and val.strip():
                 v_str = val.strip()
                 if v_str.startswith("{") or v_str.startswith("["):
@@ -215,72 +217,74 @@ def extract_drm(ch):
                     except Exception:
                         pass
                 
-                if isinstance(val, str):
-                    drm["license_key"] = v_str
-                    drm["license_type"] = "clearkey" if ":" in v_str else "com.widevine.alpha"
+                if isinstance(val, str) and val.strip():
+                    drm["license_key"] = val.strip()
+                    scheme = obj.get("drm_scheme") or obj.get("drm_type") or obj.get("license_type")
+                    drm["license_type"] = scheme.strip().lower() if (scheme and isinstance(scheme, str) and scheme.strip()) else ("clearkey" if ":" in val else "com.widevine.alpha")
                     return
 
             # ডিকশনারি ফরম্যাট
             if isinstance(val, dict):
                 k_id = val.get("key_id") or val.get("keyId") or val.get("kid") or val.get("id")
                 k_val = val.get("key") or val.get("k") or val.get("value")
-                if k_id and k_val:
+                if k_id and k_val and str(k_id).strip() and str(k_val).strip():
                     drm["license_key"] = f"{str(k_id).strip()}:{str(k_val).strip()}"
                     drm["license_type"] = "clearkey"
                     return
-                elif "license_key" in val:
+                elif "license_key" in val and val["license_key"] and str(val["license_key"]).strip():
                     drm["license_key"] = str(val["license_key"]).strip()
                     drm["license_type"] = "clearkey" if ":" in str(val["license_key"]) else "com.widevine.alpha"
                     return
-                elif "drm_key" in val:
+                elif "drm_key" in val and val["drm_key"] and str(val["drm_key"]).strip():
                     drm["license_key"] = str(val["drm_key"]).strip()
                     drm["license_type"] = "clearkey"
                     return
 
-            # লিস্ট ফরম্যাট ([{"kid": "...", "k": "..."}, ...])
+            # লিস্ট ফরম্যাট
             if isinstance(val, list):
                 keys_list = []
                 for item in val:
                     if isinstance(item, dict):
                         k_id = item.get("key_id") or item.get("keyId") or item.get("kid")
                         k_val = item.get("key") or item.get("k") or item.get("value")
-                        if k_id and k_val:
+                        if k_id and k_val and str(k_id).strip() and str(k_val).strip():
                             keys_list.append(f"{str(k_id).strip()}:{str(k_val).strip()}")
-                    elif isinstance(item, str) and ":" in item:
+                    elif isinstance(item, str) and ":" in item and item.strip():
                         keys_list.append(item.strip())
                 if keys_list:
                     drm["license_key"] = ",".join(keys_list)
                     drm["license_type"] = "clearkey"
                     return
 
-        # আলাদা key_id এবং key থাকলে
+        # আলাদা key_id এবং key
         k_id = obj.get("key_id") or obj.get("keyId") or obj.get("kid")
         k_val = obj.get("key") or obj.get("k")
-        if k_id and k_val and isinstance(k_id, (str, int)) and isinstance(k_val, (str, int)):
+        if k_id and k_val and str(k_id).strip() and str(k_val).strip():
             drm["license_key"] = f"{str(k_id).strip()}:{str(k_val).strip()}"
             drm["license_type"] = "clearkey"
             return
 
-        # লাইসেন্স URL থাকলে
+        # Widevine / License URL
         lic_url = obj.get("license_url") or obj.get("licence_url") or obj.get("widevine_url") or obj.get("drm_url") or obj.get("licenseUrl")
         if lic_url and isinstance(lic_url, str) and lic_url.strip():
             drm["license_key"] = lic_url.strip()
             drm["license_type"] = "com.widevine.alpha"
             return
 
-        # রিকার্সিভলি সাব-অবজেক্টগুলো স্ক্যান করা
         for v in obj.values():
             if isinstance(v, (dict, list)):
                 scan_for_drm(v)
 
     scan_for_drm(ch)
 
-    # টাইপ নরম্যালাইজেশন
-    if "license_key" in drm:
-        if "drm_type" in ch and isinstance(ch["drm_type"], str) and ch["drm_type"].strip():
-            drm["license_type"] = ch["drm_type"].strip()
-        elif "license_type" in ch and isinstance(ch["license_type"], str) and ch["license_type"].strip():
-            drm["license_type"] = ch["license_type"].strip()
+    # যদি license_key ফাঁকা থাকে, তবে drm সম্পূর্ণ ক্লিয়ার করা হবে
+    if "license_key" in drm and not drm["license_key"].strip():
+        drm = {}
+
+    if "license_key" in drm and drm["license_key"]:
+        scheme = ch.get("drm_scheme") or ch.get("drm_type") or ch.get("license_type")
+        if scheme and isinstance(scheme, str) and scheme.strip():
+            drm["license_type"] = scheme.strip().lower()
 
         lt = drm.get("license_type", "").lower()
         if lt in ["clearkey", "clear_key", "org.w3.clearkey"]:
@@ -295,14 +299,13 @@ def extract_drm(ch):
 def extract_kodi_props(ch):
     kodi_props = {}
     if isinstance(ch, dict) and isinstance(ch.get("kodi_props"), dict):
-        kodi_props.update(ch.get("kodi_props"))
+        for k, v in ch["kodi_props"].items():
+            if v and str(v).strip():
+                kodi_props[str(k).strip()] = str(v).strip()
     return kodi_props
 
 def parse_channel_instances(ch):
-    """
-    চ্যানেলের ভেতর যদি নেস্টেড streams/sources থাকে, প্রতিটিকে আলাদা স্ট্রিম ও 
-    সঠিক হেডার/ডিআরএম সহ ফ্ল্যাট ইনস্ট্যান্সে রূপান্তর করে।
-    """
+    """নেস্টেড streams বা সিঙ্গেল channel ভেঙে পরিষ্কার ফ্ল্যাট ডাটা তৈরি করে"""
     instances = []
     if not isinstance(ch, dict):
         return instances
@@ -323,8 +326,8 @@ def parse_channel_instances(ch):
             for item in val:
                 if isinstance(item, dict):
                     nested_found = True
-                    c_url = item.get("url") or item.get("stream_url") or item.get("link") or item.get("src") or item.get("mpd_url") or ""
-                    if c_url and isinstance(c_url, str):
+                    c_url = item.get("link") or item.get("url") or item.get("stream_url") or item.get("src") or item.get("mpd_url") or ""
+                    if c_url and isinstance(c_url, str) and c_url.strip():
                         c_headers = {**parent_headers, **extract_headers(item)}
                         c_drm = {**parent_drm, **extract_drm(item)}
                         c_kodi = {**parent_kodi, **extract_kodi_props(item)}
@@ -404,44 +407,44 @@ def parse_m3u_content(text):
             current_channel["logo"] = logo_match.group(1) if logo_match else ""
             current_channel["group"] = group_match.group(1) if group_match else "General"
 
-            if lic_key_match:
+            if lic_key_match and lic_key_match.group(1).strip():
                 temp_drm["license_key"] = lic_key_match.group(1).strip()
-            if lic_type_match:
+            if lic_type_match and lic_type_match.group(1).strip():
                 temp_drm["license_type"] = lic_type_match.group(1).strip()
 
         elif line.startswith("#KODIPROP:"):
             prop_data = line.replace("#KODIPROP:", "").strip()
             if "=" in prop_data:
                 k, v = prop_data.split("=", 1)
-                k = k.strip()
-                v = v.strip()
-                temp_kodi_props[k] = v
-                
-                if "license_key" in k.lower() or "clearkey" in k.lower():
-                    temp_drm["license_key"] = v
-                elif "license_type" in k.lower():
-                    temp_drm["license_type"] = v
-                elif "manifest_type" in k.lower():
-                    temp_drm["manifest_type"] = v
+                k, v = k.strip(), v.strip()
+                if v:
+                    temp_kodi_props[k] = v
+                    if "license_key" in k.lower() or "clearkey" in k.lower():
+                        temp_drm["license_key"] = v
+                    elif "license_type" in k.lower():
+                        temp_drm["license_type"] = v
+                    elif "manifest_type" in k.lower():
+                        temp_drm["manifest_type"] = v
 
         elif line.startswith("#EXTVLCOPT:"):
             vlc_opt = line.replace("#EXTVLCOPT:", "").strip()
             if "=" in vlc_opt:
                 k, v = vlc_opt.split("=", 1)
-                k_lower = k.lower().strip()
-                if k_lower in ["http-user-agent", "user-agent"]:
-                    temp_headers["User-Agent"] = v.strip()
-                elif k_lower in ["http-referrer", "referrer", "referer"]:
-                    temp_headers["Referer"] = v.strip()
-                elif k_lower in ["http-cookie", "cookie"]:
-                    temp_headers["Cookie"] = v.strip()
+                k_lower, v_val = k.lower().strip(), v.strip()
+                if v_val:
+                    if k_lower in ["http-user-agent", "user-agent"]:
+                        temp_headers["User-Agent"] = v_val
+                    elif k_lower in ["http-referrer", "referrer", "referer"]:
+                        temp_headers["Referer"] = v_val
+                    elif k_lower in ["http-cookie", "cookie"]:
+                        temp_headers["Cookie"] = v_val
 
         elif line.startswith("#EXTHTTP:"):
             raw_exthttp = line.replace("#EXTHTTP:", "").strip()
             try:
                 http_dict = json.loads(raw_exthttp)
                 if isinstance(http_dict, dict):
-                    temp_headers.update(http_dict)
+                    temp_headers.update({k: str(v).strip() for k, v in http_dict.items() if v and str(v).strip()})
             except Exception:
                 pass
 
@@ -454,12 +457,13 @@ def parse_m3u_content(text):
                 for param in pipe_params:
                     if "=" in param:
                         hk, hv = param.split("=", 1)
-                        temp_headers[hk.strip()] = hv.strip()
+                        if hv.strip():
+                            temp_headers[hk.strip()] = hv.strip()
 
             if current_channel:
                 current_channel["url"] = url_part
                 current_channel["headers"] = temp_headers
-                if temp_drm:
+                if temp_drm and temp_drm.get("license_key"):
                     current_channel["drm"] = temp_drm
                 if temp_kodi_props:
                     current_channel["kodi_props"] = temp_kodi_props
@@ -476,7 +480,7 @@ def parse_m3u_content(text):
                     "group": "General",
                     "url": url_part,
                     "headers": temp_headers,
-                    "drm": temp_drm,
+                    "drm": temp_drm if temp_drm.get("license_key") else {},
                     "kodi_props": temp_kodi_props
                 })
                 temp_headers = {}
@@ -486,13 +490,12 @@ def parse_m3u_content(text):
     return channels
 
 # ========================================================
-# M3U জেনারেটর (Universal DRM & Header Tags)
+# M3U জেনারেটর (DRM/Headers থাকলে শুধুমাত্র তখনই ট্যাগ বসবে)
 # ========================================================
 def generate_m3u(playlist_name, channels, last_update):
     channel_entries = []
     
     for raw_ch in channels:
-        # প্রতিটি চ্যানেল আইটেম ভেঙে ফ্ল্যাট ইনস্ট্যান্স তৈরি করা
         instances = parse_channel_instances(raw_ch)
         
         for item in instances:
@@ -511,36 +514,37 @@ def generate_m3u(playlist_name, channels, last_update):
             lines = []
             
             is_mpd = ".mpd" in clean_url.lower()
-            has_drm = bool(drm.get("license_key"))
-            lic_type = drm.get("license_type", "clearkey")
-            lic_key = drm.get("license_key", "")
+            # DRM তখনই সত্য হবে যখন license_key ফাঁকা নয়
+            has_drm = bool(drm.get("license_key") and str(drm.get("license_key")).strip())
+            lic_type = drm.get("license_type", "clearkey") if has_drm else ""
+            lic_key = drm.get("license_key", "").strip() if has_drm else ""
 
-            # ১. EXTINF লাইন (Universal OTT & Player Support)
+            # ১. EXTINF লাইন
             extinf_parts = [f'#EXTINF:-1 tvg-name="{name}" tvg-logo="{logo}" group-title="{group}"']
             if has_drm:
                 extinf_parts.append(f'license_type="{lic_type}" license_key="{lic_key}"')
             extinf_parts.append(f',{name}')
             lines.append(" ".join(extinf_parts))
             
-            # ২. Kodi Props & Adaptive Engine
-            if is_mpd or has_drm or kodi_props:
+            # ২. Kodi Props (শুধুমাত্র MPD বা DRM থাকলে বা kodi_props থাকলে)
+            if is_mpd or has_drm:
                 lines.append('#KODIPROP:inputstream=inputstream.adaptive')
                 manifest_type = "mpd" if is_mpd else ("hls" if ".m3u8" in clean_url.lower() else "mpd")
                 lines.append(f'#KODIPROP:inputstream.adaptive.manifest_type={manifest_type}')
 
             if kodi_props:
                 for kp_k, kp_v in kodi_props.items():
-                    if kp_k not in ["inputstream", "inputstream.adaptive.manifest_type"]:
+                    if kp_k not in ["inputstream", "inputstream.adaptive.manifest_type"] and str(kp_v).strip():
                         lines.append(f'#KODIPROP:{kp_k}={kp_v}')
 
-            # ৩. DRM কী ও টাইপ ইনসার্ট
+            # ৩. DRM ট্যাগ ইনসার্ট (যদি ভ্যালিড DRM থাকে)
             if has_drm:
                 if "inputstream.adaptive.license_type" not in kodi_props:
                     lines.append(f'#KODIPROP:inputstream.adaptive.license_type={lic_type}')
-                if "inputstream.adaptive.license_key" not in kodi_props and lic_key:
+                if "inputstream.adaptive.license_key" not in kodi_props:
                     lines.append(f'#KODIPROP:inputstream.adaptive.license_key={lic_key}')
 
-            # ৪. VLC / OTT Navigator হেডার (#EXTVLCOPT)
+            # ৪. হেডার অপশন (#EXTVLCOPT)
             if "User-Agent" in headers and headers["User-Agent"]:
                 lines.append(f'#EXTVLCOPT:http-user-agent={headers["User-Agent"]}')
             if "Referer" in headers and headers["Referer"]:
@@ -548,18 +552,18 @@ def generate_m3u(playlist_name, channels, last_update):
             if "Cookie" in headers and headers["Cookie"]:
                 lines.append(f'#EXTVLCOPT:http-cookie={headers["Cookie"]}')
 
-            # ৫. Televizo ও আধুনিক প্লেয়ারের জন্য (#EXTHTTP & Stream Headers)
+            # ৫. কাস্টম হেডার ডিকশনারি (#EXTHTTP)
             if headers:
                 lines.append(f'#EXTHTTP:{json.dumps(headers)}')
-                stream_header_str = "&".join([f"{k}={v}" for k, v in headers.items()])
                 if is_mpd or has_drm:
-                    lines.append(f'#KODIPROP:inputstream.adaptive.stream_headers={stream_header_str}')
+                    stream_header_str = "&".join([f"{k}={v}" for k, v in headers.items() if v])
+                    if stream_header_str:
+                        lines.append(f'#KODIPROP:inputstream.adaptive.stream_headers={stream_header_str}')
 
             # ৬. স্ট্রিম URL
             lines.append(clean_url)
             channel_entries.append("\n".join(lines))
 
-    # প্লেলিস্ট হেডার
     header_lines = [
         f'#EXTM3U name="{playlist_name}"',
         '# =====================================================',
@@ -607,7 +611,7 @@ def process():
             
             raw_channels = []
 
-            # অটো-ডিটেকশন: প্রথমে নিখুঁত JSON পার্স করার চেষ্টা করবে
+            # অটো-ডিটেকশন
             is_json = False
             try:
                 data = json.loads(content_text)
@@ -625,10 +629,8 @@ def process():
                 print(f"-> Detected M3U Source. Converting to JSON & M3U...")
                 raw_channels = parse_m3u_content(content_text)
 
-            # প্রোমো চ্যানেল যোগ করা
             all_channels = [PROMO_CHANNEL] + raw_channels
 
-            # JSON ফাইল ডাটা
             final_json = {
                 "playlist_name": playlist_name,
                 "developer": DEVELOPER_INFO["developer"],
@@ -641,11 +643,9 @@ def process():
 
             safe_name = playlist_name.lower().replace(" ", "_")
 
-            # ১. JSON ফাইল সেভ
             with open(f"{safe_name}.json", "w", encoding="utf-8") as f:
                 json.dump(final_json, f, indent=4, ensure_ascii=False)
 
-            # ২. M3U ফাইল সেভ (DRM Key এবং হেডার সহ)
             m3u_content = generate_m3u(playlist_name, all_channels, last_update_time)
             with open(f"{safe_name}.m3u", "w", encoding="utf-8") as f:
                 f.write(m3u_content)
