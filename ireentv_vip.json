@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 380,
-    "last_update": "2026-09-14 12:00:08 AM",
+    "channels_amount": 376,
+    "last_update": "2026-09-14 12:43:55 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -253,22 +253,6 @@
             "logo": "",
             "group": "General",
             "url": "https://ireentv.pages.dev/Atn_News_Server_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Jago News 24 Server 1",
-            "tvg_id": "Combined_M3U_32_aHR0cHM6",
-            "logo": "https://i.ibb.co.com/KpRt3cT5/Jago-News-24.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Jago_News_24_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Jago News 24 Server 2",
-            "tvg_id": "Combined_M3U_33_aHR0cHM6",
-            "logo": "https://i.ibb.co.com/KpRt3cT5/Jago-News-24.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Jago_News_24_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -768,14 +752,6 @@
             "headers": {}
         },
         {
-            "name": "Channel S",
-            "tvg_id": "Combined_M3U_104_aHR0cHM6",
-            "logo": "https://i.ibb.co.com/Vp2HKT0s/Channel-S-TV.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Channel_S.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Ayna TV",
             "tvg_id": "Combined_M3U_105_aHR0cHM6",
             "logo": "https://i.ibb.co.com/5hy7S3wB/Ayna-TV.png",
@@ -848,19 +824,11 @@
             "headers": {}
         },
         {
-            "name": "Thikana TV Server 1",
+            "name": "Thikana TV",
             "tvg_id": "Combined_M3U_114_aHR0cHM6",
             "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Thikana TV Server 2",
-            "tvg_id": "Combined_M3U_115_aHR0cHM6",
-            "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Thikana_TV.m3u8",
             "headers": {}
         },
         {
@@ -1250,16 +1218,16 @@
         {
             "name": "Sony Max HD Server 1",
             "tvg_id": "Combined_M3U_182_aHR0cHM6",
-            "logo": "",
-            "group": "General",
+            "logo": "https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",
+            "group": "Movies",
             "url": "https://ireentv.pages.dev/Sony_Max_HD_Server_1.m3u8",
             "headers": {}
         },
         {
             "name": "Sony Max HD Server 2",
             "tvg_id": "Combined_M3U_183_aHR0cDov",
-            "logo": "",
-            "group": "General",
+            "logo": "https://assets-prod.services.toffeelive.com/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",
+            "group": "Movies",
             "url": "https://ireentv.pages.dev/Sony_Max_HD_Server_2.m3u8",
             "headers": {}
         },
