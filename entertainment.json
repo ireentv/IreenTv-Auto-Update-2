@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 879,
-    "last_update": "2026-09-14 05:59:28 AM",
+    "channels_amount": 880,
+    "last_update": "2026-09-14 10:46:15 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1640,11 +1640,11 @@
             "headers": {}
         },
         {
-            "name": "Crime + Investigation Asia (1080p)",
+            "name": "Crime + Investigation Asia HD (720p) [Geo-blocked]",
             "tvg_id": "CrimePlusInvestigationAsia.sg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
             "group": "Entertainment",
-            "url": "http://nmk.ioapk.com:5050/4gtv-live027/index.m3u8",
+            "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
             "headers": {}
         },
         {
@@ -3554,7 +3554,7 @@
         {
             "name": "Manoranjan Prime (576p)",
             "tvg_id": "ManoranjanPrime.in@SD",
-            "logo": "",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrGNUi4TMw8UslbIJF1ja-NrA1Ps656h9cxrj6aTfl3Cm-_C2gxtBBAKz-fLdPk7rJ0YrXfNvcQaBSDFTUdPgSYt8sBA0xn4aSMPnl-J2hiKa7P3Ybjd3BlE3XjoAJ0d7HNvhy8mZFDbf1JfAdMVBpdnPBuim3y3x0zMw1D3ryOw3NCoOsPA5fMMplPbU/s500/manoranjan-prime-tv-schedule-on-dd-freedish.jpg",
             "group": "Entertainment",
             "url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8",
             "headers": {}
@@ -6797,6 +6797,14 @@
             "logo": "https://i.imgur.com/MDHN2Vc.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "YES",
+            "tvg_id": "YES.mv@SD",
+            "logo": "https://i.imgur.com/HARIGQl.png",
+            "group": "Culture;Entertainment;Sports",
+            "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8",
             "headers": {}
         },
         {

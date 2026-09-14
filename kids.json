@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 408,
-    "last_update": "2026-09-14 05:59:28 AM",
+    "channels_amount": 407,
+    "last_update": "2026-09-14 10:46:15 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1672,11 +1672,11 @@
             "headers": {}
         },
         {
-            "name": "Nick Jr. Latin America (1080p)",
+            "name": "Nick Jr. Latin America (720p)",
             "tvg_id": "NickJrLatinAmerica.us@Panregional",
             "logo": "https://i.imgur.com/KT4tdQs.png",
             "group": "Kids",
-            "url": "http://177.234.249.178:8888/NICK-JR/index.m3u8",
+            "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
             "headers": {}
         },
         {
@@ -2069,14 +2069,6 @@
             "logo": "https://i.imgur.com/Zxuah2b.png",
             "group": "Kids",
             "url": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd",
-            "headers": {}
-        },
-        {
-            "name": "Pakapaka (576p)",
-            "tvg_id": "Pakapaka.ar@SD",
-            "logo": "https://i.imgur.com/GJbRWwH.png",
-            "group": "Kids",
-            "url": "http://138.121.113.175:8000/play/a04d/index.m3u8",
             "headers": {}
         },
         {
