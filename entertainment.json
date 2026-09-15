@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 880,
-    "last_update": "2026-09-15 05:46:43 AM",
+    "channels_amount": 883,
+    "last_update": "2026-09-15 10:20:09 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -328,11 +328,11 @@
             "headers": {}
         },
         {
-            "name": "Adult Swim Latin America (720p)",
+            "name": "Adult Swim Latin America (1080p) [Geo-blocked]",
             "tvg_id": "AdultSwimLatinAmerica.us@Panregional",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
             "group": "Entertainment",
-            "url": "https://streamer.metronethn.com/AdultSwim/index.m3u8",
+            "url": "http://138.121.15.230:9002/ADULT-SWIM/index.m3u8",
             "headers": {}
         },
         {
@@ -1544,14 +1544,6 @@
             "headers": {}
         },
         {
-            "name": "Color Blind TV (1080p)",
-            "tvg_id": "ColorBlindTV.bz@SD",
-            "logo": "https://i.imgur.com/vlVZa7N.png",
-            "group": "Entertainment",
-            "url": "https://streamer2.nexgen.bz/12-CBTV/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Colors Bangla HD (1080p)",
             "tvg_id": "ColorsBangla.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png",
@@ -1597,6 +1589,14 @@
             "logo": "https://i.imgur.com/LjNFTdC.png",
             "group": "Entertainment",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Colors Super (396p)",
+            "tvg_id": "ColorsSuper.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png",
+            "group": "Entertainment",
+            "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
             "headers": {}
         },
         {
@@ -2588,7 +2588,7 @@
             "tvg_id": "HiDost.in@SD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Hi_Dost.png",
             "group": "Entertainment",
-            "url": "https://cdn-1.pishow.tv/live/224/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/224/master.m3u8",
             "headers": {}
         },
         {
@@ -3092,7 +3092,7 @@
             "tvg_id": "KhushbooBangla.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KHUSHBOO_BANGLA/images/LOGO_HD/image.png",
             "group": "Entertainment",
-            "url": "https://cdn-4.pishow.tv/live/1473/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1473/master.m3u8",
             "headers": {}
         },
         {
@@ -3125,6 +3125,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/en/d/d9/KMCT_Monroe%27s_Christian_Television_logo.png",
             "group": "Entertainment",
             "url": "https://wggstv16.ddns.net:9953/hls/KMCT1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "KNino (1080p)",
+            "tvg_id": "KNino.us@SD",
+            "logo": "https://ipuntotv.com/IMAGES/Knino-logo.png",
+            "group": "Entertainment",
+            "url": "https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/kninohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
             "headers": {}
         },
         {
@@ -3500,7 +3508,7 @@
             "tvg_id": "MahaPunjabi.in@SD",
             "logo": "https://i.imgur.com/AWUcSb8.png",
             "group": "Entertainment",
-            "url": "https://cdn-4.pishow.tv/live/1521/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1521/master.m3u8",
             "headers": {}
         },
         {
@@ -4448,6 +4456,14 @@
             "headers": {}
         },
         {
+            "name": "Nitro",
+            "tvg_id": "Nitro.de@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png",
+            "group": "Entertainment",
+            "url": "https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Norteña TV (576p)",
             "tvg_id": "NortenaTv.ve@HD",
             "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxdsPdnBB5hs1XZHDHtf0p8T861Vl1UlHE1ljD_IEtI9KlFtEAYsesMHh8RLuW6nIFLY&usqp=CAU",
@@ -4988,7 +5004,7 @@
             "tvg_id": "PolimerTV.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
-            "url": "https://cdn-2.pishow.tv/live/1241/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1241/master.m3u8",
             "headers": {}
         },
         {
@@ -5384,6 +5400,22 @@
             "headers": {}
         },
         {
+            "name": "ROCK Entertainment HD (720p)",
+            "tvg_id": "ROCKEntertainment.sg@HD",
+            "logo": "https://i.imgur.com/PWzq0aU.png",
+            "group": "Entertainment",
+            "url": "http://58.8.186.128:10006/bysid/2612",
+            "headers": {}
+        },
+        {
+            "name": "ROCK X Stream (720p)",
+            "tvg_id": "ROCKXStream.sg@HD",
+            "logo": "https://i.ibb.co/TM8d2yp8/Rock-X-Stream.webp",
+            "group": "Entertainment",
+            "url": "http://58.8.186.128:10007/bysid/2811",
+            "headers": {}
+        },
+        {
             "name": "ROTV Valencia (720p)",
             "tvg_id": "ROTVValencia.es@SD",
             "logo": "https://i.imgur.com/0TDnVQ4.png",
@@ -5428,7 +5460,7 @@
             "tvg_id": "RupasiBangla.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/s143733_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
-            "url": "https://cdn-4.pishow.tv/live/1039/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1039/master.m3u8",
             "headers": {}
         },
         {
@@ -5749,14 +5781,6 @@
             "logo": "https://i.imgur.com/dZtJHAe.png",
             "group": "Entertainment",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Vijay HD (1080p)",
-            "tvg_id": "StarVijay.in@HD",
-            "logo": "https://i.imgur.com/dZtJHAe.png",
-            "group": "Entertainment",
-            "url": "http://149.71.34.166:8000/play/a06i/index.m3u8",
             "headers": {}
         },
         {
@@ -6109,14 +6133,6 @@
             "logo": "https://images.pluto.tv/channels/61c09039ebd75200072587f9/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-61c08d7c73bdb800070eef0a.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "The National Channel 10 (1080p)",
-            "tvg_id": "TheNationalChannel10.bz@SD",
-            "logo": "https://i.imgur.com/j2SJ9tA.png",
-            "group": "Entertainment",
-            "url": "https://streamer2.nexgen.bz/10-TNC/index.m3u8",
             "headers": {}
         },
         {
@@ -6493,6 +6509,14 @@
             "logo": "https://i.imgur.com/XcrkfGh.png",
             "group": "Entertainment",
             "url": "https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "tvN Asia HD (720p)",
+            "tvg_id": "tvNAsia.hk@HD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/960px-Logo_tvN.svg.png",
+            "group": "Entertainment",
+            "url": "http://58.8.186.128:10005/bysid/2518",
             "headers": {}
         },
         {

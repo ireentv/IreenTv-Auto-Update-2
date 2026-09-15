@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 407,
-    "last_update": "2026-09-15 05:46:43 AM",
+    "last_update": "2026-09-15 10:20:09 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -500,7 +500,7 @@
             "tvg_id": "Chithiram.in@SD",
             "logo": "https://i.imgur.com/xv9cWSh.png",
             "group": "Kids",
-            "url": "https://cdn-6.pishow.tv/live/1243/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1243/master.m3u8",
             "headers": {}
         },
         {
@@ -941,14 +941,6 @@
             "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg",
             "group": "Animation;Kids",
             "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Fix & Foxi (540p)",
-            "tvg_id": "FixFoxi.de@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fix_and_Fox_Channel_Logo.png/250px-Fix_and_Fox_Channel_Logo.png",
-            "group": "Kids",
-            "url": "https://live.omni3.pl/fixfoxide/index.m3u8?token=ebnk.xyz",
             "headers": {}
         },
         {
@@ -1624,6 +1616,14 @@
             "headers": {}
         },
         {
+            "name": "Nick Jr. (720p)",
+            "tvg_id": "NickJr.it@SD",
+            "logo": "https://i.imgur.com/6p3eFgf.png",
+            "group": "Kids",
+            "url": "http://102.129.186.182:81/nick/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Nick Jr. (576p)",
             "tvg_id": "NickJr.ru@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
@@ -1648,6 +1648,14 @@
             "headers": {}
         },
         {
+            "name": "Nick Jr. Asia HD (720p)",
+            "tvg_id": "NickJrAsia.sg@HD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+            "group": "Kids",
+            "url": "http://58.8.186.128:10003/bysid/2330",
+            "headers": {}
+        },
+        {
             "name": "Nick Jr. Club (720p)",
             "tvg_id": "NickJrClub.de@DACH",
             "logo": "https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png",
@@ -1669,14 +1677,6 @@
             "logo": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png",
             "group": "Kids",
             "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Nick Jr. Latin America (720p)",
-            "tvg_id": "NickJrLatinAmerica.us@Panregional",
-            "logo": "https://i.imgur.com/KT4tdQs.png",
-            "group": "Kids",
-            "url": "https://streamer.metronethn.com/NickJr/index.m3u8",
             "headers": {}
         },
         {

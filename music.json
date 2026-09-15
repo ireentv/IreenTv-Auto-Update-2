@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 747,
-    "last_update": "2026-09-15 05:46:43 AM",
+    "channels_amount": 744,
+    "last_update": "2026-09-15 10:20:09 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -452,7 +452,7 @@
             "tvg_id": "B4UMusic.in@India",
             "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
             "group": "Music",
-            "url": "https://cdn-2.pishow.tv/live/415/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/415/master.m3u8",
             "headers": {}
         },
         {
@@ -1044,7 +1044,7 @@
             "tvg_id": "DhoomMusic.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png",
             "group": "Music",
-            "url": "https://cdn-1.pishow.tv/live/1456/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1456/master.m3u8",
             "headers": {}
         },
         {
@@ -1589,14 +1589,6 @@
             "logo": "https://i.imgur.com/Cx5V233.jpg",
             "group": "Music",
             "url": "http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Hitz TV (1080p)",
-            "tvg_id": "HitzTV.bz@SD",
-            "logo": "https://i.imgur.com/SbZgsDh.png",
-            "group": "Music",
-            "url": "https://streamer2.nexgen.bz/13-HITZ/index.m3u8",
             "headers": {}
         },
         {
@@ -2325,14 +2317,6 @@
             "logo": "https://i.imgur.com/tCg7owd.png",
             "group": "Music",
             "url": "https://movil.ejeserver.com/live/masmusica.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Max TV (1080p)",
-            "tvg_id": "MaxTV.bz@SD",
-            "logo": "https://i.imgur.com/TF4snV6.jpeg",
-            "group": "Music",
-            "url": "https://streamer2.nexgen.bz/14-MAX/index.m3u8",
             "headers": {}
         },
         {
@@ -3100,7 +3084,7 @@
             "tvg_id": "OrangeBanglaTV.in@SD",
             "logo": "https://i.imgur.com/wjSaHj5.png",
             "group": "Music",
-            "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1499/master.m3u8",
             "headers": {}
         },
         {
@@ -3188,7 +3172,7 @@
             "tvg_id": "PeppersTV.in@SD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Peppers_TV.png",
             "group": "Music",
-            "url": "https://cdn-2.pishow.tv/live/1383/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1383/master.m3u8",
             "headers": {}
         },
         {
@@ -3404,7 +3388,7 @@
             "tvg_id": "PTCChakde.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png",
             "group": "Music",
-            "url": "https://cdn-1.pishow.tv/live/449/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/449/master.m3u8",
             "headers": {}
         },
         {
@@ -3916,7 +3900,7 @@
             "tvg_id": "RajMusixTelugu.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LOGO_HD/image.png",
             "group": "Music",
-            "url": "https://cdn-1.pishow.tv/live/1213/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1213/master.m3u8",
             "headers": {}
         },
         {
@@ -4204,7 +4188,7 @@
             "tvg_id": "SangeetBangla.in@SD",
             "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png",
             "group": "Music",
-            "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1143/master.m3u8",
             "headers": {}
         },
         {
@@ -4220,7 +4204,7 @@
             "tvg_id": "SangeetMarathi.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png",
             "group": "Music",
-            "url": "https://cdn-3.pishow.tv/live/1229/master.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1229/master.m3u8",
             "headers": {}
         },
         {
@@ -5629,14 +5613,6 @@
             "logo": "https://i.imgur.com/294FDCB.png",
             "group": "Music",
             "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "WAVE TV (480p)",
-            "tvg_id": "WAVETV.bz@SD",
-            "logo": "https://i.imgur.com/V8Hfgis.jpg",
-            "group": "Music",
-            "url": "https://streamer2.nexgen.bz/08-WAVE/index.m3u8",
             "headers": {}
         },
         {
