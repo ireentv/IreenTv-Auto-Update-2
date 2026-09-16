@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 379,
-    "last_update": "2026-09-16 01:28:36 PM",
+    "channels_amount": 377,
+    "last_update": "2026-09-16 07:18:26 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -352,19 +352,19 @@
             "headers": {}
         },
         {
-            "name": "Green tv",
-            "tvg_id": "Combined_M3U_47_aHR0cHM6",
-            "logo": "https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Green_tv.m3u8",
+            "name": "NAGORIK TV HD Server 1",
+            "tvg_id": "Combined_M3U_49_aHR0cHM6",
+            "logo": "https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png",
+            "group": "BANGLA",
+            "url": "https://ireentv.pages.dev/NAGORIK_TV_HD_Server_1.m3u8",
             "headers": {}
         },
         {
-            "name": "NAGORIK TV HD",
+            "name": "NAGORIK TV HD Server 2",
             "tvg_id": "Combined_M3U_50_aHR0cDov",
             "logo": "https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png",
             "group": "BANGLA",
-            "url": "https://ireentv.pages.dev/NAGORIK_TV_HD.m3u8",
+            "url": "https://ireentv.pages.dev/NAGORIK_TV_HD_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -784,14 +784,6 @@
             "headers": {}
         },
         {
-            "name": "Ayna TV",
-            "tvg_id": "Combined_M3U_108_aHR0cHM6",
-            "logo": "https://i.ibb.co.com/5hy7S3wB/Ayna-TV.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Ayna_TV.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Global TV Server 1",
             "tvg_id": "Combined_M3U_109_aHR0cHM6",
             "logo": "https://i.ibb.co.com/Q7Q7X64N/Global-TV.png",
@@ -856,19 +848,11 @@
             "headers": {}
         },
         {
-            "name": "Thikana TV Server 1",
-            "tvg_id": "Combined_M3U_117_aHR0cHM6",
-            "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Thikana TV Server 2",
+            "name": "Thikana TV",
             "tvg_id": "Combined_M3U_118_aHR0cHM6",
             "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Thikana_TV.m3u8",
             "headers": {}
         },
         {
@@ -1725,14 +1709,6 @@
             "logo": "https://iptvx.one/picons/bridge-tv-ruxit.png",
             "group": "Music",
             "url": "https://ireentv.pages.dev/Bridge__nt.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "KpopTV Play",
-            "tvg_id": "Combined_M3U_246_aHR0cHM6",
-            "logo": "https://i.imgur.com/Tf0vweF.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/KpopTV_Play.m3u8",
             "headers": {}
         },
         {
@@ -2672,11 +2648,19 @@
             "headers": {}
         },
         {
-            "name": "Star Sports Select 1",
+            "name": "Star Sports Select 1 Server 1",
+            "tvg_id": "Combined_M3U_373_aHR0cHM6",
+            "logo": "https://i.ibb.co.com/d05Lry8M/Star-sports-select-1.webp",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Sports Select 1 Server 2",
             "tvg_id": "Combined_M3U_374_aHR0cDov",
             "logo": "https://i.ibb.co.com/d05Lry8M/Star-sports-select-1.webp",
             "group": "Sports",
-            "url": "https://ireentv.pages.dev/Star_Sports_Select_1.m3u8",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_2.m3u8",
             "headers": {}
         },
         {
