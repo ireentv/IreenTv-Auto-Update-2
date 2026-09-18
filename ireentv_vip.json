@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 390,
-    "last_update": "2026-09-18 03:30:41 PM",
+    "channels_amount": 387,
+    "last_update": "2026-09-18 08:15:31 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -49,10 +49,18 @@
         },
         {
             "name": "T Sports HD Server 2",
-            "tvg_id": "Combined_M3U_8_aHR0cDov",
+            "tvg_id": "Combined_M3U_5_aHR0cHM6",
             "logo": "https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/T_Sports_HD_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "T Sports HD Server 3",
+            "tvg_id": "Combined_M3U_8_aHR0cDov",
+            "logo": "https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/T_Sports_HD_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -312,27 +320,11 @@
             "headers": {}
         },
         {
-            "name": "Asian TV Server 1",
-            "tvg_id": "Combined_M3U_44_aHR0cHM6",
-            "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Asian_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Asian TV Server 2",
-            "tvg_id": "Combined_M3U_45_aHR0cHM6",
-            "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Asian_TV_Server_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Asian TV Server 3",
+            "name": "Asian TV",
             "tvg_id": "Combined_M3U_46_aHR0cHM6",
             "logo": "https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Asian_TV_Server_3.m3u8",
+            "url": "https://ireentv.pages.dev/Asian_TV.m3u8",
             "headers": {}
         },
         {
@@ -561,7 +553,7 @@
         },
         {
             "name": "Bangla TV Server 1",
-            "tvg_id": "Combined_M3U_79_aHR0cHM6",
+            "tvg_id": "Combined_M3U_80_aHR0cHM6",
             "logo": "https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Bangla_TV_Server_1.m3u8",
@@ -569,7 +561,7 @@
         },
         {
             "name": "Bangla TV Server 2",
-            "tvg_id": "Combined_M3U_80_aHR0cHM6",
+            "tvg_id": "Combined_M3U_81_aHR0cHM6",
             "logo": "https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Bangla_TV_Server_2.m3u8",
@@ -577,18 +569,10 @@
         },
         {
             "name": "Bangla TV Server 3",
-            "tvg_id": "Combined_M3U_81_aHR0cHM6",
-            "logo": "https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Bangla_TV_Server_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Bangla TV Server 4",
             "tvg_id": "Combined_M3U_82_aHR0cDov",
             "logo": "https://s3.aynaott.com/storage/5b22893ae4e816ef2cf87e63c96e9e08",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Bangla_TV_Server_4.m3u8",
+            "url": "https://ireentv.pages.dev/Bangla_TV_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -1821,14 +1805,6 @@
             "logo": "https://i.imgur.com/l3X9Gg4.png",
             "group": "Music",
             "url": "https://ireentv.pages.dev/Trace_Mziki.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Trace Ayiti",
-            "tvg_id": "Combined_M3U_264_aHR0cHM6",
-            "logo": "https://i.imgur.com/KkJ6fet.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/Trace_Ayiti.m3u8",
             "headers": {}
         },
         {
