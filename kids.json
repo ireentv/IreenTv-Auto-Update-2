@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 407,
-    "last_update": "2026-09-18 05:27:39 AM",
+    "channels_amount": 416,
+    "last_update": "2026-09-18 10:06:03 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -568,6 +568,22 @@
             "headers": {}
         },
         {
+            "name": "Detski mir (576p)",
+            "tvg_id": "Detskimir.ru@SD",
+            "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png",
+            "group": "Kids",
+            "url": "http://str2.iptvhd.ru:8080/Teleklub/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Detskiy (576p)",
+            "tvg_id": "Detskiy.ru@SD",
+            "logo": "https://mt.media/upload/iblock/c22/pndw8yi2jwgppdrjikm3eusqp8087kr3.png",
+            "group": "Kids",
+            "url": "https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Detvora+ (1080p)",
             "tvg_id": "DetvoraPlus.ru@HD",
             "logo": "https://interra-cdn-europe1.b-cdn.net/logo-detvora.png",
@@ -605,6 +621,14 @@
             "logo": "https://i.imgur.com/aOa73uT.png",
             "group": "Kids",
             "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Disney Channel (576p)",
+            "tvg_id": "DisneyChannel.il@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+            "group": "Kids",
+            "url": "http://str2.iptvhd.ru:8080/disney/index.m3u8",
             "headers": {}
         },
         {
@@ -1248,6 +1272,14 @@
             "headers": {}
         },
         {
+            "name": "Kapitan Fantastika HD (1080p)",
+            "tvg_id": "KapitanFantastika.ru@HD",
+            "logo": "https://i.imgur.com/K3PSHiT.png",
+            "group": "Kids",
+            "url": "http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Kartoon Channel (1080p)",
             "tvg_id": "KartoonChannel.us@SD",
             "logo": "https://i.imgur.com/1luzP3T.png",
@@ -1600,11 +1632,27 @@
             "headers": {}
         },
         {
+            "name": "Nick Jr. (540p)",
+            "tvg_id": "NickJr.hr@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
+            "group": "Kids",
+            "url": "http://176.61.157.250/NickJr/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Nick Jr.",
             "tvg_id": "NickJr.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
             "group": "Kids",
             "url": "http://88.212.15.19/live/nick_junior_hun/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Nick Jr. (576p)",
+            "tvg_id": "NickJr.il@SD",
+            "logo": "https://i.imgur.com/KT4tdQs.png",
+            "group": "Kids",
+            "url": "http://str2.iptvhd.ru:8080/nickjr/index.m3u8",
             "headers": {}
         },
         {
@@ -2176,6 +2224,14 @@
             "headers": {}
         },
         {
+            "name": "PLUSPLUS HD (1080p) [Not 24/7]",
+            "tvg_id": "PLUSPLUS.ua@HD",
+            "logo": "https://i.imgur.com/9bPhStm.png",
+            "group": "Kids",
+            "url": "https://iptv.prosto.tv/ch066/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Pluto TV Junior (720p)",
             "tvg_id": "PlutoTVJunior.de@ES",
             "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
@@ -2688,6 +2744,14 @@
             "headers": {}
         },
         {
+            "name": "STS kids HD (1080p)",
+            "tvg_id": "STSkids.ru@HD",
+            "logo": "https://i.imgur.com/o9kLpAL.png",
+            "group": "Kids",
+            "url": "http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test",
+            "headers": {}
+        },
+        {
             "name": "STS kids International (576p)",
             "tvg_id": "STSkids.ru@International",
             "logo": "https://i.imgur.com/o9kLpAL.png",
@@ -2984,6 +3048,14 @@
             "headers": {}
         },
         {
+            "name": "TraLaLa TV",
+            "tvg_id": "TraLaLaTV.ro@SD",
+            "logo": "https://i.imgur.com/xJBMnjy.png",
+            "group": "Kids",
+            "url": "https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Transformers",
             "tvg_id": "TransformersTV.us@CA",
             "logo": "https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png",
@@ -3085,14 +3157,6 @@
             "logo": "https://i.imgur.com/HHmc14i.png",
             "group": "Kids",
             "url": "https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Unikum (576p)",
-            "tvg_id": "Unikum.ru@SD",
-            "logo": "https://i.imgur.com/kSJZjDL.png",
-            "group": "Kids",
-            "url": "http://45.145.32.13:20440/nauka/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -3229,6 +3293,14 @@
             "logo": "https://i.imgur.com/Ia3acCB.png",
             "group": "Kids",
             "url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Уникум (576p)",
+            "tvg_id": "Unikum.ru@SD",
+            "logo": "https://i.imgur.com/kSJZjDL.png",
+            "group": "Kids",
+            "url": "http://31.148.48.15/Detskiy/index.m3u8",
             "headers": {}
         },
         {

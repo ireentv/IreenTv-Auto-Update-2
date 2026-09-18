@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 744,
-    "last_update": "2026-09-18 05:27:39 AM",
+    "channels_amount": 755,
+    "last_update": "2026-09-18 10:06:03 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -14,6 +14,14 @@
             "headers": {},
             "drm": {},
             "kodi_props": {}
+        },
+        {
+            "name": "1HD Music Television (1080p)",
+            "tvg_id": "1HDMusicTelevision.ru@HD",
+            "logo": "https://i.imgur.com/4Ww7CsR.png",
+            "group": "Music",
+            "url": "http://176.118.197.101/1HD/index.m3u8",
+            "headers": {}
         },
         {
             "name": "1HD Music Television (1080p)",
@@ -464,8 +472,16 @@
             "headers": {}
         },
         {
-            "name": "Balle Balle (720p)",
+            "name": "Balle Balle (576p)",
             "tvg_id": "BalleBalle.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
+            "group": "Music",
+            "url": "https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Balle Balle HD (720p)",
+            "tvg_id": "BalleBalle.in@HD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
             "group": "Music",
             "url": "https://mcncdndigital.com/balleballetv/index.m3u8",
@@ -560,6 +576,14 @@
             "headers": {}
         },
         {
+            "name": "Boogle Bollywood (720p)",
+            "tvg_id": "BoogleBollywood.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Boogle_Bollywood.png",
+            "group": "Music",
+            "url": "https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+            "headers": {}
+        },
+        {
             "name": "Boom TV (1080p)",
             "tvg_id": "BoomTV.ro@HD",
             "logo": "https://live.radioboom.ro/live-tv/poster.jpg",
@@ -613,6 +637,14 @@
             "logo": "https://i.imgur.com/EazL8w7.png",
             "group": "Music",
             "url": "http://stream.mcquack.net/92/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BRIDGE Fresh (1080p)",
+            "tvg_id": "BRIDGEFresh.ru@SD",
+            "logo": "https://i.imgur.com/IkUhaiG.png",
+            "group": "Music",
+            "url": "http://str2.iptvhd.ru:8080/Bridge_TV_HD/index.m3u8",
             "headers": {}
         },
         {
@@ -1189,6 +1221,14 @@
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETVMusic12.png",
             "group": "Music",
             "url": "https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "ETV Music (1080p)",
+            "tvg_id": "ETVMusic.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETVMusic12.png",
+            "group": "Music",
+            "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
             "headers": {}
         },
         {
@@ -2320,6 +2360,14 @@
             "headers": {}
         },
         {
+            "name": "Mastiii (576p)",
+            "tvg_id": "Mastiii.in@SD",
+            "logo": "https://i.imgur.com/lxgXHx4.png",
+            "group": "Music",
+            "url": "https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Mazzika (576p)",
             "tvg_id": "Mazzika.eg@SD",
             "logo": "https://i.imgur.com/P7PUHIx.png",
@@ -2456,11 +2504,11 @@
             "headers": {}
         },
         {
-            "name": "Mezzo",
+            "name": "Mezzo (1080p)",
             "tvg_id": "Mezzo.fr@SD",
             "logo": "https://i.imgur.com/auNdGeW.png",
             "group": "Music",
-            "url": "http://158.101.222.193:88/georgia_play.php?id=mezzo",
+            "url": "http://str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8",
             "headers": {}
         },
         {
@@ -2533,6 +2581,30 @@
             "logo": "https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png",
             "group": "Music",
             "url": "https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Mooz Dance",
+            "tvg_id": "MoozDance.ro@SD",
+            "logo": "https://i.imgur.com/aX70RD2.png",
+            "group": "Music",
+            "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Mooz Hits",
+            "tvg_id": "MoozHits.ro@SD",
+            "logo": "https://i.imgur.com/GwATd3Y.png",
+            "group": "Music",
+            "url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Mooz Ro!",
+            "tvg_id": "MoozRo.ro@SD",
+            "logo": "https://i.imgur.com/Ft24x5T.png",
+            "group": "Music",
+            "url": "https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8",
             "headers": {}
         },
         {
@@ -2696,6 +2768,14 @@
             "headers": {}
         },
         {
+            "name": "MusicBox Gold (576p)",
+            "tvg_id": "MusicBoxGold.ru@SD",
+            "logo": "https://i.imgur.com/3arWh0k.png",
+            "group": "Music",
+            "url": "http://str2.iptvhd.ru:8080/360TuneBox/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "MusicTop (1080p)",
             "tvg_id": "MusicTop.ar@SD",
             "logo": "https://cdn.mitvstatic.com/channels/ar_musictop_m.png",
@@ -2813,6 +2893,14 @@
             "logo": "https://i.imgur.com/c2rF3SS.png",
             "group": "Movies;Music",
             "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "NH BollyRaga (1080p)",
+            "tvg_id": "NHBollyRaga.in@HD",
+            "logo": "https://i.ibb.co/BKB9mv1K/NH-Bolly-Raga.png",
+            "group": "Music",
+            "url": "https://jmp2.uk/stvp-IN460001373",
             "headers": {}
         },
         {
@@ -4480,11 +4568,11 @@
             "headers": {}
         },
         {
-            "name": "Stingray iConcerts HD",
+            "name": "Stingray iConcerts HD (1080p)",
             "tvg_id": "StingrayiConcerts.ca@HD",
             "logo": "https://i.imgur.com/GKc7RFz.png",
             "group": "Music",
-            "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
+            "url": "http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8",
             "headers": {}
         },
         {

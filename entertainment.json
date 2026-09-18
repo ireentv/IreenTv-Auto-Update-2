@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 883,
-    "last_update": "2026-09-18 05:27:39 AM",
+    "channels_amount": 892,
+    "last_update": "2026-09-18 10:06:03 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -304,6 +304,14 @@
             "headers": {}
         },
         {
+            "name": "AbejalesTV (720p)",
+            "tvg_id": "AbejalesTV.ve@HD",
+            "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800",
+            "group": "Entertainment",
+            "url": "https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Acasa Gold",
             "tvg_id": "AcasaGold.ro@SD",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512",
@@ -560,11 +568,11 @@
             "headers": {}
         },
         {
-            "name": "Antena Stars (720p)",
+            "name": "Antena Stars",
             "tvg_id": "AntenaStars.ro@SD",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
             "group": "Entertainment",
-            "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+            "url": "https://live4dai.antenaplay.ro/live2_sdi07/live2_sdi07_600k.m3u8",
             "headers": {}
         },
         {
@@ -1272,6 +1280,14 @@
             "headers": {}
         },
         {
+            "name": "Captain (576p)",
+            "tvg_id": "Captain.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540",
+            "group": "Entertainment",
+            "url": "https://mumbai-edge.smartplaytv.in/captain/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Car Chase (720p)",
             "tvg_id": "CarChase.us@SD",
             "logo": "https://images.pluto.tv/channels/65244c403fd33c0008ffff31/colorLogoPNG.png",
@@ -1732,7 +1748,7 @@
             "tvg_id": "DDNational.in@HD",
             "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png",
             "group": "Entertainment",
-            "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8",
+            "url": "https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8",
             "headers": {}
         },
         {
@@ -1957,14 +1973,6 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png",
             "group": "Entertainment",
             "url": "https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Enterr 10 Rangeela (1080p)",
-            "tvg_id": "Enterr10Rangeela.in@SD",
-            "logo": "https://i.imgur.com/L4rv0Vm.png",
-            "group": "Entertainment",
-            "url": "http://103.185.24.134:3001/SUN-BANGLA-HD/index.m3u8",
             "headers": {}
         },
         {
@@ -2248,6 +2256,22 @@
             "headers": {}
         },
         {
+            "name": "Friday! International Kazakhstan (576p)",
+            "tvg_id": "FridayInternational.ru@Kazakhstan",
+            "logo": "https://i.imgur.com/N2z3EZC.png",
+            "group": "Entertainment",
+            "url": "https://fs.uplink.kz/bolshaya_pyatnica/mono.m3u8?token=onlinetv",
+            "headers": {}
+        },
+        {
+            "name": "Friends TV (1080p)",
+            "tvg_id": "FriendsTV.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png",
+            "group": "Entertainment",
+            "url": "https://server.playontv.in/friendstv/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Frusna Vägar",
             "tvg_id": "FrusnaVagar.se@SE",
             "logo": "https://images.pluto.tv/channels/61c19099bf8c520007a93cff/colorLogoPNG.png",
@@ -2269,6 +2293,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png",
             "group": "Entertainment",
             "url": "http://23.237.104.106:8080/USA_FUSE/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "FX (1080p)",
+            "tvg_id": "FX.ru@SD",
+            "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/478.png",
+            "group": "Entertainment",
+            "url": "http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8",
             "headers": {}
         },
         {
@@ -2565,6 +2597,14 @@
             "logo": "https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg",
             "group": "Entertainment",
             "url": "https://stream.guarotv.net:3592/hybrid/play.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Happy Channel",
+            "tvg_id": "HappyChannel.ro@SD",
+            "logo": "https://i.imgur.com/kpFaiku.png",
+            "group": "Entertainment",
+            "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
             "headers": {}
         },
         {
@@ -2904,6 +2944,14 @@
             "headers": {}
         },
         {
+            "name": "Jaya Plus (576p)",
+            "tvg_id": "JayaPlus.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png",
+            "group": "Culture;Entertainment",
+            "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Jaya TV (1080p)",
             "tvg_id": "JayaTV.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png",
@@ -3085,6 +3133,14 @@
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png",
             "group": "Entertainment;Movies",
             "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Kerala Vision (576p)",
+            "tvg_id": "KeralaVision.in@SD",
+            "logo": "https://i.imgur.com/SWNjyyp.png",
+            "group": "Entertainment",
+            "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
             "headers": {}
         },
         {
@@ -3512,11 +3568,11 @@
             "headers": {}
         },
         {
-            "name": "Mahaa Max (576p)",
+            "name": "Mahaa Max (1080p)",
             "tvg_id": "MahaaMax.in@SD",
             "logo": "https://objectstorage.ap-mumbai-1.oraclecloud.com/p/7Eg7LPw1gBcncVDrfwf__7yyrg13awaU6DmMk4gutavGYZgoAuAziv8e0aSEdU4G/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/MAHAA+MAX+LOGO.png",
             "group": "Entertainment",
-            "url": "https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8",
+            "url": "https://mumbai-edge.smartplaytv.in/MahaMax/index.m3u8",
             "headers": {}
         },
         {
@@ -4744,11 +4800,11 @@
             "headers": {}
         },
         {
-            "name": "People Are Awesome (720p)",
+            "name": "People Are Awesome (1080p)",
             "tvg_id": "PeopleAreAwesome.us@SD",
             "logo": "https://i.imgur.com/MsIx7Ax.png",
             "group": "Entertainment",
-            "url": "https://jukin-peopleareawesome-2-au.samsung.wurl.tv/playlist.m3u8",
+            "url": "https://mumbai-edge.smartplaytv.in/PeopleAreAwesome/index.m3u8",
             "headers": {}
         },
         {
@@ -5112,11 +5168,11 @@
             "headers": {}
         },
         {
-            "name": "Pulari TV",
+            "name": "Pulari TV (576p)",
             "tvg_id": "PulariTV.in@SD",
             "logo": "https://i.imgur.com/v5urG30.png",
             "group": "Entertainment",
-            "url": "https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8",
+            "url": "https://mumbai-edge.smartplaytv.in/PulariTV/index.m3u8",
             "headers": {}
         },
         {
@@ -5884,7 +5940,7 @@
             "tvg_id": "Svarozhychy.ua@SD",
             "logo": "https://i.imgur.com/VnAgQA4.png",
             "group": "Entertainment",
-            "url": "http://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
+            "url": "http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8",
             "headers": {}
         },
         {
@@ -6042,7 +6098,7 @@
         {
             "name": "Telugu One (1080p)",
             "tvg_id": "TeluguOne.in@HD",
-            "logo": "https://dvvlqr1rtlak3.cloudfront.net/TeluguOne/teluguone_logo_resized_400x200.png",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/teluguone.png",
             "group": "Entertainment",
             "url": "https://teluguone-yupptv.vgcdn.net/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/teluguone_2500k.m3u8",
             "headers": {}
@@ -6056,11 +6112,11 @@
             "headers": {}
         },
         {
-            "name": "TF1 (576p)",
+            "name": "TF1 (1080p)",
             "tvg_id": "TF1.fr@SD",
             "logo": "https://i.imgur.com/QxHt9NC.png",
             "group": "Entertainment",
-            "url": "https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8",
+            "url": "http://str2.iptvhd.ru:8080/TF1/index.m3u8",
             "headers": {}
         },
         {
@@ -6213,6 +6269,14 @@
             "logo": "https://i.imgur.com/gBokU5i.png",
             "group": "Entertainment",
             "url": "http://flussonic.linkintel.ru/tnt4/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "TNT4 HD (1080p)",
+            "tvg_id": "TNT4.ru@HD",
+            "logo": "https://i.imgur.com/gBokU5i.png",
+            "group": "Entertainment",
+            "url": "http://str2.iptvhd.ru:8080/TNT_4/index.m3u8",
             "headers": {}
         },
         {
@@ -6965,6 +7029,14 @@
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Telugu HD (720p)",
+            "tvg_id": "ZeeTelugu.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Entertainment",
+            "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8",
             "headers": {}
         },
         {
