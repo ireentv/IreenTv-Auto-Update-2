@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 387,
-    "last_update": "2026-09-19 11:52:29 PM",
+    "channels_amount": 386,
+    "last_update": "2026-09-20 02:21:32 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -888,19 +888,11 @@
             "headers": {}
         },
         {
-            "name": "Thikana TV Server 1",
+            "name": "Thikana TV",
             "tvg_id": "Combined_M3U_119_aHR0cHM6",
             "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Thikana TV Server 2",
-            "tvg_id": "Combined_M3U_120_aHR0cHM6",
-            "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Thikana_TV.m3u8",
             "headers": {}
         },
         {
@@ -1121,7 +1113,7 @@
         },
         {
             "name": "Star Jalsha Server 2",
-            "tvg_id": "Combined_M3U_151_aHR0cDov",
+            "tvg_id": "Combined_M3U_152_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_2.m3u8",
@@ -1129,7 +1121,7 @@
         },
         {
             "name": "Star Jalsha Server 3",
-            "tvg_id": "Combined_M3U_152_aHR0cDov",
+            "tvg_id": "Combined_M3U_153_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_3.m3u8",
@@ -1137,18 +1129,10 @@
         },
         {
             "name": "Star Jalsha Server 4",
-            "tvg_id": "Combined_M3U_153_aHR0cDov",
-            "logo": "https://i.imgur.com/IlufzR5.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Star_Jalsha_Server_4.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Jalsha Server 5",
             "tvg_id": "Combined_M3U_154_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Star_Jalsha_Server_5.m3u8",
+            "url": "https://ireentv.pages.dev/Star_Jalsha_Server_4.m3u8",
             "headers": {}
         },
         {
@@ -2752,11 +2736,19 @@
             "headers": {}
         },
         {
-            "name": "Star Sports Select 1",
+            "name": "Star Sports Select 1 Server 1",
+            "tvg_id": "Combined_M3U_381_aHR0cHM6",
+            "logo": "https://i.ibb.co.com/d05Lry8M/Star-sports-select-1.webp",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Sports Select 1 Server 2",
             "tvg_id": "Combined_M3U_382_aHR0cDov",
             "logo": "https://i.ibb.co.com/d05Lry8M/Star-sports-select-1.webp",
             "group": "Sports",
-            "url": "https://ireentv.pages.dev/Star_Sports_Select_1.m3u8",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_2.m3u8",
             "headers": {}
         },
         {
