@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 755,
-    "last_update": "2026-09-19 06:02:24 AM",
+    "channels_amount": 739,
+    "last_update": "2026-09-19 11:36:46 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -21,14 +21,6 @@
             "logo": "https://i.imgur.com/4Ww7CsR.png",
             "group": "Music",
             "url": "http://176.118.197.101/1HD/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "1HD Music Television (1080p)",
-            "tvg_id": "1HDMusicTelevision.ru@SD",
-            "logo": "https://i.imgur.com/4Ww7CsR.png",
-            "group": "Music",
-            "url": "https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8",
             "headers": {}
         },
         {
@@ -56,11 +48,19 @@
             "headers": {}
         },
         {
-            "name": "4 Kurd",
+            "name": "4Kurd",
             "tvg_id": "4Kurd.fr@SD",
             "logo": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
             "group": "Music",
             "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "4 Music",
+            "tvg_id": "4Music.fr@SD",
+            "logo": "",
+            "group": "Music",
+            "url": "https://musichls.persiana.live/hls/stream.m3u8",
             "headers": {}
         },
         {
@@ -160,7 +160,7 @@
             "headers": {}
         },
         {
-            "name": "70-80 TV (1080P)",
+            "name": "70-80 TV",
             "tvg_id": "7080TV.it@SD",
             "logo": "https://i.imgur.com/y4kNV3Q.png",
             "group": "Music",
@@ -197,6 +197,14 @@
             "logo": "https://i.imgur.com/KRakHAq.png",
             "group": "Music",
             "url": "http://stream.mcquack.net/285/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "A1 (576p)",
+            "tvg_id": "A1.ru@SD",
+            "logo": "https://i.imgur.com/2pAHdAi.png",
+            "group": "Music",
+            "url": "http://31.148.48.15/A1/index.m3u8",
             "headers": {}
         },
         {
@@ -272,7 +280,7 @@
             "headers": {}
         },
         {
-            "name": "Afrobeats (1080p)",
+            "name": "Afrobeat TV Entertainment (1080p)",
             "tvg_id": "AfrobeatTVEntertainment.uk@SD",
             "logo": "https://i.imgur.com/232ndRK.png",
             "group": "Music",
@@ -288,7 +296,7 @@
             "headers": {}
         },
         {
-            "name": "AlbKanale Music TV (1080p)",
+            "name": "AlbKanale Music TV HD (1080p)",
             "tvg_id": "AlbKanaleMusicTV.al@HD",
             "logo": "https://i.imgur.com/JdKxscs.png",
             "group": "Music",
@@ -312,7 +320,7 @@
             "headers": {}
         },
         {
-            "name": "Alterna TV (720p) [Not 24/7]",
+            "name": "AlternaTV (720p) [Not 24/7]",
             "tvg_id": "AlternaTV.ar@SD",
             "logo": "https://tv.alterna.ar/alternatv.png",
             "group": "Culture;Documentary;Entertainment;General;Movies;Music",
@@ -320,19 +328,11 @@
             "headers": {}
         },
         {
-            "name": "AMC (1080p)",
+            "name": "AMC (Afghanistan) (1080p)",
             "tvg_id": "AMC.af@SD",
             "logo": "https://i.imgur.com/yj8RNnG.png",
             "group": "Music",
             "url": "https://amchls.wns.live/hls/stream.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Amedia 1 (576p)",
-            "tvg_id": "A1.ru@SD",
-            "logo": "https://i.imgur.com/2pAHdAi.png",
-            "group": "Music",
-            "url": "http://31.148.48.15/A1/index.m3u8",
             "headers": {}
         },
         {
@@ -448,7 +448,7 @@
             "headers": {}
         },
         {
-            "name": "Azahares Radio Multimedia (720p)",
+            "name": "Azahares Radiovisual Multimedia (720p)",
             "tvg_id": "AzaharesRadiovisualMultimedia.ar@SD",
             "logo": "https://i.imgur.com/g1BFoSs.png",
             "group": "Music",
@@ -512,19 +512,19 @@
             "headers": {}
         },
         {
-            "name": "BE@TTV (1080p)",
-            "tvg_id": "BEATTV.nl@SD",
-            "logo": "https://i.imgur.com/egK33Dj.png",
-            "group": "Entertainment;Music",
-            "url": "https://tv.beatfm.nl/live.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Beats Radio (480p)",
             "tvg_id": "BeatsRadio.ar@SD",
             "logo": "https://i.imgur.com/zkNUO5p.png",
             "group": "Music",
             "url": "https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BEATTV (1080p)",
+            "tvg_id": "BEATTV.nl@SD",
+            "logo": "https://i.imgur.com/egK33Dj.png",
+            "group": "Entertainment;Music",
+            "url": "https://tv.beatfm.nl/live.m3u8",
             "headers": {}
         },
         {
@@ -672,14 +672,6 @@
             "headers": {}
         },
         {
-            "name": "BTB Music (1080p)",
-            "tvg_id": "BTBMusic.pl@SD",
-            "logo": "https://btb.j00r.us/images/logo_BTBMusic.webp",
-            "group": "Music",
-            "url": "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Buenisima Radio TV",
             "tvg_id": "BuenisimaRadioTV.co@SD",
             "logo": "https://i.imgur.com/URKDlOZ.png",
@@ -768,11 +760,51 @@
             "headers": {}
         },
         {
-            "name": "City TV (576p) [Not 24/7]",
+            "name": "City Eden Birma Play [Not 24/7]",
+            "tvg_id": "CityEdenBirmaPlay.ru@HD",
+            "logo": "https://i.imgur.com/38Q5L5W.png",
+            "group": "Music",
+            "url": "https://cityeden.catcast.tv/content/34364/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "City Eden Classic Music [Not 24/7]",
+            "tvg_id": "CityEdenClassicMusic.ru@HD",
+            "logo": "https://i.imgur.com/l7BE8l6.png",
+            "group": "Music",
+            "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "City Eden Play [Not 24/7]",
+            "tvg_id": "CityEdenPlay.ru@HD",
+            "logo": "https://i.imgur.com/ozEqob9.png",
+            "group": "Music",
+            "url": "https://cityeden.catcast.tv/content/34100/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "City Eden Sirtaki TV [Not 24/7]",
+            "tvg_id": "CityEdenSirtakiTV.ru@HD",
+            "logo": "https://i.imgur.com/V3MTfyc.png",
+            "group": "Music",
+            "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "City TV (Bulgaria) (576p) [Not 24/7]",
             "tvg_id": "CityTV.bg@SD",
             "logo": "https://i.imgur.com/mFL452f.png",
             "group": "Music",
             "url": "https://tv.city.bg/play/tshls/citytv/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "CKNO-FM (616p)",
+            "tvg_id": "CKNOFM.ca@SD",
+            "logo": "https://i.imgur.com/sF2g7KE.png",
+            "group": "Music",
+            "url": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
             "headers": {}
         },
         {
@@ -1000,7 +1032,7 @@
             "headers": {}
         },
         {
-            "name": "DeepHouse District (1080p)",
+            "name": "Deep House District (1080p)",
             "tvg_id": "DeepHouseDistrict.nl@SD",
             "logo": "https://i.imgur.com/IV2Qvc0.png",
             "group": "Music",
@@ -1104,7 +1136,7 @@
             "headers": {}
         },
         {
-            "name": "Dream Türk (720p)",
+            "name": "Dream Turk (720p)",
             "tvg_id": "DreamTurk.tr@SD",
             "logo": "https://i.imgur.com/vJ8VaZi.png",
             "group": "Music",
@@ -1112,7 +1144,7 @@
             "headers": {}
         },
         {
-            "name": "DSTV (614p) [Not 24/7]",
+            "name": "DSTV (Bulgaria) (614p) [Not 24/7]",
             "tvg_id": "DSTV.bg@SD",
             "logo": "https://i.imgur.com/YMgzzkf.png",
             "group": "Music",
@@ -1217,14 +1249,6 @@
         },
         {
             "name": "ETV Music (1080p)",
-            "tvg_id": "ETVMusic.in@HD",
-            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETVMusic12.png",
-            "group": "Music",
-            "url": "https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "ETV Music (1080p)",
             "tvg_id": "ETVMusic.in@SD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETVMusic12.png",
             "group": "Music",
@@ -1264,7 +1288,7 @@
             "headers": {}
         },
         {
-            "name": "Fabulosa Estéreo 100.5 FM (720p)",
+            "name": "Fabulosa Estereo 100.5 FM (720p)",
             "tvg_id": "FabulosaEstereo1005FM.pa@SD",
             "logo": "https://i.imgur.com/YFmzkOp.png",
             "group": "Music",
@@ -1328,6 +1352,14 @@
             "headers": {}
         },
         {
+            "name": "First Music Channel (1080p)",
+            "tvg_id": "FirstMusicChannel.by@SD",
+            "logo": "https://i.imgur.com/YdyFJrl.png",
+            "group": "Music",
+            "url": "http://rtmp.one.by:1300",
+            "headers": {}
+        },
+        {
             "name": "First Music Channel Russia (1080p)",
             "tvg_id": "FirstMusicChannelRussia.by@SD",
             "logo": "https://i.imgur.com/rEo7nR1.png",
@@ -1368,7 +1400,15 @@
             "headers": {}
         },
         {
-            "name": "Folk Klub (720p)",
+            "name": "FMTV [Not 24/7]",
+            "tvg_id": "FMTV.uk@SD",
+            "logo": "https://i.imgur.com/vPxvbVv.png",
+            "group": "Music",
+            "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Folk Klub TV (720p)",
             "tvg_id": "FolkKlubTV.au@SD",
             "logo": "https://i.imgur.com/Seq7Od7.png",
             "group": "Music",
@@ -1424,15 +1464,7 @@
             "headers": {}
         },
         {
-            "name": "Frecuencia Musical TV [Not 24/7]",
-            "tvg_id": "FMTV.uk@SD",
-            "logo": "https://i.imgur.com/vPxvbVv.png",
-            "group": "Music",
-            "url": "https://s2.tvdatta.com:3307/hybrid/play.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "FTV (576p)",
+            "name": "FTV (Uzbekistan) (576p)",
             "tvg_id": "FTV.uz@SD",
             "logo": "https://i.imgur.com/7lpISyN.jpg",
             "group": "Music",
@@ -1496,7 +1528,7 @@
             "headers": {}
         },
         {
-            "name": "GEM Mifa Plus",
+            "name": "GEM Mifa +",
             "tvg_id": "GEMMifaPlus.tr@SD",
             "logo": "https://i.imgur.com/8FIAqR5.png",
             "group": "Music",
@@ -1544,7 +1576,7 @@
             "headers": {}
         },
         {
-            "name": "GugakTV 국악방송 (1080p)",
+            "name": "Gugak TV (1080p)",
             "tvg_id": "GugakTV.kr@SD",
             "logo": "https://i.imgur.com/Ey7Htm8.png",
             "group": "Music",
@@ -1552,7 +1584,7 @@
             "headers": {}
         },
         {
-            "name": "H!T Music Channel (480p)",
+            "name": "H!t Music Channel (480p)",
             "tvg_id": "HtMusicChannel.hu@SD",
             "logo": "https://i.imgur.com/sqC2hqV.png",
             "group": "Music",
@@ -1592,7 +1624,7 @@
             "headers": {}
         },
         {
-            "name": "High Vision (1080p) [Not 24/7]",
+            "name": "High Vision TV (1080p) [Not 24/7]",
             "tvg_id": "HighVisionTV.us@SD",
             "logo": "https://i.imgur.com/zhCgoru.png",
             "group": "Music",
@@ -1648,7 +1680,7 @@
             "headers": {}
         },
         {
-            "name": "Identité Télé Caraïbes (548p)",
+            "name": "Identite Tele Caraibes (548p)",
             "tvg_id": "IdentiteTeleCaraibes.mq@SD",
             "logo": "https://i.imgur.com/Atsf6Cd.png",
             "group": "Music",
@@ -1656,7 +1688,15 @@
             "headers": {}
         },
         {
-            "name": "Impact TV (1080p)",
+            "name": "Imagen FM 105.1 (720p) [Not 24/7]",
+            "tvg_id": "ImagenFM1051.hn@SD",
+            "logo": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
+            "group": "Music",
+            "url": "https://streaming.imagenfm105-1.com/hls/stream.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Impact TV (Romania) (1080p)",
             "tvg_id": "ImpactTV.ro@HD",
             "logo": "https://tvimpact.ro/impact-logo.png",
             "group": "Music",
@@ -1744,7 +1784,7 @@
             "headers": {}
         },
         {
-            "name": "Ishtar TV (1080p)",
+            "name": "Ishtar TV SD (1080p)",
             "tvg_id": "IshtarTV.iq@SD",
             "logo": "https://i.imgur.com/qzApokm.png",
             "group": "Culture;Music;Religious",
@@ -1824,7 +1864,7 @@
             "headers": {}
         },
         {
-            "name": "JRTV Järviradio (720p)",
+            "name": "JRTV Jarviradio (720p)",
             "tvg_id": "JRTVJarviradio.fi@SD",
             "logo": "https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg",
             "group": "Music",
@@ -1861,14 +1901,6 @@
             "logo": "https://i.imgur.com/cCFxyIp.jpg",
             "group": "Music",
             "url": "https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Karaoke por Stingray (720p)",
-            "tvg_id": "PlutoTVKaraokeporStingray.us@LatAm",
-            "logo": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
-            "group": "Music",
-            "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
             "headers": {}
         },
         {
@@ -1952,7 +1984,7 @@
             "headers": {}
         },
         {
-            "name": "KRAL Pop TV (720p)",
+            "name": "Kral Pop TV (720p)",
             "tvg_id": "KralPopTV.tr@SD",
             "logo": "https://i.imgur.com/ch365lh.png",
             "group": "Music",
@@ -2000,7 +2032,7 @@
             "headers": {}
         },
         {
-            "name": "La Fabulosa Radio y TV (720p)",
+            "name": "La Fabulosa TV (720p)",
             "tvg_id": "LaFabulosaTV.pe@SD",
             "logo": "https://i.imgur.com/GjME5H0.png",
             "group": "Music",
@@ -2120,7 +2152,7 @@
             "headers": {}
         },
         {
-            "name": "LaXitosa Panamá (360p) [Not 24/7]",
+            "name": "LaXitosa Panama (360p) [Not 24/7]",
             "tvg_id": "LaXitosaPanama.pa@SD",
             "logo": "https://i.imgur.com/Pt4F9Xz.png",
             "group": "Music",
@@ -2144,7 +2176,7 @@
             "headers": {}
         },
         {
-            "name": "Littoral FM (720p)",
+            "name": "Littoral FM TV (720p)",
             "tvg_id": "LittoralFMTV.fr@SD",
             "logo": "https://i.imgur.com/DCZKAQ1.png",
             "group": "Music",
@@ -2160,7 +2192,7 @@
             "headers": {}
         },
         {
-            "name": "LiveXLive (1080p)",
+            "name": "LIVExLIVE (1080p)",
             "tvg_id": "LIVExLIVE.us@SD",
             "logo": "https://i.imgur.com/KFzEoed.png",
             "group": "Music",
@@ -2216,7 +2248,7 @@
             "headers": {}
         },
         {
-            "name": "M1 (1080p)",
+            "name": "M1 (Ukraine) (1080p)",
             "tvg_id": "M1.ua@SD",
             "logo": "https://i.imgur.com/wbRdUw8.png",
             "group": "Music",
@@ -2224,7 +2256,7 @@
             "headers": {}
         },
         {
-            "name": "M2 (1080p)",
+            "name": "M2 (Ukraine) (1080p)",
             "tvg_id": "M2.ua@SD",
             "logo": "https://i.imgur.com/AfcBWCg.png",
             "group": "Music",
@@ -2264,7 +2296,7 @@
             "headers": {}
         },
         {
-            "name": "Magenta Musik 360 (1080p)",
+            "name": "MagentaMusik 360 (1080p)",
             "tvg_id": "MagentaMusik360.de@SD",
             "logo": "https://i.imgur.com/R74gG7U.png",
             "group": "Music",
@@ -2272,7 +2304,7 @@
             "headers": {}
         },
         {
-            "name": "Magic TV (720p)",
+            "name": "Magic TV (Bulgaria) (720p)",
             "tvg_id": "MagicTV.bg@SD",
             "logo": "https://i.imgur.com/n7bcrrp.png",
             "group": "Music",
@@ -2280,7 +2312,7 @@
             "headers": {}
         },
         {
-            "name": "Magic TV (720p)",
+            "name": "Magic TV (Romania) (720p)",
             "tvg_id": "MagicTV.ro@SD",
             "logo": "https://i.imgur.com/9izrr4d.png",
             "group": "Music",
@@ -2344,7 +2376,7 @@
             "headers": {}
         },
         {
-            "name": "Más FM 95.9 (720p)",
+            "name": "Mas FM (720p)",
             "tvg_id": "MasFM.ar@SD",
             "logo": "https://i.imgur.com/TJ4gWQM.png",
             "group": "Music",
@@ -2408,15 +2440,7 @@
             "headers": {}
         },
         {
-            "name": "MBC Mood (1080p)",
-            "tvg_id": "MBCMood.sa@SD",
-            "logo": "https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png",
-            "group": "Music",
-            "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MCM Top (1080p)",
+            "name": "MCM Top (France) (1080p)",
             "tvg_id": "MCMTop.fr@SD",
             "logo": "https://i.imgur.com/EVtWQLd.png",
             "group": "Music",
@@ -2424,7 +2448,7 @@
             "headers": {}
         },
         {
-            "name": "MCM Top (576p)",
+            "name": "MCM Top (Russia) (576p)",
             "tvg_id": "MCMTop.ru@SD",
             "logo": "https://i.imgur.com/EVtWQLd.png",
             "group": "Music",
@@ -2464,7 +2488,7 @@
             "headers": {}
         },
         {
-            "name": "Melody FM Jordan (720p) [Not 24/7]",
+            "name": "Melody FM (720p) [Not 24/7]",
             "tvg_id": "MelodyFM.jo@SD",
             "logo": "https://i.imgur.com/J8omcNz.png",
             "group": "Music",
@@ -2616,27 +2640,11 @@
             "headers": {}
         },
         {
-            "name": "MTV Biggest Pop (1080p)",
-            "tvg_id": "MTVBiggestPop.us@BR",
-            "logo": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
+            "name": "Movie Music by Stingray (1080p)",
+            "tvg_id": "MovieMusicbyStingray.ca@HD",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CSpCdAxnLpqebMLZh6h7vMPk6LYpdqkVHA&s",
             "group": "Music",
-            "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Biggest Pop (1080p)",
-            "tvg_id": "MTVBiggestPop.us@CA",
-            "logo": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
-            "group": "Music",
-            "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Biggest Pop (1080p)",
-            "tvg_id": "MTVBiggestPop.us@LatAm",
-            "logo": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
-            "group": "Music",
-            "url": "https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8",
+            "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
             "headers": {}
         },
         {
@@ -2648,11 +2656,51 @@
             "headers": {}
         },
         {
-            "name": "MTV Flow Latino (720p)",
-            "tvg_id": "MTVFlowLatino.us@LatAm",
-            "logo": "https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png",
+            "name": "MTV Biggest Pop BR (1080p)",
+            "tvg_id": "MTVBiggestPop.us@BR",
+            "logo": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
             "group": "Music",
-            "url": "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8",
+            "url": "https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MTV Biggest Pop CA (1080p)",
+            "tvg_id": "MTVBiggestPop.us@CA",
+            "logo": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
+            "group": "Music",
+            "url": "https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MTV Biggest Pop LatAm (1080p)",
+            "tvg_id": "MTVBiggestPop.us@LatAm",
+            "logo": "https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png",
+            "group": "Music",
+            "url": "https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MTV Classic BR (720p)",
+            "tvg_id": "MTVClassic.us@BR",
+            "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
+            "group": "Music",
+            "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MTV Classic CA (720p)",
+            "tvg_id": "MTVClassic.us@CA",
+            "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
+            "group": "Music",
+            "url": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MTV Classic LatAm (720p)",
+            "tvg_id": "MTVClassic.us@LatAm",
+            "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
+            "group": "Music",
+            "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
             "headers": {}
         },
         {
@@ -2661,6 +2709,14 @@
             "logo": "https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png",
             "group": "Music",
             "url": "https://jmp2.uk/plu-5d3609cd6a6c78d7672f2a81.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MTV Flow Latino LatAm (720p)",
+            "tvg_id": "MTVFlowLatino.us@LatAm",
+            "logo": "https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png",
+            "group": "Music",
+            "url": "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8",
             "headers": {}
         },
         {
@@ -2680,11 +2736,19 @@
             "headers": {}
         },
         {
-            "name": "MTV Spankin’ New (1080p)",
+            "name": "MTV Spankin' New CA (1080p)",
             "tvg_id": "MTVSpankinNew.us@CA",
             "logo": "https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",
             "group": "Music",
             "url": "https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Music (480p) [Not 24/7]",
+            "tvg_id": "Music.kg@SD",
+            "logo": "https://www.utrk.kg/img/stream/45.png",
+            "group": "Music",
+            "url": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8",
             "headers": {}
         },
         {
@@ -2717,14 +2781,6 @@
             "logo": "https://musicboxhits.com/music_box_hits_logo.png",
             "group": "Music",
             "url": "http://88.212.15.19/live/mb_hits/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Music Box Polska",
-            "tvg_id": "MusicBoxPolska.pl@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Music_Box_UA_%282018%29.svg/960px-Music_Box_UA_%282018%29.svg.png",
-            "group": "Music",
-            "url": "http://193.24.244.60:1001/udp/239.254.4.237:6060",
             "headers": {}
         },
         {
@@ -2784,6 +2840,14 @@
             "headers": {}
         },
         {
+            "name": "Muz Soyuz (576p)",
+            "tvg_id": "MuzSoyuz.ru@SD",
+            "logo": "https://i.imgur.com/Puk1Bhx.png",
+            "group": "Music;Religious",
+            "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Muz TV Uzbekistan",
             "tvg_id": "MuzTVUzbekistan.uz@SD",
             "logo": "https://s8.vcdn.biz/static/f/6010782281/image.jpg",
@@ -2821,6 +2885,22 @@
             "logo": "https://i.imgur.com/Klu5k9U.png",
             "group": "Music",
             "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Muzyka 1 [Not 24/7]",
+            "tvg_id": "Muzyka1.ru@International",
+            "logo": "https://i.imgur.com/DIKe5vA.png",
+            "group": "Music",
+            "url": "https://kino-1.catcast.tv/content/37745/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Muzyka Kino [Not 24/7]",
+            "tvg_id": "MuzykaKino.ru@International",
+            "logo": "https://i.imgur.com/2SG0Swa.png",
+            "group": "Music",
+            "url": "https://kino-1.catcast.tv/content/37739/index.m3u8",
             "headers": {}
         },
         {
@@ -2880,7 +2960,7 @@
             "headers": {}
         },
         {
-            "name": "NEW KPOP (1080p)",
+            "name": "NEW K-POP (1080p)",
             "tvg_id": "NEWKPOP.us@SD",
             "logo": "https://i.imgur.com/B7ILXMc.png",
             "group": "Music",
@@ -2928,27 +3008,11 @@
             "headers": {}
         },
         {
-            "name": "NOW 70s (720p)",
-            "tvg_id": "Now70s.uk@Poland",
-            "logo": "https://i.imgur.com/qiCCX5X.png",
-            "group": "Music",
-            "url": "https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Now 70s (720p)",
             "tvg_id": "Now70s.uk@SD",
             "logo": "https://i.imgur.com/qiCCX5X.png",
             "group": "Music",
             "url": "https://lightningnow70-samsungau.amagi.tv/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "NOW 80s (1080p)",
-            "tvg_id": "Now80s.uk@Poland",
-            "logo": "https://i.imgur.com/YyPnMeB.png",
-            "group": "Music",
-            "url": "https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2960,19 +3024,11 @@
             "headers": {}
         },
         {
-            "name": "NOW 90s00s (1080p)",
+            "name": "Now 90s00s (1080p)",
             "tvg_id": "Now90s00s.uk@Poland",
             "logo": "https://images.pluto.tv/channels/660c209e19ca71000846cf38/colorLogoPNG.png",
             "group": "Music",
             "url": "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "NOW Rock (1080p)",
-            "tvg_id": "NOWRock.uk@Poland",
-            "logo": "https://i.imgur.com/GuM4GnX.png",
-            "group": "Music",
-            "url": "https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2984,15 +3040,7 @@
             "headers": {}
         },
         {
-            "name": "Now TV 102.3FM Edmonton (CKNO-FM) (616p)",
-            "tvg_id": "CKNOFM.ca@SD",
-            "logo": "https://i.imgur.com/sF2g7KE.png",
-            "group": "Music",
-            "url": "https://videostream.jpbgdigital.com/NOWTV.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "NPC Rádio e TV (720p)",
+            "name": "NPC Radio e TV (720p)",
             "tvg_id": "NPCRadioeTV.pt@SD",
             "logo": "https://i.imgur.com/mw1lYWE.png",
             "group": "Music",
@@ -3016,7 +3064,7 @@
             "headers": {}
         },
         {
-            "name": "Nueva Vida TV (720p)",
+            "name": "Nueva Vida FM (720p)",
             "tvg_id": "NuevaVidaFM.pr@SD",
             "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
             "group": "Music;Religious",
@@ -3056,7 +3104,15 @@
             "headers": {}
         },
         {
-            "name": "Óčko (540p)",
+            "name": "o2tv (720p)",
+            "tvg_id": "o2tv.ru@SD",
+            "logo": "https://i.imgur.com/CM6z7fA.png",
+            "group": "Music",
+            "url": "http://31.148.48.15/O2_HD/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Ocko (540p)",
             "tvg_id": "Ocko.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%93%C4%8Dko_logo_2012.png/960px-%C3%93%C4%8Dko_logo_2012.png",
             "group": "Music",
@@ -3072,7 +3128,7 @@
             "headers": {}
         },
         {
-            "name": "Óčko Expres (540p)",
+            "name": "Ocko Expres (540p)",
             "tvg_id": "OckoExpres.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/%C3%93%C4%8Dko_Expres_logo.png/960px-%C3%93%C4%8Dko_Expres_logo.png",
             "group": "Music",
@@ -3080,7 +3136,7 @@
             "headers": {}
         },
         {
-            "name": "Óčko Gold (540p)",
+            "name": "Ocko Gold (540p)",
             "tvg_id": "OckoGold.cz@SD",
             "logo": "https://i.imgur.com/nrWNyLc.jpg",
             "group": "Music",
@@ -3112,7 +3168,7 @@
             "headers": {}
         },
         {
-            "name": "Onda Valencia (720p)",
+            "name": "Onda Valencia TV (720p)",
             "tvg_id": "OndaValenciaTV.es@SD",
             "logo": "https://i.imgur.com/6HxLUQd.png",
             "group": "Music;News",
@@ -3280,14 +3336,6 @@
             "headers": {}
         },
         {
-            "name": "Persiana Music",
-            "tvg_id": "4Music.fr@SD",
-            "logo": "",
-            "group": "Music",
-            "url": "https://musichls.persiana.live/hls/stream.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Persiana Nostalgia",
             "tvg_id": "PersianaNostalgia.fr@SD",
             "logo": "https://i.imgur.com/SWO9CKA.png",
@@ -3320,7 +3368,7 @@
             "headers": {}
         },
         {
-            "name": "Play TV (720p) [Not 24/7]",
+            "name": "Play TV (Cameroon) (720p) [Not 24/7]",
             "tvg_id": "PlayTV.cm@SD",
             "logo": "https://i.imgur.com/1dmBqpf.png",
             "group": "Music",
@@ -3328,7 +3376,7 @@
             "headers": {}
         },
         {
-            "name": "Play TV (480p) [Not 24/7]",
+            "name": "Play TV (Greece) (480p) [Not 24/7]",
             "tvg_id": "PlayTV.gr@SD",
             "logo": "https://i.imgur.com/JWFOYuD.png",
             "group": "Music",
@@ -3336,7 +3384,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Karaokê por Stingray (720p)",
+            "name": "Pluto TV Karaoke por Stingray (720p)",
             "tvg_id": "PlutoTVKaraokeporStingray.us@BR",
             "logo": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
             "group": "Music",
@@ -3344,27 +3392,11 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV MTV Classic (720p)",
-            "tvg_id": "MTVClassic.us@BR",
-            "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
+            "name": "Pluto TV Karaoke por Stingray LatAm (720p)",
+            "tvg_id": "PlutoTVKaraokeporStingray.us@LatAm",
+            "logo": "https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",
             "group": "Music",
-            "url": "https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV MTV Classic (720p)",
-            "tvg_id": "MTVClassic.us@CA",
-            "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
-            "group": "Music",
-            "url": "https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV MTV Classic (720p)",
-            "tvg_id": "MTVClassic.us@LatAm",
-            "logo": "https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png",
-            "group": "Music",
-            "url": "https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8",
+            "url": "https://jmp2.uk/plu-5f85cf621d6d2200079f1de0.m3u8",
             "headers": {}
         },
         {
@@ -3432,7 +3464,7 @@
             "headers": {}
         },
         {
-            "name": "Power Türk Akustik (1080p)",
+            "name": "PowerTurk Akustik (1080p)",
             "tvg_id": "PowerTurkAkustik.tr@SD",
             "logo": "https://i.imgur.com/driabBO.png",
             "group": "Music",
@@ -3440,7 +3472,7 @@
             "headers": {}
         },
         {
-            "name": "Power Türk Slow (1080p)",
+            "name": "PowerTurk Slow (1080p)",
             "tvg_id": "PowerTurkSlow.tr@SD",
             "logo": "https://i.imgur.com/tQSoQXW.png",
             "group": "Music",
@@ -3448,7 +3480,7 @@
             "headers": {}
         },
         {
-            "name": "Power Türk Taptaze (1080p)",
+            "name": "PowerTurk Taptaze (1080p)",
             "tvg_id": "PowerTurkTaptaze.tr@SD",
             "logo": "https://i.imgur.com/a5nW3HU.png",
             "group": "Music",
@@ -3504,19 +3536,11 @@
             "headers": {}
         },
         {
-            "name": "Q-Music (Belgium) (1080p)",
+            "name": "Q-Music (1080p)",
             "tvg_id": "QMusic.be@SD",
             "logo": "https://i.imgur.com/VX5e9Xt.png",
             "group": "Music",
             "url": "https://live-video.dpgmedia.net/e087512ad0c32643/out/v1/82d59bbe343b4d0896f829c59da82dc0/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Qello Concerts by Stingray (1080p)",
-            "tvg_id": "QelloConcertsbyStingray.ca@Poland",
-            "logo": "https://i.imgur.com/IRyFTWq.png",
-            "group": "Music",
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052",
             "headers": {}
         },
         {
@@ -3640,7 +3664,7 @@
             "headers": {}
         },
         {
-            "name": "Radio Cuenca Estéreo (720p)",
+            "name": "Radio Cuenca Estereo (720p)",
             "tvg_id": "RadioCuencaEstereo.ec@SD",
             "logo": "https://i.imgur.com/qZzSOeU.png",
             "group": "Music",
@@ -3672,7 +3696,7 @@
             "headers": {}
         },
         {
-            "name": "Radio Fantástica 98.9 FM (1080p)",
+            "name": "Radio Fantastica 98.9 FM (1080p)",
             "tvg_id": "RadioFantastica989FM.ec@SD",
             "logo": "https://i.imgur.com/mpcIbrH.jpg",
             "group": "Music",
@@ -3685,14 +3709,6 @@
             "logo": "https://cdn.m3u.cl/logo/401_Radio_Fiessta.png",
             "group": "Music",
             "url": "https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Radio Freccia TV (1080p)",
-            "tvg_id": "Radiofreccia.it@SD",
-            "logo": "https://i.imgur.com/RxeRlar.png",
-            "group": "Music",
-            "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
             "headers": {}
         },
         {
@@ -3712,35 +3728,11 @@
             "headers": {}
         },
         {
-            "name": "Radio Ideal 104.7 FM (La Esperanza) (720p) [Not 24/7]",
+            "name": "Radio Ideal (720p) [Not 24/7]",
             "tvg_id": "RadioIdeal.hn@SD",
             "logo": "https://i.imgur.com/chPfoOs.png",
             "group": "Music",
             "url": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Radio Imagen 105.1 FM (720p) [Not 24/7]",
-            "tvg_id": "ImagenFM1051.hn@SD",
-            "logo": "https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg",
-            "group": "Music",
-            "url": "https://streaming.imagenfm105-1.com/hls/stream.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Radio Italia Trend (720p)",
-            "tvg_id": "RadioItaliaTrendTV.it@HD",
-            "logo": "https://i.imgur.com/HNrKqGM.png",
-            "group": "Music",
-            "url": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Radio Javan TV (1080p)",
-            "tvg_id": "RJTV.us@SD",
-            "logo": "https://i.imgur.com/a1zuW2C.png",
-            "group": "Music",
-            "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
             "headers": {}
         },
         {
@@ -3768,7 +3760,7 @@
             "headers": {}
         },
         {
-            "name": "Radio Lola (720p) [Not 24/7]",
+            "name": "Radio Lola TV (720p) [Not 24/7]",
             "tvg_id": "RadioLolaTV.rs@SD",
             "logo": "https://i.imgur.com/41eE8fl.png",
             "group": "Music",
@@ -3880,6 +3872,14 @@
             "headers": {}
         },
         {
+            "name": "Radio Shanson (720p) [Not 24/7]",
+            "tvg_id": "RadioShanson.ru@SD",
+            "logo": "https://i.imgur.com/lbqM3K2.png",
+            "group": "Music",
+            "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Radio Stad den Haag (720p)",
             "tvg_id": "RadioStaddenHaag.nl@SD",
             "logo": "https://i.imgur.com/ANK36EQ.png",
@@ -3904,7 +3904,7 @@
             "headers": {}
         },
         {
-            "name": "Radio Télé Hit (480p)",
+            "name": "Radio Tele Hit (480p)",
             "tvg_id": "RadioTeleHit.ht@SD",
             "logo": "https://i.ibb.co/Gt2QDgf/cropped-transparent2-103x70.png",
             "group": "Music",
@@ -3912,7 +3912,7 @@
             "headers": {}
         },
         {
-            "name": "Radio Télé Kajou (480p) [Not 24/7]",
+            "name": "Radio Tele Kajou (480p) [Not 24/7]",
             "tvg_id": "RadioTeleKajou.us@SD",
             "logo": "https://i.ibb.co/1MhvJ3B/logork.png",
             "group": "Music",
@@ -3920,7 +3920,7 @@
             "headers": {}
         },
         {
-            "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
+            "name": "Radio Tropical (480p) [Not 24/7]",
             "tvg_id": "RadioTropical.pe@SD",
             "logo": "https://i.imgur.com/TBPVOBI.png",
             "group": "Music",
@@ -3936,7 +3936,7 @@
             "headers": {}
         },
         {
-            "name": "Radio Zeta TV (1080p)",
+            "name": "Radio Zeta (1080p)",
             "tvg_id": "RadioZeta.it@SD",
             "logo": "https://i.imgur.com/K2xLMin.png",
             "group": "Music",
@@ -3949,6 +3949,14 @@
             "logo": "https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png",
             "group": "Music",
             "url": "https://live.tvcontrolcp.com:8081/radiozona/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Radiofreccia (1080p)",
+            "tvg_id": "Radiofreccia.it@SD",
+            "logo": "https://i.imgur.com/RxeRlar.png",
+            "group": "Music",
+            "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
             "headers": {}
         },
         {
@@ -4008,7 +4016,7 @@
             "headers": {}
         },
         {
-            "name": "Retro Music Television (360p)",
+            "name": "Retro Music TV (360p)",
             "tvg_id": "RetroMusicTV.cz@SD",
             "logo": "https://i.imgur.com/pyOjdZs.png",
             "group": "Music",
@@ -4080,7 +4088,15 @@
             "headers": {}
         },
         {
-            "name": "Rock TV (1080p) [Not 24/7]",
+            "name": "RJTV (1080p)",
+            "tvg_id": "RJTV.us@SD",
+            "logo": "https://i.imgur.com/a1zuW2C.png",
+            "group": "Music",
+            "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Rock TV (North Macedonia) (1080p) [Not 24/7]",
             "tvg_id": "RockTV.mk@SD",
             "logo": "https://i.imgur.com/Y9miDQo.png",
             "group": "Music",
@@ -4088,7 +4104,7 @@
             "headers": {}
         },
         {
-            "name": "Rock TV (720p)",
+            "name": "Rock TV (Romania) (720p)",
             "tvg_id": "RockTV.ro@SD",
             "logo": "https://i.imgur.com/VB88A5V.png",
             "group": "Music",
@@ -4144,7 +4160,7 @@
             "headers": {}
         },
         {
-            "name": "RTL 102.5 Napulè (1080p)",
+            "name": "RTL 102.5 Napule (1080p)",
             "tvg_id": "RTL1025Napule.it@SD",
             "logo": "https://i.imgur.com/HFPw1YW.png",
             "group": "Music",
@@ -4168,19 +4184,11 @@
             "headers": {}
         },
         {
-            "name": "RTL Gold (1080p)",
+            "name": "RTL Gold (Luxembourg) (1080p)",
             "tvg_id": "RTLGold.lu@SD",
             "logo": "https://i.imgur.com/LzHQoUv.png",
             "group": "Music",
             "url": "https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "RTL Today Radio (720p)",
-            "tvg_id": "TodayRadio.lu@SD",
-            "logo": "https://i.imgur.com/O1c6wpt.png",
-            "group": "Music",
-            "url": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
             "headers": {}
         },
         {
@@ -4336,7 +4344,7 @@
             "headers": {}
         },
         {
-            "name": "Siembra TV (720p)",
+            "name": "Siembra TV (Dominican Republic) (720p)",
             "tvg_id": "SiembraTV.do@SD",
             "logo": "https://www.vivalivetv.com/public/files/shows/0/1/3226-294x165-FFFFFF.jpg",
             "group": "Music",
@@ -4376,7 +4384,7 @@
             "headers": {}
         },
         {
-            "name": "Sol Música (720p)",
+            "name": "Sol Musica (720p)",
             "tvg_id": "SolMusica.es@SD",
             "logo": "https://i.imgur.com/rbJrmPw.png",
             "group": "Music",
@@ -4384,7 +4392,7 @@
             "headers": {}
         },
         {
-            "name": "SoloBáilalo (480p)",
+            "name": "Solo Bailalo (480p)",
             "tvg_id": "SoloBailalo.cl@SD",
             "logo": "https://i.imgur.com/SImJE7c.png",
             "group": "Music",
@@ -4432,7 +4440,7 @@
             "headers": {}
         },
         {
-            "name": "Star 101 FM (KNUT Guam) [Not 24/7]",
+            "name": "Star 101 FM [Not 24/7]",
             "tvg_id": "Star101FM.gu@SD",
             "logo": "https://star101.gu/images/fb_icon.jpg",
             "group": "Music",
@@ -4440,7 +4448,7 @@
             "headers": {}
         },
         {
-            "name": "Star Plus Music (1080p) [Not 24/7]",
+            "name": "Star Plus Televizija (1080p) [Not 24/7]",
             "tvg_id": "StarPlusTelevizija.mk@SD",
             "logo": "https://i.imgur.com/01yz22a.png",
             "group": "Music",
@@ -4504,19 +4512,19 @@
             "headers": {}
         },
         {
-            "name": "Stingray Flashback 70s (1080p)",
+            "name": "Stingray Everything '80s (1080p)",
+            "tvg_id": "StingrayEverything80s.ca@SD",
+            "logo": "https://i.imgur.com/6E3wYrb.png",
+            "group": "Music",
+            "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Stingray Flashback 70's (1080p)",
             "tvg_id": "StingrayFlashback70s.ca@SD",
             "logo": "https://i.imgur.com/jf5C9QF.png",
             "group": "Music",
             "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Stingray Greatest Hits (1080p)",
-            "tvg_id": "StingrayGreatestHits.ca@Poland",
-            "logo": "",
-            "group": "Music",
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883053",
             "headers": {}
         },
         {
@@ -4533,14 +4541,6 @@
             "logo": "https://i.imgur.com/lgpIwId.png",
             "group": "Music",
             "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Stingray Hitlist (1080p)",
-            "tvg_id": "StingrayHitList.ca@Poland",
-            "logo": "https://i.imgur.com/lgpIwId.png",
-            "group": "Music",
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883054",
             "headers": {}
         },
         {
@@ -4592,22 +4592,6 @@
             "headers": {}
         },
         {
-            "name": "Stingray Movie Music (1080p)",
-            "tvg_id": "MovieMusicbyStingray.ca@HD",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CSpCdAxnLpqebMLZh6h7vMPk6LYpdqkVHA&s",
-            "group": "Music",
-            "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Stingray Naturescape (1080p)",
-            "tvg_id": "StingrayNaturescape.ca@Poland",
-            "logo": "https://i.imgur.com/882kd90.png",
-            "group": "Music",
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883056",
-            "headers": {}
-        },
-        {
             "name": "Stingray Naturescape (1080p)",
             "tvg_id": "StingrayNaturescape.ca@SD",
             "logo": "https://i.imgur.com/882kd90.png",
@@ -4629,22 +4613,6 @@
             "logo": "https://i.imgur.com/H2ugC9L.png",
             "group": "Music",
             "url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Stingray Remember the 80s (1080p)",
-            "tvg_id": "StingrayEverything80s.ca@SD",
-            "logo": "https://i.imgur.com/6E3wYrb.png",
-            "group": "Music",
-            "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Stingray Remember the 80s (1080p)",
-            "tvg_id": "StingrayRememberthe80s.ca@Poland",
-            "logo": "https://i.imgur.com/duwc8E8.png",
-            "group": "Music",
-            "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883071",
             "headers": {}
         },
         {
@@ -4696,7 +4664,7 @@
             "headers": {}
         },
         {
-            "name": "Stingray Today's KPOP (1080p)",
+            "name": "Stingray Today's K-Pop (1080p)",
             "tvg_id": "StingrayTodaysKPop.ca@SD",
             "logo": "https://i.imgur.com/mMbntB5.png",
             "group": "Music",
@@ -4709,6 +4677,14 @@
             "logo": "https://i.imgur.com/Os3kRRP.png",
             "group": "Music",
             "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Strana FM",
+            "tvg_id": "StranaFM.ru@SD",
+            "logo": "https://i.imgur.com/WsPlKJJ.png",
+            "group": "Music",
+            "url": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
             "headers": {}
         },
         {
@@ -4728,7 +4704,7 @@
             "headers": {}
         },
         {
-            "name": "Súper Q Panamá (1080p)",
+            "name": "Super Q Panama (1080p)",
             "tvg_id": "SuperQPanama.pa@SD",
             "logo": "https://i.imgur.com/ocTnqi7.png",
             "group": "Music",
@@ -4736,7 +4712,7 @@
             "headers": {}
         },
         {
-            "name": "Super TV (576p)",
+            "name": "Super TV (Romania) (576p)",
             "tvg_id": "SuperTV.ro@SD",
             "logo": "https://i.imgur.com/pzxUE0O.png",
             "group": "Music",
@@ -4744,7 +4720,7 @@
             "headers": {}
         },
         {
-            "name": "Supermúsica TV (720p)",
+            "name": "Supermusica TV (720p)",
             "tvg_id": "SupermusicaTV.co@SD",
             "logo": "https://i.imgur.com/MiVs42N.jpeg",
             "group": "Music",
@@ -4856,7 +4832,7 @@
             "headers": {}
         },
         {
-            "name": "That's 70s (576p)",
+            "name": "That's 70s SD (576p)",
             "tvg_id": "Thats70s.uk@SD",
             "logo": "https://i.imgur.com/j2q53JQ.png",
             "group": "Music",
@@ -4888,15 +4864,7 @@
             "headers": {}
         },
         {
-            "name": "The Retro Channel (1080p) [Not 24/7]",
-            "tvg_id": "TheRetroChannel.pr@SD",
-            "logo": "https://i.imgur.com/t3i1HtE.jpg",
-            "group": "Music",
-            "url": "https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "The Voice TV (720p)",
+            "name": "The Voice (720p)",
             "tvg_id": "TheVoice.bg@SD",
             "logo": "https://i.imgur.com/OoJSmoj.png",
             "group": "Music",
@@ -4944,7 +4912,15 @@
             "headers": {}
         },
         {
-            "name": "Top TV (1080p)",
+            "name": "Today Radio (720p)",
+            "tvg_id": "TodayRadio.lu@SD",
+            "logo": "https://i.imgur.com/O1c6wpt.png",
+            "group": "Music",
+            "url": "https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Top TV (Serbia) (1080p)",
             "tvg_id": "TopTV.rs@SD",
             "logo": "https://i.imgur.com/UJqbKEC.png",
             "group": "Music",
@@ -4968,14 +4944,6 @@
             "headers": {}
         },
         {
-            "name": "Totalmusic (1080p)",
-            "tvg_id": "Totalmusic.uk@HD",
-            "logo": "https://static.elektamedia.com/ch/tmc_main.png",
-            "group": "Music",
-            "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Totalmusic 80s (720p)",
             "tvg_id": "Totalmusic80s.uk@HD",
             "logo": "https://static.elektamedia.com/ch/tmc_80s.png",
@@ -4989,6 +4957,14 @@
             "logo": "https://static.elektamedia.com/ch/tmc_00s.png",
             "group": "Music",
             "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Totalmusic (1080p)",
+            "tvg_id": "Totalmusic.uk@HD",
+            "logo": "https://static.elektamedia.com/ch/tmc_main.png",
+            "group": "Music",
+            "url": "https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8",
             "headers": {}
         },
         {
@@ -5032,6 +5008,14 @@
             "headers": {}
         },
         {
+            "name": "Trace Afrikora (1080p)",
+            "tvg_id": "TraceAfrikora.fr@SD",
+            "logo": "https://i.imgur.com/CQDdnhp.png",
+            "group": "Music",
+            "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Trace Ayiti (1080p)",
             "tvg_id": "TraceAyiti.fr@SD",
             "logo": "https://i.imgur.com/KkJ6fet.png",
@@ -5040,19 +5024,19 @@
             "headers": {}
         },
         {
-            "name": "Trace Brasil (1080p)",
-            "tvg_id": "TraceBrazuca.fr@HD",
-            "logo": "https://i.imgur.com/DFBocPu.png",
-            "group": "Music",
-            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "TRACE Brazuca (1080p)",
+            "name": "Trace Brazuca (1080p)",
             "tvg_id": "TraceBrazuca.fr@SD",
             "logo": "https://i.imgur.com/DFBocPu.png",
             "group": "Music",
             "url": "https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Trace Brazuca HD (1080p)",
+            "tvg_id": "TraceBrazuca.fr@HD",
+            "logo": "https://i.imgur.com/DFBocPu.png",
+            "group": "Music",
+            "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8",
             "headers": {}
         },
         {
@@ -5064,7 +5048,7 @@
             "headers": {}
         },
         {
-            "name": "Trace Gospel Africa Franco (1080p)",
+            "name": "Trace Gospel (1080p)",
             "tvg_id": "TraceGospel.fr@SD",
             "logo": "https://i.imgur.com/X0UmU3K.png",
             "group": "Music;Religious",
@@ -5160,14 +5144,6 @@
             "headers": {}
         },
         {
-            "name": "Trace Teranga (1080p)",
-            "tvg_id": "TraceAfrikora.fr@SD",
-            "logo": "https://i.imgur.com/CQDdnhp.png",
-            "group": "Music",
-            "url": "https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Trace Toca (1080p)",
             "tvg_id": "TraceToca.fr@SD",
             "logo": "https://i.imgur.com/6SpWnBR.png",
@@ -5184,7 +5160,7 @@
             "headers": {}
         },
         {
-            "name": "Trace Urban (Australia) (1080p)",
+            "name": "Trace Urban (1080p)",
             "tvg_id": "TraceUrban.fr@SD",
             "logo": "https://i.imgur.com/DLIbUMx.png",
             "group": "Music",
@@ -5200,7 +5176,7 @@
             "headers": {}
         },
         {
-            "name": "Trace Urban Caribbean and Indian Ocean (1080p)",
+            "name": "Trace Urban Caribbean And Indian Ocean (1080p)",
             "tvg_id": "TraceUrban.fr@CaribbeanAndIndianOcean",
             "logo": "https://i.imgur.com/DLIbUMx.png",
             "group": "Music",
@@ -5208,7 +5184,7 @@
             "headers": {}
         },
         {
-            "name": "Trace Urban France (1080p)",
+            "name": "Trace Urban HD (1080p)",
             "tvg_id": "TraceUrban.fr@HD",
             "logo": "https://i.imgur.com/DLIbUMx.png",
             "group": "Music",
@@ -5216,7 +5192,7 @@
             "headers": {}
         },
         {
-            "name": "Trace Urban International (1080p)",
+            "name": "Trace Urban International HD (1080p)",
             "tvg_id": "TraceUrban.fr@InternationalHD",
             "logo": "https://i.imgur.com/DLIbUMx.png",
             "group": "Music",
@@ -5264,7 +5240,7 @@
             "headers": {}
         },
         {
-            "name": "TRT Müzik (720p)",
+            "name": "TRT Muzik (720p)",
             "tvg_id": "TRTMuzik.tr@SD",
             "logo": "https://i.imgur.com/JgUzRH8.png",
             "group": "Music",
@@ -5288,7 +5264,7 @@
             "headers": {}
         },
         {
-            "name": "Türkmen Owazy (406p) [Not 24/7]",
+            "name": "Turkmen Owazy (406p) [Not 24/7]",
             "tvg_id": "TurkmenOwazy.tm@SD",
             "logo": "https://i.imgur.com/Ap7l2jC.png",
             "group": "Music",
@@ -5296,7 +5272,7 @@
             "headers": {}
         },
         {
-            "name": "TV Arbëria 4 Muzikë (720p)",
+            "name": "TV Arberia 4 Muzike (720p)",
             "tvg_id": "TVArberia4Muzike.xk@SD",
             "logo": "https://i.imgur.com/zLRzyVS.png",
             "group": "Music",
@@ -5304,7 +5280,7 @@
             "headers": {}
         },
         {
-            "name": "TV Arbëria Retro Hits (720p)",
+            "name": "TV Arberia Retro Hits (720p)",
             "tvg_id": "TVArberiaRetroHits.xk@SD",
             "logo": "https://i.imgur.com/zLRzyVS.png",
             "group": "Music",
@@ -5320,7 +5296,7 @@
             "headers": {}
         },
         {
-            "name": "TV Duga Plus (480p) [Not 24/7]",
+            "name": "TV Duga+ (480p) [Not 24/7]",
             "tvg_id": "TVDugaPlus.rs@SD",
             "logo": "https://i.imgur.com/qZV3JW5.png",
             "group": "Music",
@@ -5328,7 +5304,7 @@
             "headers": {}
         },
         {
-            "name": "TV Éxitos (720p)",
+            "name": "TV Exitos (720p)",
             "tvg_id": "TVExitos.do@SD",
             "logo": "https://i.imgur.com/ahz7X7u.png",
             "group": "Music",
@@ -5424,7 +5400,7 @@
             "headers": {}
         },
         {
-            "name": "V2BEAT (720p) [Not 24/7]",
+            "name": "V2BEAT TV (720p) [Not 24/7]",
             "tvg_id": "V2BEATTV.uk@SD",
             "logo": "https://i.imgur.com/PXGqyLn.png",
             "group": "Music",
@@ -5456,7 +5432,7 @@
             "headers": {}
         },
         {
-            "name": "VAM Vid's & More (720p)",
+            "name": "VAM TV (720p)",
             "tvg_id": "VAMTV.cw@SD",
             "logo": "https://i.imgur.com/CD1PffA.png",
             "group": "Music",
@@ -5520,7 +5496,7 @@
             "headers": {}
         },
         {
-            "name": "Vevo 70s (1080p)",
+            "name": "Vevo '70s (1080p)",
             "tvg_id": "Vevo70s.us@SD",
             "logo": "https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg",
             "group": "Music",
@@ -5528,7 +5504,7 @@
             "headers": {}
         },
         {
-            "name": "Vevo 80s (1080p)",
+            "name": "Vevo '80s (1080p)",
             "tvg_id": "Vevo80s.us@SD",
             "logo": "https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg",
             "group": "Music",
@@ -5536,7 +5512,7 @@
             "headers": {}
         },
         {
-            "name": "Vevo 90s (1080p)",
+            "name": "Vevo '90s (1080p)",
             "tvg_id": "Vevo90s.us@SD",
             "logo": "https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg",
             "group": "Music",
@@ -5640,14 +5616,6 @@
             "headers": {}
         },
         {
-            "name": "Vĩnh Long TV5 (1080p) [Geo-blocked]",
-            "tvg_id": "TraVinhTV.vn@HD",
-            "logo": "https://i.imgur.com/F12VdKO.png",
-            "group": "Culture;Entertainment;Music;News",
-            "url": "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Vintage Music (720p)",
             "tvg_id": "VintageMusic.cr@SD",
             "logo": "https://i.imgur.com/KImqYnN.jpeg",
@@ -5664,7 +5632,7 @@
             "headers": {}
         },
         {
-            "name": "Visión Televisión (720p)",
+            "name": "Vision Television (720p)",
             "tvg_id": "VisionTelevision.mx@SD",
             "logo": "https://i.imgur.com/HV5tgcM.png",
             "group": "Music",
@@ -5712,7 +5680,7 @@
             "headers": {}
         },
         {
-            "name": "WVCU-LP Concord University Radio The Cure 97.7 (1080p)",
+            "name": "WVCU-LP (1080p)",
             "tvg_id": "WVCULP.us@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG",
             "group": "Music",
@@ -5736,19 +5704,19 @@
             "headers": {}
         },
         {
-            "name": "XITE (720p)",
-            "tvg_id": "XITE.nl@SD",
-            "logo": "https://i.imgur.com/jxuwGRi.png",
-            "group": "Music",
-            "url": "https://xite-rakuten.amagi.tv/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": "XITE 90's Throwback (1080p)",
             "tvg_id": "XITE90sThrowback.us@SD",
             "logo": "https://i.imgur.com/vwpOzuz.png",
             "group": "Music",
             "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "XITE (720p)",
+            "tvg_id": "XITE.nl@SD",
+            "logo": "https://i.imgur.com/jxuwGRi.png",
+            "group": "Music",
+            "url": "https://xite-rakuten.amagi.tv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -5840,7 +5808,7 @@
             "headers": {}
         },
         {
-            "name": "YleX Studio Live (720p)",
+            "name": "YleX (720p)",
             "tvg_id": "YleX.fi@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/YleX.svg/960px-YleX.svg.png",
             "group": "Music",
@@ -5849,18 +5817,18 @@
         },
         {
             "name": "Yo! MTV (1080p)",
-            "tvg_id": "YoMTV.us@CA",
-            "logo": "https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png",
-            "group": "Music",
-            "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Yo! MTV (1080p)",
             "tvg_id": "YoMTV.us@SD",
             "logo": "https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png",
             "group": "Music",
             "url": "https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Yo! MTV CA (1080p)",
+            "tvg_id": "YoMTV.us@CA",
+            "logo": "https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png",
+            "group": "Music",
+            "url": "https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8",
             "headers": {}
         },
         {
@@ -5880,7 +5848,7 @@
             "headers": {}
         },
         {
-            "name": "ZFM Zoetermeer (720p)",
+            "name": "ZFM Zoetermeer TV (720p)",
             "tvg_id": "ZFMZoetermeerTV.nl@SD",
             "logo": "https://i.imgur.com/vrjACvy.png",
             "group": "Music",
@@ -5928,7 +5896,7 @@
             "headers": {}
         },
         {
-            "name": "Zoom (720p)",
+            "name": "Zoom (India) (720p)",
             "tvg_id": "Zoom.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
             "group": "Music",
@@ -5936,7 +5904,7 @@
             "headers": {}
         },
         {
-            "name": "Zoom Global (720p)",
+            "name": "Zoom (India) Global (720p)",
             "tvg_id": "Zoom.in@Global",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
             "group": "Music",
@@ -5949,102 +5917,6 @@
             "logo": "https://i.imgur.com/RbdpCNf.png",
             "group": "Music",
             "url": "https://zweiapp.b-cdn.net/1080p/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Муз союз (576p)",
-            "tvg_id": "MuzSoyuz.ru@SD",
-            "logo": "https://i.imgur.com/Puk1Bhx.png",
-            "group": "Music;Religious",
-            "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Музыка 1 International [Not 24/7]",
-            "tvg_id": "Muzyka1.ru@International",
-            "logo": "https://i.imgur.com/DIKe5vA.png",
-            "group": "Music",
-            "url": "https://kino-1.catcast.tv/content/37745/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Музыка Кино International [Not 24/7]",
-            "tvg_id": "MuzykaKino.ru@International",
-            "logo": "https://i.imgur.com/2SG0Swa.png",
-            "group": "Music",
-            "url": "https://kino-1.catcast.tv/content/37739/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "о2тв (720p)",
-            "tvg_id": "o2tv.ru@SD",
-            "logo": "https://i.imgur.com/CM6z7fA.png",
-            "group": "Music",
-            "url": "http://31.148.48.15/O2_HD/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Первый Музыкальный Канал HD (1080p)",
-            "tvg_id": "FirstMusicChannel.by@SD",
-            "logo": "https://i.imgur.com/YdyFJrl.png",
-            "group": "Music",
-            "url": "http://rtmp.one.by:1300",
-            "headers": {}
-        },
-        {
-            "name": "Радио Шансон (720p) [Not 24/7]",
-            "tvg_id": "RadioShanson.ru@SD",
-            "logo": "https://i.imgur.com/lbqM3K2.png",
-            "group": "Music",
-            "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Сити Эдем Play Христианский Музыкальный [Not 24/7]",
-            "tvg_id": "CityEdenPlay.ru@HD",
-            "logo": "https://i.imgur.com/ozEqob9.png",
-            "group": "Music",
-            "url": "https://cityeden.catcast.tv/content/34100/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Сити Эдем Бирма Play [Not 24/7]",
-            "tvg_id": "CityEdenBirmaPlay.ru@HD",
-            "logo": "https://i.imgur.com/38Q5L5W.png",
-            "group": "Music",
-            "url": "https://cityeden.catcast.tv/content/34364/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Сити Эдем Классическая Музыка [Not 24/7]",
-            "tvg_id": "CityEdenClassicMusic.ru@HD",
-            "logo": "https://i.imgur.com/l7BE8l6.png",
-            "group": "Music",
-            "url": "https://cityeden.catcast.tv/content/47400/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Сити Эдем Сиртаки ТВ [Not 24/7]",
-            "tvg_id": "CityEdenSirtakiTV.ru@HD",
-            "logo": "https://i.imgur.com/V3MTfyc.png",
-            "group": "Music",
-            "url": "https://cityeden.catcast.tv/content/46421/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Страна ФМ",
-            "tvg_id": "StranaFM.ru@SD",
-            "logo": "https://i.imgur.com/WsPlKJJ.png",
-            "group": "Music",
-            "url": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "УТРК Музыка (480p) [Not 24/7]",
-            "tvg_id": "Music.kg@SD",
-            "logo": "https://www.utrk.kg/img/stream/45.png",
-            "group": "Music",
-            "url": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8",
             "headers": {}
         }
     ]

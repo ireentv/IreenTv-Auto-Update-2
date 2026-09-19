@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 255,
-    "last_update": "2026-09-19 06:02:24 AM",
+    "channels_amount": 253,
+    "last_update": "2026-09-19 11:36:46 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -56,7 +56,7 @@
             "headers": {}
         },
         {
-            "name": "Alterna TV (720p) [Not 24/7]",
+            "name": "AlternaTV (720p) [Not 24/7]",
             "tvg_id": "AlternaTV.ar@SD",
             "logo": "https://tv.alterna.ar/alternatv.png",
             "group": "Culture;Documentary;Entertainment;General;Movies;Music",
@@ -120,14 +120,6 @@
             "headers": {}
         },
         {
-            "name": "BBC Earth (1080p)",
-            "tvg_id": "BBCEarth.uk@US",
-            "logo": "https://i.imgur.com/nGSsUd4.png",
-            "group": "Documentary",
-            "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": "BBC Earth Czechia",
             "tvg_id": "BBCEarth.uk@Czechia",
             "logo": "https://i.imgur.com/nGSsUd4.png",
@@ -168,27 +160,19 @@
             "headers": {}
         },
         {
-            "name": "BBC Four HD (720p) [Geo-blocked]",
+            "name": "BBC Earth US (1080p)",
+            "tvg_id": "BBCEarth.uk@US",
+            "logo": "https://i.imgur.com/nGSsUd4.png",
+            "group": "Documentary",
+            "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BBC Four (720p) [Geo-blocked]",
             "tvg_id": "BBCFour.uk@UK",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png",
             "group": "Culture;Documentary",
             "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd",
-            "headers": {}
-        },
-        {
-            "name": "Bloomberg Originals",
-            "tvg_id": "BloombergOriginals.us@Poland",
-            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
-            "group": "Business;Documentary",
-            "url": "https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Bloomberg Originals (1080p)",
-            "tvg_id": "BloombergOriginals.us@SD",
-            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
-            "group": "Business;Documentary",
-            "url": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
             "headers": {}
         },
         {
@@ -200,7 +184,15 @@
             "headers": {}
         },
         {
-            "name": "Bondi Rescue",
+            "name": "Bloomberg Originals SD (1080p)",
+            "tvg_id": "BloombergOriginals.us@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
+            "group": "Business;Documentary",
+            "url": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Bondi Rescue (Germany)",
             "tvg_id": "BondiRescue.de@GB",
             "logo": "https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png",
             "group": "Documentary",
@@ -280,7 +272,15 @@
             "headers": {}
         },
         {
-            "name": "Click TV (Coronel) (720p)",
+            "name": "City Eden KinoDok [Not 24/7]",
+            "tvg_id": "CityEdenKinoDok.ru@HD",
+            "logo": "https://i.imgur.com/itRbMX3.png",
+            "group": "Documentary;Series",
+            "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "ClickTV Chile (720p)",
             "tvg_id": "ClickTVChile.cl@SD",
             "logo": "https://i.imgur.com/H0XNbMS.png",
             "group": "Documentary",
@@ -293,6 +293,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png",
             "group": "Documentary",
             "url": "https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "CND Film Discovery Channel (576p)",
+            "tvg_id": "CNDFilmDiscoveryChannel.cn@SD",
+            "logo": "https://i.imgur.com/2FJfPDx.png",
+            "group": "Documentary",
+            "url": "http://125.210.152.18:9090/live/FXZL_750.m3u8",
             "headers": {}
         },
         {
@@ -320,7 +328,7 @@
             "headers": {}
         },
         {
-            "name": "ČT 2",
+            "name": "CT2",
             "tvg_id": "CT2.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
             "group": "Documentary",
@@ -328,7 +336,7 @@
             "headers": {}
         },
         {
-            "name": "Curiosity Now (1080p)",
+            "name": "Curiosity NOW EN (1080p)",
             "tvg_id": "CuriosityNOW.de@EN",
             "logo": "https://i.imgur.com/gJ9eMaG.png",
             "group": "Documentary",
@@ -336,7 +344,7 @@
             "headers": {}
         },
         {
-            "name": "DangerTV (720p)",
+            "name": "Danger TV (720p)",
             "tvg_id": "DangerTV.us@SD",
             "logo": "https://i.imgur.com/4aTk45R.png",
             "group": "Documentary",
@@ -360,7 +368,7 @@
             "headers": {}
         },
         {
-            "name": "Detetives Médicos",
+            "name": "Detetives Medicos",
             "tvg_id": "DetetivesMedicos.us@BR",
             "logo": "https://images.pluto.tv/channels/638df93ae2f2a3000737c168/colorLogoPNG.png",
             "group": "Documentary",
@@ -456,7 +464,7 @@
             "headers": {}
         },
         {
-            "name": "Ecovisión (720p)",
+            "name": "Ecovision (720p)",
             "tvg_id": "Ecovision.do@SD",
             "logo": "https://imgur.com/Y4ahiYu.png",
             "group": "Documentary",
@@ -512,7 +520,7 @@
             "headers": {}
         },
         {
-            "name": "Get.Factual (720p)",
+            "name": "Get.factual (720p)",
             "tvg_id": "Getfactual.us@UK",
             "logo": "https://i.imgur.com/4oVcjLd.png",
             "group": "Documentary",
@@ -544,51 +552,11 @@
             "headers": {}
         },
         {
-            "name": "Historia y Vida (720p)",
+            "name": "Historia Y Vida (720p)",
             "tvg_id": "HistoriaYVida.es@SD",
             "logo": "https://i.imgur.com/56ZtCA1.png",
             "group": "Documentary",
             "url": "https://jmp2.uk/plu-67517f923a61d40008c451f0.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "History",
-            "tvg_id": "History.bg@SD",
-            "logo": "",
-            "group": "Documentary",
-            "url": "http://213.91.179.28:8000/play/a0c1",
-            "headers": {}
-        },
-        {
-            "name": "History (720p)",
-            "tvg_id": "History.br@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-            "group": "Documentary",
-            "url": "http://45.177.114.114/HISTORY/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "History",
-            "tvg_id": "History.cz@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-            "group": "Documentary",
-            "url": "http://88.212.15.19/live/test_history/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "History",
-            "tvg_id": "History.hu@SD",
-            "logo": "https://i.imgur.com/OWIK7FJ.png",
-            "group": "Documentary",
-            "url": "http://88.212.15.19/live/history_hun/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "History (720p)",
-            "tvg_id": "History.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-            "group": "Documentary",
-            "url": "http://212.5.144.156:8080/history/index.m3u8",
             "headers": {}
         },
         {
@@ -624,19 +592,59 @@
             "headers": {}
         },
         {
+            "name": "History (Brazil) (720p)",
+            "tvg_id": "History.br@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+            "group": "Documentary",
+            "url": "http://45.177.114.114/HISTORY/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "History (Bulgaria)",
+            "tvg_id": "History.bg@SD",
+            "logo": "",
+            "group": "Documentary",
+            "url": "http://213.91.179.28:8000/play/a0c1",
+            "headers": {}
+        },
+        {
+            "name": "History (Czech Republic)",
+            "tvg_id": "History.cz@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+            "group": "Documentary",
+            "url": "http://88.212.15.19/live/test_history/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "History (Hungary)",
+            "tvg_id": "History.hu@SD",
+            "logo": "https://i.imgur.com/OWIK7FJ.png",
+            "group": "Documentary",
+            "url": "http://88.212.15.19/live/history_hun/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "History (Slovenia) (1080p)",
+            "tvg_id": "History.si@HD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+            "group": "Documentary",
+            "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
+            "headers": {}
+        },
+        {
+            "name": "History (United States) (720p)",
+            "tvg_id": "History.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+            "group": "Documentary",
+            "url": "http://212.5.144.156:8080/history/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "History Asia (720p)",
             "tvg_id": "HistoryAsia.us@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
             "group": "Documentary",
             "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856",
-            "headers": {}
-        },
-        {
-            "name": "History Channel (1080p)",
-            "tvg_id": "History.si@HD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-            "group": "Documentary",
-            "url": "https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true",
             "headers": {}
         },
         {
@@ -705,6 +713,14 @@
         },
         {
             "name": "Ink Master",
+            "tvg_id": "InkMaster.us@SD",
+            "logo": "https://images.pluto.tv/channels/655f2d713944b60008bc7e90/colorLogoPNG.png",
+            "group": "Documentary",
+            "url": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Ink Master CA",
             "tvg_id": "InkMaster.us@CA",
             "logo": "https://images.pluto.tv/channels/655f2d713944b60008bc7e90/colorLogoPNG.png",
             "group": "Documentary",
@@ -712,11 +728,11 @@
             "headers": {}
         },
         {
-            "name": "Ink Master",
-            "tvg_id": "InkMaster.us@SD",
-            "logo": "https://images.pluto.tv/channels/655f2d713944b60008bc7e90/colorLogoPNG.png",
+            "name": "Into Crime (1080p)",
+            "tvg_id": "IntoCrime.fr@SD",
+            "logo": "https://i.imgur.com/43at4M2.png",
             "group": "Documentary",
-            "url": "https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8",
+            "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -733,14 +749,6 @@
             "logo": "https://i.imgur.com/eEjPail.png",
             "group": "Documentary",
             "url": "http://hls127.freeott.top:8080/Istoriya/video.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Jail",
-            "tvg_id": "Jail.uk@SD",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
-            "group": "Documentary;Entertainment",
-            "url": "https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8",
             "headers": {}
         },
         {
@@ -768,7 +776,7 @@
             "headers": {}
         },
         {
-            "name": "Love the Planet (1080p)",
+            "name": "Love The Planet (1080p)",
             "tvg_id": "LoveThePlanet.es@EN",
             "logo": "https://i.imgur.com/RBcD49X.png",
             "group": "Documentary",
@@ -856,7 +864,7 @@
             "headers": {}
         },
         {
-            "name": "National Geographic (1080p)",
+            "name": "National Geographic (Bulgaria) (1080p)",
             "tvg_id": "NationalGeographic.bg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
@@ -864,15 +872,7 @@
             "headers": {}
         },
         {
-            "name": "National Geographic",
-            "tvg_id": "NationalGeographic.cz@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-            "group": "Documentary",
-            "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic (1080p)",
+            "name": "National Geographic (Croatia) (1080p)",
             "tvg_id": "NationalGeographic.hr@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
@@ -880,59 +880,11 @@
             "headers": {}
         },
         {
-            "name": "National Geographic",
-            "tvg_id": "NationalGeographic.hu@SD",
+            "name": "National Geographic (Czech Republic)",
+            "tvg_id": "NationalGeographic.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
-            "url": "http://88.212.15.19/live/ngc_hun/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic (576p) [Geo-blocked]",
-            "tvg_id": "NationalGeographic.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
-            "group": "Documentary",
-            "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic (1080p)",
-            "tvg_id": "NationalGeographic.mx@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-            "group": "Documentary",
-            "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic",
-            "tvg_id": "NationalGeographic.ro@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-            "group": "Documentary",
-            "url": "https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic (1080p)",
-            "tvg_id": "NationalGeographic.ru@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-            "group": "Documentary",
-            "url": "http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic",
-            "tvg_id": "NationalGeographic.tr@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-            "group": "Documentary",
-            "url": "https://nord.ayakkabiparti.lol/natgeo/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic (720p)",
-            "tvg_id": "NationalGeographic.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-            "group": "Documentary",
-            "url": "http://212.5.144.156:8080/natgeo/index.m3u8",
+            "url": "http://88.212.15.19/live/test_ngc/playlist.m3u8",
             "headers": {}
         },
         {
@@ -944,7 +896,31 @@
             "headers": {}
         },
         {
-            "name": "National Geographic HD (1080p)",
+            "name": "National Geographic (Hungary)",
+            "tvg_id": "NationalGeographic.hu@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+            "group": "Documentary",
+            "url": "http://88.212.15.19/live/ngc_hun/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic (India) (576p) [Geo-blocked]",
+            "tvg_id": "NationalGeographic.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
+            "group": "Documentary",
+            "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic (Mexico) (1080p)",
+            "tvg_id": "NationalGeographic.mx@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+            "group": "Documentary",
+            "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic (Netherlands) HD (1080p)",
             "tvg_id": "NationalGeographic.nl@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
@@ -952,7 +928,23 @@
             "headers": {}
         },
         {
-            "name": "National Geographic HD (1080p)",
+            "name": "National Geographic (Romania)",
+            "tvg_id": "NationalGeographic.ro@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+            "group": "Documentary",
+            "url": "https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic (Russia) (1080p)",
+            "tvg_id": "NationalGeographic.ru@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+            "group": "Documentary",
+            "url": "http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic (Russia) HD (1080p)",
             "tvg_id": "NationalGeographic.ru@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
@@ -960,7 +952,23 @@
             "headers": {}
         },
         {
-            "name": "National Geographic HD East (720p)",
+            "name": "National Geographic (Turkiye)",
+            "tvg_id": "NationalGeographic.tr@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+            "group": "Documentary",
+            "url": "https://nord.ayakkabiparti.lol/natgeo/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic (United States) (720p)",
+            "tvg_id": "NationalGeographic.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+            "group": "Documentary",
+            "url": "http://212.5.144.156:8080/natgeo/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic (United States) HD East (720p)",
             "tvg_id": "NationalGeographic.us@HDEast",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
@@ -976,7 +984,7 @@
             "headers": {}
         },
         {
-            "name": "National Geographic Wild (1080p)",
+            "name": "National Geographic Wild (Bulgaria) (1080p)",
             "tvg_id": "NationalGeographicWild.bg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
@@ -984,7 +992,7 @@
             "headers": {}
         },
         {
-            "name": "National Geographic Wild",
+            "name": "National Geographic Wild (Czech Republic)",
             "tvg_id": "NationalGeographicWild.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
@@ -992,7 +1000,7 @@
             "headers": {}
         },
         {
-            "name": "National Geographic Wild",
+            "name": "National Geographic Wild (Hungary)",
             "tvg_id": "NationalGeographicWild.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
@@ -1000,7 +1008,7 @@
             "headers": {}
         },
         {
-            "name": "National Geographic Wild",
+            "name": "National Geographic Wild (Romania)",
             "tvg_id": "NationalGeographicWild.ro@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
@@ -1008,7 +1016,7 @@
             "headers": {}
         },
         {
-            "name": "National Geographic Wild (1080p)",
+            "name": "National Geographic Wild (Russia) (1080p)",
             "tvg_id": "NationalGeographicWild.ru@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
@@ -1016,23 +1024,7 @@
             "headers": {}
         },
         {
-            "name": "National Geographic Wild",
-            "tvg_id": "NationalGeographicWild.tr@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-            "group": "Documentary",
-            "url": "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic Wild (1080p)",
-            "tvg_id": "NationalGeographicWild.ua@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
-            "group": "Documentary",
-            "url": "http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic Wild HD (1080p)",
+            "name": "National Geographic Wild (Russia) HD (1080p)",
             "tvg_id": "NationalGeographicWild.ru@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
@@ -1040,7 +1032,23 @@
             "headers": {}
         },
         {
-            "name": "National Geographic Wild HD East (720p)",
+            "name": "National Geographic Wild (Turkiye)",
+            "tvg_id": "NationalGeographicWild.tr@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+            "group": "Documentary",
+            "url": "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic Wild (Ukraine) (1080p)",
+            "tvg_id": "NationalGeographicWild.ua@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+            "group": "Documentary",
+            "url": "http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic Wild (United States) HD East (720p)",
             "tvg_id": "NationalGeographicWild.us@HDEast",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
@@ -1048,15 +1056,15 @@
             "headers": {}
         },
         {
-            "name": "Nature Time France (1080p)",
-            "tvg_id": "NatureTime.ca@France",
+            "name": "NatureTime (1080p)",
+            "tvg_id": "NatureTime.ca@SD",
             "logo": "https://i.imgur.com/72JmyjM.png",
             "group": "Documentary",
-            "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+            "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
             "headers": {}
         },
         {
-            "name": "NatureTime (1080p)",
+            "name": "NatureTime AU (1080p)",
             "tvg_id": "NatureTime.ca@AU",
             "logo": "https://i.imgur.com/72JmyjM.png",
             "group": "Documentary",
@@ -1064,7 +1072,7 @@
             "headers": {}
         },
         {
-            "name": "NatureTime (1080p)",
+            "name": "NatureTime ES (1080p)",
             "tvg_id": "NatureTime.ca@ES",
             "logo": "https://i.imgur.com/72JmyjM.png",
             "group": "Documentary",
@@ -1072,7 +1080,15 @@
             "headers": {}
         },
         {
-            "name": "NatureTime (684p)",
+            "name": "NatureTime France (1080p)",
+            "tvg_id": "NatureTime.ca@France",
+            "logo": "https://i.imgur.com/72JmyjM.png",
+            "group": "Documentary",
+            "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "NatureTime LATAM (684p)",
             "tvg_id": "NatureTime.ca@LATAM",
             "logo": "https://i.imgur.com/72JmyjM.png",
             "group": "Documentary",
@@ -1080,7 +1096,7 @@
             "headers": {}
         },
         {
-            "name": "NatureTime (1080p)",
+            "name": "NatureTime UK (1080p)",
             "tvg_id": "NatureTime.ca@UK",
             "logo": "https://i.imgur.com/72JmyjM.png",
             "group": "Documentary",
@@ -1088,11 +1104,11 @@
             "headers": {}
         },
         {
-            "name": "NatureTime Finland (1080p)",
-            "tvg_id": "NatureTime.ca@SD",
-            "logo": "https://i.imgur.com/72JmyjM.png",
+            "name": "Nauka (Russia) (1080p)",
+            "tvg_id": "Nauka.ru@SD",
+            "logo": "https://i.imgur.com/ZZxzueO.png",
             "group": "Documentary",
-            "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8",
+            "url": "http://31.148.48.15/Nauka_2.0/index.m3u8",
             "headers": {}
         },
         {
@@ -1104,7 +1120,7 @@
             "headers": {}
         },
         {
-            "name": "On the Case",
+            "name": "On The Case",
             "tvg_id": "OnTheCase.us@UK",
             "logo": "https://i.imgur.com/TAmVjUL.png",
             "group": "Documentary",
@@ -1128,7 +1144,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Alien Invasion",
+            "name": "Pluto TV Alien Invasion (Germany)",
             "tvg_id": "PlutoTVAlienInvasion.de@GB",
             "logo": "https://images.pluto.tv/channels/6462190b7cb4b1000862dd60/colorLogoPNG.png",
             "group": "Documentary",
@@ -1136,7 +1152,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Alien Invasion",
+            "name": "Pluto TV Alien Invasion (Sweden)",
             "tvg_id": "PlutoTVAlienInvasion.se@DK",
             "logo": "https://images.pluto.tv/channels/650999b86a841400083bd1ab/colorLogoPNG.png",
             "group": "Documentary",
@@ -1184,7 +1200,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Animals",
+            "name": "Pluto TV Animals GB",
             "tvg_id": "PlutoTVAnimals.de@GB",
             "logo": "https://images.pluto.tv/channels/5d767ae7b456c8cf265ce922/colorLogoPNG.png",
             "group": "Documentary",
@@ -1233,18 +1249,18 @@
         },
         {
             "name": "Pluto TV Dokumentar",
-            "tvg_id": "PlutoTVDokumentar.se@DK",
-            "logo": "https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png",
-            "group": "Documentary",
-            "url": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Dokumentär",
             "tvg_id": "PlutoTVDokumentar.se@SE",
             "logo": "https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png",
             "group": "Documentary",
             "url": "https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Pluto TV Dokumentar DK",
+            "tvg_id": "PlutoTVDokumentar.se@DK",
+            "logo": "https://images.pluto.tv/channels/62b30b0060a9ca0007d628b4/colorLogoPNG.png",
+            "group": "Documentary",
+            "url": "https://jmp2.uk/plu-62b30b0060a9ca0007d628b4.m3u8",
             "headers": {}
         },
         {
@@ -1264,7 +1280,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Food",
+            "name": "Pluto TV Food GB",
             "tvg_id": "PlutoTVFood.de@GB",
             "logo": "https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png",
             "group": "Cooking;Documentary",
@@ -1280,7 +1296,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Historia (720p)",
+            "name": "Pluto TV Historia (Germany) (720p)",
             "tvg_id": "PlutoTVHistoria.de@ES",
             "logo": "https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png",
             "group": "Documentary",
@@ -1288,7 +1304,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV History",
+            "name": "Pluto TV History (Germany)",
             "tvg_id": "PlutoTVHistory.de@DACH",
             "logo": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
             "group": "Documentary",
@@ -1296,7 +1312,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV History",
+            "name": "Pluto TV History (Germany) GB",
             "tvg_id": "PlutoTVHistory.de@GB",
             "logo": "https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png",
             "group": "Documentary",
@@ -1304,7 +1320,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV History",
+            "name": "Pluto TV History (United States)",
             "tvg_id": "PlutoTVHistory.us@US",
             "logo": "https://i.imgur.com/XkQD5kM.png",
             "group": "Documentary",
@@ -1312,7 +1328,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Investigação",
+            "name": "Pluto TV Investigacao",
             "tvg_id": "PlutoTVInvestigacao.us@BR",
             "logo": "https://i.imgur.com/JlQq0YJ.png",
             "group": "Documentary",
@@ -1320,7 +1336,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Mi Obsesión Favorita",
+            "name": "Pluto TV Mi Obsesion Favorita",
             "tvg_id": "PlutoTVMiObsesionFavorita.us@LatAm",
             "logo": "https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png",
             "group": "Documentary",
@@ -1360,7 +1376,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Negócio Fechado",
+            "name": "Pluto TV Negocio Fechado",
             "tvg_id": "PlutoTVNegocioFechado.us@BR",
             "logo": "https://images.pluto.tv/channels/64ad7394798def00087b2bfe/colorLogoPNG.png",
             "group": "Documentary",
@@ -1368,19 +1384,19 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Paranormal",
-            "tvg_id": "PlutoTVParanormal.us@CA",
-            "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
-            "group": "Documentary",
-            "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Paranormal",
+            "name": "Pluto TV Paranormal (United States)",
             "tvg_id": "PlutoTVParanormal.us@US",
             "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
             "group": "Documentary",
             "url": "https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Pluto TV Paranormal (United States) CA",
+            "tvg_id": "PlutoTVParanormal.us@CA",
+            "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
+            "group": "Documentary",
+            "url": "https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8",
             "headers": {}
         },
         {
@@ -1408,7 +1424,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Science",
+            "name": "Pluto TV Science (Germany)",
             "tvg_id": "PlutoTVScience.de@DACH",
             "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
             "group": "Documentary;Science",
@@ -1416,7 +1432,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Science",
+            "name": "Pluto TV Science (Germany) GB",
             "tvg_id": "PlutoTVScience.de@GB",
             "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
             "group": "Documentary;Science",
@@ -1424,7 +1440,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Science",
+            "name": "Pluto TV Science (United States)",
             "tvg_id": "PlutoTVScience.us@US",
             "logo": "https://i.imgur.com/uhunRoU.png",
             "group": "Documentary;Science",
@@ -1432,7 +1448,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Space",
+            "name": "Pluto TV Space (Germany)",
             "tvg_id": "PlutoTVSpace.de@DACH",
             "logo": "https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png",
             "group": "Documentary",
@@ -1440,7 +1456,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Space",
+            "name": "Pluto TV Space (Germany) GB",
             "tvg_id": "PlutoTVSpace.de@GB",
             "logo": "https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png",
             "group": "Documentary",
@@ -1448,7 +1464,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Space",
+            "name": "Pluto TV Space (Sweden)",
             "tvg_id": "PlutoTVSpace.se@DK",
             "logo": "https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png",
             "group": "Documentary",
@@ -1472,7 +1488,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV True Crime",
+            "name": "Pluto TV True Crime (Germany)",
             "tvg_id": "PlutoTVTrueCrime.de@DACH",
             "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
             "group": "Documentary;Series",
@@ -1480,7 +1496,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV True Crime",
+            "name": "Pluto TV True Crime (Germany) ES",
             "tvg_id": "PlutoTVTrueCrime.de@ES",
             "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
             "group": "Documentary;Series",
@@ -1488,7 +1504,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV True Crime",
+            "name": "Pluto TV True Crime (Germany) IT",
             "tvg_id": "PlutoTVTrueCrime.de@IT",
             "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
             "group": "Documentary;Series",
@@ -1496,23 +1512,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV True Crime",
-            "tvg_id": "PlutoTVTrueCrime.se@DK",
-            "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-            "group": "Documentary;Series",
-            "url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV True Crime",
-            "tvg_id": "PlutoTVTrueCrime.se@NO",
-            "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-            "group": "Documentary;Series",
-            "url": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV True Crime",
+            "name": "Pluto TV True Crime (Sweden)",
             "tvg_id": "PlutoTVTrueCrime.se@SE",
             "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
             "group": "Documentary;Series",
@@ -1520,19 +1520,35 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV True Crime",
-            "tvg_id": "PlutoTVTrueCrime.us@CA",
-            "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
+            "name": "Pluto TV True Crime (Sweden) DK",
+            "tvg_id": "PlutoTVTrueCrime.se@DK",
+            "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
             "group": "Documentary;Series",
-            "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8",
+            "url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
             "headers": {}
         },
         {
-            "name": "Pluto TV True Crime",
+            "name": "Pluto TV True Crime (Sweden) NO",
+            "tvg_id": "PlutoTVTrueCrime.se@NO",
+            "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
+            "group": "Documentary;Series",
+            "url": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Pluto TV True Crime (United States)",
             "tvg_id": "PlutoTVTrueCrime.us@US",
             "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
             "group": "Documentary;Series",
             "url": "https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Pluto TV True Crime (United States) CA",
+            "tvg_id": "PlutoTVTrueCrime.us@CA",
+            "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
+            "group": "Documentary;Series",
+            "url": "https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8",
             "headers": {}
         },
         {
@@ -1544,7 +1560,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Världskrigen",
+            "name": "Pluto TV Varldskrigen",
             "tvg_id": "PlutoTVVarldskrigen.se@SE",
             "logo": "https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png",
             "group": "Documentary",
@@ -1560,7 +1576,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Verdenskrigene",
+            "name": "Pluto TV Verdenskrigene NO",
             "tvg_id": "PlutoTVVerdenskrigene.se@NO",
             "logo": "https://images.pluto.tv/channels/677d397b60fbeb00084b0bff/colorLogoPNG_1759437735629.png",
             "group": "Documentary",
@@ -1592,7 +1608,7 @@
             "headers": {}
         },
         {
-            "name": "RT Documentary English (1080p) [Geo-blocked]",
+            "name": "RT Documentary (1080p) [Geo-blocked]",
             "tvg_id": "RTDocumentary.ru@English",
             "logo": "https://i.imgur.com/aeu5zIC.png",
             "group": "Documentary",
@@ -1640,7 +1656,7 @@
             "headers": {}
         },
         {
-            "name": "Smithsonian Channel Pluto TV",
+            "name": "Smithsonian Channel Pluto TV LatAm",
             "tvg_id": "SmithsonianChannelPlutoTV.us@LatAm",
             "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
             "group": "Documentary",
@@ -1648,19 +1664,19 @@
             "headers": {}
         },
         {
-            "name": "Smithsonian Channel Selects",
-            "tvg_id": "SmithsonianChannelSelects.se@DK",
-            "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
-            "group": "Documentary",
-            "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Smithsonian Channel Selects",
+            "name": "Smithsonian Channel Selects (Sweden)",
             "tvg_id": "SmithsonianChannelSelects.se@SE",
             "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
             "group": "Documentary",
             "url": "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Smithsonian Channel Selects (Sweden) DK",
+            "tvg_id": "SmithsonianChannelSelects.se@DK",
+            "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
+            "group": "Documentary",
+            "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
             "headers": {}
         },
         {
@@ -1680,7 +1696,7 @@
             "headers": {}
         },
         {
-            "name": "Spektrum",
+            "name": "Spektrum (Czech Republic)",
             "tvg_id": "Spektrum.cz@SD",
             "logo": "https://i.imgur.com/F5Uosum.png",
             "group": "Documentary",
@@ -1688,7 +1704,7 @@
             "headers": {}
         },
         {
-            "name": "Spektrum",
+            "name": "Spektrum (Hungary)",
             "tvg_id": "Spektrum.hu@SD",
             "logo": "https://i.imgur.com/GmFRQ82.png",
             "group": "Documentary",
@@ -1712,7 +1728,7 @@
             "headers": {}
         },
         {
-            "name": "Teen Mom",
+            "name": "Teen Mom (United States)",
             "tvg_id": "TeenMom.us@SD",
             "logo": "https://i.imgur.com/8o3ClCV.png",
             "group": "Documentary",
@@ -1792,7 +1808,7 @@
             "headers": {}
         },
         {
-            "name": "TV8 [Not 24/7]",
+            "name": "TV8 (Moldova) [Not 24/7]",
             "tvg_id": "TV8.md@SD",
             "logo": "https://i.imgur.com/Rsn4oUh.png",
             "group": "Documentary;News",
@@ -1816,7 +1832,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat Explore (1080p)",
+            "name": "Viasat Explore (Bulgaria) (1080p)",
             "tvg_id": "ViasatExplore.bg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
             "group": "Documentary",
@@ -1824,7 +1840,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat Explore",
+            "name": "Viasat Explore (Czech Republic)",
             "tvg_id": "ViasatExplore.cz@SD",
             "logo": "https://i.imgur.com/DyT5pKB.png",
             "group": "Documentary",
@@ -1832,7 +1848,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat Explore",
+            "name": "Viasat Explore (Romania)",
             "tvg_id": "ViasatExplore.ro@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
             "group": "Documentary",
@@ -1840,15 +1856,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat Explore [Not 24/7]",
-            "tvg_id": "ViasatExplore.se@SD",
-            "logo": "https://i.imgur.com/DyT5pKB.png",
-            "group": "Documentary",
-            "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Viasat Explore",
+            "name": "Viasat Explore (Slovenia)",
             "tvg_id": "ViasatExplore.si@HD",
             "logo": "https://i.imgur.com/jboGcoY.png",
             "group": "Documentary",
@@ -1856,7 +1864,15 @@
             "headers": {}
         },
         {
-            "name": "Viasat History (1080p)",
+            "name": "Viasat Explore (Sweden) [Not 24/7]",
+            "tvg_id": "ViasatExplore.se@SD",
+            "logo": "https://i.imgur.com/DyT5pKB.png",
+            "group": "Documentary",
+            "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12085/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Viasat History (Bulgaria) (1080p)",
             "tvg_id": "ViasatHistory.bg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
             "group": "Documentary",
@@ -1864,7 +1880,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat History",
+            "name": "Viasat History (Czech Republic)",
             "tvg_id": "ViasatHistory.cz@SD",
             "logo": "https://i.imgur.com/wRP9XA7.png",
             "group": "Documentary",
@@ -1872,7 +1888,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat History",
+            "name": "Viasat History (Romania)",
             "tvg_id": "ViasatHistory.ro@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
             "group": "Documentary",
@@ -1880,15 +1896,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat History [Not 24/7]",
-            "tvg_id": "ViasatHistory.se@SD",
-            "logo": "https://i.imgur.com/wRP9XA7.png",
-            "group": "Documentary",
-            "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Viasat History",
+            "name": "Viasat History (Slovenia)",
             "tvg_id": "ViasatHistory.si@HD",
             "logo": "https://i.imgur.com/qCkCGqa.png",
             "group": "Documentary",
@@ -1896,7 +1904,15 @@
             "headers": {}
         },
         {
-            "name": "Viasat History (720p)",
+            "name": "Viasat History (Sweden) [Not 24/7]",
+            "tvg_id": "ViasatHistory.se@SD",
+            "logo": "https://i.imgur.com/wRP9XA7.png",
+            "group": "Documentary",
+            "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12101/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Viasat History (Turkiye) (720p)",
             "tvg_id": "ViasatHistory.tr@SD",
             "logo": "https://i.imgur.com/wRP9XA7.png",
             "group": "Documentary",
@@ -1904,7 +1920,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat History (1080p)",
+            "name": "Viasat History (Ukraine) (1080p)",
             "tvg_id": "ViasatHistory.ua@SD",
             "logo": "https://i.imgur.com/39qZ68J.png",
             "group": "Documentary",
@@ -1912,7 +1928,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat Nature (1080p)",
+            "name": "Viasat Nature (Bulgaria) (1080p)",
             "tvg_id": "ViasatNature.bg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
             "group": "Documentary",
@@ -1920,7 +1936,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat Nature",
+            "name": "Viasat Nature (Czech Republic)",
             "tvg_id": "ViasatNature.cz@SD",
             "logo": "https://i.imgur.com/ousRqqD.png",
             "group": "Documentary",
@@ -1928,7 +1944,7 @@
             "headers": {}
         },
         {
-            "name": "Viasat Nature",
+            "name": "Viasat Nature (Romania)",
             "tvg_id": "ViasatNature.ro@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
             "group": "Documentary",
@@ -1936,19 +1952,19 @@
             "headers": {}
         },
         {
-            "name": "Viasat Nature [Not 24/7]",
-            "tvg_id": "ViasatNature.se@SD",
-            "logo": "https://i.imgur.com/ousRqqD.png",
-            "group": "Documentary",
-            "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Viasat Nature",
+            "name": "Viasat Nature (Slovenia)",
             "tvg_id": "ViasatNature.si@SD",
             "logo": "https://i.imgur.com/gxlZZ91.png",
             "group": "Documentary",
             "url": "https://lb.dstvmultimedia.com/ViasatNature/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Viasat Nature (Sweden) [Not 24/7]",
+            "tvg_id": "ViasatNature.se@SD",
+            "logo": "https://i.imgur.com/ousRqqD.png",
+            "group": "Documentary",
+            "url": "http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12084/index.m3u8",
             "headers": {}
         },
         {
@@ -2013,38 +2029,6 @@
             "logo": "https://i.imgur.com/Vhv5gjN.png",
             "group": "Documentary;Education;Outdoor;Relax",
             "url": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zylo Into Crime (1080p)",
-            "tvg_id": "IntoCrime.fr@SD",
-            "logo": "https://i.imgur.com/43at4M2.png",
-            "group": "Documentary",
-            "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "НАУКА (1080p)",
-            "tvg_id": "Nauka.ru@SD",
-            "logo": "https://i.imgur.com/ZZxzueO.png",
-            "group": "Documentary",
-            "url": "http://31.148.48.15/Nauka_2.0/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Сити Эдем КиноДок [Not 24/7]",
-            "tvg_id": "CityEdenKinoDok.ru@HD",
-            "logo": "https://i.imgur.com/itRbMX3.png",
-            "group": "Documentary;Series",
-            "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "发现之旅 (576p)",
-            "tvg_id": "CNDFilmDiscoveryChannel.cn@SD",
-            "logo": "https://i.imgur.com/2FJfPDx.png",
-            "group": "Documentary",
-            "url": "http://125.210.152.18:9090/live/FXZL_750.m3u8",
             "headers": {}
         }
     ]
