@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 886,
-    "last_update": "2026-09-20 06:52:18 AM",
+    "channels_amount": 885,
+    "last_update": "2026-09-20 11:55:57 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -184,22 +184,6 @@
             "headers": {}
         },
         {
-            "name": ".black (576p)",
-            "tvg_id": "black.ru@SD",
-            "logo": "https://i.imgur.com/Q4A6ci4.png",
-            "group": "Entertainment",
-            "url": "http://str2.iptvhd.ru:8080/Sony_Turbo/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": ".red HD (1080p)",
-            "tvg_id": "red.ru@HD",
-            "logo": "https://i.imgur.com/GET9Qut.png",
-            "group": "Entertainment",
-            "url": "http://178.134.1.158:8081/red/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "¡OPA! (720p)",
             "tvg_id": "OPA.cr@SD",
             "logo": "https://i.imgur.com/300c1ZH.png",
@@ -208,11 +192,27 @@
             "headers": {}
         },
         {
+            "name": ".black (576p)",
+            "tvg_id": "black.ru@SD",
+            "logo": "https://i.imgur.com/Q4A6ci4.png",
+            "group": "Entertainment",
+            "url": "http://stream.mcquack.net/263/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": ".red (576p)",
             "tvg_id": "red.ru@SD",
             "logo": "https://i.imgur.com/GET9Qut.png",
             "group": "Entertainment",
             "url": "http://5.188.159.128:8070/RED/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": ".red HD (1080p)",
+            "tvg_id": "red.ru@HD",
+            "logo": "https://i.imgur.com/GET9Qut.png",
+            "group": "Entertainment",
+            "url": "http://178.134.1.158:8081/red/index.m3u8",
             "headers": {}
         },
         {
@@ -810,7 +810,7 @@
         {
             "name": "Bark TV (1080p)",
             "tvg_id": "BarkTV.us@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
+            "logo": "https://images.squarespace-cdn.com/content/v1/6a233007201fda6808a47ff9/f4f45cba-d340-4963-860a-37edaf91bc7f/BarkTV_Horizontal_Color.png",
             "group": "Entertainment",
             "url": "https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8",
             "headers": {}
@@ -2256,6 +2256,14 @@
             "headers": {}
         },
         {
+            "name": "FX (United States) East HD (720p)",
+            "tvg_id": "FX.us@EastHD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+            "group": "Entertainment",
+            "url": "http://4.30.180.36:8420/fx/index.m3u8?token=test",
+            "headers": {}
+        },
+        {
             "name": "FX Latin America (1080p)",
             "tvg_id": "FXLatinAmerica.us@Panregional",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
@@ -2538,7 +2546,7 @@
         {
             "name": "Heartland (720p)",
             "tvg_id": "Heartland.us@Eastern",
-            "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png",
             "group": "Entertainment",
             "url": "https://2-fss-2.streamhoster.com/pl_120/201950-2724904-1/playlist.m3u8",
             "headers": {}
@@ -2546,7 +2554,7 @@
         {
             "name": "Heartland Web",
             "tvg_id": "Heartland.us@Web",
-            "logo": "https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-61f07513227feb00073ee6bc.m3u8",
             "headers": {}
@@ -2840,14 +2848,6 @@
             "headers": {}
         },
         {
-            "name": "Janapriyam TV (480p)",
-            "tvg_id": "JanapriyamTV.in@SD",
-            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Janapriyam_News.png",
-            "group": "Entertainment",
-            "url": "http://103.72.101.252:8080/live/1455.m3u8",
-            "headers": {}
-        },
-        {
             "name": "JARABACOA TV (1080p) [Not 24/7]",
             "tvg_id": "JARABACOATV.do@HD",
             "logo": "https://imgur.com/m9WCrlw.jpg",
@@ -2856,27 +2856,11 @@
             "headers": {}
         },
         {
-            "name": "Jaya Max (576p)",
-            "tvg_id": "JayaMax.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_MAX/images/LOGO_HD/image.png",
-            "group": "Culture;Entertainment",
-            "url": "http://103.72.101.252:8080/live/420.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Jaya Plus (576p)",
             "tvg_id": "JayaPlus.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png",
             "group": "Culture;Entertainment",
             "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Jaya TV (India) (1080p)",
-            "tvg_id": "JayaTV.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png",
-            "group": "Culture;Entertainment",
-            "url": "http://103.72.101.252:8080/live/419.m3u8",
             "headers": {}
         },
         {
@@ -3524,7 +3508,7 @@
             "tvg_id": "ManoranjanTV.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MANORANJAN_TV/images/LOGO_HD/image.png",
             "group": "Entertainment",
-            "url": "http://103.213.31.109:90/ManoranjanTv/playlist.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/1013/master.m3u8",
             "headers": {}
         },
         {
@@ -4640,6 +4624,14 @@
             "headers": {}
         },
         {
+            "name": "OTV (Estonia)",
+            "tvg_id": "OTV.ee@SD",
+            "logo": "https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg",
+            "group": "Entertainment",
+            "url": "http://88.212.15.19/live/otv/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "OTV (Ghana) (720p)",
             "tvg_id": "OTV.gh@SD",
             "logo": "https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg",
@@ -4740,7 +4732,7 @@
             "tvg_id": "PasandTV.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540",
             "group": "Entertainment",
-            "url": "http://103.175.73.12:8080/live/708/master.m3u8",
+            "url": "https://d1msejlow1t3l4.cloudfront.net/fta/pasand/playlist.m3u8",
             "headers": {}
         },
         {
@@ -4772,7 +4764,7 @@
             "tvg_id": "PearTV.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PEARS_TV/images/LOGO_HD/image.png",
             "group": "Entertainment",
-            "url": "http://103.175.73.12:8080/live/695/master.m3u8",
+            "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
             "headers": {}
         },
         {
@@ -5120,11 +5112,11 @@
             "headers": {}
         },
         {
-            "name": "PTC Punjabi (720p)",
+            "name": "PTC Punjabi (576p)",
             "tvg_id": "PTCPunjabi.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png",
             "group": "Entertainment",
-            "url": "http://103.213.31.109:90/ActionCinema/playlist.m3u8",
+            "url": "https://streams.tangotv.in/PTCPUNJABI/ORIGIN/index.m3u8",
             "headers": {}
         },
         {

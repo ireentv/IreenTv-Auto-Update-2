@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 739,
-    "last_update": "2026-09-20 06:52:18 AM",
+    "channels_amount": 740,
+    "last_update": "2026-09-20 11:55:57 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -698,7 +698,7 @@
         {
             "name": "California Music Channel (1080p)",
             "tvg_id": "CaliforniaMusicChannel.us@SD",
-            "logo": "https://i.imgur.com/L38mC6H.png",
+            "logo": "https://i.imgur.com/FyNot5W.png",
             "group": "Music",
             "url": "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
             "headers": {}
@@ -850,7 +850,7 @@
         {
             "name": "CMC-USA Country Music Channel (720p)",
             "tvg_id": "CMCUSACountryMusicChannel.us@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png",
+            "logo": "https://i.imgur.com/QsANRSu.png",
             "group": "Music",
             "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
             "headers": {}
@@ -4661,6 +4661,14 @@
             "logo": "https://i.imgur.com/ywAN923.png",
             "group": "Music",
             "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Stingray TikTok Radio (1080p)",
+            "tvg_id": "StingrayTikTokRadio.ca@HD",
+            "logo": "https://www.stingray.com/wp-content/uploads/2024/12/tiktok-radio_logo-new2.svg",
+            "group": "Music",
+            "url": "https://d3f4oii5n0oeqi.cloudfront.net/11701/88814594/hls/master.m3u8?ads.xumo_channelId=88814594",
             "headers": {}
         },
         {
