@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 410,
-    "last_update": "2026-09-21 05:59:52 AM",
+    "channels_amount": 409,
+    "last_update": "2026-09-21 10:46:39 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -448,8 +448,8 @@
             "headers": {}
         },
         {
-            "name": "CBeebies Asia (576p)",
-            "tvg_id": "CBeebiesAsia.uk@SD",
+            "name": "CBeebies Asia India (576p)",
+            "tvg_id": "CBeebiesAsia.uk@India",
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
             "group": "Kids",
             "url": "http://202.70.146.135:8000/play/a0a2/index.m3u8",
@@ -1640,14 +1640,6 @@
             "headers": {}
         },
         {
-            "name": "Nick HD+ (1080p)",
-            "tvg_id": "NickHDPlus.in@HD",
-            "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
-            "group": "Kids",
-            "url": "http://103.72.101.252:8080/live/1226.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Nick Jr. (Croatia) (540p)",
             "tvg_id": "NickJr.hr@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
@@ -2376,22 +2368,6 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Pokemon",
-            "tvg_id": "PlutoTVPokemon.us@US",
-            "logo": "https://i.imgur.com/GEbRABE.png",
-            "group": "Animation;Kids",
-            "url": "https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Pokemon UK",
-            "tvg_id": "PlutoTVPokemon.us@UK",
-            "logo": "https://i.imgur.com/GEbRABE.png",
-            "group": "Animation;Kids",
-            "url": "https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Pluto TV Retro Kid",
             "tvg_id": "PlutoTVRetroKid.us@CA",
             "logo": "https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png",
@@ -2629,6 +2605,22 @@
             "logo": "https://i.imgur.com/acrU2IE.png",
             "group": "Kids",
             "url": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "S Corby TV (480p)",
+            "tvg_id": "SCorbyTV.us@HD",
+            "logo": "https://i.postimg.cc/432q9g12/In-Shot-20260908-063951605.png",
+            "group": "Kids",
+            "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f89be0630445532152563/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "S KPop! (480p)",
+            "tvg_id": "SKPop.us@HD",
+            "logo": "https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png",
+            "group": "Kids;Music",
+            "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
             "headers": {}
         },
         {

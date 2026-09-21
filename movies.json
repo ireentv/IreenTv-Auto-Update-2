@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 759,
-    "last_update": "2026-09-21 05:59:52 AM",
+    "channels_amount": 758,
+    "last_update": "2026-09-21 10:46:39 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1877,14 +1877,6 @@
             "logo": "https://i.imgur.com/8j2npVc.png",
             "group": "Movies",
             "url": "https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "FilmRise Western (720p)",
-            "tvg_id": "FilmRiseWestern.us@SD",
-            "logo": "https://i.imgur.com/8j2npVc.png",
-            "group": "Movies",
-            "url": "https://dz05z8iljgvbe.cloudfront.net/master.m3u8",
             "headers": {}
         },
         {
@@ -5140,15 +5132,15 @@
             "tvg_id": "ShemarooFilmiGaane.in@HD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png",
             "group": "Movies;Music",
-            "url": "http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8",
+            "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
             "headers": {}
         },
         {
-            "name": "Shemaroo Josh (720p)",
+            "name": "Shemaroo Josh (576p)",
             "tvg_id": "ShemarooJosh.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540",
             "group": "Movies",
-            "url": "https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8",
+            "url": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8",
             "headers": {}
         },
         {

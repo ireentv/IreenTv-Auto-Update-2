@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 759
-# Last Updated    : 2026-09-21 05:59:52 AM
+# Total Channels  : 758
+# Last Updated    : 2026-09-21 10:46:39 AM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -478,8 +478,6 @@ https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmRise Forensic Files (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies" ,FilmRise Forensic Files (720p) [Geo-blocked]
 https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/master.m3u8
-#EXTINF:-1 tvg-name="FilmRise Western (720p)" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Movies" ,FilmRise Western (720p)
-https://dz05z8iljgvbe.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="FilmUA Live" tvg-logo="https://i.imgur.com/kizTBgS.png" group-title="Movies" ,FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 tvg-name="FilmUADrama (1080p)" tvg-logo="https://i.imgur.com/Hnwsh5d.png" group-title="Movies;Series" ,FilmUADrama (1080p)
@@ -1295,9 +1293,9 @@ https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 #EXTINF:-1 tvg-name="ServusTV (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/6W637Gn.png" group-title="Movies" ,ServusTV (1080p) [Geo-blocked]
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 #EXTINF:-1 tvg-name="Shemaroo Filmi Gaane (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/0d5b07555b2d4415aa9f145273095ed7.png" group-title="Movies;Music" ,Shemaroo Filmi Gaane (1080p)
-http://103.213.31.109:90/ShemarooFilmiGaane/playlist.m3u8
-#EXTINF:-1 tvg-name="Shemaroo Josh (720p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="Movies" ,Shemaroo Josh (720p)
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Josh (576p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="Movies" ,Shemaroo Josh (576p)
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 tvg-name="Shokiruyushchee HD (1080p)" tvg-logo="https://i.imgur.com/UG63hZ0.png" group-title="Movies" ,Shokiruyushchee HD (1080p)
 http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1 tvg-name="Shot TV (576p)" tvg-logo="https://i.imgur.com/MLSG7tA.png" group-title="Movies" ,Shot TV (576p)
