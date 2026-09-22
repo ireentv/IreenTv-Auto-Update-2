@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 383
-# Last Updated    : 2026-09-22 05:58:01 AM
+# Total Channels  : 384
+# Last Updated    : 2026-09-22 10:41:10 AM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -96,8 +96,10 @@ https://ireentv.pages.dev/Asian_TV_Server_1.m3u8
 https://ireentv.pages.dev/Asian_TV_Server_2.m3u8
 #EXTINF:-1 tvg-name="Asian TV Server 3" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg" group-title="Bangla" ,Asian TV Server 3
 https://ireentv.pages.dev/Asian_TV_Server_3.m3u8
-#EXTINF:-1 tvg-name="NAGORIK TV HD" tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA" ,NAGORIK TV HD
-https://ireentv.pages.dev/NAGORIK_TV_HD.m3u8
+#EXTINF:-1 tvg-name="NAGORIK TV HD Server 1" tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA" ,NAGORIK TV HD Server 1
+https://ireentv.pages.dev/NAGORIK_TV_HD_Server_1.m3u8
+#EXTINF:-1 tvg-name="NAGORIK TV HD Server 2" tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA" ,NAGORIK TV HD Server 2
+https://ireentv.pages.dev/NAGORIK_TV_HD_Server_2.m3u8
 #EXTINF:-1 tvg-name="BOISHAKHI TV Server 1" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0" group-title="BANGLA" ,BOISHAKHI TV Server 1
 https://ireentv.pages.dev/BOISHAKHI_TV_Server_1.m3u8
 #EXTINF:-1 tvg-name="BOISHAKHI TV Server 2" tvg-logo="https://s3.aynaott.com/storage/58658d4594ca1ff3c5031c9d8e3d9fc0" group-title="BANGLA" ,BOISHAKHI TV Server 2
@@ -296,6 +298,8 @@ https://ireentv.pages.dev/Jalsha_Movies_Server_2.m3u8
 https://ireentv.pages.dev/Jalsha_Movies_Server_3.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies Server 4" tvg-logo="https://i.ibb.co.com/XxGdDXJV/JALSHA-MOVIES-HD.png" group-title="Movies" ,Jalsha Movies Server 4
 https://ireentv.pages.dev/Jalsha_Movies_Server_4.m3u8
+#EXTINF:-1 tvg-name="Jalsha Movies Server 5" tvg-logo="https://i.ibb.co.com/XxGdDXJV/JALSHA-MOVIES-HD.png" group-title="Movies" ,Jalsha Movies Server 5
+https://ireentv.pages.dev/Jalsha_Movies_Server_5.m3u8
 #EXTINF:-1 tvg-name="Enter 10 Bangla Server 1" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla" ,Enter 10 Bangla Server 1
 https://ireentv.pages.dev/Enter_10_Bangla_Server_1.m3u8
 #EXTINF:-1 tvg-name="Enter 10 Bangla Server 2" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla" ,Enter 10 Bangla Server 2
@@ -376,14 +380,10 @@ https://ireentv.pages.dev/COLORS_CINEPLEX_FHD.m3u8
 https://ireentv.pages.dev/COLORS_CINEPLEX_SD.m3u8
 #EXTINF:-1 tvg-name="Epic Bhojpuri Movies HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540" group-title="Movies" ,Epic Bhojpuri Movies HD
 https://ireentv.pages.dev/Epic_Bhojpuri_Movies_HD.m3u8
-#EXTINF:-1 tvg-name="STAR GOLD 2" tvg-logo="https://i.ibb.co.com/Qjj0d0Xs/star-gold-2.webp" group-title="Hindi Movies" ,STAR GOLD 2
-https://ireentv.pages.dev/STAR_GOLD_2.m3u8
 #EXTINF:-1 tvg-name="Star Plus Server 1" tvg-logo="https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png" group-title="Hindi" ,Star Plus Server 1
 https://ireentv.pages.dev/Star_Plus_Server_1.m3u8
 #EXTINF:-1 tvg-name="Star Plus Server 2" tvg-logo="https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png" group-title="Hindi" ,Star Plus Server 2
 https://ireentv.pages.dev/Star_Plus_Server_2.m3u8
-#EXTINF:-1 tvg-name="Star Plus Server 3" tvg-logo="https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png" group-title="Hindi" ,Star Plus Server 3
-https://ireentv.pages.dev/Star_Plus_Server_3.m3u8
 #EXTINF:-1 tvg-name="COLORS HD" tvg-logo="http://monirul.bro.bd/assets/images/COLORS HD1745031404.png" group-title="Hindi" ,COLORS HD
 https://ireentv.pages.dev/COLORS_HD.m3u8
 #EXTINF:-1 tvg-name="Hum TV HD Server 1" tvg-logo="https://i.ibb.co.com/Z6HYNVsD/download.jpg" group-title="Hindi" ,Hum TV HD Server 1
@@ -506,6 +506,8 @@ https://ireentv.pages.dev/Bridge_Deluxe_Server_1.m3u8
 https://ireentv.pages.dev/Bridge_Deluxe_Server_2.m3u8
 #EXTINF:-1 tvg-name="Bridge Русс Хnt" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="Music" ,Bridge Русс Хnt
 https://ireentv.pages.dev/Bridge__nt.m3u8
+#EXTINF:-1 tvg-name="KpopTV Play" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Music" ,KpopTV Play
+https://ireentv.pages.dev/KpopTV_Play.m3u8
 #EXTINF:-1 tvg-name="Tele7 Music" tvg-logo="https://tele7music.ro/wp-content/uploads/2022/11/logo-tele7music-300x300.png" group-title="Music" ,Tele7 Music
 https://ireentv.pages.dev/Tele7_Music.m3u8
 #EXTINF:-1 tvg-name="Steelbird Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Music" ,Steelbird Music

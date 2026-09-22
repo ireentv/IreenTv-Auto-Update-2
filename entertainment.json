@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 885,
-    "last_update": "2026-09-22 05:58:01 AM",
+    "channels_amount": 884,
+    "last_update": "2026-09-22 10:41:10 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -2762,7 +2762,7 @@
         {
             "name": "ION Plus (1080p)",
             "tvg_id": "IONPlus.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png",
+            "logo": "https://i.imgur.com/1dgCvNE.png",
             "group": "Entertainment",
             "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8",
             "headers": {}
@@ -2770,7 +2770,7 @@
         {
             "name": "ION TV (720p)",
             "tvg_id": "IONTV.us@East",
-            "logo": "https://i.imgur.com/ocs2DeU.png",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png",
             "group": "Entertainment",
             "url": "http://23.237.104.106:8080/USA_ION/index.m3u8",
             "headers": {}
@@ -3226,7 +3226,7 @@
         {
             "name": "LATV (1080p) [Geo-blocked]",
             "tvg_id": "LATV.us@SD",
-            "logo": "https://i.imgur.com/fJxySUg.png",
+            "logo": "https://i.imgur.com/Vr9LLc5.png",
             "group": "Entertainment",
             "url": "https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8",
             "headers": {}
@@ -3480,7 +3480,7 @@
             "headers": {}
         },
         {
-            "name": "Mango (576p)",
+            "name": "Mango (India) (576p)",
             "tvg_id": "Mango.in@SD",
             "logo": "https://i.imgur.com/neZm4CY.png",
             "group": "Entertainment",
@@ -4650,7 +4650,7 @@
         {
             "name": "Outlaw WGGS-TV (720p)",
             "tvg_id": "Outlaw.us@WGGSTV",
-            "logo": "https://i.imgur.com/ocs2DeU.png",
+            "logo": "https://i.imgur.com/tSNwL8W.png",
             "group": "Entertainment",
             "url": "https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8",
             "headers": {}
@@ -4666,7 +4666,7 @@
         {
             "name": "Oxygen (720p)",
             "tvg_id": "Oxygen.us@East",
-            "logo": "https://i.imgur.com/GPoucaV.png",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png",
             "group": "Entertainment",
             "url": "http://198.58.104.90:8989/oxygen/index.m3u8",
             "headers": {}
@@ -5434,7 +5434,7 @@
         {
             "name": "Roar (1080p)",
             "tvg_id": "Roar.us@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+            "logo": "https://iili.io/FxYNwOB.md.png",
             "group": "Entertainment",
             "url": "https://fast-channels.sinclairstoryline.com/TBD/index.m3u8",
             "headers": {}
@@ -5442,7 +5442,7 @@
         {
             "name": "Roar KCWX (720p) [Not 24/7]",
             "tvg_id": "Roar.us@KCWX",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+            "logo": "https://iili.io/FxYNwOB.md.png",
             "group": "Entertainment",
             "url": "http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8",
             "headers": {}
@@ -5450,7 +5450,7 @@
         {
             "name": "Roar KOKI-TV (1080p)",
             "tvg_id": "Roar.us@KOKITV",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+            "logo": "https://iili.io/FxYNwOB.md.png",
             "group": "Entertainment",
             "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8",
             "headers": {}
@@ -5458,7 +5458,7 @@
         {
             "name": "Roar WKEF (1080p)",
             "tvg_id": "Roar.us@WKEF",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+            "logo": "https://iili.io/FxYNwOB.md.png",
             "group": "Entertainment",
             "url": "https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8",
             "headers": {}
@@ -5466,7 +5466,7 @@
         {
             "name": "Roar WSBT-TV (1080p)",
             "tvg_id": "Roar.us@WSBTTV",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+            "logo": "https://iili.io/FxYNwOB.md.png",
             "group": "Entertainment",
             "url": "https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8",
             "headers": {}
@@ -6296,6 +6296,14 @@
             "headers": {}
         },
         {
+            "name": "TNT International Belarus (1080p)",
+            "tvg_id": "TNTInternational.ru@Belarus",
+            "logo": "https://i.imgur.com/l0RGbRI.png",
+            "group": "Entertainment",
+            "url": "http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Top Gear (720p)",
             "tvg_id": "TopGear.uk@SD",
             "logo": "https://i.imgur.com/S6Su6QH.png",
@@ -6652,7 +6660,7 @@
             "tvg_id": "UniqueTV.in@SD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
             "group": "Entertainment;Kids",
-            "url": "http://103.175.73.12:8080/live/688/master.m3u8",
+            "url": "https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8",
             "headers": {}
         },
         {
@@ -6936,14 +6944,6 @@
             "headers": {}
         },
         {
-            "name": "Zee Alwan (576p) [Not 24/7]",
-            "tvg_id": "ZeeAlwan.ae@SD",
-            "logo": "https://i.imgur.com/OLuCox7.png",
-            "group": "Entertainment;Series",
-            "url": "https://tgn.bozztv.com/gin-dvrfl05/ga-zeealwan/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Zee Bangla HD (720p)",
             "tvg_id": "ZeeBangla.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
@@ -7037,14 +7037,6 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Entertainment",
             "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zee Yuva (576p)",
-            "tvg_id": "ZeeYuva.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_YUVA/images/LOGO_HD/LOGO_HD_image.png",
-            "group": "Entertainment",
-            "url": "http://103.72.101.252:8080/live/414.m3u8",
             "headers": {}
         },
         {

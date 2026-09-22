@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 740,
-    "last_update": "2026-09-22 05:58:01 AM",
+    "channels_amount": 739,
+    "last_update": "2026-09-22 10:41:10 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1100,7 +1100,7 @@
             "tvg_id": "DhoolTV.in@SD",
             "logo": "https://i.ibb.co/Rk78p2LB/dhooltv.png",
             "group": "Music",
-            "url": "https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8",
+            "url": "https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1109,6 +1109,14 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png",
             "group": "Music",
             "url": "https://cdn.pishow.tv/ott/live/1456/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Disco Polo Music (1080p)",
+            "tvg_id": "DiscoPoloMusic.pl@SD",
+            "logo": "https://i.imgur.com/ZZbuTv7.png",
+            "group": "Music",
+            "url": "http://185.227.34.179:8080/disco-polo-music/index.m3u8",
             "headers": {}
         },
         {
@@ -5256,14 +5264,6 @@
             "headers": {}
         },
         {
-            "name": "Tunes 6 (720p)",
-            "tvg_id": "Tunes6.in@SD",
-            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png",
-            "group": "Music",
-            "url": "https://stream.d6-pro.com/tunes6music/live/video.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Turbo Mix Radio TV (720p)",
             "tvg_id": "TurboMixRadioTV.pe@SD",
             "logo": "https://i.imgur.com/AsdBQa3.png",
@@ -5876,7 +5876,7 @@
             "tvg_id": "Zing.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540",
             "group": "Music",
-            "url": "http://103.72.101.252:8080/live/585.m3u8",
+            "url": "http://107.167.16.138/zing/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -5909,14 +5909,6 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
             "group": "Music",
             "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zoom (India) Global (720p)",
-            "tvg_id": "Zoom.in@Global",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
-            "group": "Music",
-            "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8",
             "headers": {}
         },
         {

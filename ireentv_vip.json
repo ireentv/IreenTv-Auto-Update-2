@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 383,
-    "last_update": "2026-09-22 05:58:01 AM",
+    "channels_amount": 384,
+    "last_update": "2026-09-22 10:41:10 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -360,11 +360,19 @@
             "headers": {}
         },
         {
-            "name": "NAGORIK TV HD",
+            "name": "NAGORIK TV HD Server 1",
+            "tvg_id": "Combined_M3U_51_aHR0cHM6",
+            "logo": "https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png",
+            "group": "BANGLA",
+            "url": "https://ireentv.pages.dev/NAGORIK_TV_HD_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "NAGORIK TV HD Server 2",
             "tvg_id": "Combined_M3U_52_aHR0cDov",
             "logo": "https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png",
             "group": "BANGLA",
-            "url": "https://ireentv.pages.dev/NAGORIK_TV_HD.m3u8",
+            "url": "https://ireentv.pages.dev/NAGORIK_TV_HD_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -1153,10 +1161,18 @@
         },
         {
             "name": "Jalsha Movies Server 4",
-            "tvg_id": "Combined_M3U_159_aHR0cDov",
+            "tvg_id": "Combined_M3U_158_aHR0cHM6",
             "logo": "https://i.ibb.co.com/XxGdDXJV/JALSHA-MOVIES-HD.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/Jalsha_Movies_Server_4.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Jalsha Movies Server 5",
+            "tvg_id": "Combined_M3U_159_aHR0cDov",
+            "logo": "https://i.ibb.co.com/XxGdDXJV/JALSHA-MOVIES-HD.png",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/Jalsha_Movies_Server_5.m3u8",
             "headers": {}
         },
         {
@@ -1480,14 +1496,6 @@
             "headers": {}
         },
         {
-            "name": "STAR GOLD 2",
-            "tvg_id": "Combined_M3U_209_aHR0cDov",
-            "logo": "https://i.ibb.co.com/Qjj0d0Xs/star-gold-2.webp",
-            "group": "Hindi Movies",
-            "url": "https://ireentv.pages.dev/STAR_GOLD_2.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Star Plus Server 1",
             "tvg_id": "Combined_M3U_210_aHR0cDov",
             "logo": "https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png",
@@ -1497,18 +1505,10 @@
         },
         {
             "name": "Star Plus Server 2",
-            "tvg_id": "Combined_M3U_211_aHR0cDov",
-            "logo": "https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png",
-            "group": "Hindi",
-            "url": "https://ireentv.pages.dev/Star_Plus_Server_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Plus Server 3",
             "tvg_id": "Combined_M3U_212_aHR0cDov",
             "logo": "https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png",
             "group": "Hindi",
-            "url": "https://ireentv.pages.dev/Star_Plus_Server_3.m3u8",
+            "url": "https://ireentv.pages.dev/Star_Plus_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -2000,6 +2000,14 @@
             "headers": {}
         },
         {
+            "name": "KpopTV Play",
+            "tvg_id": "Combined_M3U_282_aHR0cHM6",
+            "logo": "https://i.imgur.com/Tf0vweF.png",
+            "group": "Music",
+            "url": "https://ireentv.pages.dev/KpopTV_Play.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Tele7 Music",
             "tvg_id": "Combined_M3U_283_aHR0cHM6",
             "logo": "https://tele7music.ro/wp-content/uploads/2022/11/logo-tele7music-300x300.png",
@@ -2177,7 +2185,7 @@
         },
         {
             "name": "MOVIES NOW",
-            "tvg_id": "Combined_M3U_310_aHR0cDov",
+            "tvg_id": "Combined_M3U_309_aHR0cDov",
             "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/MOVIES_NOW.m3u8",
