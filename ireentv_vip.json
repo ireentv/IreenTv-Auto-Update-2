@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 384,
-    "last_update": "2026-09-22 03:45:05 PM",
+    "channels_amount": 381,
+    "last_update": "2026-09-22 08:32:58 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -992,14 +992,6 @@
             "headers": {}
         },
         {
-            "name": "Channel 16",
-            "tvg_id": "Combined_M3U_134_aHR0cHM6",
-            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png",
-            "group": "Bangla Music",
-            "url": "https://ireentv.pages.dev/Channel_16.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Peace TV Bangla Server 1",
             "tvg_id": "Combined_M3U_135_aHR0cHM6",
             "logo": "https://i.ibb.co/Gfw89mC/20240804-033102.png",
@@ -1113,7 +1105,7 @@
         },
         {
             "name": "Star Jalsha Server 2",
-            "tvg_id": "Combined_M3U_152_aHR0cDov",
+            "tvg_id": "Combined_M3U_151_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_2.m3u8",
@@ -1121,7 +1113,7 @@
         },
         {
             "name": "Star Jalsha Server 3",
-            "tvg_id": "Combined_M3U_153_aHR0cDov",
+            "tvg_id": "Combined_M3U_152_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_3.m3u8",
@@ -1129,10 +1121,18 @@
         },
         {
             "name": "Star Jalsha Server 4",
-            "tvg_id": "Combined_M3U_154_aHR0cDov",
+            "tvg_id": "Combined_M3U_153_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_4.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Jalsha Server 5",
+            "tvg_id": "Combined_M3U_154_aHR0cDov",
+            "logo": "https://i.imgur.com/IlufzR5.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Star_Jalsha_Server_5.m3u8",
             "headers": {}
         },
         {
@@ -1760,14 +1760,6 @@
             "headers": {}
         },
         {
-            "name": "Music Box Hits",
-            "tvg_id": "Combined_M3U_247_aHR0cHM6",
-            "logo": "https://musicboxhits.com/music_box_hits_logo.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/Music_Box_Hits.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Music Box Dance",
             "tvg_id": "Combined_M3U_248_aHR0cHM6",
             "logo": "https://musicboxdance.com/music_box_dance_logo.png",
@@ -2000,14 +1992,6 @@
             "headers": {}
         },
         {
-            "name": "KpopTV Play",
-            "tvg_id": "Combined_M3U_282_aHR0cHM6",
-            "logo": "https://i.imgur.com/Tf0vweF.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/KpopTV_Play.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Tele7 Music",
             "tvg_id": "Combined_M3U_283_aHR0cHM6",
             "logo": "https://tele7music.ro/wp-content/uploads/2022/11/logo-tele7music-300x300.png",
@@ -2061,14 +2045,6 @@
             "logo": "https://i.imgur.com/l3X9Gg4.png",
             "group": "Music",
             "url": "https://ireentv.pages.dev/Trace_Mziki.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Trace Ayiti",
-            "tvg_id": "Combined_M3U_293_aHR0cHM6",
-            "logo": "https://i.imgur.com/KkJ6fet.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/Trace_Ayiti.m3u8",
             "headers": {}
         },
         {
