@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 391,
-    "last_update": "2026-09-23 05:11:36 PM",
+    "channels_amount": 386,
+    "last_update": "2026-09-23 10:33:33 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -49,18 +49,10 @@
         },
         {
             "name": "T Sports HD Server 2",
-            "tvg_id": "Combined_M3U_6_aHR0cHM6",
-            "logo": "https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png",
-            "group": "Sports",
-            "url": "https://ireentv.pages.dev/T_Sports_HD_Server_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "T Sports HD Server 3",
             "tvg_id": "Combined_M3U_9_aHR0cDov",
             "logo": "https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png",
             "group": "Sports",
-            "url": "https://ireentv.pages.dev/T_Sports_HD_Server_3.m3u8",
+            "url": "https://ireentv.pages.dev/T_Sports_HD_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -896,19 +888,11 @@
             "headers": {}
         },
         {
-            "name": "Thikana TV Server 1",
-            "tvg_id": "Combined_M3U_119_aHR0cHM6",
-            "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Thikana TV Server 2",
+            "name": "Thikana TV",
             "tvg_id": "Combined_M3U_120_aHR0cHM6",
             "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Thikana_TV.m3u8",
             "headers": {}
         },
         {
@@ -1349,14 +1333,6 @@
             "logo": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg",
             "group": "Hindi Movies",
             "url": "https://ireentv.pages.dev/Zee_Cinema_Server_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "zee Dilse",
-            "tvg_id": "Combined_M3U_186_aHR0cHM6",
-            "logo": "https://i.ibb.co.com/Sw5x31pQ/zd.jpg",
-            "group": "Hindi",
-            "url": "https://ireentv.pages.dev/zee_Dilse.m3u8",
             "headers": {}
         },
         {
@@ -2264,14 +2240,6 @@
             "headers": {}
         },
         {
-            "name": "MyTime Movie Network",
-            "tvg_id": "Combined_M3U_318_aHR0cHM6",
-            "logo": "https://i.imgur.com/pw4NZK1.png",
-            "group": "Movies",
-            "url": "https://ireentv.pages.dev/MyTime_Movie_Network.m3u8",
-            "headers": {}
-        },
-        {
             "name": "MovieSphere",
             "tvg_id": "Combined_M3U_319_aHR0cHM6",
             "logo": "https://i.imgur.com/h1ejU90.png",
@@ -2585,7 +2553,7 @@
         },
         {
             "name": "Маtch 3 HD Server 1",
-            "tvg_id": "Combined_M3U_359_aHR0cHM6",
+            "tvg_id": "Combined_M3U_360_aHR0cDov",
             "logo": "https://i.ibb.co.com/6RTp3Lx3/Match-Futbol-3-Stacked.jpg",
             "group": "SPORTS",
             "url": "https://ireentv.pages.dev/tch_3_HD_Server_1.m3u8",
@@ -2593,7 +2561,7 @@
         },
         {
             "name": "Маtch 3 HD Server 2",
-            "tvg_id": "Combined_M3U_360_aHR0cDov",
+            "tvg_id": "Combined_M3U_361_aHR0cDov",
             "logo": "https://i.ibb.co.com/6RTp3Lx3/Match-Futbol-3-Stacked.jpg",
             "group": "SPORTS",
             "url": "https://ireentv.pages.dev/tch_3_HD_Server_2.m3u8",
@@ -2601,18 +2569,10 @@
         },
         {
             "name": "Маtch 3 HD Server 3",
-            "tvg_id": "Combined_M3U_361_aHR0cDov",
-            "logo": "https://i.ibb.co.com/6RTp3Lx3/Match-Futbol-3-Stacked.jpg",
-            "group": "SPORTS",
-            "url": "https://ireentv.pages.dev/tch_3_HD_Server_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Маtch 3 HD Server 4",
             "tvg_id": "Combined_M3U_362_aHR0cDov",
             "logo": "https://i.ibb.co.com/6RTp3Lx3/Match-Futbol-3-Stacked.jpg",
             "group": "SPORTS",
-            "url": "https://ireentv.pages.dev/tch_3_HD_Server_4.m3u8",
+            "url": "https://ireentv.pages.dev/tch_3_HD_Server_3.m3u8",
             "headers": {}
         },
         {
