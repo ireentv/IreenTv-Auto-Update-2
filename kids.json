@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 409,
-    "last_update": "2026-09-23 06:11:51 AM",
+    "channels_amount": 398,
+    "last_update": "2026-09-23 11:42:48 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -328,15 +328,7 @@
             "headers": {}
         },
         {
-            "name": "Bob l'eponge (Germany) (720p)",
-            "tvg_id": "Bobleponge.de@FR",
-            "logo": "https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-5ffc8c345822750007e167de.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Bob l'eponge (United States) (720p)",
+            "name": "Bob l'eponge (720p)",
             "tvg_id": "Bobleponge.us@CA",
             "logo": "https://images.pluto.tv/channels/66588931a3865300085ca800/colorLogoPNG.png",
             "group": "Kids",
@@ -1152,30 +1144,6 @@
             "headers": {}
         },
         {
-            "name": "iCarly (Germany)",
-            "tvg_id": "iCarly.de@DACH",
-            "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "iCarly (Germany) ES",
-            "tvg_id": "iCarly.de@ES",
-            "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-6181404ef48321000797bc41.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "iCarly (Germany) FR",
-            "tvg_id": "iCarly.de@FR",
-            "logo": "https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-5f8ecc7aa44d9c00081fca29.m3u8",
-            "headers": {}
-        },
-        {
             "name": "iCarly (Sweden)",
             "tvg_id": "iCarly.se@SE",
             "logo": "https://images.pluto.tv/channels/61c0b9aab7facb0007913908/colorLogoPNG.png",
@@ -1405,14 +1373,6 @@
             "logo": "https://i.imgur.com/CNhqVHd.png",
             "group": "Kids",
             "url": "https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Las Tortugas Ninja (Germany) (720p)",
-            "tvg_id": "LasTortugasNinja.de@ES",
-            "logo": "https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-61373f1a12dd9f00077dcd6f.m3u8",
             "headers": {}
         },
         {
@@ -1920,15 +1880,7 @@
             "headers": {}
         },
         {
-            "name": "Nickelodeon Teen (Germany) (720p)",
-            "tvg_id": "NickelodeonTeen.de@DACH",
-            "logo": "https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Nickelodeon Teen (United States) (720p)",
+            "name": "Nickelodeon Teen (720p)",
             "tvg_id": "NickelodeonTeen.us@BR",
             "logo": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
             "group": "Kids",
@@ -1936,7 +1888,7 @@
             "headers": {}
         },
         {
-            "name": "Nickelodeon Teen (United States) LatAm (720p)",
+            "name": "Nickelodeon Teen LatAm (720p)",
             "tvg_id": "NickelodeonTeen.us@LatAm",
             "logo": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png",
             "group": "Kids",
@@ -1944,15 +1896,7 @@
             "headers": {}
         },
         {
-            "name": "Nickelodeon Toons (Germany) (720p)",
-            "tvg_id": "NickelodeonToons.de@DACH",
-            "logo": "https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG_1750753703285.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Nickelodeon Toons (United States) (720p)",
+            "name": "Nickelodeon Toons (720p)",
             "tvg_id": "NickelodeonToons.us@BR",
             "logo": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
             "group": "Kids",
@@ -1960,7 +1904,7 @@
             "headers": {}
         },
         {
-            "name": "Nickelodeon Toons (United States) LatAm (720p)",
+            "name": "Nickelodeon Toons LatAm (720p)",
             "tvg_id": "NickelodeonToons.us@LatAm",
             "logo": "https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png",
             "group": "Kids",
@@ -2232,23 +2176,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Junior (Germany) (720p)",
-            "tvg_id": "PlutoTVJunior.de@ES",
-            "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-5f1aa9bcd8160700076d45d1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Junior (Germany) FR (720p)",
-            "tvg_id": "PlutoTVJunior.de@FR",
-            "logo": "https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG_1747402544424.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-5f8ecb336537e8000764a17f.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Junior (United States)",
+            "name": "Pluto TV Junior",
             "tvg_id": "PlutoTVJunior.us@BR",
             "logo": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
             "group": "Kids",
@@ -2256,7 +2184,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Junior (United States) LatAm",
+            "name": "Pluto TV Junior LatAm",
             "tvg_id": "PlutoTVJunior.us@LatAm",
             "logo": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
             "group": "Kids",
@@ -2288,23 +2216,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Kids (Germany) (720p)",
-            "tvg_id": "PlutoTVKids.de@ES",
-            "logo": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-5f1aab1d29b39600073e243f.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Kids (Germany) GB",
-            "tvg_id": "PlutoTVKids.de@GB",
-            "logo": "https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG_1750751398943.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-5ad8d54be738977e2c310940.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Kids (United States)",
+            "name": "Pluto TV Kids",
             "tvg_id": "PlutoTVKids.us@BR",
             "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
             "group": "Kids",
@@ -2312,7 +2224,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Kids (United States) LatAm",
+            "name": "Pluto TV Kids LatAm",
             "tvg_id": "PlutoTVKids.us@LatAm",
             "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
             "group": "Kids",
@@ -2698,7 +2610,7 @@
         {
             "name": "Sony Yay! (1080p)",
             "tvg_id": "SonyYay.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_YAY/images/LOGO_HD/image.png",
+            "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
             "group": "Animation;Kids",
             "url": "https://cloudplay-sonyliv.pages.dev/yay.m3u8",
             "headers": {}

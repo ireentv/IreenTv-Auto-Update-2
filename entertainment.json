@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 884,
-    "last_update": "2026-09-23 06:11:51 AM",
+    "channels_amount": 869,
+    "last_update": "2026-09-23 11:42:48 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -440,15 +440,7 @@
             "headers": {}
         },
         {
-            "name": "America's Next Top Model (Germany)",
-            "tvg_id": "AmericasNextTopModel.de@ES",
-            "logo": "https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-686cd84603ad75cfd132d672.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "America's Next Top Model (United States)",
+            "name": "America's Next Top Model",
             "tvg_id": "AmericasNextTopModel.us@SD",
             "logo": "https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png",
             "group": "Entertainment",
@@ -456,7 +448,7 @@
             "headers": {}
         },
         {
-            "name": "America's Next Top Model (United States) CA",
+            "name": "America's Next Top Model CA",
             "tvg_id": "AmericasNextTopModel.us@CA",
             "logo": "https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png",
             "group": "Entertainment",
@@ -968,15 +960,7 @@
             "headers": {}
         },
         {
-            "name": "BET Pluto TV (Germany)",
-            "tvg_id": "BETPlutoTV.de@GB",
-            "logo": "https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "BET Pluto TV (United States)",
+            "name": "BET Pluto TV",
             "tvg_id": "BETPlutoTV.us@US",
             "logo": "https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png",
             "group": "Entertainment",
@@ -984,7 +968,7 @@
             "headers": {}
         },
         {
-            "name": "BET Pluto TV (United States) BR",
+            "name": "BET Pluto TV BR",
             "tvg_id": "BETPlutoTV.us@BR",
             "logo": "https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png",
             "group": "Entertainment",
@@ -3896,46 +3880,6 @@
             "headers": {}
         },
         {
-            "name": "MTV Catfish TV Show",
-            "tvg_id": "MTVCatfishTVShow.de@IT",
-            "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-6093f9ed2c75660007322bb7.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Catfish TV Show DACH (720p)",
-            "tvg_id": "MTVCatfishTVShow.de@DACH",
-            "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Catfish TV Show ES (720p)",
-            "tvg_id": "MTVCatfishTVShow.de@ES",
-            "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-5f1ab3c7778230000735cf41.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Catfish TV Show FR (720p)",
-            "tvg_id": "MTVCatfishTVShow.de@FR",
-            "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-5f8eb66537867f0007146953.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Catfish TV Show GB",
-            "tvg_id": "MTVCatfishTVShow.de@GB",
-            "logo": "https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-625eaebc2a73a00007d3f855.m3u8",
-            "headers": {}
-        },
-        {
             "name": "MTV CLASSICS",
             "tvg_id": "MTVCLASSICS.de@FR",
             "logo": "https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",
@@ -3949,22 +3893,6 @@
             "logo": "https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-638693db857364000781b471.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Dating (Germany) (720p)",
-            "tvg_id": "MTVDating.de@DACH",
-            "logo": "https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Dating (Germany) ES (720p)",
-            "tvg_id": "MTVDating.de@ES",
-            "logo": "https://images.pluto.tv/channels/5caf330ea5068259a32320fd/colorLogoPNG.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8",
             "headers": {}
         },
         {
@@ -4104,15 +4032,7 @@
             "headers": {}
         },
         {
-            "name": "MTV Pluto TV (Germany)",
-            "tvg_id": "MTVPlutoTV.de@DACH",
-            "logo": "https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Pluto TV (United States)",
+            "name": "MTV Pluto TV",
             "tvg_id": "MTVPlutoTV.us@US",
             "logo": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
             "group": "Entertainment",
@@ -4120,7 +4040,7 @@
             "headers": {}
         },
         {
-            "name": "MTV Pluto TV (United States) BR",
+            "name": "MTV Pluto TV BR",
             "tvg_id": "MTVPlutoTV.us@BR",
             "logo": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png",
             "group": "Entertainment",
@@ -4128,7 +4048,7 @@
             "headers": {}
         },
         {
-            "name": "MTV Pluto TV (United States) LatAm (720p)",
+            "name": "MTV Pluto TV LatAm (720p)",
             "tvg_id": "MTVPlutoTV.us@LatAm",
             "logo": "https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG_1764875981566.png",
             "group": "Entertainment",
@@ -4136,25 +4056,9 @@
             "headers": {}
         },
         {
-            "name": "MTV Reality (Germany) (720p)",
-            "tvg_id": "MTVReality.de@DACH",
-            "logo": "https://images.pluto.tv/channels/685136fb33a52de120bbb086/colorLogoPNG_1780303948285.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Reality (Germany) ES (720p)",
-            "tvg_id": "MTVReality.de@ES",
-            "logo": "https://images.pluto.tv/channels/685136fb33a52de120bbb086/colorLogoPNG_1780303948285.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8",
-            "headers": {}
-        },
-        {
             "name": "MTV Reality (United States) (720p)",
             "tvg_id": "MTVReality.us@BR",
-            "logo": "https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png",
+            "logo": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8",
             "headers": {}
@@ -4162,7 +4066,7 @@
         {
             "name": "MTV Reality (United States) CA",
             "tvg_id": "MTVReality.us@CA",
-            "logo": "https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png",
+            "logo": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8",
             "headers": {}
@@ -4170,17 +4074,9 @@
         {
             "name": "MTV Reality (United States) LatAm (720p)",
             "tvg_id": "MTVReality.us@LatAm",
-            "logo": "https://images.pluto.tv/channels/6851bdfc9ac48fde5e07f5ae/colorLogoPNG_1780319925470.png",
+            "logo": "https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Ridiculousness (Germany)",
-            "tvg_id": "MTVRidiculousness.de@DACH",
-            "logo": "https://images.pluto.tv/channels/5f9847fd513250000728a9a5/colorLogoPNG.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8",
             "headers": {}
         },
         {
@@ -4245,22 +4141,6 @@
             "logo": "https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Teen Mom (Germany) (720p)",
-            "tvg_id": "MTVTeenMom.de@DACH",
-            "logo": "https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/colorLogoPNG_1750154727513.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV Teen Mom (Germany) ES (720p)",
-            "tvg_id": "MTVTeenMom.de@ES",
-            "logo": "https://images.pluto.tv/channels/5cffcf5686dfe15595fb3f56/colorLogoPNG_1750154727513.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-604f81a49ef73300070e554f.m3u8",
             "headers": {}
         },
         {
@@ -5634,7 +5514,7 @@
         {
             "name": "Shemaroo Umang (720p)",
             "tvg_id": "ShemarooUmang.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png",
+            "logo": "https://dtil.tmsimg.com/assets/s143779_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8",
             "headers": {}
@@ -5722,7 +5602,7 @@
         {
             "name": "Sony Marathi (1080p)",
             "tvg_id": "SonyMarathi.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MARATHI/images/LOGO_HD/image.png",
+            "logo": "https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://cloudplay-sonyliv.pages.dev/marathi.m3u8",
             "headers": {}
@@ -5730,7 +5610,7 @@
         {
             "name": "Sony Pal (1080p)",
             "tvg_id": "SonyPal.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png",
+            "logo": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://cloudplay-sonyliv.pages.dev/pal.m3u8",
             "headers": {}
@@ -5738,7 +5618,7 @@
         {
             "name": "Sony SAB HD (1080p)",
             "tvg_id": "SonySAB.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png",
+            "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://cloudplay-sonyliv.pages.dev/sabhd.m3u8",
             "headers": {}
@@ -6002,7 +5882,7 @@
         {
             "name": "Tarang TV (720p)",
             "tvg_id": "TarangTV.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TARANG/images/LOGO_HD/image.png",
+            "logo": "https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8",
             "headers": {}
@@ -6682,7 +6562,7 @@
         {
             "name": "Vanitha TV (576p)",
             "tvg_id": "VanithaTV.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VANITHA/images/LOGO_HD/image.png",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Vanitha.png",
             "group": "Entertainment",
             "url": "https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8",
             "headers": {}

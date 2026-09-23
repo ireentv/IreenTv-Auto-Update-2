@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 386
-# Last Updated    : 2026-09-23 06:11:51 AM
+# Total Channels  : 384
+# Last Updated    : 2026-09-23 11:42:48 AM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -116,8 +116,10 @@ https://ireentv.pages.dev/MAASRANGA_HD_Server_2.m3u8
 https://ireentv.pages.dev/MAASRANGA_HD_Server_3.m3u8
 #EXTINF:-1 tvg-name="MAASRANGA HD Server 4" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png" group-title="Bangla" ,MAASRANGA HD Server 4
 https://ireentv.pages.dev/MAASRANGA_HD_Server_4.m3u8
-#EXTINF:-1 tvg-name="GAZI TV" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="BANGLA" ,GAZI TV
-https://ireentv.pages.dev/GAZI_TV.m3u8
+#EXTINF:-1 tvg-name="GAZI TV Server 1" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="BANGLA" ,GAZI TV Server 1
+https://ireentv.pages.dev/GAZI_TV_Server_1.m3u8
+#EXTINF:-1 tvg-name="GAZI TV Server 2" tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="BANGLA" ,GAZI TV Server 2
+https://ireentv.pages.dev/GAZI_TV_Server_2.m3u8
 #EXTINF:-1 tvg-name="My TV Server 1" tvg-logo="https://otapp.store/uploads/tv_image/sm/my-tv.png" group-title="BANGLA" ,My TV Server 1
 https://ireentv.pages.dev/My_TV_Server_1.m3u8
 #EXTINF:-1 tvg-name="My TV Server 2" tvg-logo="https://otapp.store/uploads/tv_image/sm/my-tv.png" group-title="BANGLA" ,My TV Server 2
@@ -134,8 +136,6 @@ https://ireentv.pages.dev/NEXUS_TV_Server_3.m3u8
 https://ireentv.pages.dev/Deepto_TV_HD_Server_1.m3u8
 #EXTINF:-1 tvg-name="Deepto TV HD Server 2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Bangla" ,Deepto TV HD Server 2
 https://ireentv.pages.dev/Deepto_TV_HD_Server_2.m3u8
-#EXTINF:-1 tvg-name="Deepto TV HD Server 3" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png" group-title="Bangla" ,Deepto TV HD Server 3
-https://ireentv.pages.dev/Deepto_TV_HD_Server_3.m3u8
 #EXTINF:-1 tvg-name="SRK TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png" group-title="Bangla" ,SRK TV
 https://ireentv.pages.dev/SRK_TV.m3u8
 #EXTINF:-1 tvg-name="Channel i Server 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="Bangla" ,Channel i Server 1
@@ -508,8 +508,6 @@ https://ireentv.pages.dev/Bridge_Deluxe_Server_1.m3u8
 https://ireentv.pages.dev/Bridge_Deluxe_Server_2.m3u8
 #EXTINF:-1 tvg-name="Bridge Русс Хnt" tvg-logo="https://iptvx.one/picons/bridge-tv-ruxit.png" group-title="Music" ,Bridge Русс Хnt
 https://ireentv.pages.dev/Bridge__nt.m3u8
-#EXTINF:-1 tvg-name="KpopTV Play" tvg-logo="https://i.imgur.com/Tf0vweF.png" group-title="Music" ,KpopTV Play
-https://ireentv.pages.dev/KpopTV_Play.m3u8
 #EXTINF:-1 tvg-name="Tele7 Music" tvg-logo="https://tele7music.ro/wp-content/uploads/2022/11/logo-tele7music-300x300.png" group-title="Music" ,Tele7 Music
 https://ireentv.pages.dev/Tele7_Music.m3u8
 #EXTINF:-1 tvg-name="Steelbird Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Music" ,Steelbird Music
@@ -676,6 +674,8 @@ https://ireentv.pages.dev/Go3_Sport_Open_HD_Server_2.m3u8
 https://ireentv.pages.dev/Star_Sports_1_Server_1.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1 Server 2" tvg-logo="https://i.ibb.co.com/YFbPQ6dN/Star-Sports-1-HD.png" group-title="Sports" ,Star Sports 1 Server 2
 https://ireentv.pages.dev/Star_Sports_1_Server_2.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 Server 3" tvg-logo="https://i.ibb.co.com/YFbPQ6dN/Star-Sports-1-HD.png" group-title="Sports" ,Star Sports 1 Server 3
+https://ireentv.pages.dev/Star_Sports_1_Server_3.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2 Server 1" tvg-logo="https://i.ibb.co.com/kV7KtjH0/star2.png" group-title="Sports" ,Star Sports 2 Server 1
 https://ireentv.pages.dev/Star_Sports_2_Server_1.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2 Server 2" tvg-logo="https://i.ibb.co.com/kV7KtjH0/star2.png" group-title="Sports" ,Star Sports 2 Server 2
@@ -702,8 +702,6 @@ https://ireentv.pages.dev/Sony_Ten_Sports_1_Server_3.m3u8
 https://ireentv.pages.dev/Sony_Ten_Sports_2_Server_1.m3u8
 #EXTINF:-1 tvg-name="Sony Ten Sports 2 Server 2" tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports" ,Sony Ten Sports 2 Server 2
 https://ireentv.pages.dev/Sony_Ten_Sports_2_Server_2.m3u8
-#EXTINF:-1 tvg-name="Sony Ten Sports 2 Server 3" tvg-logo="https://i.ibb.co.com/WNn9Nb8Q/Sony-Sports-Ten-2.webp" group-title="Sports" ,Sony Ten Sports 2 Server 3
-https://ireentv.pages.dev/Sony_Ten_Sports_2_Server_3.m3u8
 #EXTINF:-1 tvg-name="Sony Ten Sports 3" tvg-logo="https://i.ibb.co.com/rfbqJxMh/Sony-Sports-Ten-3.webp" group-title="Sports" ,Sony Ten Sports 3
 https://ireentv.pages.dev/Sony_Ten_Sports_3.m3u8
 #EXTINF:-1 tvg-name="Sony Ten Sports 5 Server 1" tvg-logo="" group-title="General" ,Sony Ten Sports 5 Server 1
@@ -734,8 +732,6 @@ https://ireentv.pages.dev/PBS_Kids.m3u8
 https://ireentv.pages.dev/Nick_Bangla.m3u8
 #EXTINF:-1 tvg-name="WOW Kidz" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png" group-title="𝐊𝐢𝐝𝐬" ,WOW Kidz
 https://ireentv.pages.dev/WOW_Kidz.m3u8
-#EXTINF:-1 tvg-name="ZB Cartoon" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids" ,ZB Cartoon
-https://ireentv.pages.dev/ZB_Cartoon.m3u8
 #EXTINF:-1 tvg-name="Jungle Book" tvg-logo="https://i.imgur.com/ubZMeQv.jpg" group-title="Kids" ,Jungle Book
 https://ireentv.pages.dev/Jungle_Book.m3u8
 #EXTINF:-1 tvg-name="Tom & Jerry TV" tvg-logo="https://i.ibb.co.com/v4kdKGZ6/yyyr.png" group-title="Kids" ,Tom & Jerry TV

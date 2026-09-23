@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 253
-# Last Updated    : 2026-09-23 06:11:51 AM
+# Total Channels  : 250
+# Last Updated    : 2026-09-23 11:42:48 AM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -56,8 +56,6 @@ https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bb
 https://bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-name="Bloomberg Originals SD (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png" group-title="Business;Documentary" ,Bloomberg Originals SD (1080p)
 https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name="Bondi Rescue (Germany)" tvg-logo="https://images.pluto.tv/channels/660be37e7bcd860008793a6a/colorLogoPNG.png" group-title="Documentary" ,Bondi Rescue (Germany)
-https://jmp2.uk/plu-660be37e7bcd860008793a6a.m3u8
 #EXTINF:-1 tvg-name="BritBox Mysteries (1080p)" tvg-logo="https://i.imgur.com/PJdzoLN.png" group-title="Documentary" ,BritBox Mysteries (1080p)
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 #EXTINF:-1 tvg-name="BTB Info (1080p)" tvg-logo="https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info" group-title="Documentary;News" ,BTB Info (1080p)
@@ -336,11 +334,7 @@ https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Historia (Germany) (720p)" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Documentary" ,Pluto TV Historia (Germany) (720p)
 https://jmp2.uk/plu-61cd7b49543066000713b620.m3u8
-#EXTINF:-1 tvg-name="Pluto TV History (Germany)" tvg-logo="https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png" group-title="Documentary" ,Pluto TV History (Germany)
-https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
-#EXTINF:-1 tvg-name="Pluto TV History (Germany) GB" tvg-logo="https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png" group-title="Documentary" ,Pluto TV History (Germany) GB
-https://jmp2.uk/plu-5d4af1803e7983b391d73b13.m3u8
-#EXTINF:-1 tvg-name="Pluto TV History (United States)" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary" ,Pluto TV History (United States)
+#EXTINF:-1 tvg-name="Pluto TV History" tvg-logo="https://i.imgur.com/XkQD5kM.png" group-title="Documentary" ,Pluto TV History
 https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Investigacao" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="Documentary" ,Pluto TV Investigacao
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
