@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 410,
-    "last_update": "2026-09-24 08:47:10 PM",
+    "channels_amount": 412,
+    "last_update": "2026-09-25 12:55:51 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -168,11 +168,19 @@
             "headers": {}
         },
         {
-            "name": "Independent TV",
+            "name": "Independent TV Server 1",
+            "tvg_id": "Combined_M3U_23_aHR0cHM6",
+            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Independent_TV_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Independent TV Server 2",
             "tvg_id": "Combined_M3U_24_aHR0cDov",
             "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Independent_TV.m3u8",
+            "url": "https://ireentv.pages.dev/Independent_TV_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -360,11 +368,19 @@
             "headers": {}
         },
         {
-            "name": "Green tv",
+            "name": "Green tv Server 1",
+            "tvg_id": "Combined_M3U_50_aHR0cHM6",
+            "logo": "https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Green_tv_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Green tv Server 2",
             "tvg_id": "Combined_M3U_51_aHR0cHM6",
             "logo": "https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Green_tv.m3u8",
+            "url": "https://ireentv.pages.dev/Green_tv_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -640,27 +656,11 @@
             "headers": {}
         },
         {
-            "name": "Ekushey TV Server 1",
-            "tvg_id": "Combined_M3U_87_aHR0cHM6",
-            "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Ekushey_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Ekushey TV Server 2",
-            "tvg_id": "Combined_M3U_88_aHR0cHM6",
-            "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Ekushey_TV_Server_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Ekushey TV Server 3",
+            "name": "Ekushey TV",
             "tvg_id": "Combined_M3U_89_aHR0cDov",
             "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/cd/Ekushey_Television_logo_2000-2002%2C_2007.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Ekushey_TV_Server_3.m3u8",
+            "url": "https://ireentv.pages.dev/Ekushey_TV.m3u8",
             "headers": {}
         },
         {
@@ -2328,11 +2328,27 @@
             "headers": {}
         },
         {
-            "name": "MOVIES NOW",
+            "name": "MOVIES NOW Server 1",
             "tvg_id": "Combined_M3U_340_aHR0cDov",
             "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
             "group": "Movies",
-            "url": "https://ireentv.pages.dev/MOVIES_NOW.m3u8",
+            "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MOVIES NOW Server 2",
+            "tvg_id": "Combined_M3U_341_aHR0cDov",
+            "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Best Action Movies",
+            "tvg_id": "Combined_M3U_344_aHR0cHM6",
+            "logo": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/Best_Action_Movies.m3u8",
             "headers": {}
         },
         {
@@ -2896,11 +2912,19 @@
             "headers": {}
         },
         {
-            "name": "Star Sports Select 2",
+            "name": "Star Sports Select 2 Server 1",
             "tvg_id": "Combined_M3U_420_aHR0cDov",
             "logo": "https://i.ibb.co.com/2YZM8xyM/Star-sports-select-2-hd.webp",
             "group": "Sports",
-            "url": "https://ireentv.pages.dev/Star_Sports_Select_2.m3u8",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_2_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Sports Select 2 Server 2",
+            "tvg_id": "Combined_M3U_421_aHR0cHM6",
+            "logo": "https://i.ibb.co.com/2YZM8xyM/Star-sports-select-2-hd.webp",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_2_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -3101,14 +3125,6 @@
             "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",
             "group": "𝐊𝐢𝐝𝐬",
             "url": "https://ireentv.pages.dev/WOW_Kidz.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "ZB Cartoon",
-            "tvg_id": "Combined_M3U_458_aHR0cHM6",
-            "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-            "group": "Kids",
-            "url": "https://ireentv.pages.dev/ZB_Cartoon.m3u8",
             "headers": {}
         },
         {
