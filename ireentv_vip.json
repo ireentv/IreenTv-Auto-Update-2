@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 409,
-    "last_update": "2026-09-24 05:30:23 AM",
+    "channels_amount": 406,
+    "last_update": "2026-09-24 10:08:28 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1081,18 +1081,10 @@
         },
         {
             "name": "Zee Bangla HD Server 2",
-            "tvg_id": "Combined_M3U_147_aHR0cHM6",
-            "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Zee_Bangla_HD_Server_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zee Bangla HD Server 3",
             "tvg_id": "Combined_M3U_148_aHR0cHM6",
             "logo": "https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/9XHWylqs.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Zee_Bangla_HD_Server_3.m3u8",
+            "url": "https://ireentv.pages.dev/Zee_Bangla_HD_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -1489,18 +1481,10 @@
         },
         {
             "name": "Sony Entertainment Television HD Server 3",
-            "tvg_id": "Combined_M3U_210_aHR0cDov",
-            "logo": "https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",
-            "group": "Hindi",
-            "url": "https://ireentv.pages.dev/Sony_Entertainment_Television_HD_Server_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sony Entertainment Television HD Server 4",
             "tvg_id": "Combined_M3U_211_aHR0cDov",
             "logo": "https://assets-prod.services.toffeelive.com/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp",
             "group": "Hindi",
-            "url": "https://ireentv.pages.dev/Sony_Entertainment_Television_HD_Server_4.m3u8",
+            "url": "https://ireentv.pages.dev/Sony_Entertainment_Television_HD_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -2136,14 +2120,6 @@
             "headers": {}
         },
         {
-            "name": "KpopTV Play",
-            "tvg_id": "Combined_M3U_312_aHR0cHM6",
-            "logo": "https://i.imgur.com/Tf0vweF.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/KpopTV_Play.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Tele7 Music",
             "tvg_id": "Combined_M3U_313_aHR0cHM6",
             "logo": "https://tele7music.ro/wp-content/uploads/2022/11/logo-tele7music-300x300.png",
@@ -2333,6 +2309,14 @@
             "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Best Action Movies",
+            "tvg_id": "Combined_M3U_343_aHR0cHM6",
+            "logo": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/Best_Action_Movies.m3u8",
             "headers": {}
         },
         {
@@ -3200,19 +3184,11 @@
             "headers": {}
         },
         {
-            "name": "Discovery Bangla Server 1",
-            "tvg_id": "Combined_M3U_474_aHR0cDov",
-            "logo": "https://i.ibb.co.com/9kkTKjFS/di2.png",
-            "group": "Documentary",
-            "url": "https://ireentv.pages.dev/Discovery_Bangla_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Discovery Bangla Server 2",
+            "name": "Discovery Bangla",
             "tvg_id": "Combined_M3U_475_aHR0cDov",
             "logo": "https://i.ibb.co.com/9kkTKjFS/di2.png",
             "group": "Documentary",
-            "url": "https://ireentv.pages.dev/Discovery_Bangla_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Discovery_Bangla.m3u8",
             "headers": {}
         },
         {

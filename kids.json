@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 398,
-    "last_update": "2026-09-24 05:30:23 AM",
+    "channels_amount": 402,
+    "last_update": "2026-09-24 10:08:28 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -437,14 +437,6 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
             "group": "Kids",
             "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
-            "headers": {}
-        },
-        {
-            "name": "CBeebies Asia India (576p)",
-            "tvg_id": "CBeebiesAsia.uk@India",
-            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
-            "group": "Kids",
-            "url": "http://202.70.146.135:8000/play/a0a2/index.m3u8",
             "headers": {}
         },
         {
@@ -1224,6 +1216,14 @@
             "headers": {}
         },
         {
+            "name": "Junior (1080p)",
+            "tvg_id": "Junior.il@SD",
+            "logo": "https://i.imgur.com/w8fYTnw.png",
+            "group": "Kids",
+            "url": "http://str2.iptvhd.ru:8080/junior/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Kapitan Fantastika (1080p)",
             "tvg_id": "KapitanFantastika.ru@SD",
             "logo": "https://i.imgur.com/K3PSHiT.png",
@@ -1405,6 +1405,14 @@
             "logo": "https://i.imgur.com/Kr3U3Ub.png",
             "group": "Kids;Religious",
             "url": "https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Luli (1080p)",
+            "tvg_id": "Luli.il@SD",
+            "logo": "https://cdn.epg.one/img2/2695.png",
+            "group": "Kids",
+            "url": "http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8",
             "headers": {}
         },
         {
@@ -1984,6 +1992,14 @@
             "headers": {}
         },
         {
+            "name": "Nicktoons Scandinavia",
+            "tvg_id": "NicktoonsScandinavia.nl@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
+            "group": "Kids",
+            "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Niki Junior (1080p)",
             "tvg_id": "NikiJunior.ua@SD",
             "logo": "https://i.imgur.com/DrHsNin.png",
@@ -2061,6 +2077,14 @@
             "logo": "https://i.imgur.com/Zxuah2b.png",
             "group": "Kids",
             "url": "https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd",
+            "headers": {}
+        },
+        {
+            "name": "Pakapaka",
+            "tvg_id": "Pakapaka.ar@SD",
+            "logo": "https://i.imgur.com/GJbRWwH.png",
+            "group": "Kids",
+            "url": "https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG",
             "headers": {}
         },
         {
@@ -2165,6 +2189,14 @@
             "logo": "https://i.imgur.com/ECro8Ah.png",
             "group": "Kids",
             "url": "http://stream.mcquack.net/323/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Plim Plim",
+            "tvg_id": "PlimPlim.ar@SD",
+            "logo": "https://i.imgur.com/MYc8srh.png",
+            "group": "Animation;Kids",
+            "url": "https://xyktmobile00.s.gy/PPV911_CANCION_BEBE",
             "headers": {}
         },
         {
@@ -2784,11 +2816,11 @@
             "headers": {}
         },
         {
-            "name": "TeenNick (Israel) [Not 24/7]",
+            "name": "TeenNick (Israel) (406p)",
             "tvg_id": "TeenNick.il@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
             "group": "Kids",
-            "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/2334/index.m3u8",
+            "url": "http://89.33.29.115:8080/TeenNick/index.m3u8",
             "headers": {}
         },
         {

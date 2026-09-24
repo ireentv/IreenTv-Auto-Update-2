@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 869,
-    "last_update": "2026-09-24 05:30:23 AM",
+    "last_update": "2026-09-24 10:08:28 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -6168,19 +6168,19 @@
             "headers": {}
         },
         {
-            "name": "TNT International (480p)",
-            "tvg_id": "TNTInternational.ru@SD",
-            "logo": "https://i.imgur.com/l0RGbRI.png",
-            "group": "Entertainment",
-            "url": "https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8",
-            "headers": {}
-        },
-        {
             "name": "TNT International Belarus (1080p)",
             "tvg_id": "TNTInternational.ru@Belarus",
             "logo": "https://i.imgur.com/l0RGbRI.png",
             "group": "Entertainment",
             "url": "http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "TNT International SD (480p)",
+            "tvg_id": "TNTInternational.ru@SD",
+            "logo": "https://i.imgur.com/l0RGbRI.png",
+            "group": "Entertainment",
+            "url": "https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8",
             "headers": {}
         },
         {
