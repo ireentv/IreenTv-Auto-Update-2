@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 739,
-    "last_update": "2026-09-25 07:18:07 AM",
+    "channels_amount": 740,
+    "last_update": "2026-09-25 01:26:56 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -4813,6 +4813,14 @@
             "logo": "https://i.imgur.com/nhPFGs8.png",
             "group": "Music",
             "url": "https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "TeleHit (576p)",
+            "tvg_id": "TeleHit.mx@SD",
+            "logo": "https://i.imgur.com/NVxHxJn.png",
+            "group": "Music",
+            "url": "http://200.115.120.1:8000/play/ca048/index.m3u8",
             "headers": {}
         },
         {

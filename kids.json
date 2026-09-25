@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 402,
-    "last_update": "2026-09-25 07:18:07 AM",
+    "channels_amount": 404,
+    "last_update": "2026-09-25 01:26:56 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -581,6 +581,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
             "group": "Kids",
             "url": "http://88.212.15.19/live/test_disney/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Disney Channel (Germany)",
+            "tvg_id": "DisneyChannel.de@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+            "group": "Kids",
+            "url": "http://178.27.12.3:9981/stream/channelid/269948147?profile=pass",
             "headers": {}
         },
         {
@@ -2192,11 +2200,11 @@
             "headers": {}
         },
         {
-            "name": "Plim Plim",
+            "name": "Plim Plim (1080p)",
             "tvg_id": "PlimPlim.ar@SD",
             "logo": "https://i.imgur.com/MYc8srh.png",
             "group": "Animation;Kids",
-            "url": "https://xyktmobile00.s.gy/PPV911_CANCION_BEBE",
+            "url": "http://200.115.120.1:8000/play/ca091/index.m3u8",
             "headers": {}
         },
         {
@@ -2653,6 +2661,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
             "group": "Animation;Kids",
             "url": "https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Spacetoon Turkey (720p) [Not 24/7]",
+            "tvg_id": "SpacetoonTurkey.tr@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png",
+            "group": "Animation;Kids",
+            "url": "https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8",
             "headers": {}
         },
         {

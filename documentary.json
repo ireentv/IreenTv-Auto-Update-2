@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 250,
-    "last_update": "2026-09-25 07:18:07 AM",
+    "channels_amount": 251,
+    "last_update": "2026-09-25 01:26:56 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -741,6 +741,14 @@
             "logo": "https://i.imgur.com/eEjPail.png",
             "group": "Documentary",
             "url": "http://hls127.freeott.top:8080/Istoriya/video.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "kabel eins Doku",
+            "tvg_id": "kabeleinsDoku.de@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
+            "group": "Documentary",
+            "url": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass",
             "headers": {}
         },
         {

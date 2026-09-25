@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 402
-# Last Updated    : 2026-09-25 07:18:07 AM
+# Total Channels  : 404
+# Last Updated    : 2026-09-25 01:26:56 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -156,6 +156,8 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-name="Disney Channel (Czech Republic)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids" ,Disney Channel (Czech Republic)
 http://88.212.15.19/live/test_disney/playlist.m3u8
+#EXTINF:-1 tvg-name="Disney Channel (Germany)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids" ,Disney Channel (Germany)
+http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
 #EXTINF:-1 tvg-name="Disney Channel (Hungary)" tvg-logo="https://i.imgur.com/aOa73uT.png" group-title="Kids" ,Disney Channel (Hungary)
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (India) (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png" group-title="Kids" ,Disney Channel (India) (576p)
@@ -564,8 +566,8 @@ https://sirius.greenhosting.ru/PingvinRu/video.m3u8
 https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8
 #EXTINF:-1 tvg-name="Pixel TV (Ukraine) (1080p)" tvg-logo="https://i.imgur.com/ECro8Ah.png" group-title="Kids" ,Pixel TV (Ukraine) (1080p)
 http://stream.mcquack.net/323/index.m3u8
-#EXTINF:-1 tvg-name="Plim Plim" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Animation;Kids" ,Plim Plim
-https://xyktmobile00.s.gy/PPV911_CANCION_BEBE
+#EXTINF:-1 tvg-name="Plim Plim (1080p)" tvg-logo="https://i.imgur.com/MYc8srh.png" group-title="Animation;Kids" ,Plim Plim (1080p)
+http://200.115.120.1:8000/play/ca091/index.m3u8
 #EXTINF:-1 tvg-name="PLUSPLUS (1080p)" tvg-logo="https://i.imgur.com/9bPhStm.png" group-title="Kids" ,PLUSPLUS (1080p)
 http://stream.mcquack.net/339/index.m3u8
 #EXTINF:-1 tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Kids" ,Pluto TV Junior
@@ -680,6 +682,8 @@ http://103.185.24.134:3001/SONIC/index.m3u8
 https://cloudplay-sonyliv.pages.dev/yay.m3u8
 #EXTINF:-1 tvg-name="Spacetoon Arabic (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation;Kids" ,Spacetoon Arabic (576p)
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+#EXTINF:-1 tvg-name="Spacetoon Turkey (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" group-title="Animation;Kids" ,Spacetoon Turkey (720p) [Not 24/7]
+https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 #EXTINF:-1 tvg-name="SpongeBob Schwammkopf (720p)" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="Kids" ,SpongeBob Schwammkopf (720p)
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 #EXTINF:-1 tvg-name="SpongeBob SquarePants (720p)" tvg-logo="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" group-title="Kids" ,SpongeBob SquarePants (720p)
