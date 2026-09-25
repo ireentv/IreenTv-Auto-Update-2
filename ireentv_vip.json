@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 408,
-    "last_update": "2026-09-25 01:26:56 PM",
+    "channels_amount": 411,
+    "last_update": "2026-09-25 07:29:17 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -920,19 +920,11 @@
             "headers": {}
         },
         {
-            "name": "NRB",
-            "tvg_id": "Combined_M3U_124_aHR0cHM6",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRctL8rD_FYfZ1rHUDhs_Q3rJwRYGSDbMX0-XHpHFXLjeTC2D9iYwo8Gq3J&s=10",
+            "name": "Me Tv",
+            "tvg_id": "Combined_M3U_123_aHR0cHM6",
+            "logo": "https://i.postimg.cc/9fq1Q4Hz/20240825_070144.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/NRB.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "DesheBideshe TV",
-            "tvg_id": "Combined_M3U_125_aHR0cHM6",
-            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVHvCz2LvHBsKAUnb6Bp910Ud7v5_GpsmU9VVZ6rlq9CJB5Adxd2CkUvtfzKoP4kS2y30H2EQxOA3_BM23vDwe6stKuzsTyq28P6ivN5AmKG4hy_tdLHyvGDXnlW5BweV2hkoaq0PMRpR8KKpGKHWAGrYwLdgdtcoFw5feL2hDKK7Z_LnfD90STRQ6Gw/s600/Nur_20251226_221441_0000.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/DesheBideshe_TV.m3u8",
+            "url": "https://ireentv.pages.dev/Me_Tv.m3u8",
             "headers": {}
         },
         {
@@ -1089,10 +1081,18 @@
         },
         {
             "name": "Zee Bangla HD Server 2",
-            "tvg_id": "Combined_M3U_148_aHR0cHM6",
+            "tvg_id": "Combined_M3U_147_aHR0cHM6",
             "logo": "https://i.postimg.cc/zvf1m76p/20260918-142751.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Zee_Bangla_HD_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Bangla HD Server 3",
+            "tvg_id": "Combined_M3U_148_aHR0cHM6",
+            "logo": "https://i.postimg.cc/zvf1m76p/20260918-142751.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Zee_Bangla_HD_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -1592,6 +1592,14 @@
             "headers": {}
         },
         {
+            "name": "STAR GOLD 2",
+            "tvg_id": "Combined_M3U_232_aHR0cDov",
+            "logo": "https://i.ibb.co.com/Qjj0d0Xs/star-gold-2.webp",
+            "group": "Hindi Movies",
+            "url": "https://ireentv.pages.dev/STAR_GOLD_2.m3u8",
+            "headers": {}
+        },
+        {
             "name": "STARGOLD SELECT HD",
             "tvg_id": "Combined_M3U_233_aHR0cDov",
             "logo": "https://i.ibb.co.com/spn4T6Kq/STS.jpg",
@@ -1617,10 +1625,18 @@
         },
         {
             "name": "Star Plus Server 2",
-            "tvg_id": "Combined_M3U_238_aHR0cDov",
+            "tvg_id": "Combined_M3U_237_aHR0cDov",
             "logo": "https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png",
             "group": "Hindi",
             "url": "https://ireentv.pages.dev/Star_Plus_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Plus Server 3",
+            "tvg_id": "Combined_M3U_238_aHR0cDov",
+            "logo": "https://i.ibb.co.com/RTsxJDrx/Star-Plus-HD.png",
+            "group": "Hindi",
+            "url": "https://ireentv.pages.dev/Star_Plus_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -2320,19 +2336,27 @@
             "headers": {}
         },
         {
-            "name": "MOVIES NOW",
+            "name": "MOVIES NOW Server 1",
             "tvg_id": "Combined_M3U_340_aHR0cDov",
             "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
             "group": "Movies",
-            "url": "https://ireentv.pages.dev/MOVIES_NOW.m3u8",
+            "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_1.m3u8",
             "headers": {}
         },
         {
-            "name": "Best Action Movies",
-            "tvg_id": "Combined_M3U_344_aHR0cHM6",
-            "logo": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg",
+            "name": "MOVIES NOW Server 2",
+            "tvg_id": "Combined_M3U_341_aHR0cDov",
+            "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
             "group": "Movies",
-            "url": "https://ireentv.pages.dev/Best_Action_Movies.m3u8",
+            "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MOVIES NOW Server 3",
+            "tvg_id": "Combined_M3U_342_aHR0cDov",
+            "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -2809,10 +2833,18 @@
         },
         {
             "name": "Star Sports 1 Server 2",
-            "tvg_id": "Combined_M3U_409_aHR0cDov",
+            "tvg_id": "Combined_M3U_406_aHR0cHM6",
             "logo": "https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Star_Sports_1_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Sports 1 Server 3",
+            "tvg_id": "Combined_M3U_409_aHR0cDov",
+            "logo": "https://i.postimg.cc/hGFgJ9Qm/20260918-110842.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/Star_Sports_1_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -3085,14 +3117,6 @@
             "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/channel/logos/mjvezt.png",
             "group": "𝐊𝐢𝐝𝐬",
             "url": "https://ireentv.pages.dev/WOW_Kidz.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "ZB Cartoon",
-            "tvg_id": "Combined_M3U_456_aHR0cHM6",
-            "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-            "group": "Kids",
-            "url": "https://ireentv.pages.dev/ZB_Cartoon.m3u8",
             "headers": {}
         },
         {
