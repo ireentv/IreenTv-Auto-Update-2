@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 430,
-    "last_update": "2026-09-26 06:52:01 PM",
+    "channels_amount": 425,
+    "last_update": "2026-09-26 10:59:01 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -560,6 +560,14 @@
             "headers": {}
         },
         {
+            "name": "SRK TV",
+            "tvg_id": "Combined_M3U_75_aHR0cHM6",
+            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/SRK_TV.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Channel i Server 1",
             "tvg_id": "Combined_M3U_76_aHR0cHM6",
             "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
@@ -904,19 +912,11 @@
             "headers": {}
         },
         {
-            "name": "Thikana TV Server 1",
+            "name": "Thikana TV",
             "tvg_id": "Combined_M3U_121_aHR0cHM6",
             "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Thikana TV Server 2",
-            "tvg_id": "Combined_M3U_122_aHR0cHM6",
-            "logo": "https://imglink.cc/cdn/rw8iAU9ZcB.jpg",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Thikana_TV_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Thikana_TV.m3u8",
             "headers": {}
         },
         {
@@ -1045,14 +1045,6 @@
             "logo": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/9/9a/Bangla%2B_HD.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/Bangla_Plus.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sanonda Tv",
-            "tvg_id": "Combined_M3U_140_aHR0cDov",
-            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU",
-            "group": "Movies",
-            "url": "https://ireentv.pages.dev/Sanonda_Tv.m3u8",
             "headers": {}
         },
         {
@@ -1713,18 +1705,10 @@
         },
         {
             "name": "ZEE TV HD Server 2",
-            "tvg_id": "Combined_M3U_247_aHR0cHM6",
-            "logo": "https://ah-media-eug.pages.dev/logos/ZeeTV.png",
-            "group": "Hindi",
-            "url": "https://ireentv.pages.dev/ZEE_TV_HD_Server_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "ZEE TV HD Server 3",
             "tvg_id": "Combined_M3U_248_aHR0cHM6",
             "logo": "https://ah-media-eug.pages.dev/logos/ZeeTV.png",
             "group": "Hindi",
-            "url": "https://ireentv.pages.dev/ZEE_TV_HD_Server_3.m3u8",
+            "url": "https://ireentv.pages.dev/ZEE_TV_HD_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -1813,14 +1797,6 @@
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
             "group": "Hindi - Entertainment",
             "url": "https://ireentv.pages.dev/Zee_Tamil_HD.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Maa HD",
-            "tvg_id": "Combined_M3U_263_aHR0cHM6",
-            "logo": "https://i.imgur.com/5c9PVS0.png",
-            "group": "Hindi - Entertainment",
-            "url": "https://ireentv.pages.dev/Star_Maa_HD.m3u8",
             "headers": {}
         },
         {
@@ -2969,18 +2945,10 @@
         },
         {
             "name": "Star Sports Select 1 Server 3",
-            "tvg_id": "Combined_M3U_423_aHR0cHM6",
-            "logo": "https://i.postimg.cc/mrxRcQ17/20260918-111059.png",
-            "group": "Sports",
-            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Sports Select 1 Server 4",
             "tvg_id": "Combined_M3U_424_aHR0cDov",
             "logo": "https://i.postimg.cc/mrxRcQ17/20260918-111059.png",
             "group": "Sports",
-            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_4.m3u8",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -3125,14 +3093,6 @@
             "logo": "",
             "group": "General",
             "url": "https://ireentv.pages.dev/Sony_Ten_Sports_5_Server_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sony Ten Sports 5 Server 3",
-            "tvg_id": "Combined_M3U_449_aHR0cHM6",
-            "logo": "",
-            "group": "General",
-            "url": "https://ireentv.pages.dev/Sony_Ten_Sports_5_Server_3.m3u8",
             "headers": {}
         },
         {
