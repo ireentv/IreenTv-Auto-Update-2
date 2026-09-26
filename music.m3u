@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 740
-# Last Updated    : 2026-09-26 07:20:34 AM
+# Total Channels  : 741
+# Last Updated    : 2026-09-26 01:21:51 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -128,6 +128,8 @@ http://178.134.1.158:8081/babytime/index.m3u8
 https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="Balle Balle HD (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music" ,Balle Balle HD (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-name="Bandamax (1080p)" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Music" ,Bandamax (1080p)
+http://181.78.106.127:5000/play/ca064/index.m3u8
 #EXTINF:-1 tvg-name="Baraza TV (1080p)" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Music" ,Baraza TV (1080p)
 https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Baraza TV Deep House (720p)" tvg-logo="https://i.imgur.com/TZ1unwF.png" group-title="Music" ,Baraza TV Deep House (720p)
@@ -880,7 +882,7 @@ https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="PowerTurk Taptaze (1080p)" tvg-logo="https://i.imgur.com/a5nW3HU.png" group-title="Music" ,PowerTurk Taptaze (1080p)
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Prattel TV (720p)" tvg-logo="https://new.opencaster.com/uploads/logos/logo_244_1761928734.png" group-title="Music" ,Prattel TV (720p)
+#EXTINF:-1 tvg-name="Prattel TV (720p)" tvg-logo="https://pratteltv.lat/wp-content/uploads/2026/05/cropped-V2.jpg" group-title="Music" ,Prattel TV (720p)
 https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8
 #EXTINF:-1 tvg-name="PRIDEtv LATAM (1080p)" tvg-logo="" group-title="Entertainment;Lifestyle;Music" ,PRIDEtv LATAM (1080p)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH

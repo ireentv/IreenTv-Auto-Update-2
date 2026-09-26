@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 404,
-    "last_update": "2026-09-26 07:20:34 AM",
+    "channels_amount": 405,
+    "last_update": "2026-09-26 01:21:51 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -618,7 +618,7 @@
         {
             "name": "Disney Channel (Israel) (576p)",
             "tvg_id": "DisneyChannel.il@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/3840px-2022_Disney_Channel_logo.svg.png",
             "group": "Kids",
             "url": "http://str2.iptvhd.ru:8080/disney/index.m3u8",
             "headers": {}
@@ -1680,6 +1680,14 @@
             "headers": {}
         },
         {
+            "name": "Nick Jr. (United States) East HD (1080p)",
+            "tvg_id": "NickJr.us@EastHD",
+            "logo": "https://i.imgur.com/KT4tdQs.png",
+            "group": "Kids",
+            "url": "https://sra72yz.s.gy/NICK_JR_HD.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Nick Jr. Asia (720p)",
             "tvg_id": "NickJrAsia.sg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
@@ -1968,11 +1976,11 @@
             "headers": {}
         },
         {
-            "name": "Nicktoons (United States) (720p)",
+            "name": "Nicktoons (United States) (1080p)",
             "tvg_id": "Nicktoons.us@East",
             "logo": "https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",
             "group": "Kids",
-            "url": "http://41.205.93.154/NICKTOONS/index.m3u8",
+            "url": "https://sra72yz.s.gy/NICKTOONS_HD.m3u8",
             "headers": {}
         },
         {

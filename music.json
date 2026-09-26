@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 740,
-    "last_update": "2026-09-26 07:20:34 AM",
+    "channels_amount": 741,
+    "last_update": "2026-09-26 01:21:51 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -485,6 +485,14 @@
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
             "group": "Music",
             "url": "https://mcncdndigital.com/balleballetv/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Bandamax (1080p)",
+            "tvg_id": "Bandamax.mx@SD",
+            "logo": "https://i.imgur.com/4DfnOTA.png",
+            "group": "Music",
+            "url": "http://181.78.106.127:5000/play/ca064/index.m3u8",
             "headers": {}
         },
         {
@@ -3490,7 +3498,7 @@
         {
             "name": "Prattel TV (720p)",
             "tvg_id": "PrattelTV.pe@SD",
-            "logo": "https://new.opencaster.com/uploads/logos/logo_244_1761928734.png",
+            "logo": "https://pratteltv.lat/wp-content/uploads/2026/05/cropped-V2.jpg",
             "group": "Music",
             "url": "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8",
             "headers": {}

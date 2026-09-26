@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 740,
-    "last_update": "2026-09-26 07:20:34 AM",
+    "channels_amount": 742,
+    "last_update": "2026-09-26 01:21:51 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -360,6 +360,14 @@
             "headers": {}
         },
         {
+            "name": "AXN Asia Philippines (576p)",
+            "tvg_id": "AXNAsia.sg@Philippines",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+            "group": "Movies;Series",
+            "url": "https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8",
+            "headers": {}
+        },
+        {
             "name": "AXN Asia Taiwan (1080p)",
             "tvg_id": "AXNAsia.sg@Taiwan",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
@@ -472,11 +480,11 @@
             "headers": {}
         },
         {
-            "name": "AXN Latin America South",
+            "name": "AXN Latin America South (1080p)",
             "tvg_id": "AXNLatinAmerica.us@South",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
             "group": "Movies",
-            "url": "http://45.228.235.116:8000/play/a0iy/index.m3u8",
+            "url": "http://181.78.12.119:16123/play/ch46/index.m3u8",
             "headers": {}
         },
         {
@@ -1165,6 +1173,14 @@
             "logo": "https://i.imgur.com/D2qNVZ7.png",
             "group": "Movies",
             "url": "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cinemax Action East HD (1080p)",
+            "tvg_id": "CinemaxAction.us@EastHD",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png",
+            "group": "Movies",
+            "url": "https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8",
             "headers": {}
         },
         {
@@ -2144,11 +2160,11 @@
             "headers": {}
         },
         {
-            "name": "HBO Hits (720p)",
-            "tvg_id": "HBOHits.us@East",
-            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
+            "name": "HBO Drama (1080p)",
+            "tvg_id": "HBODrama.us@East",
+            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
             "group": "Movies;Series",
-            "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
+            "url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8",
             "headers": {}
         },
         {
