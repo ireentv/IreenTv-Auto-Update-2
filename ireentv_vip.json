@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 427,
-    "last_update": "2026-09-28 12:12:06 AM",
+    "channels_amount": 426,
+    "last_update": "2026-09-28 03:56:38 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -541,6 +541,14 @@
             "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Deepto_TV_HD_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "SRK TV",
+            "tvg_id": "Combined_M3U_75_aHR0cHM6",
+            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/SRK_TV.m3u8",
             "headers": {}
         },
         {
@@ -1936,6 +1944,14 @@
             "headers": {}
         },
         {
+            "name": "RTL 102.5 Disco",
+            "tvg_id": "Combined_M3U_279_aHR0cHM6",
+            "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png",
+            "group": "Music",
+            "url": "https://ireentv.pages.dev/RTL_1025_Disco.m3u8",
+            "headers": {}
+        },
+        {
             "name": "9X Tashan",
             "tvg_id": "Combined_M3U_281_aHR0cHM6",
             "logo": "https://vignette.wikia.nocookie.net/logopedia/images/5/56/9X_Tashan_Logo.jpg",
@@ -2157,14 +2173,6 @@
             "logo": "https://iptvx.one/picons/bridge-tv-ruxit.png",
             "group": "Music",
             "url": "https://ireentv.pages.dev/Bridge__nt.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Tele7 Music",
-            "tvg_id": "Combined_M3U_315_aHR0cHM6",
-            "logo": "https://tele7music.ro/wp-content/uploads/2022/11/logo-tele7music-300x300.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/Tele7_Music.m3u8",
             "headers": {}
         },
         {
@@ -2937,18 +2945,10 @@
         },
         {
             "name": "Star Sports Select 1 Server 3",
-            "tvg_id": "Combined_M3U_423_aHR0cHM6",
-            "logo": "https://i.postimg.cc/mrxRcQ17/20260918-111059.png",
-            "group": "Sports",
-            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Sports Select 1 Server 4",
             "tvg_id": "Combined_M3U_424_aHR0cDov",
             "logo": "https://i.postimg.cc/mrxRcQ17/20260918-111059.png",
             "group": "Sports",
-            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_4.m3u8",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -2973,14 +2973,6 @@
             "logo": "https://i.postimg.cc/rmczbb8g/20240825_060019.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Star_Sports_Select_2_Server_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Sports Select 2 Server 4",
-            "tvg_id": "Combined_M3U_428_aHR0cHM6",
-            "logo": "https://i.postimg.cc/rmczbb8g/20240825_060019.png",
-            "group": "Sports",
-            "url": "https://ireentv.pages.dev/Star_Sports_Select_2_Server_4.m3u8",
             "headers": {}
         },
         {
