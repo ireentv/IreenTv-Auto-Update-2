@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 427,
-    "last_update": "2026-09-27 01:53:16 PM",
+    "channels_amount": 432,
+    "last_update": "2026-09-27 07:44:19 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -168,11 +168,19 @@
             "headers": {}
         },
         {
-            "name": "Independent TV",
+            "name": "Independent TV Server 1",
+            "tvg_id": "Combined_M3U_23_aHR0cHM6",
+            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Independent_TV_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Independent TV Server 2",
             "tvg_id": "Combined_M3U_24_aHR0cDov",
             "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Independent_TV.m3u8",
+            "url": "https://ireentv.pages.dev/Independent_TV_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -1048,6 +1056,14 @@
             "headers": {}
         },
         {
+            "name": "Sanonda Tv",
+            "tvg_id": "Combined_M3U_140_aHR0cDov",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrOMsdkfX7iirtL5LHIosFTqpB8hhdpS7zg&usqp=CAU",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/Sanonda_Tv.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Zee Bangla Sonar Server 1",
             "tvg_id": "Combined_M3U_141_aHR0cDov",
             "logo": "https://i.ibb.co.com/LzpTBRRn/zee-bangla-sonar-in.png",
@@ -1145,7 +1161,7 @@
         },
         {
             "name": "Star Jalsha Server 3",
-            "tvg_id": "Combined_M3U_156_aHR0cDov",
+            "tvg_id": "Combined_M3U_155_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_3.m3u8",
@@ -1153,7 +1169,7 @@
         },
         {
             "name": "Star Jalsha Server 4",
-            "tvg_id": "Combined_M3U_157_aHR0cDov",
+            "tvg_id": "Combined_M3U_156_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_4.m3u8",
@@ -1161,10 +1177,18 @@
         },
         {
             "name": "Star Jalsha Server 5",
-            "tvg_id": "Combined_M3U_158_aHR0cDov",
+            "tvg_id": "Combined_M3U_157_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_5.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Jalsha Server 6",
+            "tvg_id": "Combined_M3U_158_aHR0cDov",
+            "logo": "https://i.imgur.com/IlufzR5.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Star_Jalsha_Server_6.m3u8",
             "headers": {}
         },
         {
@@ -1725,6 +1749,14 @@
             "logo": "https://ah-media-eug.pages.dev/logos/ZeeTV.png",
             "group": "Hindi",
             "url": "https://ireentv.pages.dev/ZEE_TV_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "ZEE TV Server 3",
+            "tvg_id": "Combined_M3U_252_aHR0cDov",
+            "logo": "https://ah-media-eug.pages.dev/logos/ZeeTV.png",
+            "group": "Hindi",
+            "url": "https://ireentv.pages.dev/ZEE_TV_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -2945,10 +2977,18 @@
         },
         {
             "name": "Star Sports Select 1 Server 3",
-            "tvg_id": "Combined_M3U_424_aHR0cDov",
+            "tvg_id": "Combined_M3U_423_aHR0cHM6",
             "logo": "https://i.postimg.cc/mrxRcQ17/20260918-111059.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Sports Select 1 Server 4",
+            "tvg_id": "Combined_M3U_424_aHR0cDov",
+            "logo": "https://i.postimg.cc/mrxRcQ17/20260918-111059.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_4.m3u8",
             "headers": {}
         },
         {
