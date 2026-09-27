@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 869,
-    "last_update": "2026-09-27 07:14:39 AM",
+    "channels_amount": 870,
+    "last_update": "2026-09-27 01:53:16 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -2733,6 +2733,14 @@
             "logo": "https://i.imgur.com/192wiS1.png",
             "group": "Entertainment",
             "url": "https://tvstreamcast.com/indonesiana.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Insula non stop (576i)",
+            "tvg_id": "Insulanonstop.ro@SD",
+            "logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
+            "group": "Entertainment",
+            "url": "https://live4dai.antenaplay.ro/live2_sdi05/live2_sdi05_600k.m3u8",
             "headers": {}
         },
         {

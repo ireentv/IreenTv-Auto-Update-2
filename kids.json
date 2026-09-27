@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 405,
-    "last_update": "2026-09-27 07:14:39 AM",
+    "channels_amount": 409,
+    "last_update": "2026-09-27 01:53:16 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -221,6 +221,14 @@
             "logo": "https://i.imgur.com/4BDJ5FT.png",
             "group": "Kids",
             "url": "https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BabyTV Spain (1080p)",
+            "tvg_id": "BabyTV.uk@Spain",
+            "logo": "https://i.imgur.com/4BDJ5FT.png",
+            "group": "Kids",
+            "url": "http://181.78.12.119:16123/play/ch01/index.m3u8",
             "headers": {}
         },
         {
@@ -1616,6 +1624,22 @@
             "headers": {}
         },
         {
+            "name": "New Channel (480p)",
+            "tvg_id": "NewChannel.ca@SD",
+            "logo": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920",
+            "group": "Kids;Music",
+            "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "New Channel Pop! (480p)",
+            "tvg_id": "NewChannelPop.ca@SD",
+            "logo": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920",
+            "group": "Kids",
+            "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Nick Jr. (Croatia) (540p)",
             "tvg_id": "NickJr.hr@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
@@ -2581,6 +2605,14 @@
             "logo": "https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png",
             "group": "Kids;Music",
             "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "S Play Event (1080p)",
+            "tvg_id": "SPlayEvent.us@HD",
+            "logo": "https://i.postimg.cc/5y6t70Mz/In-Shot-20260908-113231556.png",
+            "group": "Kids",
+            "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8",
             "headers": {}
         },
         {

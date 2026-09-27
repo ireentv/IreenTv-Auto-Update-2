@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 429
-# Last Updated    : 2026-09-27 07:14:39 AM
+# Total Channels  : 427
+# Last Updated    : 2026-09-27 01:53:16 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -48,10 +48,8 @@ https://ireentv.pages.dev/Jamuna_TV_Server_4.m3u8
 https://ireentv.pages.dev/DBC_News_HD_Server_1.m3u8
 #EXTINF:-1 tvg-name="DBC News HD Server 2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="Bangla" ,DBC News HD Server 2
 https://ireentv.pages.dev/DBC_News_HD_Server_2.m3u8
-#EXTINF:-1 tvg-name="Independent TV Server 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="Bangla" ,Independent TV Server 1
-https://ireentv.pages.dev/Independent_TV_Server_1.m3u8
-#EXTINF:-1 tvg-name="Independent TV Server 2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="Bangla" ,Independent TV Server 2
-https://ireentv.pages.dev/Independent_TV_Server_2.m3u8
+#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png" group-title="Bangla" ,Independent TV
+https://ireentv.pages.dev/Independent_TV.m3u8
 #EXTINF:-1 tvg-name="Ekattor TV Server 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla" ,Ekattor TV Server 1
 https://ireentv.pages.dev/Ekattor_TV_Server_1.m3u8
 #EXTINF:-1 tvg-name="Ekattor TV Server 2" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="Bangla" ,Ekattor TV Server 2
@@ -300,8 +298,6 @@ https://ireentv.pages.dev/Star_Jalsha_Server_3.m3u8
 https://ireentv.pages.dev/Star_Jalsha_Server_4.m3u8
 #EXTINF:-1 tvg-name="Star Jalsha Server 5" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla" ,Star Jalsha Server 5
 https://ireentv.pages.dev/Star_Jalsha_Server_5.m3u8
-#EXTINF:-1 tvg-name="Star Jalsha Server 6" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Bangla" ,Star Jalsha Server 6
-https://ireentv.pages.dev/Star_Jalsha_Server_6.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies Server 1" tvg-logo="https://i.ibb.co.com/XxGdDXJV/JALSHA-MOVIES-HD.png" group-title="Movies" ,Jalsha Movies Server 1
 https://ireentv.pages.dev/Jalsha_Movies_Server_1.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies Server 2" tvg-logo="https://i.ibb.co.com/XxGdDXJV/JALSHA-MOVIES-HD.png" group-title="Movies" ,Jalsha Movies Server 2
@@ -600,6 +596,8 @@ https://ireentv.pages.dev/MOVIES_NOW_Server_1.m3u8
 https://ireentv.pages.dev/MOVIES_NOW_Server_2.m3u8
 #EXTINF:-1 tvg-name="MOVIES NOW Server 3" tvg-logo="https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png" group-title="Movies" ,MOVIES NOW Server 3
 https://ireentv.pages.dev/MOVIES_NOW_Server_3.m3u8
+#EXTINF:-1 tvg-name="Best Action Movies" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg" group-title="Movies" ,Best Action Movies
+https://ireentv.pages.dev/Best_Action_Movies.m3u8
 #EXTINF:-1 tvg-name="Yes Movies Action HD Server 1" tvg-logo="https://i.ibb.co.com/rKntnjVH/2966.png" group-title="MOVIES" ,Yes Movies Action HD Server 1
 https://ireentv.pages.dev/Yes_Movies_Action_HD_Server_1.m3u8
 #EXTINF:-1 tvg-name="Yes Movies Action HD Server 2" tvg-logo="https://i.ibb.co.com/rKntnjVH/2966.png" group-title="MOVIES" ,Yes Movies Action HD Server 2
@@ -746,8 +744,6 @@ https://ireentv.pages.dev/Star_Sports_Select_1_Server_1.m3u8
 https://ireentv.pages.dev/Star_Sports_Select_1_Server_2.m3u8
 #EXTINF:-1 tvg-name="Star Sports Select 1 Server 3" tvg-logo="https://i.postimg.cc/mrxRcQ17/20260918-111059.png" group-title="Sports" ,Star Sports Select 1 Server 3
 https://ireentv.pages.dev/Star_Sports_Select_1_Server_3.m3u8
-#EXTINF:-1 tvg-name="Star Sports Select 1 Server 4" tvg-logo="https://i.postimg.cc/mrxRcQ17/20260918-111059.png" group-title="Sports" ,Star Sports Select 1 Server 4
-https://ireentv.pages.dev/Star_Sports_Select_1_Server_4.m3u8
 #EXTINF:-1 tvg-name="Star Sports Select 2 Server 1" tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports" ,Star Sports Select 2 Server 1
 https://ireentv.pages.dev/Star_Sports_Select_2_Server_1.m3u8
 #EXTINF:-1 tvg-name="Star Sports Select 2 Server 2" tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="Sports" ,Star Sports Select 2 Server 2

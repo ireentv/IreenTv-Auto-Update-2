@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 429,
-    "last_update": "2026-09-27 07:14:39 AM",
+    "channels_amount": 427,
+    "last_update": "2026-09-27 01:53:16 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -168,19 +168,11 @@
             "headers": {}
         },
         {
-            "name": "Independent TV Server 1",
-            "tvg_id": "Combined_M3U_23_aHR0cHM6",
-            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Independent_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Independent TV Server 2",
+            "name": "Independent TV",
             "tvg_id": "Combined_M3U_24_aHR0cDov",
             "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Independent_TV_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Independent_TV.m3u8",
             "headers": {}
         },
         {
@@ -1153,7 +1145,7 @@
         },
         {
             "name": "Star Jalsha Server 3",
-            "tvg_id": "Combined_M3U_155_aHR0cDov",
+            "tvg_id": "Combined_M3U_156_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_3.m3u8",
@@ -1161,7 +1153,7 @@
         },
         {
             "name": "Star Jalsha Server 4",
-            "tvg_id": "Combined_M3U_156_aHR0cDov",
+            "tvg_id": "Combined_M3U_157_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_4.m3u8",
@@ -1169,18 +1161,10 @@
         },
         {
             "name": "Star Jalsha Server 5",
-            "tvg_id": "Combined_M3U_157_aHR0cDov",
-            "logo": "https://i.imgur.com/IlufzR5.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Star_Jalsha_Server_5.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Jalsha Server 6",
             "tvg_id": "Combined_M3U_158_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Star_Jalsha_Server_6.m3u8",
+            "url": "https://ireentv.pages.dev/Star_Jalsha_Server_5.m3u8",
             "headers": {}
         },
         {
@@ -2376,6 +2360,14 @@
             "headers": {}
         },
         {
+            "name": "Best Action Movies",
+            "tvg_id": "Combined_M3U_345_aHR0cHM6",
+            "logo": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/Best_Action_Movies.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Yes Movies Action HD Server 1",
             "tvg_id": "Combined_M3U_346_aHR0cHM6",
             "logo": "https://i.ibb.co.com/rKntnjVH/2966.png",
@@ -2953,18 +2945,10 @@
         },
         {
             "name": "Star Sports Select 1 Server 3",
-            "tvg_id": "Combined_M3U_423_aHR0cHM6",
-            "logo": "https://i.postimg.cc/mrxRcQ17/20260918-111059.png",
-            "group": "Sports",
-            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Sports Select 1 Server 4",
             "tvg_id": "Combined_M3U_424_aHR0cDov",
             "logo": "https://i.postimg.cc/mrxRcQ17/20260918-111059.png",
             "group": "Sports",
-            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_4.m3u8",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_1_Server_3.m3u8",
             "headers": {}
         },
         {
