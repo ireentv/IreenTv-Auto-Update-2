@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 746,
-    "last_update": "2026-09-28 06:30:52 AM",
+    "channels_amount": 750,
+    "last_update": "2026-09-28 12:32:30 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1256,6 +1256,30 @@
             "headers": {}
         },
         {
+            "name": "Eska Rock TV",
+            "tvg_id": "EskaRockTV.pl@SD",
+            "logo": "https://i.imgur.com/o0Fg19Q.png",
+            "group": "Music",
+            "url": "http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:",
+            "headers": {}
+        },
+        {
+            "name": "Eska TV (1080p)",
+            "tvg_id": "EskaTV.pl@SD",
+            "logo": "https://i.imgur.com/N0eH0Cg.png",
+            "group": "Music",
+            "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Eska TV Extra (1080p)",
+            "tvg_id": "EskaTVExtra.pl@SD",
+            "logo": "https://i.imgur.com/pZAFshQ.png",
+            "group": "Music",
+            "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatvextra.stream/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "ETV Beats (1080p)",
             "tvg_id": "ETVBeats.in@HD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ETVBeats1.png",
@@ -1941,6 +1965,14 @@
             "logo": "https://i.imgur.com/2MDjU7x.png",
             "group": "Music",
             "url": "https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Kino Polska Muzyka",
+            "tvg_id": "KinoPolskaMuzyka.pl@SD",
+            "logo": "https://i.imgur.com/lE1IlPQ.png",
+            "group": "Music",
+            "url": "https://racitonsen.s.gy/KINO_POLSKA_MUZYKA",
             "headers": {}
         },
         {

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 870,
-    "last_update": "2026-09-28 06:30:52 AM",
+    "channels_amount": 871,
+    "last_update": "2026-09-28 12:32:30 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -637,6 +637,14 @@
             "logo": "https://i.imgur.com/9s6LZJZ.png",
             "group": "Entertainment",
             "url": "https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Asia Express NonStop (576i)",
+            "tvg_id": "AsiaExpressNonStop.ro@SD",
+            "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
+            "group": "Entertainment",
+            "url": "https://live4dai.antenaplay.ro/live2_sport05/live2_sport05_600k.m3u8",
             "headers": {}
         },
         {
@@ -2072,6 +2080,14 @@
             "headers": {}
         },
         {
+            "name": "Falak TV",
+            "tvg_id": "FalakTV.pk@SD",
+            "logo": "https://i.imgur.com/2TqlNsI.png",
+            "group": "Entertainment",
+            "url": "https://falak.rst.ae/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Familien fra Bryggen",
             "tvg_id": "FamilienfraBryggen.se@DK",
             "logo": "https://images.pluto.tv/channels/61c19c8c9863900007acaa57/colorLogoPNG.png",
@@ -2224,27 +2240,11 @@
             "headers": {}
         },
         {
-            "name": "FX (Russia) (1080p)",
+            "name": "FX (1080p)",
             "tvg_id": "FX.ru@SD",
             "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/478.png",
             "group": "Entertainment",
             "url": "http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "FX (United States) (1080p)",
-            "tvg_id": "FX.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
-            "group": "Entertainment",
-            "url": "http://23.237.104.106:8080/USA_FX/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "FX (United States) East HD (720p)",
-            "tvg_id": "FX.us@EastHD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
-            "group": "Entertainment",
-            "url": "http://4.30.180.36:8420/fx/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -3245,14 +3245,6 @@
             "logo": "https://i.imgur.com/3znYv1N.png",
             "group": "Entertainment",
             "url": "http://88.212.15.19/live/lifetv/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Lifetime (720p)",
-            "tvg_id": "Lifetime.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png",
-            "group": "Entertainment",
-            "url": "http://4.30.180.36:8420/lifetime/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -6176,6 +6168,14 @@
             "headers": {}
         },
         {
+            "name": "TNT International (480p)",
+            "tvg_id": "TNTInternational.ru@Europe",
+            "logo": "https://i.imgur.com/l0RGbRI.png",
+            "group": "Entertainment",
+            "url": "http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:",
+            "headers": {}
+        },
+        {
             "name": "TNT International Belarus (1080p)",
             "tvg_id": "TNTInternational.ru@Belarus",
             "logo": "https://i.imgur.com/l0RGbRI.png",
@@ -6597,6 +6597,14 @@
             "logo": "https://i.imgur.com/5qlVblr.png",
             "group": "Entertainment",
             "url": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Ve Plus Panregional (1080p)",
+            "tvg_id": "VePlus.ve@Panregional",
+            "logo": "https://i.imgur.com/uc3zqcP.png",
+            "group": "Entertainment",
+            "url": "http://190.61.114.186:8000/play/a03i/index.m3u8",
             "headers": {}
         },
         {

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 742,
-    "last_update": "2026-09-28 06:30:52 AM",
+    "channels_amount": 749,
+    "last_update": "2026-09-28 12:32:30 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -213,14 +213,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
             "group": "Movies",
             "url": "http://23.239.31.26:8989/amc/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "AMC (United States) East (720p)",
-            "tvg_id": "AMC.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-            "group": "Movies",
-            "url": "http://190.11.225.124:5000/live/amc_hd/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1184,14 +1176,6 @@
             "headers": {}
         },
         {
-            "name": "Cinemax Action East HD (1080p)",
-            "tvg_id": "CinemaxAction.us@EastHD",
-            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png",
-            "group": "Movies",
-            "url": "https://sra72yz.s.gy/CINEMAX_ACTION_HD.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Cinemax Classics (1080p)",
             "tvg_id": "CinemaxClassics.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png",
@@ -1381,6 +1365,14 @@
             "logo": "https://i.imgur.com/aksM8pa.png",
             "group": "Movies",
             "url": "http://38.19.41.46:8081/DEPELICULA/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "De Pelicula Plus (1080p)",
+            "tvg_id": "DePeliculaPlus.mx@SD",
+            "logo": "https://i.imgur.com/MMhSmDK.png",
+            "group": "Movies",
+            "url": "http://200.115.120.1:8000/play/ca030/index.m3u8",
             "headers": {}
         },
         {
@@ -1648,6 +1640,14 @@
             "headers": {}
         },
         {
+            "name": "Film Now HD (1080i)",
+            "tvg_id": "FilmNow.ro@HD",
+            "logo": "https://i.imgur.com/sSoRvGz.png",
+            "group": "Movies",
+            "url": "https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Film+ (Czech Republic)",
             "tvg_id": "FilmPlus.cz@SD",
             "logo": "https://i.imgur.com/OBYuY3S.png",
@@ -1680,6 +1680,22 @@
             "headers": {}
         },
         {
+            "name": "FILMBOX+ Action",
+            "tvg_id": "FILMBOXPlusAction.pl@HD",
+            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png",
+            "group": "Movies",
+            "url": "https://racitonsen.s.gy/FB_ACTION_PL",
+            "headers": {}
+        },
+        {
+            "name": "FILMBOX+ Comedy",
+            "tvg_id": "FILMBOXPlusComedy.pl@Poland",
+            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
+            "group": "Movies",
+            "url": "https://racitonsen.s.gy/FB_COMEDY_PL",
+            "headers": {}
+        },
+        {
             "name": "FILMBOX+ Comedy Czechia",
             "tvg_id": "FILMBOXPlusComedy.pl@Czechia",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
@@ -1701,6 +1717,14 @@
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
             "group": "Movies",
             "url": "https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "FILMBOX+ Emotion",
+            "tvg_id": "FILMBOXPlusEmotion.pl@Poland",
+            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
+            "group": "Movies",
+            "url": "https://racitonsen.s.gy/FB_EMOTION_PL",
             "headers": {}
         },
         {
@@ -1757,6 +1781,22 @@
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
             "group": "Movies",
             "url": "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "FILMBOX+ Festival Poland",
+            "tvg_id": "FILMBOXPlusFestival.pl@Poland",
+            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
+            "group": "Movies",
+            "url": "https://racitonsen.s.gy/FB_FESTIVAL_PL",
+            "headers": {}
+        },
+        {
+            "name": "FILMBOX+ Hits",
+            "tvg_id": "FILMBOXPlusHits.pl@Poland",
+            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
+            "group": "Movies",
+            "url": "https://racitonsen.s.gy/FB_HITS_PL",
             "headers": {}
         },
         {
@@ -1821,6 +1861,14 @@
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
             "group": "Movies",
             "url": "https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "FILMBOX+ One",
+            "tvg_id": "FILMBOXPlusOne.pl@Poland",
+            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
+            "group": "Movies",
+            "url": "https://racitonsen.s.gy/FB_ONE_PL",
             "headers": {}
         },
         {
@@ -2176,14 +2224,6 @@
             "headers": {}
         },
         {
-            "name": "HBO Hits East HD (720p)",
-            "tvg_id": "HBOHits.us@EastHD",
-            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
-            "group": "Movies;Series",
-            "url": "http://4.30.180.36:8420/hbo2/index.m3u8?token=test",
-            "headers": {}
-        },
-        {
             "name": "HBO Movies (720p)",
             "tvg_id": "HBOMovies.us@East",
             "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png",
@@ -2477,6 +2517,14 @@
             "logo": "https://i.imgur.com/hMqEY0J.png",
             "group": "Movies",
             "url": "http://213.91.179.28:8000/play/a041",
+            "headers": {}
+        },
+        {
+            "name": "Kino Polska",
+            "tvg_id": "KinoPolska.pl@SD",
+            "logo": "https://i.imgur.com/lbl8K23.png",
+            "group": "Movies",
+            "url": "https://racitonsen.s.gy/KINO_POLSKA",
             "headers": {}
         },
         {
@@ -2997,6 +3045,14 @@
             "logo": "https://i.imgur.com/NMifecQ.png",
             "group": "Movies",
             "url": "http://88.212.15.19/live/moziverzum/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MultiPremier (1080p)",
+            "tvg_id": "MultiPremier.mx@SD",
+            "logo": "https://i.imgur.com/H3PzGZW.png",
+            "group": "Movies",
+            "url": "http://168.196.127.137:6001/play/a08n/index.m3u8",
             "headers": {}
         },
         {
@@ -4608,11 +4664,11 @@
             "headers": {}
         },
         {
-            "name": "Pro Cinema",
+            "name": "Pro Cinema (576i)",
             "tvg_id": "ProCinema.ro@SD",
             "logo": "https://i.imgur.com/TvHFGwZ.png",
             "group": "Movies",
-            "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6951/index.m3u8",
+            "url": "https://dokagents.site/live/procinema/mono.m3u8",
             "headers": {}
         },
         {

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 409,
-    "last_update": "2026-09-28 06:30:52 AM",
+    "channels_amount": 411,
+    "last_update": "2026-09-28 12:32:30 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -208,11 +208,11 @@
             "headers": {}
         },
         {
-            "name": "BabyFirst Spanish (720p)",
+            "name": "BabyFirst Spanish (1080p)",
             "tvg_id": "BabyFirst.us@Spanish",
             "logo": "https://i.imgur.com/WxLHBwu.png",
             "group": "Kids",
-            "url": "http://168.228.44.241:9997/play/a07u/index.m3u8",
+            "url": "http://168.196.127.137:6001/play/a06j/index.m3u8",
             "headers": {}
         },
         {
@@ -221,14 +221,6 @@
             "logo": "https://i.imgur.com/4BDJ5FT.png",
             "group": "Kids",
             "url": "https://cdn1tlinkgo.tlink.cl/babytv/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "BabyTV Spain (1080p)",
-            "tvg_id": "BabyTV.uk@Spain",
-            "logo": "https://i.imgur.com/4BDJ5FT.png",
-            "group": "Kids",
-            "url": "http://181.78.12.119:16123/play/ch01/index.m3u8",
             "headers": {}
         },
         {
@@ -440,11 +432,35 @@
             "headers": {}
         },
         {
-            "name": "CBeebies (720p) [Geo-blocked]",
+            "name": "CBBC HD",
+            "tvg_id": "CBBC.uk@HD",
+            "logo": "https://i.imgur.com/tk8G4CU.png",
+            "group": "Kids",
+            "url": "https://cdn.stmify.com/bbc/stream/CBBC/hevc_iptv_mse_v0.mpd",
+            "headers": {}
+        },
+        {
+            "name": "CBeebies (Poland) (576p)",
+            "tvg_id": "CBeebies.pl@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
+            "group": "Kids",
+            "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "CBeebies (United Kingdom) (720p) [Geo-blocked]",
             "tvg_id": "CBeebies.uk@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
             "group": "Kids",
             "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
+            "headers": {}
+        },
+        {
+            "name": "CBeebies (United Kingdom) HD",
+            "tvg_id": "CBeebies.uk@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CBEEBIES/images/LOGO_HD/image.png",
+            "group": "Kids",
+            "url": "https://cdn.stmify.com/bbc/stream/CBEEBIES/hevc_iptv_mse_v0.mpd",
             "headers": {}
         },
         {
@@ -504,11 +520,11 @@
             "headers": {}
         },
         {
-            "name": "Clan Internacional",
+            "name": "Clan Internacional (1080p)",
             "tvg_id": "ClanInternacional.es@SD",
             "logo": "https://i.ibb.co/vv3FC2Nv/clan.png",
             "group": "Kids;Public",
-            "url": "https://xyktmobile00.s.gy/PPV906_CLAN_INTE",
+            "url": "http://168.228.44.241:9999/play/a04j/index.m3u8",
             "headers": {}
         },
         {
@@ -1461,14 +1477,6 @@
             "logo": "https://i.imgur.com/j6IiysJ.png",
             "group": "Animation;Kids;Music",
             "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MeTV Toons KMBY-LD",
-            "tvg_id": "MeTVToons.us@KMBYLD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MeTV_Toons.png/250px-MeTV_Toons.png",
-            "group": "Animation;Kids",
-            "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2512,6 +2520,14 @@
             "headers": {}
         },
         {
+            "name": "Poyo TV [Geo-blocked]",
+            "tvg_id": "PoyoTV.kr@SD",
+            "logo": "https://i.imgur.com/5UiSqE5.png",
+            "group": "Kids",
+            "url": "https://xyktmobile00.s.gy/PPV936_PORORO_HD",
+            "headers": {}
+        },
+        {
             "name": "QTV-6",
             "tvg_id": "QTV6.cn@SD",
             "logo": "https://www.tvchinese.net/uploads/tv/qdtv6.jpg",
@@ -2872,19 +2888,11 @@
             "headers": {}
         },
         {
-            "name": "TeenNick (Israel) (406p)",
+            "name": "TeenNick (406p)",
             "tvg_id": "TeenNick.il@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
             "group": "Kids",
             "url": "http://89.33.29.115:8080/TeenNick/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "TeenNick (United States) (576p)",
-            "tvg_id": "TeenNick.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
-            "group": "Kids",
-            "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
             "headers": {}
         },
         {
@@ -2973,6 +2981,14 @@
             "logo": "https://i.imgur.com/JMnxswq.png",
             "group": "Kids",
             "url": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Tooniverse [Geo-blocked]",
+            "tvg_id": "Tooniverse.kr@SD",
+            "logo": "https://i.imgur.com/Fesm8M3.png",
+            "group": "Animation;Kids",
+            "url": "https://xyktmobile00.s.gy/PPV939_TOONCAST",
             "headers": {}
         },
         {
