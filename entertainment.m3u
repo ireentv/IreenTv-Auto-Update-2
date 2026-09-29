@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 871
-# Last Updated    : 2026-09-29 07:40:11 AM
+# Total Channels  : 874
+# Last Updated    : 2026-09-29 02:11:33 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -52,14 +52,14 @@ https://30a-tv.com/feeds/masters/30atv.m3u8
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="312 TV (406p)" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="Entertainment" ,312 TV (406p)
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 tvg-name="¡OPA! (720p)" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Entertainment" ,¡OPA! (720p)
-https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
 #EXTINF:-1 tvg-name=".black (576p)" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="Entertainment" ,.black (576p)
-http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1 tvg-name=".red (576p)" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Entertainment" ,.red (576p)
-http://5.188.159.128:8070/RED/index.m3u8
+http://str2.iptvhd.ru:8080/Sony_Turbo/index.m3u8
 #EXTINF:-1 tvg-name=".red HD (1080p)" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Entertainment" ,.red HD (1080p)
 http://178.134.1.158:8081/red/index.m3u8
+#EXTINF:-1 tvg-name="¡OPA! (720p)" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Entertainment" ,¡OPA! (720p)
+https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
+#EXTINF:-1 tvg-name=".red (576p)" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Entertainment" ,.red (576p)
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-name="A&E (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment" ,A&E (720p)
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-name="A&E Latin America (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment" ,A&E Latin America (1080p)
@@ -206,6 +206,8 @@ http://88.212.15.19/live/test_white/playlist.m3u8
 http://185.227.34.179:8080/axn-white/index.m3u8
 #EXTINF:-1 tvg-name="AXN White Portugal (480p)" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White Portugal (480p)
 http://50.7.120.34:8080/AXN_WHITE/index.m3u8
+#EXTINF:-1 tvg-name="Az Clic (1080p)" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entertainment" ,Az Clic (1080p)
+http://38.252.238.18:8000/play/a01g/index.m3u8
 #EXTINF:-1 tvg-name="Azteca Internacional (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment" ,Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-name="Bacan Te Veo (360p)" tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Entertainment" ,Bacan Te Veo (360p)
@@ -1244,6 +1246,8 @@ https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
 http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-name="Polimer TV (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143665_ld_h15_aa.png?lock=720x540" group-title="Entertainment" ,Polimer TV (720p)
 https://cdn.pishow.tv/ott/live/1241/master.m3u8
+#EXTINF:-1 tvg-name="Polsat Reality (720p)" tvg-logo="https://i.imgur.com/yBecqPa.png" group-title="Entertainment" ,Polsat Reality (720p)
+https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Popstar! TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/d4xEiXX.png" group-title="Entertainment" ,Popstar! TV (1080p) [Not 24/7]
 https://linear-10.frequency.stream/dist/plex/10/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Popu TV (1080p)" tvg-logo="https://i.imgur.com/UqCogyZ.png" group-title="Entertainment" ,Popu TV (1080p)
@@ -1662,6 +1666,8 @@ https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
 https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="VB Media TV (1080p)" tvg-logo="https://i.imgur.com/5qlVblr.png" group-title="Entertainment" ,VB Media TV (1080p)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-name="Ve Plus (720p)" tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entertainment" ,Ve Plus (720p)
+http://186.148.196.100:8000/play/a01d
 #EXTINF:-1 tvg-name="Ve Plus Panregional (1080p)" tvg-logo="https://i.imgur.com/uc3zqcP.png" group-title="Entertainment" ,Ve Plus Panregional (1080p)
 http://190.61.114.186:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-name="Vendhar TV (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Entertainment" ,Vendhar TV (576p)

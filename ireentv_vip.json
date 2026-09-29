@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 418,
-    "last_update": "2026-09-29 07:40:11 AM",
+    "channels_amount": 423,
+    "last_update": "2026-09-29 02:11:33 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1408,6 +1408,14 @@
             "headers": {}
         },
         {
+            "name": "zee Dilse",
+            "tvg_id": "Combined_M3U_195_aHR0cHM6",
+            "logo": "https://i.ibb.co.com/Sw5x31pQ/zd.jpg",
+            "group": "Hindi",
+            "url": "https://ireentv.pages.dev/zee_Dilse.m3u8",
+            "headers": {}
+        },
+        {
             "name": "&xplorHD",
             "tvg_id": "Combined_M3U_197_aHR0cHM6",
             "logo": "https://i.ibb.co.com/H0DkRDd/xplore.jpg",
@@ -1552,11 +1560,19 @@
             "headers": {}
         },
         {
-            "name": "& Pictures",
+            "name": "& Pictures Server 1",
+            "tvg_id": "Combined_M3U_220_aHR0cHM6",
+            "logo": "https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png",
+            "group": "Hindi Movies",
+            "url": "https://ireentv.pages.dev/_Pictures_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "& Pictures Server 2",
             "tvg_id": "Combined_M3U_222_aHR0cHM6",
             "logo": "https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png",
             "group": "Hindi Movies",
-            "url": "https://ireentv.pages.dev/_Pictures.m3u8",
+            "url": "https://ireentv.pages.dev/_Pictures_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -1664,11 +1680,19 @@
             "headers": {}
         },
         {
-            "name": "ZEE TV HD",
+            "name": "ZEE TV HD Server 1",
+            "tvg_id": "Combined_M3U_247_aHR0cHM6",
+            "logo": "https://ah-media-eug.pages.dev/logos/ZeeTV.png",
+            "group": "Hindi",
+            "url": "https://ireentv.pages.dev/ZEE_TV_HD_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "ZEE TV HD Server 2",
             "tvg_id": "Combined_M3U_248_aHR0cHM6",
             "logo": "https://ah-media-eug.pages.dev/logos/ZeeTV.png",
             "group": "Hindi",
-            "url": "https://ireentv.pages.dev/ZEE_TV_HD.m3u8",
+            "url": "https://ireentv.pages.dev/ZEE_TV_HD_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -1693,6 +1717,14 @@
             "logo": "https://ah-media-eug.pages.dev/logos/%26TV.png",
             "group": "Hindi",
             "url": "https://ireentv.pages.dev/_TV_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "& TV HD",
+            "tvg_id": "Combined_M3U_254_aHR0cHM6",
+            "logo": "https://ah-media-eug.pages.dev/logos/%26TV.png",
+            "group": "Hindi",
+            "url": "https://ireentv.pages.dev/_TV_HD.m3u8",
             "headers": {}
         },
         {
@@ -1877,14 +1909,6 @@
             "logo": "https://musicboxdance.com/music_box_dance_logo.png",
             "group": "Music",
             "url": "https://ireentv.pages.dev/Music_Box_Dance.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "RTL 102.5 Disco",
-            "tvg_id": "Combined_M3U_279_aHR0cHM6",
-            "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/RTL_1025_Disco.m3u8",
             "headers": {}
         },
         {
@@ -2112,14 +2136,6 @@
             "headers": {}
         },
         {
-            "name": "KpopTV Play",
-            "tvg_id": "Combined_M3U_314_aHR0cHM6",
-            "logo": "https://i.imgur.com/Tf0vweF.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/KpopTV_Play.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Tele7 Music",
             "tvg_id": "Combined_M3U_315_aHR0cHM6",
             "logo": "https://tele7music.ro/wp-content/uploads/2022/11/logo-tele7music-300x300.png",
@@ -2305,10 +2321,26 @@
         },
         {
             "name": "MOVIES NOW Server 2",
-            "tvg_id": "Combined_M3U_343_aHR0cDov",
+            "tvg_id": "Combined_M3U_342_aHR0cDov",
             "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MOVIES NOW Server 3",
+            "tvg_id": "Combined_M3U_343_aHR0cDov",
+            "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Best Action Movies",
+            "tvg_id": "Combined_M3U_345_aHR0cHM6",
+            "logo": "https://cdn.neotvapp.com/file/quickfox/top-tv/channels/BST-1737589548317.jpg",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/Best_Action_Movies.m3u8",
             "headers": {}
         },
         {
@@ -2917,6 +2949,14 @@
             "logo": "https://i.postimg.cc/rmczbb8g/20240825_060019.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Star_Sports_Select_2_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Sports Select 2 Server 4",
+            "tvg_id": "Combined_M3U_428_aHR0cHM6",
+            "logo": "https://i.postimg.cc/rmczbb8g/20240825_060019.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/Star_Sports_Select_2_Server_4.m3u8",
             "headers": {}
         },
         {

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 871,
-    "last_update": "2026-09-29 07:40:11 AM",
+    "channels_amount": 874,
+    "last_update": "2026-09-29 02:11:33 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -184,27 +184,11 @@
             "headers": {}
         },
         {
-            "name": "¡OPA! (720p)",
-            "tvg_id": "OPA.cr@SD",
-            "logo": "https://i.imgur.com/300c1ZH.png",
-            "group": "Entertainment",
-            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": ".black (576p)",
             "tvg_id": "black.ru@SD",
             "logo": "https://i.imgur.com/Q4A6ci4.png",
             "group": "Entertainment",
-            "url": "http://stream.mcquack.net/263/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": ".red (576p)",
-            "tvg_id": "red.ru@SD",
-            "logo": "https://i.imgur.com/GET9Qut.png",
-            "group": "Entertainment",
-            "url": "http://5.188.159.128:8070/RED/index.m3u8",
+            "url": "http://str2.iptvhd.ru:8080/Sony_Turbo/index.m3u8",
             "headers": {}
         },
         {
@@ -213,6 +197,22 @@
             "logo": "https://i.imgur.com/GET9Qut.png",
             "group": "Entertainment",
             "url": "http://178.134.1.158:8081/red/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "¡OPA! (720p)",
+            "tvg_id": "OPA.cr@SD",
+            "logo": "https://i.imgur.com/300c1ZH.png",
+            "group": "Entertainment",
+            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": ".red (576p)",
+            "tvg_id": "red.ru@SD",
+            "logo": "https://i.imgur.com/GET9Qut.png",
+            "group": "Entertainment",
+            "url": "http://5.188.159.128:8070/RED/index.m3u8",
             "headers": {}
         },
         {
@@ -789,6 +789,14 @@
             "logo": "https://i.imgur.com/47IKxmt.png",
             "group": "Entertainment",
             "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Az Clic (1080p)",
+            "tvg_id": "AzClic.mx@SD",
+            "logo": "https://i.imgur.com/ClqIQ4M.png",
+            "group": "Entertainment",
+            "url": "http://38.252.238.18:8000/play/a01g/index.m3u8",
             "headers": {}
         },
         {
@@ -4928,6 +4936,14 @@
             "headers": {}
         },
         {
+            "name": "Polsat Reality (720p)",
+            "tvg_id": "PolsatReality.pl@SD",
+            "logo": "https://i.imgur.com/yBecqPa.png",
+            "group": "Entertainment",
+            "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Popstar! TV (1080p) [Not 24/7]",
             "tvg_id": "PopstarTV.us@SD",
             "logo": "https://i.imgur.com/d4xEiXX.png",
@@ -6597,6 +6613,14 @@
             "logo": "https://i.imgur.com/5qlVblr.png",
             "group": "Entertainment",
             "url": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Ve Plus (720p)",
+            "tvg_id": "VePlus.ve@Venezuela",
+            "logo": "https://i.imgur.com/uc3zqcP.png",
+            "group": "Entertainment",
+            "url": "http://186.148.196.100:8000/play/a01d",
             "headers": {}
         },
         {
