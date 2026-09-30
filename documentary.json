@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 253,
-    "last_update": "2026-09-30 06:13:09 AM",
+    "channels_amount": 254,
+    "last_update": "2026-09-30 12:29:23 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -117,6 +117,14 @@
             "logo": "https://i.imgur.com/qcTNvNU.png",
             "group": "Documentary",
             "url": "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BBC Earth (1080p)",
+            "tvg_id": "BBCEarth.uk@Poland",
+            "logo": "https://i.imgur.com/nGSsUd4.png",
+            "group": "Documentary",
+            "url": "http://57.128.231.171:8080/307/index.m3u8",
             "headers": {}
         },
         {

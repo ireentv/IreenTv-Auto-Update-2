@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 411,
-    "last_update": "2026-09-30 06:13:09 AM",
+    "channels_amount": 412,
+    "last_update": "2026-09-30 12:29:23 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -653,6 +653,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
             "group": "Kids",
             "url": "http://86.87.15.10:8004/play/a02g/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Disney Channel (Netherlands) HD (1080i)",
+            "tvg_id": "DisneyChannel.nl@HD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+            "group": "Kids",
+            "url": "https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8",
             "headers": {}
         },
         {
@@ -2128,11 +2136,11 @@
             "headers": {}
         },
         {
-            "name": "Pakapaka",
+            "name": "Pakapaka (1080p)",
             "tvg_id": "Pakapaka.ar@SD",
             "logo": "https://i.imgur.com/GJbRWwH.png",
             "group": "Kids",
-            "url": "https://xyktmobile00.s.gy/PPV910_PAKAKA_ARG",
+            "url": "http://181.209.105.115:2525/play/pakapaka/index.m3u8",
             "headers": {}
         },
         {

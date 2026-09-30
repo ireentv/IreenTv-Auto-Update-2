@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 749,
-    "last_update": "2026-09-30 06:13:09 AM",
+    "channels_amount": 752,
+    "last_update": "2026-09-30 12:29:23 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1960,11 +1960,11 @@
             "headers": {}
         },
         {
-            "name": "Kino Polska Muzyka",
+            "name": "Kino Polska Muzyka (1080p)",
             "tvg_id": "KinoPolskaMuzyka.pl@SD",
             "logo": "https://i.imgur.com/lE1IlPQ.png",
             "group": "Music",
-            "url": "https://racitonsen.s.gy/KINO_POLSKA_MUZYKA",
+            "url": "http://57.128.231.171:8080/237/index.m3u8",
             "headers": {}
         },
         {
@@ -2813,6 +2813,14 @@
             "logo": "https://www.utrk.kg/img/stream/45.png",
             "group": "Music",
             "url": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Music Box 80s (1080p)",
+            "tvg_id": "MusicBox80s.cz@SD",
+            "logo": "https://musicboxtv.net/logo_music_box_80s.png",
+            "group": "Music",
+            "url": "http://57.128.231.171:8080/229/index.m3u8",
             "headers": {}
         },
         {
@@ -3925,6 +3933,22 @@
             "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
             "group": "Music",
             "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Radio Romania Oltenia-Craiova (576p) [Not 24/7]",
+            "tvg_id": "RadioRomaniaOlteniaCraiova.ro@SD",
+            "logo": "https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png",
+            "group": "General;Music",
+            "url": "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Radio Romania Targu Mures (576p)",
+            "tvg_id": "RadioRomaniaTarguMures.ro@SD",
+            "logo": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg",
+            "group": "General;Music",
+            "url": "https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8",
             "headers": {}
         },
         {
