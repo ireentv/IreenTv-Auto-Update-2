@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 752
-# Last Updated    : 2026-10-01 08:01:18 AM
+# Total Channels  : 756
+# Last Updated    : 2026-10-01 03:56:41 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -26,6 +26,8 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="7S Music (576p)" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music" ,7S Music (576p)
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
+#EXTINF:-1 tvg-name="7X Music (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" group-title="Music" ,7X Music (576p)
+http://51.75.127.199:3141/7xmusic/index.m3u8
 #EXTINF:-1 tvg-name="8XM HD" tvg-logo="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png" group-title="Music" ,8XM HD
 https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8
 #EXTINF:-1 tvg-name="9X Jalwa (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Music" ,9X Jalwa (1080p)
@@ -118,8 +120,8 @@ https://hls.avang.live/hls/stream.m3u8
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-name="Azahares Radiovisual Multimedia (720p)" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Music" ,Azahares Radiovisual Multimedia (720p)
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF:-1 tvg-name="B4U Music (576p)" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music" ,B4U Music (576p)
-https://cdn.pishow.tv/ott/live/415/master.m3u8
+#EXTINF:-1 tvg-name="B4U Music (1080p)" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music" ,B4U Music (1080p)
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
 #EXTINF:-1 tvg-name="Baby Time (576p)" tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="Kids;Music" ,Baby Time (576p)
 http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1 tvg-name="Balle Balle (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music" ,Balle Balle (576p)
@@ -1066,6 +1068,8 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-name="Rotana Music (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Music" ,Rotana Music (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-name="RS Bharat (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RS_Bharat.png" group-title="Music" ,RS Bharat (576p)
+http://51.75.127.199:3141/rsbharat/index.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 Best (1080p)" tvg-logo="https://i.imgur.com/9PNlbaq.png" group-title="Music" ,RTL 102.5 Best (1080p)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
 #EXTINF:-1 tvg-name="RTL 102.5 Bro&Sis (1080p)" tvg-logo="https://i.imgur.com/EWbK4XZ.png" group-title="Music" ,RTL 102.5 Bro&Sis (1080p)
@@ -1148,6 +1152,8 @@ https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-name="Star 101 FM [Not 24/7]" tvg-logo="https://star101.gu/images/fb_icon.jpg" group-title="Music" ,Star 101 FM [Not 24/7]
 https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8
+#EXTINF:-1 tvg-name="Star Maa Music (576p)" tvg-logo="https://dtil.tmsimg.com/assets/s143828_ld_h15_aa.png?lock=720x540" group-title="Music" ,Star Maa Music (576p)
+http://51.75.127.199:3141/starmaamusic/index.m3u8
 #EXTINF:-1 tvg-name="Star Plus Televizija (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/01yz22a.png" group-title="Music" ,Star Plus Televizija (1080p) [Not 24/7]
 https://live.muzickatv.mk/live/StarMusic2.m3u8
 #EXTINF:-1 tvg-name="Steelbird Music (720p) [Not 24/7]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Music" ,Steelbird Music (720p) [Not 24/7]
@@ -1456,6 +1462,8 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
 #EXTINF:-1 tvg-name="Vos y TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Music" ,Vos y TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+#EXTINF:-1 tvg-name="Wah Punjabi (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="Music" ,Wah Punjabi (576p)
+http://51.75.127.199:3141/wahpunjabi/index.m3u8
 #EXTINF:-1 tvg-name="Wavez FM" tvg-logo="https://i.imgur.com/uyROZSS.png" group-title="Music" ,Wavez FM
 https://media.streambrothers.com:1936/uszqnhpjpa/uszqnhpjpa/playlist.m3u8
 #EXTINF:-1 tvg-name="WVCU-LP (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/WVCU-LP_2015.PNG" group-title="Music" ,WVCU-LP (1080p)

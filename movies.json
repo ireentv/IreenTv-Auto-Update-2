@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 756,
-    "last_update": "2026-10-01 08:01:18 AM",
+    "channels_amount": 777,
+    "last_update": "2026-10-01 03:56:41 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -104,11 +104,11 @@
             "headers": {}
         },
         {
-            "name": "&xplor HD (1080p) [Geo-blocked]",
+            "name": "&xplor HD (1080p)",
             "tvg_id": "AndxplorHD.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
-            "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
+            "url": "http://51.75.127.199:3141/andxplorehd/index.m3u8",
             "headers": {}
         },
         {
@@ -301,6 +301,14 @@
             "logo": "https://i.imgur.com/5pOZQB4.png",
             "group": "Classic;Movies",
             "url": "https://amogonetworx-artflix-1-nl.samsung.wurl.tv/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Asianet Movies (576p)",
+            "tvg_id": "AsianetMovies.in@SD",
+            "logo": "https://i.imgur.com/cps67hs.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/asianetmovies/index.m3u8",
             "headers": {}
         },
         {
@@ -517,6 +525,14 @@
             "logo": "https://i.imgur.com/NwOQUDp.png",
             "group": "Movies",
             "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "B4U Bhojpuri Plus (1080p)",
+            "tvg_id": "B4UBhojpuri.in@Plus",
+            "logo": "https://i.imgur.com/NwOQUDp.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/b4ubhojpuri/index.m3u8",
             "headers": {}
         },
         {
@@ -1184,6 +1200,14 @@
             "headers": {}
         },
         {
+            "name": "CineMaraton (576i)",
+            "tvg_id": "CineMaraton.ro@SD",
+            "logo": "https://i.imgur.com/BY8UZa0.png",
+            "group": "Movies",
+            "url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Cinemaraton Plus (1080i)",
             "tvg_id": "CinemaratonPlus.ro@HD",
             "logo": "https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png",
@@ -1197,14 +1221,6 @@
             "logo": "https://i.imgur.com/D2qNVZ7.png",
             "group": "Movies",
             "url": "http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Cinemax Action East HD (1080p)",
-            "tvg_id": "CinemaxAction.us@EastHD",
-            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/960px-Cinemax_Action_Logo.png",
-            "group": "Movies",
-            "url": "https://sra72yz.s.gy/CINEMAX_ACTION_EAST_HD.m3u8",
             "headers": {}
         },
         {
@@ -1360,11 +1376,51 @@
             "headers": {}
         },
         {
+            "name": "Colors Bangla Cinema (576p)",
+            "tvg_id": "ColorsBanglaCinema.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/colorsbanglacinema/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Colors Cineplex HD (1080p)",
+            "tvg_id": "ColorsCineplex.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/colorscineplexhd/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Colors Cineplex Bollywood (576p)",
             "tvg_id": "ColorsCineplexBollywood.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_BOLLYWOOD/images/LOGO_HD/image.png",
             "group": "Movies",
             "url": "http://202.70.146.135:8000/play/a058/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Colors Cineplex Superhits (576p)",
+            "tvg_id": "ColorsCineplexSuperhits.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/colorscineplexsuperhit/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Colors Gujarati Cinema (576p)",
+            "tvg_id": "ColorsGujaratiCinema.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_GUJARATI_CINEMA/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Colors Kannada Cinema (576p)",
+            "tvg_id": "ColorsKannadaCinema.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_CINEMA/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/colorskannadacinema/index.m3u8",
             "headers": {}
         },
         {
@@ -1896,11 +1952,11 @@
             "headers": {}
         },
         {
-            "name": "FILMBOX+ One",
+            "name": "FILMBOX+ One (1080p)",
             "tvg_id": "FILMBOXPlusOne.pl@Poland",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
             "group": "Movies",
-            "url": "https://racitonsen.s.gy/FB_ONE_PL",
+            "url": "http://57.128.231.171:8080/236/index.m3u8",
             "headers": {}
         },
         {
@@ -2256,14 +2312,6 @@
             "headers": {}
         },
         {
-            "name": "HBO Drama West (1080p)",
-            "tvg_id": "HBODrama.us@West",
-            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
-            "group": "Movies;Series",
-            "url": "https://sra72yz.s.gy/HBO_DRAMA_WEST_HD.m3u8",
-            "headers": {}
-        },
-        {
             "name": "HBO Hits West HD (1080p)",
             "tvg_id": "HBOHits.us@WestHD",
             "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
@@ -2445,6 +2493,14 @@
             "logo": "https://i.imgur.com/FP1aUPw.jpg",
             "group": "Movies",
             "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Jalsha Movies (576p)",
+            "tvg_id": "JalshaMovies.in@SD",
+            "logo": "https://i.imgur.com/25eWjX2.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/jalshamovies/index.m3u8",
             "headers": {}
         },
         {
@@ -5032,6 +5088,14 @@
             "headers": {}
         },
         {
+            "name": "Romedy Now (1080p)",
+            "tvg_id": "RomedyNow.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ROMEDY_NOW/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/romedynow/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Rotana Cinema Egypt (1080p) [Geo-blocked]",
             "tvg_id": "RotanaCinemaEgypt.eg@SD",
             "logo": "https://i.imgur.com/dGlKoLW.png",
@@ -5165,6 +5229,14 @@
             "logo": "https://i.imgur.com/RQhorAG.png",
             "group": "Movies",
             "url": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Sidharth Gold (576p)",
+            "tvg_id": "SidharthGold.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_Gold.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/sidharthgold/index.m3u8",
             "headers": {}
         },
         {
@@ -5344,11 +5416,67 @@
             "headers": {}
         },
         {
+            "name": "Star Gold 2 (576p)",
+            "tvg_id": "StarGold2.in@SD",
+            "logo": "https://i.imgur.com/G0ZfzZr.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/stargold2/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Gold (576p)",
+            "tvg_id": "StarGold.in@SD",
+            "logo": "https://i.imgur.com/xC460sj.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/stargold/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Gold Select (576p)",
+            "tvg_id": "StarGoldSelect.in@SD",
+            "logo": "https://i.imgur.com/U7eiuqv.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/stargoldselect/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Gold Select HD (1080p)",
+            "tvg_id": "StarGoldSelect.in@HD",
+            "logo": "https://i.imgur.com/U7eiuqv.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/stargoldselecthd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Maa Movies (576p)",
+            "tvg_id": "StarMaaMovies.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/s143825_ld_h15_aa.png?lock=720x540",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/starmaamovies/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Star Maa Movies HD (720p)",
             "tvg_id": "StarMaaMovies.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540",
             "group": "Movies",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Movies (India) (576p)",
+            "tvg_id": "StarMovies.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/starmovies/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Movies (India) HD (1080p)",
+            "tvg_id": "StarMovies.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/starmovieshd/index.m3u8",
             "headers": {}
         },
         {
@@ -5365,6 +5493,22 @@
             "logo": "https://i.imgur.com/JcoAgDF.png",
             "group": "Movies",
             "url": "http://92.36.202.5:10001/play/a01o",
+            "headers": {}
+        },
+        {
+            "name": "Star Movies Select HD (1080p)",
+            "tvg_id": "StarMoviesSelect.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/starmoviesselecthd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Suvarna Plus (576p)",
+            "tvg_id": "StarSuvarnaPlus.in@SD",
+            "logo": "https://i.imgur.com/xlCOq0l.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/starsuvarnaplus/index.m3u8",
             "headers": {}
         },
         {
@@ -5477,6 +5621,14 @@
             "logo": "https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png",
             "group": "Movies;Series",
             "url": "https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Utsav Movies (576p)",
+            "tvg_id": "StarUtsavMovies.in@SD",
+            "logo": "https://i.imgur.com/k5QHfH2.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/starutsavmovies/index.m3u8",
             "headers": {}
         },
         {
@@ -5904,6 +6056,14 @@
             "headers": {}
         },
         {
+            "name": "Vijay Super (576p)",
+            "tvg_id": "VijaySuper.in@SD",
+            "logo": "https://i.imgur.com/3MWm9nD.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/vijaysuper/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "viju TV1000 (576p)",
             "tvg_id": "vijuTV1000.ru@SD",
             "logo": "https://i.imgur.com/ZMsyjSr.png",
@@ -6032,11 +6192,11 @@
             "headers": {}
         },
         {
-            "name": "Zee Cinemalu HD (720p)",
+            "name": "Zee Cinemalu HD (1080p)",
             "tvg_id": "ZeeCinemalu.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540",
             "group": "Movies",
-            "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
+            "url": "http://51.75.127.199:3141/zeecinemaluhd/index.m3u8",
             "headers": {}
         },
         {
@@ -6053,6 +6213,14 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
             "url": "http://107.167.16.138/zeetalkies/index.m3u8?token=test",
+            "headers": {}
+        },
+        {
+            "name": "Zee Talkies HD (1080p)",
+            "tvg_id": "ZeeTalkies.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Movies",
+            "url": "http://51.75.127.199:3141/zeetalkieshd/index.m3u8",
             "headers": {}
         }
     ]

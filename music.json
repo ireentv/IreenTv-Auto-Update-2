@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 752,
-    "last_update": "2026-10-01 08:01:18 AM",
+    "channels_amount": 756,
+    "last_update": "2026-10-01 03:56:41 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -77,6 +77,14 @@
             "logo": "https://i.imgur.com/zDiIhdN.png",
             "group": "Music",
             "url": "https://cdn.pishow.tv/ott/live/1257/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "7X Music (576p)",
+            "tvg_id": "7XMusic.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
+            "group": "Music",
+            "url": "http://51.75.127.199:3141/7xmusic/index.m3u8",
             "headers": {}
         },
         {
@@ -448,11 +456,11 @@
             "headers": {}
         },
         {
-            "name": "B4U Music (576p)",
+            "name": "B4U Music (1080p)",
             "tvg_id": "B4UMusic.in@India",
             "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
             "group": "Music",
-            "url": "https://cdn.pishow.tv/ott/live/415/master.m3u8",
+            "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
             "headers": {}
         },
         {
@@ -4232,6 +4240,14 @@
             "headers": {}
         },
         {
+            "name": "RS Bharat (576p)",
+            "tvg_id": "RSBharat.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/RS_Bharat.png",
+            "group": "Music",
+            "url": "http://51.75.127.199:3141/rsbharat/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "RTL 102.5 Best (1080p)",
             "tvg_id": "RTL1025Best.it@SD",
             "logo": "https://i.imgur.com/9PNlbaq.png",
@@ -4557,6 +4573,14 @@
             "logo": "https://star101.gu/images/fb_icon.jpg",
             "group": "Music",
             "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Maa Music (576p)",
+            "tvg_id": "StarMaaMusic.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/s143828_ld_h15_aa.png?lock=720x540",
+            "group": "Music",
+            "url": "http://51.75.127.199:3141/starmaamusic/index.m3u8",
             "headers": {}
         },
         {
@@ -5781,6 +5805,14 @@
             "logo": "https://i.imgur.com/294FDCB.png",
             "group": "Music",
             "url": "https://cloud37.ecuatel.com/vostv/live/manifest.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Wah Punjabi (576p)",
+            "tvg_id": "WahPunjabi.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png",
+            "group": "Music",
+            "url": "http://51.75.127.199:3141/wahpunjabi/index.m3u8",
             "headers": {}
         },
         {

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 879,
-    "last_update": "2026-10-01 08:01:18 AM",
+    "channels_amount": 902,
+    "last_update": "2026-10-01 03:56:41 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -688,6 +688,14 @@
             "headers": {}
         },
         {
+            "name": "Asianet (576p)",
+            "tvg_id": "Asianet.in@SD",
+            "logo": "https://i.imgur.com/Wv7MOzg.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/asianet/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Asianet HD (720p)",
             "tvg_id": "Asianet.in@HD",
             "logo": "https://i.imgur.com/Wv7MOzg.png",
@@ -1037,6 +1045,14 @@
             "logo": "https://images.pluto.tv/channels/663e09e4b18d700008e48dcf/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Big Magic (576p)",
+            "tvg_id": "BigMagic.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ850.png?lock=720x540",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/bigmagic/index.m3u8",
             "headers": {}
         },
         {
@@ -1536,11 +1552,27 @@
             "headers": {}
         },
         {
+            "name": "Colors (576p)",
+            "tvg_id": "Colors.in@SD",
+            "logo": "https://i.imgur.com/M8uCJ0D.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/colorssd/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Colors HD (1080p)",
             "tvg_id": "Colors.in@HD",
             "logo": "https://i.imgur.com/M8uCJ0D.png",
             "group": "Entertainment",
             "url": "http://66.102.126.10:8000/play/a00a/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Colors Bangla (576p)",
+            "tvg_id": "ColorsBangla.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA/images/LOGO_HD/image.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/colorsbanglasd/index.m3u8",
             "headers": {}
         },
         {
@@ -1560,11 +1592,43 @@
             "headers": {}
         },
         {
+            "name": "Colors Infinity (576p)",
+            "tvg_id": "ColorsInfinity.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/colorsinfinitysd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Colors Infinity HD (1080p)",
+            "tvg_id": "ColorsInfinity.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/colorsinfinityhd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Colors Kannada (576p)",
+            "tvg_id": "ColorsKannada.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA/images/LOGO_HD/image.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/colorskannadasd/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Colors Kannada HD (1080i)",
             "tvg_id": "ColorsKannada.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_KANNADA_HD/images/LOGO_HD/image.png",
             "group": "Entertainment",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Colors Marathi (576p)",
+            "tvg_id": "ColorsMarathi.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_MARATHI/images/LOGO_HD/image.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/colorsmarathisd/index.m3u8",
             "headers": {}
         },
         {
@@ -1589,6 +1653,14 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_SUPER/images/LOGO_HD/image.png",
             "group": "Entertainment",
             "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+            "headers": {}
+        },
+        {
+            "name": "Colors Tamil (576p)",
+            "tvg_id": "ColorsTamil.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/colorstamil/index.m3u8",
             "headers": {}
         },
         {
@@ -1952,11 +2024,11 @@
             "headers": {}
         },
         {
-            "name": "Enterr 10 Bangla (576p)",
+            "name": "Enterr 10 Bangla (720p)",
             "tvg_id": "Enterr10Bangla.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png",
             "group": "Entertainment",
-            "url": "https://mumt07.tangotv.in/zHjX9OFlENTERR10BANGLA/index.m3u8",
+            "url": "https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8",
             "headers": {}
         },
         {
@@ -3232,11 +3304,11 @@
             "headers": {}
         },
         {
-            "name": "LAMIL35 TV",
+            "name": "LAMIL35 TV (480p)",
             "tvg_id": "LAMIL35TV.ar@SD",
             "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
             "group": "Animation;Classic;Entertainment",
-            "url": "https://vd01.streaminghd.net.ar:3349/live/bzuctkgnlive.m3u8",
+            "url": "https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8",
             "headers": {}
         },
         {
@@ -3864,11 +3936,11 @@
             "headers": {}
         },
         {
-            "name": "MTV (India) HD (396p)",
+            "name": "MTV (India) HD (720p)",
             "tvg_id": "MTV.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
             "group": "Entertainment",
-            "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
+            "url": "http://51.75.127.199:3141/mtvhd/index.m3u8",
             "headers": {}
         },
         {
@@ -4285,6 +4357,14 @@
             "logo": "https://i.imgur.com/cGNgvOD.png",
             "group": "Entertainment",
             "url": "https://vdochile.com:3194/live/mvqutymylive.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Nakshatra Digital TV (576p)",
+            "tvg_id": "NakshatraDigitalTV.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/nakshatradigitaltv/index.m3u8",
             "headers": {}
         },
         {
@@ -5584,6 +5664,14 @@
             "headers": {}
         },
         {
+            "name": "Sidharth TV (576p)",
+            "tvg_id": "SidharthTV.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Sidharth_TV.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/sidharthtv/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Siri Kannada (576p)",
             "tvg_id": "SiriKannada.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/s143790_ld_h9_aa.png?lock=720x540",
@@ -5752,11 +5840,11 @@
             "headers": {}
         },
         {
-            "name": "Star Jalsha (576p) [Geo-blocked]",
+            "name": "Star Jalsha (576p)",
             "tvg_id": "StarJalsha.in@SD",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Entertainment",
-            "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+            "url": "http://51.75.127.199:3141/starjalsha/index.m3u8",
             "headers": {}
         },
         {
@@ -5768,11 +5856,35 @@
             "headers": {}
         },
         {
+            "name": "Star Maa (576p)",
+            "tvg_id": "StarMaa.in@SD",
+            "logo": "https://i.imgur.com/5c9PVS0.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/starmaa/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Star Maa HD (720p)",
             "tvg_id": "StarMaa.in@HD",
             "logo": "https://i.imgur.com/5c9PVS0.png",
             "group": "Entertainment",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Maa Gold (576p)",
+            "tvg_id": "StarMaaGold.in@SD",
+            "logo": "https://i.imgur.com/8v4JXYu.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/starmaagold/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Pravah (576p)",
+            "tvg_id": "StarPravah.in@SD",
+            "logo": "https://i.imgur.com/ZT0u7AK.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/starpravah/index.m3u8",
             "headers": {}
         },
         {
@@ -5784,11 +5896,35 @@
             "headers": {}
         },
         {
+            "name": "Star Suvarna (576p)",
+            "tvg_id": "StarSuvarna.in@SD",
+            "logo": "https://i.imgur.com/U9FA4Gs.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/starsuvarna/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Star TV (Moldova)",
             "tvg_id": "StarTV.md@SD",
             "logo": "https://i.imgur.com/6BBnG6f.png",
             "group": "Entertainment",
             "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Utsav (576p)",
+            "tvg_id": "StarUtsav.in@SD",
+            "logo": "https://i.imgur.com/H1jhHDl.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/starutsav/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Vijay (576p)",
+            "tvg_id": "StarVijay.in@SD",
+            "logo": "https://i.imgur.com/dZtJHAe.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/starvijay/index.m3u8",
             "headers": {}
         },
         {
@@ -5800,11 +5936,27 @@
             "headers": {}
         },
         {
-            "name": "StarPlus HD (1080i)",
+            "name": "StarPlus (India) (576p)",
+            "tvg_id": "StarPlus.in@SD",
+            "logo": "https://i.imgur.com/xWxNy3L.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/starplus/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "StarPlus (India) HD (1080i)",
             "tvg_id": "StarPlus.in@HD",
             "logo": "https://i.imgur.com/xWxNy3L.png",
             "group": "Entertainment",
             "url": "http://202.70.146.135:8000/play/a009/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "StarPlus (United Kingdom) (576p)",
+            "tvg_id": "StarPlus.uk@SD",
+            "logo": "https://i.imgur.com/xWxNy3L.png",
+            "group": "Entertainment",
+            "url": "https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8",
             "headers": {}
         },
         {
@@ -6904,11 +7056,11 @@
             "headers": {}
         },
         {
-            "name": "Zee Bangla HD (720p)",
+            "name": "Zee Bangla HD (1080p)",
             "tvg_id": "ZeeBangla.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Entertainment",
-            "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8",
+            "url": "http://51.75.127.199:3141/zeebanglahd/index.m3u8",
             "headers": {}
         },
         {
@@ -6944,11 +7096,19 @@
             "headers": {}
         },
         {
-            "name": "Zee Marathi HD (720p)",
+            "name": "Zee Keralam HD (1080p)",
+            "tvg_id": "ZeeKeralam.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_KERALAM/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/zeekeralamhd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Marathi HD (1080p)",
             "tvg_id": "ZeeMarathi.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_MARATHI/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Entertainment",
-            "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8",
+            "url": "http://51.75.127.199:3141/zeemarathihd/index.m3u8",
             "headers": {}
         },
         {
@@ -6976,6 +7136,22 @@
             "headers": {}
         },
         {
+            "name": "Zee Power HD (1080p)",
+            "tvg_id": "ZeePower.in@HD",
+            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0028ZJ97.png?lock=720x540",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/zeepowerhd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Punjabi (576p)",
+            "tvg_id": "ZeePunjabi.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/zeepunjabi/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Zee Tamil HD (720p)",
             "tvg_id": "ZeeTamil.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540",
@@ -6984,11 +7160,19 @@
             "headers": {}
         },
         {
-            "name": "Zee Telugu HD (720p)",
+            "name": "Zee Telugu HD (1080p)",
             "tvg_id": "ZeeTelugu.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Entertainment",
-            "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8",
+            "url": "http://51.75.127.199:3141/zeeteluguhd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee TV (576p)",
+            "tvg_id": "ZeeTV.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Entertainment",
+            "url": "http://51.75.127.199:3141/zeetv/index.m3u8",
             "headers": {}
         },
         {

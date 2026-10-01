@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 254,
-    "last_update": "2026-10-01 08:01:18 AM",
+    "channels_amount": 257,
+    "last_update": "2026-10-01 03:56:41 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -680,6 +680,14 @@
             "headers": {}
         },
         {
+            "name": "History TV18 (576p)",
+            "tvg_id": "HistoryTV18.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540",
+            "group": "Documentary",
+            "url": "http://51.75.127.199:3141/historytv18/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "History TV18 HD (1080p) [Geo-blocked]",
             "tvg_id": "HistoryTV18.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
@@ -928,11 +936,19 @@
             "headers": {}
         },
         {
-            "name": "National Geographic (India) (576p) [Geo-blocked]",
+            "name": "National Geographic (India) (576p)",
             "tvg_id": "NationalGeographic.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540",
             "group": "Documentary",
-            "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
+            "url": "http://51.75.127.199:3141/natgeo/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic (India) HD (1080p)",
+            "tvg_id": "NationalGeographic.in@HD",
+            "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
+            "group": "Documentary",
+            "url": "http://51.75.127.199:3141/natgeohd/index.m3u8",
             "headers": {}
         },
         {
@@ -1029,6 +1045,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
             "url": "http://88.212.15.19/live/ngw_hun/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic Wild (India) (576p)",
+            "tvg_id": "NationalGeographicWild.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+            "group": "Documentary",
+            "url": "http://51.75.127.199:3141/natgeowild/index.m3u8",
             "headers": {}
         },
         {

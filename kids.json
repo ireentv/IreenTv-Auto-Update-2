@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 412,
-    "last_update": "2026-10-01 08:01:18 AM",
+    "channels_amount": 415,
+    "last_update": "2026-10-01 03:56:41 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -808,6 +808,22 @@
             "headers": {}
         },
         {
+            "name": "Disney Junior (India) (576p)",
+            "tvg_id": "DisneyJunior.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
+            "group": "Kids",
+            "url": "http://51.75.127.199:3141/disneyjunior/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Disney Junior (Poland) (576p)",
+            "tvg_id": "DisneyJunior.pl@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+            "group": "Kids",
+            "url": "http://57.128.231.171:8080/277/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Disney Junior (Romania)",
             "tvg_id": "DisneyJunior.ro@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
@@ -816,11 +832,11 @@
             "headers": {}
         },
         {
-            "name": "Disney Junior (United States) (720p)",
+            "name": "Disney Junior (United States) (480p)",
             "tvg_id": "DisneyJunior.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/960px-2024_Disney_Jr._Logo.svg.png",
             "group": "Kids",
-            "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8",
+            "url": "http://tvsen5.aynascope.net/disney/index.m3u8",
             "headers": {}
         },
         {
@@ -1653,6 +1669,14 @@
             "logo": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920",
             "group": "Kids",
             "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Nick HD+ (1080p)",
+            "tvg_id": "NickHDPlus.in@HD",
+            "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
+            "group": "Kids",
+            "url": "http://51.75.127.199:3141/nickhd/index.m3u8",
             "headers": {}
         },
         {
