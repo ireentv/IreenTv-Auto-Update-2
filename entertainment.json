@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 902,
-    "last_update": "2026-10-02 07:28:22 AM",
+    "channels_amount": 903,
+    "last_update": "2026-10-02 02:14:19 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -3944,6 +3944,14 @@
             "headers": {}
         },
         {
+            "name": "MTV (Poland) (1080p)",
+            "tvg_id": "MTV.pl@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+            "group": "Entertainment",
+            "url": "http://57.128.231.171:8080/227/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "MTV (United States) (1080p)",
             "tvg_id": "MTV.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
@@ -5056,14 +5064,6 @@
             "headers": {}
         },
         {
-            "name": "Polsat Reality (720p)",
-            "tvg_id": "PolsatReality.pl@SD",
-            "logo": "https://i.imgur.com/yBecqPa.png",
-            "group": "Entertainment",
-            "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_PolsatReality.stream/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Popstar! TV (1080p) [Not 24/7]",
             "tvg_id": "PopstarTV.us@SD",
             "logo": "https://i.imgur.com/d4xEiXX.png",
@@ -5813,6 +5813,14 @@
             "logo": "https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png",
             "group": "Entertainment",
             "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Bharat (United Kingdom) (576p)",
+            "tvg_id": "StarBharat.uk@SD",
+            "logo": "https://i.imgur.com/Q8ajPij.png",
+            "group": "Entertainment",
+            "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8",
             "headers": {}
         },
         {

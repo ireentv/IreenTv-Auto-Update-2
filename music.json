@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 756,
-    "last_update": "2026-10-02 07:28:22 AM",
+    "channels_amount": 758,
+    "last_update": "2026-10-02 02:14:19 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -816,6 +816,14 @@
             "headers": {}
         },
         {
+            "name": "Claro Musica TV (1080p)",
+            "tvg_id": "ClaroMusicaTV.co@SD",
+            "logo": "https://i.imgur.com/vrSFUwv.png",
+            "group": "Music",
+            "url": "http://45.171.64.30:6060/play/a010",
+            "headers": {}
+        },
+        {
             "name": "Classic Music (1080p)",
             "tvg_id": "ClassicMusic.ru@SD",
             "logo": "https://i.imgur.com/TpXs1qA.png",
@@ -1261,22 +1269,6 @@
             "logo": "https://i.imgur.com/o0Fg19Q.png",
             "group": "Music",
             "url": "http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:",
-            "headers": {}
-        },
-        {
-            "name": "Eska TV (1080p)",
-            "tvg_id": "EskaTV.pl@SD",
-            "logo": "https://i.imgur.com/N0eH0Cg.png",
-            "group": "Music",
-            "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatv.stream/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Eska TV Extra (1080p)",
-            "tvg_id": "EskaTVExtra.pl@SD",
-            "logo": "https://i.imgur.com/pZAFshQ.png",
-            "group": "Music",
-            "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_eskatvextra.stream/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2496,6 +2488,14 @@
             "headers": {}
         },
         {
+            "name": "MCM Pop (576p)",
+            "tvg_id": "MCMPop.fr@SD",
+            "logo": "https://i.imgur.com/j31lBL7.png",
+            "group": "Music",
+            "url": "http://193.254.245.162/MCM/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "MCM Top (576p)",
             "tvg_id": "MCMTop.ru@SD",
             "logo": "https://i.imgur.com/EVtWQLd.png",
@@ -3381,6 +3381,14 @@
             "logo": "https://i.imgur.com/BzBX7Qx.jpeg",
             "group": "Music",
             "url": "https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Party Mix HD (1080p)",
+            "tvg_id": "PartyMix.ro@HD",
+            "logo": "https://i.imgur.com/leF8AGo.png",
+            "group": "Music",
+            "url": "https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8",
             "headers": {}
         },
         {
@@ -5717,6 +5725,14 @@
             "logo": "https://i.imgur.com/owUXUih.png",
             "group": "Music",
             "url": "https://jmp2.uk/plu-61d4c2817a823d00070ba53e.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "VH1 (432p)",
+            "tvg_id": "VH1.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/960px-VH1_logonew.svg.png",
+            "group": "Music",
+            "url": "http://193.254.245.162/VH1/index.m3u8",
             "headers": {}
         },
         {

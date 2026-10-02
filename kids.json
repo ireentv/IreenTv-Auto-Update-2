@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 415,
-    "last_update": "2026-10-02 07:28:22 AM",
+    "channels_amount": 414,
+    "last_update": "2026-10-02 02:14:19 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -440,11 +440,11 @@
             "headers": {}
         },
         {
-            "name": "CBeebies (Poland) (576p)",
+            "name": "CBeebies (Poland)",
             "tvg_id": "CBeebies.pl@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/960px-CBeebies.svg.png",
             "group": "Kids",
-            "url": "https://lon1-y7p7cyzc7vdh.lolokoko.tv/f_cbeebies.stream/playlist.m3u8",
+            "url": "https://xyktmobile00.s.gy/ticketview/49092",
             "headers": {}
         },
         {
@@ -693,14 +693,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
             "group": "Kids",
             "url": "http://212.5.144.156/disney/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Disney Channel (United States) HD East (720p)",
-            "tvg_id": "DisneyChannel.us@HDEast",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
-            "group": "Kids",
-            "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
             "headers": {}
         },
         {

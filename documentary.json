@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 257,
-    "last_update": "2026-10-02 07:28:22 AM",
+    "channels_amount": 258,
+    "last_update": "2026-10-02 02:14:19 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -637,6 +637,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
             "group": "Documentary",
             "url": "https://racitonsen.s.gy/HISTORY_PL",
+            "headers": {}
+        },
+        {
+            "name": "History (Romania)",
+            "tvg_id": "History.ro@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+            "group": "Documentary",
+            "url": "https://dokagents.site/live/history/mono.m3u8",
             "headers": {}
         },
         {
