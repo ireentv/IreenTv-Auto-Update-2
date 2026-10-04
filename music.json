@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 758,
-    "last_update": "2026-10-04 05:40:22 AM",
+    "channels_amount": 759,
+    "last_update": "2026-10-04 11:16:12 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1224,14 +1224,6 @@
             "headers": {}
         },
         {
-            "name": "Elrodi TV (576p)",
-            "tvg_id": "ElrodiTV.al@SD",
-            "logo": "https://i.imgur.com/9oSm30W.png",
-            "group": "Music",
-            "url": "http://5.254.89.106/8718/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "EMI TV",
             "tvg_id": "EMITV.ro@SD",
             "logo": "https://i.imgur.com/B5zssCz.png",
@@ -1616,11 +1608,19 @@
             "headers": {}
         },
         {
-            "name": "H!t Music Channel (480p)",
+            "name": "H!t Music Channel (Hungary) (480p)",
             "tvg_id": "HtMusicChannel.hu@SD",
             "logo": "https://i.imgur.com/sqC2hqV.png",
             "group": "Music",
             "url": "http://hitmusic.hu/hitmusic.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "H!t Music Channel (Romania)",
+            "tvg_id": "HtMusicChannel.ro@SD",
+            "logo": "https://i.imgur.com/sqC2hqV.png",
+            "group": "Music",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0",
             "headers": {}
         },
         {
@@ -2488,11 +2488,11 @@
             "headers": {}
         },
         {
-            "name": "MCM Pop (576p)",
+            "name": "MCM Pop (580p)",
             "tvg_id": "MCMPop.fr@SD",
             "logo": "https://i.imgur.com/j31lBL7.png",
             "group": "Music",
-            "url": "http://193.254.245.162/MCM/index.m3u8",
+            "url": "http://188.115.15.121:8000/play/a014",
             "headers": {}
         },
         {
@@ -2880,6 +2880,14 @@
             "headers": {}
         },
         {
+            "name": "Music Channel",
+            "tvg_id": "MusicChannel.ro@SD",
+            "logo": "https://i.imgur.com/nadVCxM.png",
+            "group": "Music",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0",
+            "headers": {}
+        },
+        {
             "name": "Music India (576p)",
             "tvg_id": "MusicIndia.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/s143563_ld_h15_aa.png?lock=720x540",
@@ -3005,14 +3013,6 @@
             "logo": "https://i.imgur.com/nHVABXh.png",
             "group": "Music",
             "url": "https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "My Music (576p)",
-            "tvg_id": "MyMusic.al@SD",
-            "logo": "https://i.imgur.com/7cvPvOx.png",
-            "group": "Music",
-            "url": "http://5.254.89.106:80/8821/index.m3u8",
             "headers": {}
         },
         {
@@ -3704,6 +3704,14 @@
             "headers": {}
         },
         {
+            "name": "Radio Bruno TV (720p)",
+            "tvg_id": "RadioBrunoTV.it@SD",
+            "logo": "https://i.imgur.com/WBcwDb7.png",
+            "group": "Music",
+            "url": "http://stream7.xdevel.com/video0s975758-1051/stream/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Radio Capital TiVu (720p)",
             "tvg_id": "RadioCapitalTiVu.it@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/it/3/38/Radio_Capital_logo_%282020%29.svg",
@@ -4352,11 +4360,11 @@
             "headers": {}
         },
         {
-            "name": "Rumba TV (1080p)",
+            "name": "Rumba TV",
             "tvg_id": "RumbaTV.co@SD",
             "logo": "https://i.imgur.com/WtVpWwI.png",
             "group": "Music",
-            "url": "http://45.162.193.35/RUMBATV/index.m3u8",
+            "url": "http://186.148.196.100:8000/play/a02h",
             "headers": {}
         },
         {
@@ -4952,11 +4960,11 @@
             "headers": {}
         },
         {
-            "name": "TeleHit (576p)",
+            "name": "TeleHit (1080p)",
             "tvg_id": "TeleHit.mx@SD",
             "logo": "https://i.imgur.com/NVxHxJn.png",
             "group": "Music",
-            "url": "http://200.115.120.1:8000/play/ca048/index.m3u8",
+            "url": "http://190.61.47.54:8000/play/a029/index.m3u8",
             "headers": {}
         },
         {

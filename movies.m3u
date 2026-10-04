@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 784
-# Last Updated    : 2026-10-04 05:40:22 AM
+# Total Channels  : 783
+# Last Updated    : 2026-10-04 11:16:12 AM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -92,8 +92,8 @@ https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 http://45.70.201.81:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-name="AXN (Brazil) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" ,AXN (Brazil) (720p)
 http://170.83.16.50/AXN/index.m3u8
-#EXTINF:-1 tvg-name="AXN (Portugal)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" ,AXN (Portugal)
-http://znty.dyndns.org:5010/hls/axn.m3u8
+#EXTINF:-1 tvg-name="AXN (Portugal) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" ,AXN (Portugal) (1080p)
+http://188.115.15.121:8000/play/a02z
 #EXTINF:-1 tvg-name="AXN (Spain) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" ,AXN (Spain) (1080p)
 http://193.254.245.162/AXN/index.m3u8
 #EXTINF:-1 tvg-name="AXN Adria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies" ,AXN Adria
@@ -307,7 +307,7 @@ http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-name="Cinecanal Pacific (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png" group-title="Movies" ,Cinecanal Pacific (1080p)
 http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1 tvg-name="CineLatino (720p)" tvg-logo="https://i.imgur.com/2V0R0xT.png" group-title="Movies" ,CineLatino (720p)
-http://45.162.193.35/CINELATINO_HD/index.m3u8
+http://206.135.11.174:8010/play/a0lq/index.m3u8
 #EXTINF:-1 tvg-name="Cinema (Mongolia) (1080p)" tvg-logo="https://www.mongolsat.mn/assets/img/channel/914.png" group-title="Movies" ,Cinema (Mongolia) (1080p)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -738,8 +738,6 @@ https://cdn.pishow.tv/ott/live/1011/master.m3u8
 https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
 #EXTINF:-1 tvg-name="Maverick Black Cinema (1080p)" tvg-logo="https://images.fubo.tv/station_logos/maverick_black_cinema_c.png" group-title="Movies" ,Maverick Black Cinema (1080p)
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Max (576p)" tvg-logo="https://i.imgur.com/bJ13Rmt.png" group-title="Movies" ,Max (576p)
-http://5.254.89.106:80/8882/index.m3u8
 #EXTINF:-1 tvg-name="MBC Bollywood (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies" ,MBC Bollywood (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 #EXTINF:-1 tvg-name="MBC+ Drama (1080p)" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies" ,MBC+ Drama (1080p)
@@ -768,8 +766,6 @@ https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1 tvg-name="MN+" tvg-logo="https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg" group-title="Movies" ,MN+
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
-#EXTINF:-1 tvg-name="MNX (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png" group-title="Movies" ,MNX (576p)
-http://59.103.38.46:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-name="More TV Sci-fi" tvg-logo="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/colorLogoPNG.png" group-title="Movies;Series" ,More TV Sci-fi
 https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1 tvg-name="Mosfilm Gold Collection (576p)" tvg-logo="https://i.imgur.com/95Y8jb6.png" group-title="Movies" ,Mosfilm Gold Collection (576p)
@@ -1216,8 +1212,8 @@ https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1 tvg-name="Pro100TV (576p)" tvg-logo="https://i.imgur.com/YfQEflM.png" group-title="Animation;Classic;Entertainment;Family;Movies" ,Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 tvg-name="Pro Cinema (576i)" tvg-logo="https://i.imgur.com/TvHFGwZ.png" group-title="Movies" ,Pro Cinema (576i)
-https://dokagents.site/live/procinema/mono.m3u8
+#EXTINF:-1 tvg-name="Pro Cinema (1080p)" tvg-logo="https://i.imgur.com/TvHFGwZ.png" group-title="Movies" ,Pro Cinema (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-name="Prokino (360p)" tvg-logo="https://i.imgur.com/Vm9nbi8.png" group-title="Movies" ,Prokino (360p)
 http://dtv.vol.net.ua/ProKino/index.m3u8
 #EXTINF:-1 tvg-name="Public Movies (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png" group-title="Movies" ,Public Movies (576p)
@@ -1345,7 +1341,7 @@ https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-name="Sony Canal Novelas" tvg-logo="" group-title="Movies" ,Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Max 2 (576p)" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies" ,Sony Max 2 (576p)
-http://149.71.34.166:8000/play/a00z/index.m3u8
+http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Sony Max (576p) [Geo-blocked]" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies" ,Sony Max (576p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1 tvg-name="Sony Movies (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies" ,Sony Movies (720p)
@@ -1516,6 +1512,8 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 http://45.167.1.138:8000/play/a06m
 #EXTINF:-1 tvg-name="Universal Comedy (1080p)" tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Comedy;Movies;Series" ,Universal Comedy (1080p)
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8
+#EXTINF:-1 tvg-name="USA Network (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" group-title="Comedy;Movies;Series;Sports" ,USA Network (720p)
+http://190.197.41.183/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="Velvet. European Movies (1080p)" tvg-logo="https://antiabuse-container.b-cdn.net/eurkino.png" group-title="Family;Movies" ,Velvet. European Movies (1080p)
 https://cdn.rostelekom-tv.xyz/live/LQ3j0n7j0Kq4OQm8.m3u8
 #EXTINF:-1 tvg-name="Velvet. Golden Collection (1080p)" tvg-logo="https://interra-cdn-europe1.b-cdn.net/zolo.png" group-title="Classic;Movies" ,Velvet. Golden Collection (1080p)

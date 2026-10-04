@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 258,
-    "last_update": "2026-10-04 05:40:22 AM",
+    "channels_amount": 255,
+    "last_update": "2026-10-04 11:16:12 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -381,14 +381,6 @@
             "logo": "https://i.imgur.com/wr2bLaA.png",
             "group": "Culture;Documentary",
             "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Docu. (1080p)",
-            "tvg_id": "Docu.cl@SD",
-            "logo": "https://i.imgur.com/7xvQ7jR.png",
-            "group": "Documentary",
-            "url": "http://45.162.193.35/DOCU/index.m3u8",
             "headers": {}
         },
         {
@@ -1728,14 +1720,6 @@
             "headers": {}
         },
         {
-            "name": "Sony BBC Earth HD (1080p)",
-            "tvg_id": "SonyBBCEarth.in@HD",
-            "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-            "group": "Documentary",
-            "url": "https://cloudplay-sonyliv.pages.dev/bbcearthhd.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Spektrum (Czech Republic)",
             "tvg_id": "Spektrum.cz@SD",
             "logo": "https://i.imgur.com/F5Uosum.png",
@@ -1829,14 +1813,6 @@
             "logo": "https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png",
             "group": "Documentary",
             "url": "https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Tring History (720p)",
-            "tvg_id": "TringHistory.al@SD",
-            "logo": "https://i.imgur.com/9wc2Wpt.png",
-            "group": "Documentary",
-            "url": "http://5.254.89.106/8765/index.m3u8",
             "headers": {}
         },
         {

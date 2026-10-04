@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 784,
-    "last_update": "2026-10-04 05:40:22 AM",
+    "channels_amount": 783,
+    "last_update": "2026-10-04 11:16:12 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -344,11 +344,11 @@
             "headers": {}
         },
         {
-            "name": "AXN (Portugal)",
+            "name": "AXN (Portugal) (1080p)",
             "tvg_id": "AXN.pt@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
             "group": "Movies",
-            "url": "http://znty.dyndns.org:5010/hls/axn.m3u8",
+            "url": "http://188.115.15.121:8000/play/a02z",
             "headers": {}
         },
         {
@@ -1196,7 +1196,7 @@
             "tvg_id": "CineLatino.mx@SD",
             "logo": "https://i.imgur.com/2V0R0xT.png",
             "group": "Movies",
-            "url": "http://45.162.193.35/CINELATINO_HD/index.m3u8",
+            "url": "http://206.135.11.174:8010/play/a0lq/index.m3u8",
             "headers": {}
         },
         {
@@ -2912,14 +2912,6 @@
             "headers": {}
         },
         {
-            "name": "Max (576p)",
-            "tvg_id": "Max.al@HD",
-            "logo": "https://i.imgur.com/bJ13Rmt.png",
-            "group": "Movies",
-            "url": "http://5.254.89.106:80/8882/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "MBC Bollywood (1080p) [Geo-blocked]",
             "tvg_id": "MBCBollywood.ae@SD",
             "logo": "https://i.imgur.com/TTAGFHG.png",
@@ -3029,14 +3021,6 @@
             "logo": "https://new.skytel.mn/uploads/channel/mn-676145a957d06.jpeg",
             "group": "Movies",
             "url": "https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MNX (576p)",
-            "tvg_id": "MNX.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX/images/LOGO_HD/image.png",
-            "group": "Movies",
-            "url": "http://59.103.38.46:8000/play/a052/index.m3u8",
             "headers": {}
         },
         {
@@ -4816,11 +4800,11 @@
             "headers": {}
         },
         {
-            "name": "Pro Cinema (576i)",
+            "name": "Pro Cinema (1080p)",
             "tvg_id": "ProCinema.ro@SD",
             "logo": "https://i.imgur.com/TvHFGwZ.png",
             "group": "Movies",
-            "url": "https://dokagents.site/live/procinema/mono.m3u8",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0",
             "headers": {}
         },
         {
@@ -5332,7 +5316,7 @@
             "tvg_id": "SonyMax2.in@SD",
             "logo": "https://i.imgur.com/gqUYk6C.png",
             "group": "Movies",
-            "url": "http://149.71.34.166:8000/play/a00z/index.m3u8",
+            "url": "http://107.167.16.138/sonymax2/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -5989,6 +5973,14 @@
             "logo": "https://i.imgur.com/avBL8pQ.png",
             "group": "Comedy;Movies;Series",
             "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "USA Network (720p)",
+            "tvg_id": "USANetwork.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png",
+            "group": "Comedy;Movies;Series;Sports",
+            "url": "http://190.197.41.183/USA_NETWORK/index.m3u8",
             "headers": {}
         },
         {

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 903,
-    "last_update": "2026-10-04 05:40:22 AM",
+    "channels_amount": 902,
+    "last_update": "2026-10-04 11:16:12 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -320,6 +320,14 @@
             "headers": {}
         },
         {
+            "name": "Acasa (1080p)",
+            "tvg_id": "Acasa.ro@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png",
+            "group": "Entertainment",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0",
+            "headers": {}
+        },
+        {
             "name": "Acasa HD",
             "tvg_id": "Acasa.ro@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png",
@@ -328,11 +336,11 @@
             "headers": {}
         },
         {
-            "name": "Acasa Gold",
+            "name": "Acasa Gold (1080p)",
             "tvg_id": "AcasaGold.ro@SD",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512",
             "group": "Entertainment",
-            "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6945/index.m3u8",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0",
             "headers": {}
         },
         {
@@ -800,11 +808,11 @@
             "headers": {}
         },
         {
-            "name": "AXN White Portugal (480p)",
+            "name": "AXN White Portugal (576p)",
             "tvg_id": "AXNWhite.us@Portugal",
             "logo": "https://i.imgur.com/47IKxmt.png",
             "group": "Entertainment",
-            "url": "http://50.7.120.34:8080/AXN_WHITE/index.m3u8",
+            "url": "http://188.115.15.121:8000/play/a01u",
             "headers": {}
         },
         {
@@ -2232,14 +2240,6 @@
             "headers": {}
         },
         {
-            "name": "First Channel (1080p)",
-            "tvg_id": "FirstChannel.xk@SD",
-            "logo": "https://i.imgur.com/LchiPOr.png",
-            "group": "Entertainment",
-            "url": "http://5.254.89.106/8717/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "For laekker til love",
             "tvg_id": "Forlaekkertillove.se@DK",
             "logo": "https://images.pluto.tv/channels/6272511cb389bb0007b30b09/colorLogoPNG.png",
@@ -3306,7 +3306,7 @@
         {
             "name": "LAMIL35 TV (480p)",
             "tvg_id": "LAMIL35TV.ar@SD",
-            "logo": "https://www.appcreator24.com/srv/imgs/gen/3544498_ico.png",
+            "logo": "https://i.pinimg.com/736x/2d/fa/25/2dfa25f5d2e4d5c19886a3a263706317.jpg",
             "group": "Animation;Classic;Entertainment",
             "url": "https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8",
             "headers": {}
@@ -5757,14 +5757,6 @@
             "logo": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://cloudplay-sonyliv.pages.dev/pal.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sony SAB HD (1080p)",
-            "tvg_id": "SonySAB.in@HD",
-            "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
-            "group": "Entertainment",
-            "url": "https://cloudplay-sonyliv.pages.dev/sabhd.m3u8",
             "headers": {}
         },
         {
