@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 759,
-    "last_update": "2026-10-06 08:48:30 AM",
+    "channels_amount": 769,
+    "last_update": "2026-10-06 03:57:59 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -37,6 +37,14 @@
             "logo": "https://i.imgur.com/UJ5oaeU.png",
             "group": "Music",
             "url": "http://stream.mcquack.net/257/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "4 Fun Dance",
+            "tvg_id": "4FunDance.pl@SD",
+            "logo": "https://i.imgur.com/ZEWHe1B.png",
+            "group": "Music",
+            "url": "http://92.114.85.87:8018/play/a00k/index.m3u8",
             "headers": {}
         },
         {
@@ -92,7 +100,7 @@
             "tvg_id": "8XM.pk@HD",
             "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
             "group": "Music",
-            "url": "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8",
+            "url": "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8",
             "headers": {}
         },
         {
@@ -1256,11 +1264,27 @@
             "headers": {}
         },
         {
-            "name": "Eska Rock TV",
+            "name": "Eska Rock TV (1080p)",
             "tvg_id": "EskaRockTV.pl@SD",
             "logo": "https://i.imgur.com/o0Fg19Q.png",
             "group": "Music",
-            "url": "http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:",
+            "url": "http://92.114.85.87:8016/play/a005/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Eska TV (1080p)",
+            "tvg_id": "EskaTV.pl@SD",
+            "logo": "https://i.imgur.com/N0eH0Cg.png",
+            "group": "Music",
+            "url": "http://92.114.85.87:8018/play/a00h/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Eska TV Extra (1080p)",
+            "tvg_id": "EskaTVExtra.pl@SD",
+            "logo": "https://i.imgur.com/pZAFshQ.png",
+            "group": "Music",
+            "url": "http://92.114.85.87:8016/play/a008/index.m3u8",
             "headers": {}
         },
         {
@@ -1301,6 +1325,14 @@
             "logo": "https://i.imgur.com/GLc4qrc.png",
             "group": "Music",
             "url": "http://31.148.48.15/Europa_Plus_HD/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Europa Plus TV Belarus (576p)",
+            "tvg_id": "EuropaPlusTV.ru@Belarus",
+            "logo": "https://i.imgur.com/GLc4qrc.png",
+            "group": "Music",
+            "url": "http://46.53.200.153:7777/play/EuropaPlus/index.m3u8",
             "headers": {}
         },
         {
@@ -2240,6 +2272,14 @@
             "headers": {}
         },
         {
+            "name": "Live Music Channel HD (1080p)",
+            "tvg_id": "LiveMusicChannel.ru@HD",
+            "logo": "https://i.imgur.com/9qJkxV9.png",
+            "group": "Music",
+            "url": "http://46.53.200.153:7777/play/Live_music_channel/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "LIVExLIVE (1080p)",
             "tvg_id": "LIVExLIVE.us@SD",
             "logo": "https://i.imgur.com/KFzEoed.png",
@@ -2693,6 +2733,22 @@
             "logo": "https://i.imgur.com/GwATd3Y.png",
             "group": "Music",
             "url": "https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Mooz Love (576p)",
+            "tvg_id": "MoozLove.ro@SD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/5/50/Mooz_Love_2026.png",
+            "group": "Music",
+            "url": "https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Mooz Retro (576p)",
+            "tvg_id": "MoozRetro.ro@SD",
+            "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/0/0c/Mooz_Retro_%282026-.n.v.%29.png",
+            "group": "Music",
+            "url": "https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8",
             "headers": {}
         },
         {
@@ -3192,6 +3248,14 @@
             "headers": {}
         },
         {
+            "name": "Nuta TV",
+            "tvg_id": "NutaTV.pl@SD",
+            "logo": "https://i.imgur.com/JHFUxDu.png",
+            "group": "Music",
+            "url": "http://92.114.85.87:8010/play/a00j/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "o2tv (720p)",
             "tvg_id": "o2tv.ru@SD",
             "logo": "https://i.imgur.com/CM6z7fA.png",
@@ -3525,6 +3589,14 @@
             "logo": "",
             "group": "Music",
             "url": "https://pmcrohls.wns.live/hls/stream.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Polsat Music (1080p)",
+            "tvg_id": "PolsatMusic.pl@SD",
+            "logo": "https://i.imgur.com/uXygf1l.png",
+            "group": "Music",
+            "url": "http://92.114.85.87:8001/play/a00z/index.m3u8",
             "headers": {}
         },
         {
@@ -4085,6 +4157,14 @@
             "logo": "https://i.imgur.com/RxeRlar.png",
             "group": "Music",
             "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Radiola TV (1080p)",
+            "tvg_id": "RadiolaTV.co@SD",
+            "logo": "https://i.imgur.com/3AXjotA.jpg",
+            "group": "Music",
+            "url": "http://158.172.217.18:8000/play/a01k/index.m3u8",
             "headers": {}
         },
         {
@@ -5832,6 +5912,14 @@
             "headers": {}
         },
         {
+            "name": "VOX Music TV (1080p)",
+            "tvg_id": "VOXMusicTV.pl@SD",
+            "logo": "https://i.imgur.com/N993msF.png",
+            "group": "Music",
+            "url": "http://92.114.85.87:8016/play/a00a/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Wah Punjabi (576p)",
             "tvg_id": "WahPunjabi.in@SD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Wah_Punjabi.png",
@@ -6045,14 +6133,6 @@
             "logo": "https://i.imgur.com/NuzyhVM.png",
             "group": "Entertainment;Music",
             "url": "https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zona M",
-            "tvg_id": "ZonaM.md@SD",
-            "logo": "https://i.imgur.com/a6Dy3ao.png",
-            "group": "Music",
-            "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8",
             "headers": {}
         },
         {

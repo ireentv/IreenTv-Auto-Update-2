@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 902,
-    "last_update": "2026-10-06 08:48:30 AM",
+    "channels_amount": 908,
+    "last_update": "2026-10-06 03:57:59 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -192,14 +192,6 @@
             "headers": {}
         },
         {
-            "name": "¡OPA! (720p)",
-            "tvg_id": "OPA.cr@SD",
-            "logo": "https://i.imgur.com/300c1ZH.png",
-            "group": "Entertainment",
-            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": ".black (576p)",
             "tvg_id": "black.ru@SD",
             "logo": "https://i.imgur.com/Q4A6ci4.png",
@@ -221,6 +213,14 @@
             "logo": "https://i.imgur.com/GET9Qut.png",
             "group": "Entertainment",
             "url": "http://178.134.1.158:8081/red/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "¡OPA! (720p)",
+            "tvg_id": "OPA.cr@SD",
+            "logo": "https://i.imgur.com/300c1ZH.png",
+            "group": "Entertainment",
+            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1280,6 +1280,14 @@
             "headers": {}
         },
         {
+            "name": "Canal+ (720p)",
+            "tvg_id": "CanalPlus.fr@SD",
+            "logo": "https://i.imgur.com/5HcyMnW.png",
+            "group": "Entertainment",
+            "url": "http://151.80.18.177:86/Canal+_HD/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Canale 5 [Geo-blocked]",
             "tvg_id": "Canale5.it@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
@@ -2061,6 +2069,14 @@
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Epic Parivar (576p)",
+            "tvg_id": "EpicParivar.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVZH.png?lock=720x540",
+            "group": "Entertainment",
+            "url": "http://103.151.60.162:2122/play/a01p/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -3840,11 +3856,11 @@
             "headers": {}
         },
         {
-            "name": "MiTV (720p)",
+            "name": "MiTV (1080p)",
             "tvg_id": "MiTV.py@SD",
             "logo": "https://i.imgur.com/sgrEt9z.png",
             "group": "Entertainment",
-            "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+            "url": "http://190.128.214.97:64333/play/a02w/index.m3u8",
             "headers": {}
         },
         {
@@ -5736,6 +5752,14 @@
             "headers": {}
         },
         {
+            "name": "Sony Entertainment Television (576p)",
+            "tvg_id": "SonyEntertainmentTelevision.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/s157589_ld_h15_aa.png?lock=720x540",
+            "group": "Entertainment",
+            "url": "http://103.151.60.162:2122/play/a015/index.m3u8?hls",
+            "headers": {}
+        },
+        {
             "name": "Sony Entertainment Television HD (1080p)",
             "tvg_id": "SonyEntertainmentTelevision.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
@@ -5757,6 +5781,14 @@
             "logo": "https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://cloudplay-sonyliv.pages.dev/pal.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Sony SAB (576p)",
+            "tvg_id": "SonySAB.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540",
+            "group": "Entertainment",
+            "url": "http://103.151.60.162:2122/play/a01q/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -5844,7 +5876,7 @@
             "tvg_id": "StarJalsha.in@SD",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Entertainment",
-            "url": "http://51.75.127.199:3141/starjalsha/index.m3u8",
+            "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -5853,6 +5885,14 @@
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Entertainment",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Kiran (576p)",
+            "tvg_id": "StarKiran.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/s143820_ld_h15_aa.png?lock=720x540",
+            "group": "Entertainment",
+            "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -5901,14 +5941,6 @@
             "logo": "https://i.imgur.com/U9FA4Gs.png",
             "group": "Entertainment",
             "url": "http://51.75.127.199:3141/starsuvarna/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star TV (Moldova)",
-            "tvg_id": "StarTV.md@SD",
-            "logo": "https://i.imgur.com/6BBnG6f.png",
-            "group": "Entertainment",
-            "url": "http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2465/index.m3u8",
             "headers": {}
         },
         {
@@ -6005,6 +6037,14 @@
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png",
             "group": "Entertainment",
             "url": "https://stream.galaxyott.live/live/subintv/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Sun TV HD (1080p)",
+            "tvg_id": "SunTV.in@HD",
+            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002Z0M0Y.png?lock=720x540",
+            "group": "Entertainment",
+            "url": "http://103.151.60.162:2122/play/a02a/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -6912,11 +6952,11 @@
             "headers": {}
         },
         {
-            "name": "W9 (1080p)",
+            "name": "W9 (1086p)",
             "tvg_id": "W9.fr@SD",
             "logo": "https://i.imgur.com/reYeMuE.png",
             "group": "Entertainment",
-            "url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-w9/cmaf_q2hyb21h/hls-short-hd.m3u8",
+            "url": "http://5.180.164.197:8080/W9/index.m3u8",
             "headers": {}
         },
         {
@@ -7053,6 +7093,14 @@
             "logo": "",
             "group": "Entertainment",
             "url": "https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Bangla (576p)",
+            "tvg_id": "ZeeBangla.in@SD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Entertainment",
+            "url": "http://103.151.60.162:2122/play/a011/index.m3u8?hls",
             "headers": {}
         },
         {

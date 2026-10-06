@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 255,
-    "last_update": "2026-10-06 08:48:30 AM",
+    "channels_amount": 259,
+    "last_update": "2026-10-06 03:57:59 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1056,6 +1056,14 @@
             "headers": {}
         },
         {
+            "name": "National Geographic Wild (India) HD (1080p)",
+            "tvg_id": "NationalGeographicWild.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
+            "group": "Documentary",
+            "url": "http://103.185.24.134:3001/NATGEO-WILD-HD/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "National Geographic Wild (Romania)",
             "tvg_id": "NationalGeographicWild.ro@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
@@ -1157,6 +1165,14 @@
             "logo": "https://i.imgur.com/ZZxzueO.png",
             "group": "Documentary",
             "url": "http://31.148.48.15/Nauka_2.0/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Nuta Gold",
+            "tvg_id": "NutaGold.pl@SD",
+            "logo": "https://i.imgur.com/BEs160o.png",
+            "group": "Documentary;Lifestyle",
+            "url": "http://92.114.85.87:8010/play/a00i/index.m3u8",
             "headers": {}
         },
         {
@@ -1616,11 +1632,27 @@
             "headers": {}
         },
         {
+            "name": "Polsat Viasat Explore",
+            "tvg_id": "PolsatViasatExplore.pl@SD",
+            "logo": "https://i.imgur.com/gDlqO9h.png",
+            "group": "Documentary",
+            "url": "http://92.114.85.87:8014/play/a00g/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Polsat Viasat History (1080p)",
             "tvg_id": "PolsatViasatHistory.pl@SD",
             "logo": "https://i.imgur.com/X16UGUf.png",
             "group": "Documentary",
             "url": "http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Polsat Viasat Nature",
+            "tvg_id": "PolsatViasatNature.pl@SD",
+            "logo": "https://i.imgur.com/TUcM0oS.png",
+            "group": "Documentary",
+            "url": "http://92.114.85.87:8016/play/a004/index.m3u8",
             "headers": {}
         },
         {
@@ -1672,14 +1704,6 @@
             "headers": {}
         },
         {
-            "name": "Sky Nature (576p)",
-            "tvg_id": "SkyNature.uk@SD",
-            "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1194.png",
-            "group": "Documentary",
-            "url": "https://tvsen6.aynaott.com/skynature/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Smithsonian Channel Pluto TV",
             "tvg_id": "SmithsonianChannelPlutoTV.us@BR",
             "logo": "https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png",
@@ -1717,6 +1741,14 @@
             "logo": "https://i.imgur.com/dB3cJzO.png",
             "group": "Documentary",
             "url": "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Sony BBC Earth HD (1080p)",
+            "tvg_id": "SonyBBCEarth.in@HD",
+            "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
+            "group": "Documentary",
+            "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
             "headers": {}
         },
         {
@@ -1824,11 +1856,11 @@
             "headers": {}
         },
         {
-            "name": "TV8 (Moldova) [Not 24/7]",
+            "name": "TV8 (Moldova)",
             "tvg_id": "TV8.md@SD",
             "logo": "https://i.imgur.com/Rsn4oUh.png",
             "group": "Documentary;News",
-            "url": "http://315e5a5d.ottrast.com/iptv/8KSD5KFDXA6H88/2454/index.m3u8",
+            "url": "http://178.76.68.60:7441/7/mpegts",
             "headers": {}
         },
         {
