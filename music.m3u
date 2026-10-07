@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 769
-# Last Updated    : 2026-10-07 07:19:24 AM
+# Total Channels  : 771
+# Last Updated    : 2026-10-07 02:24:15 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -1018,6 +1018,8 @@ https://media.3netmedia.ro/hls/stream.m3u8
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Oltenia-Craiova (576p) [Not 24/7]" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" group-title="General;Music" ,Radio Romania Oltenia-Craiova (576p) [Not 24/7]
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Resita (576p) [Not 24/7]" tvg-logo="https://www.radioresita.ro/wp-content/themes/radioresita/images/custom/logo-main.svg" group-title="General;Music" ,Radio Romania Resita (576p) [Not 24/7]
+https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" group-title="General;Music" ,Radio Romania Targu Mures (576p)
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 #EXTINF:-1 tvg-name="Radio Rumba TV (720p)" tvg-logo="https://i.imgur.com/BYcxI03.png" group-title="Music" ,Radio Rumba TV (720p)
@@ -1084,6 +1086,8 @@ https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
 https://streaming.purum.cl/ritoquetv/index.m3u8
 #EXTINF:-1 tvg-name="RJTV (1080p)" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music" ,RJTV (1080p)
 https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Rock & Pop (1080p)" tvg-logo="https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png" group-title="Music" ,Rock & Pop (1080p)
+http://190.128.214.97:64333/play/a032/index.m3u8
 #EXTINF:-1 tvg-name="Rock TV (North Macedonia) (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music" ,Rock TV (North Macedonia) (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 #EXTINF:-1 tvg-name="Rock TV (Romania) (720p)" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Music" ,Rock TV (Romania) (720p)

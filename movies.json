@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 791,
-    "last_update": "2026-10-07 07:19:24 AM",
+    "channels_amount": 790,
+    "last_update": "2026-10-07 02:24:15 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -88,14 +88,6 @@
             "headers": {}
         },
         {
-            "name": "&TV International (1080p)",
-            "tvg_id": "AndTV.in@International",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-            "group": "Movies",
-            "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": "&TV (576p)",
             "tvg_id": "AndTV.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
@@ -109,6 +101,14 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
             "url": "http://202.70.146.135:8000/play/a06c/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "&TV International (1080p)",
+            "tvg_id": "AndTV.in@International",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Movies",
+            "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
             "headers": {}
         },
         {
@@ -373,14 +373,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
             "group": "Movies",
             "url": "http://5.57.74.130:8000/play/a0at/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "AXN Asia Philippines (576p)",
-            "tvg_id": "AXNAsia.sg@Philippines",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-            "group": "Movies;Series",
-            "url": "https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8",
             "headers": {}
         },
         {
@@ -1808,22 +1800,6 @@
             "headers": {}
         },
         {
-            "name": "FILMBOX+ Action",
-            "tvg_id": "FILMBOXPlusAction.pl@HD",
-            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png",
-            "group": "Movies",
-            "url": "https://racitonsen.s.gy/FB_ACTION_PL",
-            "headers": {}
-        },
-        {
-            "name": "FILMBOX+ Comedy",
-            "tvg_id": "FILMBOXPlusComedy.pl@Poland",
-            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
-            "group": "Movies",
-            "url": "https://racitonsen.s.gy/FB_COMEDY_PL",
-            "headers": {}
-        },
-        {
             "name": "FILMBOX+ Comedy Czechia",
             "tvg_id": "FILMBOXPlusComedy.pl@Czechia",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
@@ -1845,14 +1821,6 @@
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
             "group": "Movies",
             "url": "https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "FILMBOX+ Emotion",
-            "tvg_id": "FILMBOXPlusEmotion.pl@Poland",
-            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
-            "group": "Movies",
-            "url": "https://racitonsen.s.gy/FB_EMOTION_PL",
             "headers": {}
         },
         {
@@ -1916,15 +1884,7 @@
             "tvg_id": "FILMBOXPlusFestival.pl@Poland",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png",
             "group": "Movies",
-            "url": "https://racitonsen.s.gy/FB_FESTIVAL_PL",
-            "headers": {}
-        },
-        {
-            "name": "FILMBOX+ Hits",
-            "tvg_id": "FILMBOXPlusHits.pl@Poland",
-            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
-            "group": "Movies",
-            "url": "https://racitonsen.s.gy/FB_HITS_PL",
+            "url": "http://92.114.85.87:8018/play/a009/index.m3u8",
             "headers": {}
         },
         {
@@ -2333,22 +2293,6 @@
             "logo": "https://www.tvchinese.net/uploads/tv/haerbin.jpg",
             "group": "Movies",
             "url": "https://stream.hrbtv.net/yspd/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "HBO Drama (1080p)",
-            "tvg_id": "HBODrama.us@East",
-            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/960px-HBO_Drama_Logo.svg.png",
-            "group": "Movies;Series",
-            "url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "HBO Hits West HD (1080p)",
-            "tvg_id": "HBOHits.us@WestHD",
-            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
-            "group": "Movies;Series",
-            "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8",
             "headers": {}
         },
         {
@@ -2917,6 +2861,46 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png",
             "group": "Movies",
             "url": "http://141.94.193.53:80/MAX4_HD/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Maxcine 2 (720p)",
+            "tvg_id": "Maxcine2.us@HD",
+            "logo": "https://gia.tv/streams/pptv/209163.png",
+            "group": "Movies",
+            "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Maxcine (720p)",
+            "tvg_id": "Maxcine.us@HD",
+            "logo": "https://gia.tv/streams/pptv/208138.png",
+            "group": "Movies",
+            "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Maxcine Comedy (720p)",
+            "tvg_id": "MaxcineComedy.us@HD",
+            "logo": "https://gia.tv/streams/pptv/208730.png",
+            "group": "Movies",
+            "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Maxcine Family (720p)",
+            "tvg_id": "MaxcineFamily.us@HD",
+            "logo": "https://gia.tv/streams/pptv/208817.png",
+            "group": "Movies",
+            "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Maxcine Kids (720p)",
+            "tvg_id": "MaxcineKids.us@HD",
+            "logo": "https://gia.tv/streams/pptv/209909.png",
+            "group": "Movies",
+            "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8",
             "headers": {}
         },
         {
@@ -6181,6 +6165,14 @@
             "logo": "https://i.imgur.com/TMmyuzh.png",
             "group": "Movies",
             "url": "http://stream.mcquack.net/100/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "viju TV1000 novella HD (1080p)",
+            "tvg_id": "vijuTV1000novella.ru@HD",
+            "logo": "https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png",
+            "group": "Movies",
+            "url": "http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8",
             "headers": {}
         },
         {

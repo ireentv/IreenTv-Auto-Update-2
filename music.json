@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 769,
-    "last_update": "2026-10-07 07:19:24 AM",
+    "channels_amount": 771,
+    "last_update": "2026-10-07 02:24:15 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -4040,6 +4040,14 @@
             "headers": {}
         },
         {
+            "name": "Radio Romania Resita (576p) [Not 24/7]",
+            "tvg_id": "RadioRomaniaResita.ro@SD",
+            "logo": "https://www.radioresita.ro/wp-content/themes/radioresita/images/custom/logo-main.svg",
+            "group": "General;Music",
+            "url": "https://stream3.srr.ro/RadioResita/live/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Radio Romania Targu Mures (576p)",
             "tvg_id": "RadioRomaniaTarguMures.ro@SD",
             "logo": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg",
@@ -4301,6 +4309,14 @@
             "logo": "https://i.imgur.com/a1zuW2C.png",
             "group": "Music",
             "url": "https://rjtvhls.wns.live/hls/stream.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Rock & Pop (1080p)",
+            "tvg_id": "RockPop.ar@SD",
+            "logo": "https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png",
+            "group": "Music",
+            "url": "http://190.128.214.97:64333/play/a032/index.m3u8",
             "headers": {}
         },
         {
