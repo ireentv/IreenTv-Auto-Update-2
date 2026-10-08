@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 408,
-    "last_update": "2026-10-08 07:39:52 AM",
+    "channels_amount": 412,
+    "last_update": "2026-10-08 02:39:59 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -416,6 +416,22 @@
             "headers": {}
         },
         {
+            "name": "Cartoon Network Latin America North Atlantic (1080p)",
+            "tvg_id": "CartoonNetworkLatinAmerica.us@NorthAtlantic",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+            "group": "Animation;Kids",
+            "url": "http://38.252.238.18:8000/play/a053/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cartoon Network Latin America South Atlantic (1080p)",
+            "tvg_id": "CartoonNetworkLatinAmerica.us@SouthAtlantic",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+            "group": "Animation;Kids",
+            "url": "http://158.172.217.18:8000/play/a03a/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "CBBC (720p) [Geo-blocked]",
             "tvg_id": "CBBC.uk@SD",
             "logo": "https://i.imgur.com/tk8G4CU.png",
@@ -589,6 +605,14 @@
             "logo": "https://i.imgur.com/GnZicVH.png",
             "group": "Kids;Religious",
             "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Discovery Kids Latin America Mexico (1080p)",
+            "tvg_id": "DiscoveryKidsLatinAmerica.us@Mexico",
+            "logo": "",
+            "group": "Kids",
+            "url": "http://38.65.175.84:8000/play/a0an/index.m3u8",
             "headers": {}
         },
         {
@@ -2965,6 +2989,14 @@
             "logo": "https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png",
             "group": "Animation;Kids",
             "url": "http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Tooncast (1080p)",
+            "tvg_id": "Tooncast.us@SD",
+            "logo": "https://i.imgur.com/3yXRbQy.png",
+            "group": "Animation;Kids",
+            "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
             "headers": {}
         },
         {

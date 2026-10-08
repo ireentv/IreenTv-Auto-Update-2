@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 257,
-    "last_update": "2026-10-08 07:39:52 AM",
+    "channels_amount": 259,
+    "last_update": "2026-10-08 02:39:59 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -672,11 +672,11 @@
             "headers": {}
         },
         {
-            "name": "History TV18 HD (1080p) [Geo-blocked]",
+            "name": "History TV18 HD",
             "tvg_id": "HistoryTV18.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
             "group": "Documentary",
-            "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
+            "url": "https://techtraveleat.in/stream.m3u8?id=historytv18eng",
             "headers": {}
         },
         {
@@ -741,6 +741,14 @@
             "logo": "https://i.imgur.com/43at4M2.png",
             "group": "Documentary",
             "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Investigation Discovery Latin America South (1080p)",
+            "tvg_id": "InvestigationDiscoveryLatinAmerica.us@South",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+            "group": "Documentary",
+            "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8",
             "headers": {}
         },
         {
@@ -837,6 +845,14 @@
             "logo": "https://i.imgur.com/gEraSp5.png",
             "group": "Documentary",
             "url": "https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Military History (720p)",
+            "tvg_id": "MilitaryHistory.us@SD",
+            "logo": "https://i.imgur.com/S1SnpoA.png",
+            "group": "Documentary",
+            "url": "https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2",
             "headers": {}
         },
         {

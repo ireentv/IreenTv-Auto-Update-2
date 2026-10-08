@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 909,
-    "last_update": "2026-10-08 07:39:52 AM",
+    "last_update": "2026-10-08 02:39:59 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -712,7 +712,7 @@
             "headers": {}
         },
         {
-            "name": "Asianet HD (720p) [Not 24/7]",
+            "name": "Asianet HD (1080p)",
             "tvg_id": "Asianet.in@HD",
             "logo": "https://i.imgur.com/Wv7MOzg.png",
             "group": "Entertainment",
@@ -1877,6 +1877,14 @@
             "logo": "https://images.pluto.tv/channels/660d6bc10cd4630008f4a25a/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Discovery Channel Latin America (1080p)",
+            "tvg_id": "DiscoveryChannelLatinAmerica.us@Panregional",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+            "group": "Entertainment",
+            "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
             "headers": {}
         },
         {
@@ -3952,11 +3960,11 @@
             "headers": {}
         },
         {
-            "name": "MTV (India)",
+            "name": "MTV (India) (576p)",
             "tvg_id": "MTV.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
             "group": "Entertainment",
-            "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8",
+            "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
             "headers": {}
         },
         {
@@ -4701,14 +4709,6 @@
             "logo": "https://i.imgur.com/MGMhUDx.png",
             "group": "Entertainment",
             "url": "https://hls.oxir.live/hls/stream.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Oxygen (720p)",
-            "tvg_id": "Oxygen.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/960px-Oxygen_TV_%282017_Logo%29.svg.png",
-            "group": "Entertainment",
-            "url": "http://198.58.104.90:8989/oxygen/index.m3u8",
             "headers": {}
         },
         {
@@ -6408,7 +6408,7 @@
             "headers": {}
         },
         {
-            "name": "TNT (576p)",
+            "name": "TNT (Russia) (576p)",
             "tvg_id": "TNT.ru@SD",
             "logo": "https://i.imgur.com/T4A6rEI.png",
             "group": "Entertainment",
@@ -6416,7 +6416,7 @@
             "headers": {}
         },
         {
-            "name": "TNT HD (1080p)",
+            "name": "TNT (Russia) HD (1080p)",
             "tvg_id": "TNT.ru@HD",
             "logo": "https://i.imgur.com/T4A6rEI.png",
             "group": "Entertainment",

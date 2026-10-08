@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 257
-# Last Updated    : 2026-10-08 07:39:52 AM
+# Total Channels  : 259
+# Last Updated    : 2026-10-08 02:39:59 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -176,8 +176,8 @@ https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-name="History TV18 (576p)" tvg-logo="https://dtil.tmsimg.com/assets/s143132_ld_h15_aa.png?lock=720x540" group-title="Documentary" ,History TV18 (576p)
 http://51.75.127.199:3141/historytv18/index.m3u8
-#EXTINF:-1 tvg-name="History TV18 HD (1080p) [Geo-blocked]" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Documentary" ,History TV18 HD (1080p) [Geo-blocked]
-https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="History TV18 HD" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" group-title="Documentary" ,History TV18 HD
+https://techtraveleat.in/stream.m3u8?id=historytv18eng
 #EXTINF:-1 tvg-name="History Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="Documentary" ,History Ukraine
 http://dtv.vol.net.ua/History_HD/index.m3u8
 #EXTINF:-1 tvg-name="HRT 3 (720p)" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-title="Culture;Documentary" ,HRT 3 (720p)
@@ -196,6 +196,8 @@ https://jmp2.uk/plu-60807fd5db701400078219c2.m3u8
 https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
 #EXTINF:-1 tvg-name="Into Crime (1080p)" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary" ,Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery Latin America South (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary" ,Investigation Discovery Latin America South (1080p)
+http://38.65.175.84:8000/play/a0ch/index.m3u8
 #EXTINF:-1 tvg-name="INWILD (1080p)" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Documentary" ,INWILD (1080p)
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-name="Istoriya (576p)" tvg-logo="https://i.imgur.com/eEjPail.png" group-title="Documentary" ,Istoriya (576p)
@@ -220,6 +222,8 @@ https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
 #EXTINF:-1 tvg-name="MagellanTV Now (1080p)" tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="Documentary" ,MagellanTV Now (1080p)
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-name="Military History (720p)" tvg-logo="https://i.imgur.com/S1SnpoA.png" group-title="Documentary" ,Military History (720p)
+https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2
 #EXTINF:-1 tvg-name="MRTV Farmer" tvg-logo="https://i.imgur.com/f4PWvrW.jpg" group-title="Documentary;Lifestyle" ,MRTV Farmer
 https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-name="MWD Documentary [Geo-blocked]" tvg-logo="https://i.imgur.com/4XV7cjU.png" group-title="Documentary" ,MWD Documentary [Geo-blocked]

@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 771,
-    "last_update": "2026-10-08 07:39:52 AM",
+    "last_update": "2026-10-08 02:39:59 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -48,11 +48,11 @@
             "headers": {}
         },
         {
-            "name": "4 Fun TV (576i) [Not 24/7]",
+            "name": "4 Fun TV",
             "tvg_id": "4FunTV.pl@SD",
             "logo": "https://i.imgur.com/rI1wo2l.png",
             "group": "Music",
-            "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+            "url": "https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8",
             "headers": {}
         },
         {
@@ -2136,11 +2136,11 @@
             "headers": {}
         },
         {
-            "name": "La Kalle (720p)",
+            "name": "La Kalle (1080p)",
             "tvg_id": "LaKalle.co@SD",
             "logo": "https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",
             "group": "Music",
-            "url": "https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8",
+            "url": "http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8",
             "headers": {}
         },
         {

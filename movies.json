@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 790,
-    "last_update": "2026-10-08 07:39:52 AM",
+    "channels_amount": 791,
+    "last_update": "2026-10-08 02:39:59 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -517,14 +517,6 @@
             "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
             "group": "Movies",
             "url": "https://cdn.stmify.com/zapitv/stream/AXN_MOVIES/axn_white.mpd",
-            "headers": {}
-        },
-        {
-            "name": "AXN Poland",
-            "tvg_id": "AXNPoland.pl@SD",
-            "logo": "https://i.imgur.com/i5wOhkf.png",
-            "group": "Movies",
-            "url": "https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8",
             "headers": {}
         },
         {
@@ -1232,6 +1224,14 @@
             "headers": {}
         },
         {
+            "name": "Cinemax West (720p)",
+            "tvg_id": "Cinemax.us@West",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+            "group": "Movies",
+            "url": "http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Cinemax Classics (1080p)",
             "tvg_id": "CinemaxClassics.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png",
@@ -1245,6 +1245,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png",
             "group": "Movies",
             "url": "http://23.237.104.106:8080/USA_MOREMAX/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cinemax Latin America HD (1080p)",
+            "tvg_id": "CinemaxLatinAmerica.us@HD",
+            "logo": "https://i.imgur.com/cZWoJWD.png",
+            "group": "Movies",
+            "url": "http://38.65.175.84:8000/play/a093/index.m3u8",
             "headers": {}
         },
         {
