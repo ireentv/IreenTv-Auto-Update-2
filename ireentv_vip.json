@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 921,
-    "last_update": "2026-10-09 07:53:17 AM",
+    "channels_amount": 926,
+    "last_update": "2026-10-09 02:45:07 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1165,14 +1165,6 @@
             "logo": "https://m1pfxzepyyyj.merlincdn.net/content/J/kE/169575/logo_50.png",
             "group": "Religious",
             "url": "https://ireentv.pages.dev/Peace_TV_Urdu.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "DESH BANGLA🇧🇩",
-            "tvg_id": "Combined_M3U_161_aHR0cHM6",
-            "logo": "",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/DESH_BANGLA.m3u8",
             "headers": {}
         },
         {
@@ -3808,6 +3800,14 @@
             "headers": {}
         },
         {
+            "name": "Ananda TV [Backup 2]",
+            "tvg_id": "Example_M3U_1_2_aHR0cDov",
+            "logo": "https://i.imgur.com/jkbo7Qe.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/Ananda_TV_Backup_2.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Ananda TV [Backup 3]",
             "tvg_id": "Example_M3U_1_3_aHR0cDov",
             "logo": "https://i.imgur.com/jkbo7Qe.png",
@@ -3861,6 +3861,22 @@
             "logo": "https://i.imgur.com/Faetm0C.png",
             "group": "Bangladesh",
             "url": "https://ireentv.pages.dev/Bijoy_TV_Backup_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BTV National Server 3",
+            "tvg_id": "Example_M3U_1_32_aHR0cHM6",
+            "logo": "https://i.imgur.com/5OE2FDt.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/BTV_National_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BTV News",
+            "tvg_id": "Example_M3U_1_33_aHR0cHM6",
+            "logo": "https://i.postimg.cc/28VMF8hx/btv-news.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/BTV_News.m3u8",
             "headers": {}
         },
         {
@@ -4008,6 +4024,14 @@
             "headers": {}
         },
         {
+            "name": "Gazi TV Server 4",
+            "tvg_id": "Example_M3U_1_83_aHR0cHM6",
+            "logo": "https://i.imgur.com/2Lzhiq6.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/Gazi_TV_Server_4.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Global TV Server 5",
             "tvg_id": "Example_M3U_1_86_aHR0cDov",
             "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png",
@@ -4032,6 +4056,14 @@
             "headers": {}
         },
         {
+            "name": "Green TV [Backup 2]",
+            "tvg_id": "Example_M3U_1_93_aHR0cDov",
+            "logo": "https://i.postimg.cc/ry4QcVbh/20240822-231240.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/Green_TV_Backup_2.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Independent TV [Backup 1]",
             "tvg_id": "Example_M3U_1_96_aHR0cHM6",
             "logo": "https://i.imgur.com/POXFhGN.png",
@@ -4053,14 +4085,6 @@
             "logo": "https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",
             "group": "Bangladesh",
             "url": "https://ireentv.pages.dev/Movie_Bangla_Backup_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "My TV Server 4",
-            "tvg_id": "Example_M3U_1_118_aHR0cHM6",
-            "logo": "https://i.imgur.com/475qK5T.png",
-            "group": "Bangladesh",
-            "url": "https://ireentv.pages.dev/My_TV_Server_4.m3u8",
             "headers": {}
         },
         {
@@ -4488,11 +4512,11 @@
             "headers": {}
         },
         {
-            "name": "Sun Bangla Server 4",
-            "tvg_id": "Example_M3U_1_210_aHR0cDov",
-            "logo": "https://i.postimg.cc/y88mJsQC/20240823_020415.png",
+            "name": "ZB Cinema",
+            "tvg_id": "Example_M3U_1_212_aHR0cHM6",
+            "logo": "https://i.imgur.com/kUg6WSk.jpeg",
             "group": "Indian Bangla",
-            "url": "https://ireentv.pages.dev/Sun_Bangla_Server_4.m3u8",
+            "url": "https://ireentv.pages.dev/ZB_Cinema.m3u8",
             "headers": {}
         },
         {
@@ -5225,10 +5249,18 @@
         },
         {
             "name": "Sony Entertainment TV Server 2",
-            "tvg_id": "Example_M3U_1_365_aHR0cDov",
+            "tvg_id": "Example_M3U_1_364_aHR0cHM6",
             "logo": "",
             "group": "General",
             "url": "https://ireentv.pages.dev/Sony_Entertainment_TV_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Sony Entertainment TV Server 3",
+            "tvg_id": "Example_M3U_1_365_aHR0cDov",
+            "logo": "",
+            "group": "General",
+            "url": "https://ireentv.pages.dev/Sony_Entertainment_TV_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -6240,22 +6272,6 @@
             "headers": {}
         },
         {
-            "name": "TLC [Backup 1]",
-            "tvg_id": "Example_M3U_1_528_aHR0cDov",
-            "logo": "https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540",
-            "group": "Documentary & Wildlife",
-            "url": "https://ireentv.pages.dev/TLC_Backup_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "TLC [Backup 2]",
-            "tvg_id": "Example_M3U_1_529_aHR0cDov",
-            "logo": "https://dtil.tmsimg.com/assets/s123500_ld_h15_aa.png?lock=720x540",
-            "group": "Documentary & Wildlife",
-            "url": "https://ireentv.pages.dev/TLC_Backup_2.m3u8",
-            "headers": {}
-        },
-        {
             "name": "TRAVEL XP",
             "tvg_id": "Example_M3U_1_530_aHR0cDov",
             "logo": "https://dtil.tmsimg.com/assets/s144014_ld_h15_aa.png?lock=720x540",
@@ -6568,6 +6584,14 @@
             "headers": {}
         },
         {
+            "name": "Al Sunnah TV",
+            "tvg_id": "Example_M3U_1_588_aHR0cDov",
+            "logo": "https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg",
+            "group": "Religious",
+            "url": "https://ireentv.pages.dev/Al_Sunnah_TV.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Al-Zahra TV Turkic",
             "tvg_id": "Example_M3U_1_589_aHR0cHM6",
             "logo": "https://i.imgur.com/QEHKGnG.png",
@@ -6728,6 +6752,14 @@
             "headers": {}
         },
         {
+            "name": "Quran [Backup 2]",
+            "tvg_id": "Example_M3U_1_616_aHR0cDov",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_17ed47c6328295747a22ccdc939f9f0c_playmist_quran_400x400.jpg",
+            "group": "Religious",
+            "url": "https://ireentv.pages.dev/Quran_Backup_2.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Quran Live",
             "tvg_id": "Example_M3U_1_617_aHR0cHM6",
             "logo": "https://ui-avatars.com/api/?name=Quran%20Live&background=17324d&color=ffffff&size=256&length=3&format=png",
@@ -6749,6 +6781,14 @@
             "logo": "https://i.imgur.com/79g2kMA.png",
             "group": "Religious",
             "url": "https://ireentv.pages.dev/Sky_Life_Bd_Al_Quran.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Sunnah",
+            "tvg_id": "Example_M3U_1_622_aHR0cDov",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png",
+            "group": "Religious",
+            "url": "https://ireentv.pages.dev/Sunnah.m3u8",
             "headers": {}
         },
         {

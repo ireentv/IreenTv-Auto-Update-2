@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 412,
-    "last_update": "2026-10-09 07:53:17 AM",
+    "channels_amount": 417,
+    "last_update": "2026-10-09 02:45:07 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -416,6 +416,14 @@
             "headers": {}
         },
         {
+            "name": "Cartoon Network Latin America Brazil (720p) [Geo-blocked]",
+            "tvg_id": "CartoonNetworkLatinAmerica.us@Brazil",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+            "group": "Animation;Kids",
+            "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Cartoon Network Latin America North Atlantic (1080p)",
             "tvg_id": "CartoonNetworkLatinAmerica.us@NorthAtlantic",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
@@ -429,6 +437,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
             "url": "http://158.172.217.18:8000/play/a03a/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cartoon Network Latin America South Pacific (576p)",
+            "tvg_id": "CartoonNetworkLatinAmerica.us@SouthPacific",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+            "group": "Animation;Kids",
+            "url": "http://45.167.1.138:8000/play/a00w",
             "headers": {}
         },
         {
@@ -605,6 +621,22 @@
             "logo": "https://i.imgur.com/GnZicVH.png",
             "group": "Kids;Religious",
             "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Discovery Kids Latin America Brazil (720p) [Geo-blocked]",
+            "tvg_id": "DiscoveryKidsLatinAmerica.us@Brazil",
+            "logo": "",
+            "group": "Kids",
+            "url": "http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Discovery Kids Latin America Colombia (1080p)",
+            "tvg_id": "DiscoveryKidsLatinAmerica.us@Colombia",
+            "logo": "",
+            "group": "Kids",
+            "url": "http://38.134.250.110:8000/play/a003/index.m3u8",
             "headers": {}
         },
         {
@@ -1480,11 +1512,11 @@
             "headers": {}
         },
         {
-            "name": "MBC 3 USA (1080p)",
+            "name": "MBC 3 USA (1080p) [Geo-blocked]",
             "tvg_id": "MBC3USA.us@SD",
             "logo": "https://i.imgur.com/PVt8OPN.png",
             "group": "Kids",
-            "url": "https://sh.cdn1-stmify.workers.dev/out/v1/MBC_3_USA/index.m3u8",
+            "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8",
             "headers": {}
         },
         {
@@ -1853,6 +1885,14 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
             "group": "Kids",
             "url": "http://103.185.24.134:3001/NICK/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Nickelodeon (Italy)",
+            "tvg_id": "Nickelodeon.it@SD",
+            "logo": "https://i.imgur.com/E84jnP8.png",
+            "group": "Kids",
+            "url": "https://zg9mhld.s.gy/HD-NICK-IT.ts",
             "headers": {}
         },
         {
@@ -2524,7 +2564,7 @@
             "tvg_id": "PooyaTV.ir@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
             "group": "Kids",
-            "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
+            "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8",
             "headers": {}
         },
         {

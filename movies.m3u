@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 791
-# Last Updated    : 2026-10-09 07:53:17 AM
+# Total Channels  : 790
+# Last Updated    : 2026-10-09 02:45:07 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -310,8 +310,6 @@ http://206.135.11.174:8010/play/a0lq/index.m3u8
 https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 #EXTINF:-1 tvg-name="Cinema (Russia) (576p)" tvg-logo="https://i.imgur.com/b5e9qUA.png" group-title="Movies" ,Cinema (Russia) (576p)
 http://flussonic.linkintel.ru/cinema/index.m3u8
-#EXTINF:-1 tvg-name="CineMaraton (576i)" tvg-logo="https://i.imgur.com/BY8UZa0.png" group-title="Movies" ,CineMaraton (576i)
-https://dokagents.site/live/cinemaraton/mono.m3u8
 #EXTINF:-1 tvg-name="Cinemaraton Plus (1080i)" tvg-logo="https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png" group-title="Movies" ,Cinemaraton Plus (1080i)
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld (720p)" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies" ,CinemaWorld (720p)
@@ -448,8 +446,6 @@ http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 http://88.212.15.19/live/film_cafe/index.m3u8
 #EXTINF:-1 tvg-name="Film Cafe Romania" tvg-logo="https://i.imgur.com/jaKRnzU.png" group-title="Movies" ,Film Cafe Romania
 https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
-#EXTINF:-1 tvg-name="Film Mania (576p)" tvg-logo="https://i.imgur.com/crhsomk.png" group-title="Movies" ,Film Mania (576p)
-https://dokagents.site/live/filmmania/mono.m3u8
 #EXTINF:-1 tvg-name="Film Now" tvg-logo="https://i.imgur.com/sSoRvGz.png" group-title="Movies" ,Film Now
 https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
 #EXTINF:-1 tvg-name="Film Now HD (1080i)" tvg-logo="https://i.imgur.com/sSoRvGz.png" group-title="Movies" ,Film Now HD (1080i)
@@ -1572,6 +1568,8 @@ http://stream.mcquack.net/200/index.m3u8
 http://stream.mcquack.net/202/index.m3u8
 #EXTINF:-1 tvg-name="Vinh Long TV 3 (720p)" tvg-logo="https://i.imgur.com/OQXEhqu.png" group-title="Entertainment;Movies" ,Vinh Long TV 3 (720p)
 https://dethich.pw/thvl3/index.m3u8
+#EXTINF:-1 tvg-name="Warner Channel Colombia (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png" group-title="Movies" ,Warner Channel Colombia (1080p)
+http://38.134.250.110:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-name="Watch it Scream! (720p)" tvg-logo="https://i.imgur.com/bz3Caum.png" group-title="Movies" ,Watch it Scream! (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2246
 #EXTINF:-1 tvg-name="Whiplash Cinema (480p)" tvg-logo="https://whiplash.cc/assets/img/channels/whiplashcinema.png" group-title="Movies" ,Whiplash Cinema (480p)

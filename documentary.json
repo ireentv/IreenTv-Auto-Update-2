@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 259,
-    "last_update": "2026-10-09 07:53:17 AM",
+    "channels_amount": 263,
+    "last_update": "2026-10-09 02:45:07 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -61,6 +61,38 @@
             "logo": "https://tv.alterna.ar/alternatv.png",
             "group": "Culture;Documentary;Entertainment;General;Movies;Music",
             "url": "https://tv.alterna.ar/stream/hls/live.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "American Heroes Channel (720p)",
+            "tvg_id": "AmericanHeroesChannel.us@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png",
+            "group": "Documentary",
+            "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Animal Planet (720p)",
+            "tvg_id": "AnimalPlanet.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+            "group": "Documentary",
+            "url": "http://23.239.31.26:8989/animalplanet/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Animal Planet East HD (720p)",
+            "tvg_id": "AnimalPlanet.us@EastHD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+            "group": "Documentary",
+            "url": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Animal Planet Latin America HD (720p) [Geo-blocked]",
+            "tvg_id": "AnimalPlanetLatinAmerica.us@HD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+            "group": "Documentary",
+            "url": "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8",
             "headers": {}
         },
         {
@@ -466,7 +498,7 @@
         {
             "name": "Epic Crimes (1080p)",
             "tvg_id": "EpicCrimes.in@SD",
-            "logo": "https://i.imgur.com/EFDsCkH.png",
+            "logo": "https://i.imgur.com/a5kaqDc.png",
             "group": "Documentary",
             "url": "https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8",
             "headers": {}
@@ -616,14 +648,6 @@
             "headers": {}
         },
         {
-            "name": "History (Romania)",
-            "tvg_id": "History.ro@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
-            "group": "Documentary",
-            "url": "https://dokagents.site/live/history/mono.m3u8",
-            "headers": {}
-        },
-        {
             "name": "History (Slovenia) (1080p)",
             "tvg_id": "History.si@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
@@ -741,6 +765,14 @@
             "logo": "https://i.imgur.com/43at4M2.png",
             "group": "Documentary",
             "url": "https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Investigation Discovery (1080p) [Geo-blocked]",
+            "tvg_id": "InvestigationDiscovery.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+            "group": "Documentary",
+            "url": "http://212.5.144.156:8080/id/index.m3u8",
             "headers": {}
         },
         {
@@ -1860,7 +1892,7 @@
             "tvg_id": "TV8.md@SD",
             "logo": "https://i.imgur.com/Rsn4oUh.png",
             "group": "Documentary;News",
-            "url": "http://178.76.68.60:7441/7/mpegts",
+            "url": "http://178.76.68.60:7442/7/mpegts",
             "headers": {}
         },
         {

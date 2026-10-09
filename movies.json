@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 791,
-    "last_update": "2026-10-09 07:53:17 AM",
+    "channels_amount": 790,
+    "last_update": "2026-10-09 02:45:07 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1200,14 +1200,6 @@
             "headers": {}
         },
         {
-            "name": "CineMaraton (576i)",
-            "tvg_id": "CineMaraton.ro@SD",
-            "logo": "https://i.imgur.com/BY8UZa0.png",
-            "group": "Movies",
-            "url": "https://dokagents.site/live/cinemaraton/mono.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Cinemaraton Plus (1080i)",
             "tvg_id": "CinemaratonPlus.ro@HD",
             "logo": "https://assets.antenaplay.ro/2026/03/10/RMNdkVBCTNfsogsYqHaB.png",
@@ -1749,14 +1741,6 @@
             "logo": "https://i.imgur.com/jaKRnzU.png",
             "group": "Movies",
             "url": "https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Film Mania (576p)",
-            "tvg_id": "FilmMania.hu@SD",
-            "logo": "https://i.imgur.com/crhsomk.png",
-            "group": "Movies",
-            "url": "https://dokagents.site/live/filmmania/mono.m3u8",
             "headers": {}
         },
         {
@@ -6213,6 +6197,14 @@
             "logo": "https://i.imgur.com/OQXEhqu.png",
             "group": "Entertainment;Movies",
             "url": "https://dethich.pw/thvl3/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Warner Channel Colombia (1080p)",
+            "tvg_id": "WarnerChannel.us@Colombia",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
+            "group": "Movies",
+            "url": "http://38.134.250.110:8000/play/a029/index.m3u8",
             "headers": {}
         },
         {
