@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 417,
-    "last_update": "2026-10-10 06:38:20 AM",
+    "channels_amount": 419,
+    "last_update": "2026-10-10 12:51:56 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -621,6 +621,14 @@
             "logo": "https://i.imgur.com/GnZicVH.png",
             "group": "Kids;Religious",
             "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Discovery Kids Latin America (1080p)",
+            "tvg_id": "DiscoveryKidsLatinAmerica.us@Panregional",
+            "logo": "",
+            "group": "Kids",
+            "url": "http://181.224.200.5:2277/play/a00o/index.m3u8",
             "headers": {}
         },
         {
@@ -1384,7 +1392,7 @@
             "headers": {}
         },
         {
-            "name": "KidZone Max (1080p) [Geo-blocked]",
+            "name": "KidZone Max SD (1080p) [Geo-blocked]",
             "tvg_id": "KidZoneMax.ee@SD",
             "logo": "https://i.imgur.com/qJSvxE2.png",
             "group": "Kids",
@@ -1864,6 +1872,14 @@
             "headers": {}
         },
         {
+            "name": "Nickelodeon (France) (504p)",
+            "tvg_id": "Nickelodeon.fr@SD",
+            "logo": "https://i.imgur.com/E84jnP8.png",
+            "group": "Kids",
+            "url": "http://151.80.18.177:86/Nickelodeon_FR/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Nickelodeon (Germany)",
             "tvg_id": "Nickelodeon.de@SD",
             "logo": "https://i.imgur.com/E84jnP8.png",
@@ -2204,7 +2220,7 @@
             "tvg_id": "Pakapaka.ar@SD",
             "logo": "https://i.imgur.com/GJbRWwH.png",
             "group": "Kids",
-            "url": "http://190.128.214.97:64333/play/a02r/index.m3u8",
+            "url": "http://138.59.227.20:8000/play/a05t/index.m3u8",
             "headers": {}
         },
         {
@@ -2672,27 +2688,11 @@
             "headers": {}
         },
         {
-            "name": "S KPop! (480p)",
-            "tvg_id": "SKPop.us@HD",
-            "logo": "https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png",
-            "group": "Kids;Music",
-            "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
-            "headers": {}
-        },
-        {
             "name": "S Play Event (1080p)",
             "tvg_id": "SPlayEvent.us@HD",
             "logo": "https://i.postimg.cc/5y6t70Mz/In-Shot-20260908-113231556.png",
             "group": "Kids",
             "url": "https://vodcdn.bamboo-cloud.com/livehls/6a9f929f0630443af52c7162/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "S Tom Sings (1080p)",
-            "tvg_id": "STomSings.us@HD",
-            "logo": "https://i.postimg.cc/5tfB3Ktv/In-Shot-20260818-133542271.png",
-            "group": "Kids",
-            "url": "https://vodcdn.bamboo-cloud.com/livehls/6a8408ae0630440c2f39aec3/master.m3u8",
             "headers": {}
         },
         {
@@ -2944,11 +2944,19 @@
             "headers": {}
         },
         {
-            "name": "TeenNick (406p)",
+            "name": "TeenNick (Israel) (406p)",
             "tvg_id": "TeenNick.il@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
             "group": "Kids",
             "url": "http://89.33.29.115:8080/TeenNick/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "TeenNick (United States) (432p)",
+            "tvg_id": "TeenNick.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png",
+            "group": "Kids",
+            "url": "http://tvsen7.aynascope.net/teennick/index.m3u8",
             "headers": {}
         },
         {
@@ -3117,6 +3125,14 @@
             "logo": "https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png",
             "group": "Kids",
             "url": "https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "TraLaLa DSN",
+            "tvg_id": "TraLaLaDSN.ro@SD",
+            "logo": "https://tralaladsn.ro/assets/identity/logo.svg",
+            "group": "Kids",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0",
             "headers": {}
         },
         {

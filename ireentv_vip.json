@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 929,
-    "last_update": "2026-10-10 06:38:20 AM",
+    "channels_amount": 928,
+    "last_update": "2026-10-10 12:51:56 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -3896,6 +3896,22 @@
             "headers": {}
         },
         {
+            "name": "BTV National Server 3",
+            "tvg_id": "Example_M3U_1_32_aHR0cHM6",
+            "logo": "https://i.imgur.com/5OE2FDt.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/BTV_National_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BTV News",
+            "tvg_id": "Example_M3U_1_33_aHR0cHM6",
+            "logo": "https://i.postimg.cc/28VMF8hx/btv-news.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/BTV_News.m3u8",
+            "headers": {}
+        },
+        {
             "name": "BTV News [Backup 1]",
             "tvg_id": "Example_M3U_1_34_aHR0cDov",
             "logo": "https://i.postimg.cc/28VMF8hx/btv-news.png",
@@ -4021,14 +4037,6 @@
             "logo": "https://i.postimg.cc/rsDjtcFp/20240822_225424.png",
             "group": "Bangladesh",
             "url": "https://ireentv.pages.dev/Ekushey_TV_Backup_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Ekushey TV [Backup 5]",
-            "tvg_id": "Example_M3U_1_79_aHR0cHM6",
-            "logo": "https://i.postimg.cc/rsDjtcFp/20240822_225424.png",
-            "group": "Bangladesh",
-            "url": "https://ireentv.pages.dev/Ekushey_TV_Backup_5.m3u8",
             "headers": {}
         },
         {
@@ -4568,14 +4576,6 @@
             "headers": {}
         },
         {
-            "name": "Zee Bangla Cinema",
-            "tvg_id": "Example_M3U_1_217_aHR0cHM6",
-            "logo": "https://i.postimg.cc/dtBRtL99/20240822_231732.png",
-            "group": "Indian Bangla",
-            "url": "https://ireentv.pages.dev/Zee_Bangla_Cinema.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Zee Bangla Cinema [Backup 1]",
             "tvg_id": "Example_M3U_1_218_aHR0cHM6",
             "logo": "https://i.postimg.cc/dtBRtL99/20240822_231732.png",
@@ -4797,14 +4797,6 @@
             "logo": "https://i.postimg.cc/hP59QSrm/20240825_075205.png",
             "group": "Indian Movies",
             "url": "https://ireentv.pages.dev/Sony_Max_2_Backup_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sony Max 2 [US]",
-            "tvg_id": "Example_M3U_1_259_aHR0cDov",
-            "logo": "https://i.postimg.cc/hP59QSrm/20240825_075205.png",
-            "group": "Indian Movies",
-            "url": "https://ireentv.pages.dev/Sony_Max_2_US.m3u8",
             "headers": {}
         },
         {

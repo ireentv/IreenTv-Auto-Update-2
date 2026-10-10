@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 771,
-    "last_update": "2026-10-10 06:38:20 AM",
+    "channels_amount": 774,
+    "last_update": "2026-10-10 12:51:56 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -96,7 +96,7 @@
             "headers": {}
         },
         {
-            "name": "8XM HD",
+            "name": "8XM",
             "tvg_id": "8XM.pk@HD",
             "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
             "group": "Music",
@@ -1392,6 +1392,14 @@
             "headers": {}
         },
         {
+            "name": "Favorit TV2",
+            "tvg_id": "FavoritTV2.ro@SD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/Favorit_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611201305",
+            "group": "Music",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0",
+            "headers": {}
+        },
+        {
             "name": "Fiesta TV",
             "tvg_id": "FiestaTV.co@SD",
             "logo": "https://i.imgur.com/42wImV2.png",
@@ -1736,6 +1744,22 @@
             "headers": {}
         },
         {
+            "name": "HMTV (Nigeria) (720p)",
+            "tvg_id": "HMTV.ng@SD",
+            "logo": "https://watchhmtv.com/hmtv_logo.svg",
+            "group": "Music",
+            "url": "https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "HTV (720p)",
+            "tvg_id": "HTV.us@SD",
+            "logo": "https://i.imgur.com/NlKFNHS.png",
+            "group": "Music",
+            "url": "http://45.171.64.30:6060/play/a012/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Hype Visual Radio (1080p)",
             "tvg_id": "HypeVisualRadio.nl@SD",
             "logo": "https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png",
@@ -1885,14 +1909,6 @@
             "logo": "https://i.imgur.com/HWb5Iat.png",
             "group": "Music",
             "url": "http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8",
-            "headers": {}
-        },
-        {
-            "name": "Jawhara TV (720p) [Not 24/7]",
-            "tvg_id": "JawharaTV.tn@SD",
-            "logo": "https://i.imgur.com/mRSQ5bP.png",
-            "group": "Music",
-            "url": "https://streaming.toutech.net/live/jtv/index.m3u8",
             "headers": {}
         },
         {
@@ -2936,7 +2952,7 @@
             "headers": {}
         },
         {
-            "name": "Music Channel",
+            "name": "Music Channel SD",
             "tvg_id": "MusicChannel.ro@SD",
             "logo": "https://i.imgur.com/nadVCxM.png",
             "group": "Music",
@@ -3450,7 +3466,7 @@
         {
             "name": "Party Mix HD (1080p)",
             "tvg_id": "PartyMix.ro@HD",
-            "logo": "https://i.imgur.com/leF8AGo.png",
+            "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lCn4ThcMw7giX9jeLHURb1oqoNIYN3YlObhwLkrsSNfg=w226-c-h226-k-c0x00ffffff-no-l90-rj",
             "group": "Music",
             "url": "https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8",
             "headers": {}
@@ -4477,14 +4493,6 @@
             "logo": "https://i.imgur.com/ZkJ3Rh9.png",
             "group": "Music",
             "url": "http://stream.mcquack.net/319/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "S KPop! (480p)",
-            "tvg_id": "SKPop.us@HD",
-            "logo": "https://i.postimg.cc/521WRm5k/In-Shot-20260918-070004312.png",
-            "group": "Kids;Music",
-            "url": "https://vodcdn.bamboo-cloud.com/livehls/6aac8803063044569e156563/master.m3u8",
             "headers": {}
         },
         {
@@ -6106,9 +6114,17 @@
         {
             "name": "YRF Music (1080p)",
             "tvg_id": "YRFMusic.in@SD",
-            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",
+            "logo": "https://i.imgur.com/pKj3F4M.png",
             "group": "Music",
             "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "YRF Music Nepal",
+            "tvg_id": "YRFMusic.in@Nepal",
+            "logo": "https://i.imgur.com/mxx05Z9.png",
+            "group": "Music",
+            "url": "https://vidaa.kableone.com/hls/live/2111218/YrfMusic/1.m3u8",
             "headers": {}
         },
         {
@@ -6165,6 +6181,14 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
             "group": "Music",
             "url": "https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zoom (India) Nepal (720p)",
+            "tvg_id": "Zoom.in@Nepal",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png",
+            "group": "Music",
+            "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
             "headers": {}
         },
         {

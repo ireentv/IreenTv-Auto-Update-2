@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 910,
-    "last_update": "2026-10-10 06:38:20 AM",
+    "channels_amount": 916,
+    "last_update": "2026-10-10 12:51:56 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -61,6 +61,14 @@
             "logo": "https://i.imgur.com/4EHL2mH.png",
             "group": "Entertainment",
             "url": "https://mmtvs.exliatycl.online/5plus/stream.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "5USA (360p)",
+            "tvg_id": "5USA.uk@SD",
+            "logo": "https://i.imgur.com/Pi7so2l.png",
+            "group": "Entertainment",
+            "url": "https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8",
             "headers": {}
         },
         {
@@ -192,14 +200,6 @@
             "headers": {}
         },
         {
-            "name": "¡OPA! (720p)",
-            "tvg_id": "OPA.cr@SD",
-            "logo": "https://i.imgur.com/300c1ZH.png",
-            "group": "Entertainment",
-            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": ".black (576p)",
             "tvg_id": "black.ru@SD",
             "logo": "https://i.imgur.com/Q4A6ci4.png",
@@ -221,6 +221,14 @@
             "logo": "https://i.imgur.com/GET9Qut.png",
             "group": "Entertainment",
             "url": "http://178.134.1.158:8081/red/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "¡OPA! (720p)",
+            "tvg_id": "OPA.cr@SD",
+            "logo": "https://i.imgur.com/300c1ZH.png",
+            "group": "Entertainment",
+            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
             "headers": {}
         },
         {
@@ -341,6 +349,14 @@
             "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Acasa_Gold_2022.svg/revision/latest/scale-to-width-down/512",
             "group": "Entertainment",
             "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-progold/live_fullhd?offsetSeconds=0",
+            "headers": {}
+        },
+        {
+            "name": "Acces Direct (576p)",
+            "tvg_id": "AccesDirect.ro@SD",
+            "logo": "https://assets.antenaplay.ro/2026/05/07/BBOXtLtkSKfKAK5pSBag.png",
+            "group": "Entertainment",
+            "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch6/stream.m3u8",
             "headers": {}
         },
         {
@@ -1888,6 +1904,14 @@
             "headers": {}
         },
         {
+            "name": "Discovery World (1080p)",
+            "tvg_id": "DiscoveryWorld.us@LatinAmerica",
+            "logo": "https://i.imgur.com/yNFmUkE.png",
+            "group": "Entertainment",
+            "url": "http://168.196.127.137:6001/play/a097/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Discovery World Brazil (720p) [Geo-blocked]",
             "tvg_id": "DiscoveryWorld.us@Brazil",
             "logo": "https://i.imgur.com/yNFmUkE.png",
@@ -1909,6 +1933,14 @@
             "logo": "https://www.mongolsat.mn/assets/img/channel/701.png",
             "group": "Entertainment",
             "url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "E4 (360p)",
+            "tvg_id": "E4.uk@SD",
+            "logo": "https://i.imgur.com/22MfjF4.png",
+            "group": "Entertainment",
+            "url": "https://lb.iptvnetwork.net/ls28/10113/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2960,6 +2992,14 @@
             "headers": {}
         },
         {
+            "name": "ITV3 (360p)",
+            "tvg_id": "ITV3.uk@SD",
+            "logo": "https://i.imgur.com/JuyM2z5.png",
+            "group": "Entertainment",
+            "url": "https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "ITV Deportes (720p)",
             "tvg_id": "ITVDeportes.mx@SD",
             "logo": "https://iili.io/J1kV1Bn.png",
@@ -3909,6 +3949,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png",
             "group": "Entertainment",
             "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "More4 (360p)",
+            "tvg_id": "More4.uk@SD",
+            "logo": "https://i.imgur.com/cx5YcAU.png",
+            "group": "Entertainment",
+            "url": "https://lb.iptvnetwork.net/ls28/10114/playlist.m3u8",
             "headers": {}
         },
         {

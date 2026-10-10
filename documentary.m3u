@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 263
-# Last Updated    : 2026-10-10 06:38:20 AM
+# Total Channels  : 264
+# Last Updated    : 2026-10-10 12:51:56 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -28,6 +28,8 @@ http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet East HD (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentary" ,Animal Planet East HD (720p)
 http://193.254.245.162/ANIMAL-PLANET/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet Latin America (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentary" ,Animal Planet Latin America (1080p)
+http://190.128.214.97:64333/play/a01n/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet Latin America HD (720p) [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" group-title="Documentary" ,Animal Planet Latin America HD (720p) [Geo-blocked]
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-name="Archivos Forenses" tvg-logo="https://i.imgur.com/Pxrl9Ug.png" group-title="Documentary" ,Archivos Forenses

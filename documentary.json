@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 263,
-    "last_update": "2026-10-10 06:38:20 AM",
+    "channels_amount": 264,
+    "last_update": "2026-10-10 12:51:56 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -85,6 +85,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
             "group": "Documentary",
             "url": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Animal Planet Latin America (1080p)",
+            "tvg_id": "AnimalPlanetLatinAmerica.us@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+            "group": "Documentary",
+            "url": "http://190.128.214.97:64333/play/a01n/index.m3u8",
             "headers": {}
         },
         {
