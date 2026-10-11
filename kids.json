@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 419,
-    "last_update": "2026-10-11 07:44:10 AM",
+    "channels_amount": 416,
+    "last_update": "2026-10-11 02:33:58 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -416,6 +416,14 @@
             "headers": {}
         },
         {
+            "name": "Cartoon Network Asia (720p)",
+            "tvg_id": "CartoonNetworkAsia.sg@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+            "group": "Animation;Kids",
+            "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Cartoon Network Latin America Brazil (720p) [Geo-blocked]",
             "tvg_id": "CartoonNetworkLatinAmerica.us@Brazil",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
@@ -592,14 +600,6 @@
             "headers": {}
         },
         {
-            "name": "Detski mir (576p)",
-            "tvg_id": "Detskimir.ru@SD",
-            "logo": "https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/51.png",
-            "group": "Kids",
-            "url": "http://str2.iptvhd.ru:8080/Teleklub/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Detskiy (576p)",
             "tvg_id": "Detskiy.ru@SD",
             "logo": "https://mt.media/upload/iblock/c22/pndw8yi2jwgppdrjikm3eusqp8087kr3.png",
@@ -685,14 +685,6 @@
             "logo": "https://i.imgur.com/aOa73uT.png",
             "group": "Kids",
             "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Disney Channel (India) (576p)",
-            "tvg_id": "DisneyChannel.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
-            "group": "Kids",
-            "url": "http://51.75.127.199:3141/disneychannel/index.m3u8",
             "headers": {}
         },
         {
@@ -860,7 +852,7 @@
             "tvg_id": "DisneyJunior.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png",
             "group": "Kids",
-            "url": "http://51.75.127.199:3141/disneyjunior/index.m3u8",
+            "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -1320,14 +1312,6 @@
             "headers": {}
         },
         {
-            "name": "Kapitan Fantastika HD (1080p)",
-            "tvg_id": "KapitanFantastika.ru@HD",
-            "logo": "https://i.imgur.com/K3PSHiT.png",
-            "group": "Kids",
-            "url": "http://str2.iptvhd.ru:8080/Ginger_HD/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Kartoon Channel! (1080p)",
             "tvg_id": "KartoonChannel.us@SD",
             "logo": "https://i.imgur.com/1luzP3T.png",
@@ -1701,14 +1685,6 @@
             "logo": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_vjhh0bly/version/100012/width/1920",
             "group": "Kids",
             "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Nick HD+ (1080p)",
-            "tvg_id": "NickHDPlus.in@HD",
-            "logo": "https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540",
-            "group": "Kids",
-            "url": "http://51.75.127.199:3141/nickhd/index.m3u8",
             "headers": {}
         },
         {
