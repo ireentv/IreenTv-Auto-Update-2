@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 768,
-    "last_update": "2026-10-12 06:21:52 AM",
+    "channels_amount": 772,
+    "last_update": "2026-10-12 01:08:55 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -197,6 +197,14 @@
             "logo": "https://i.imgur.com/KRakHAq.png",
             "group": "Music",
             "url": "http://stream.mcquack.net/285/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "+MaisUm (720p)",
+            "tvg_id": "PlusMaisUm.br@HD",
+            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "group": "Entertainment;General;Movies;Music",
+            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
             "headers": {}
         },
         {
@@ -2608,11 +2616,11 @@
             "headers": {}
         },
         {
-            "name": "Mezzo (1080p)",
+            "name": "Mezzo (576p)",
             "tvg_id": "Mezzo.fr@SD",
             "logo": "https://i.imgur.com/auNdGeW.png",
             "group": "Music",
-            "url": "http://str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8",
+            "url": "http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:",
             "headers": {}
         },
         {
@@ -4560,6 +4568,14 @@
             "headers": {}
         },
         {
+            "name": "Sin Limites (1080p)",
+            "tvg_id": "SinLimites.co@SD",
+            "logo": "https://i.imgur.com/wrFfgzC.png",
+            "group": "Music",
+            "url": "http://170.244.209.30:8000/play/a1im/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Sky Folk TV (720p) [Not 24/7]",
             "tvg_id": "SkyFolkTV.mk@SD",
             "logo": "https://i.imgur.com/ya5xpUL.png",
@@ -4776,11 +4792,11 @@
             "headers": {}
         },
         {
-            "name": "Stingray iConcerts HD (1080p)",
+            "name": "Stingray iConcerts HD",
             "tvg_id": "StingrayiConcerts.ca@HD",
             "logo": "https://i.imgur.com/GKc7RFz.png",
             "group": "Music",
-            "url": "http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8",
+            "url": "https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8",
             "headers": {}
         },
         {
@@ -4976,6 +4992,14 @@
             "headers": {}
         },
         {
+            "name": "Tarima TV (720p)",
+            "tvg_id": "TarimaTV.do@HD",
+            "logo": "https://vercanalesdominicanos.com/wp-content/uploads/2026/03/tarima.png",
+            "group": "Music",
+            "url": "http://190.122.104.210:5080/LiveApp/streams/tarima.m3u8",
+            "headers": {}
+        },
+        {
             "name": "TDI Radio TV",
             "tvg_id": "TDIRadioTV.rs@SD",
             "logo": "https://i.imgur.com/POdTmaD.png",
@@ -5133,6 +5157,14 @@
             "logo": "https://i.imgur.com/1iOAl2j.png",
             "group": "Music",
             "url": "http://hls.tmacaraibes.com/live/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "TMF (1080p)",
+            "tvg_id": "TMF.nl@HDFAST",
+            "logo": "https://www.maxx-xs.nl/images/assets/3/c/3c123778ef66464786705dc4138303ec/COV/cover_l_01.png",
+            "group": "Classic;Music",
+            "url": "https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8",
             "headers": {}
         },
         {

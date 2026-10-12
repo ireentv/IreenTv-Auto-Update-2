@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 261,
-    "last_update": "2026-10-12 06:21:52 AM",
+    "channels_amount": 264,
+    "last_update": "2026-10-12 01:08:55 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -448,11 +448,11 @@
             "headers": {}
         },
         {
-            "name": "DocuBox Russia (1080p)",
+            "name": "DocuBox Russia",
             "tvg_id": "DocuBox.nl@Russia",
             "logo": "https://i.imgur.com/pX4U9OG.png",
             "group": "Documentary",
-            "url": "http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8",
+            "url": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8",
             "headers": {}
         },
         {
@@ -656,6 +656,14 @@
             "headers": {}
         },
         {
+            "name": "History (Netherlands) (360p)",
+            "tvg_id": "History.nl@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+            "group": "Documentary",
+            "url": "https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "History (Slovenia) (1080p)",
             "tvg_id": "History.si@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
@@ -776,6 +784,14 @@
             "headers": {}
         },
         {
+            "name": "Investigation Discovery (Hungary)",
+            "tvg_id": "InvestigationDiscovery.hu@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+            "group": "Documentary",
+            "url": "http://88.212.15.17/live/id_hun/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Investigation Discovery (Russia) (1080p)",
             "tvg_id": "InvestigationDiscovery.ru@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
@@ -816,11 +832,11 @@
             "headers": {}
         },
         {
-            "name": "kabel eins Doku",
+            "name": "kabel eins Doku (720p)",
             "tvg_id": "kabeleinsDoku.de@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/960px-Kabel_eins_Doku_Logo_2016.svg.png",
             "group": "Documentary",
-            "url": "http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass",
+            "url": "https://s6.hopslan.com/dokuX/index.m3u8",
             "headers": {}
         },
         {
@@ -1005,6 +1021,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
             "url": "http://138.121.15.230:9002/NAT-GEO/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic (Netherlands) (360p)",
+            "tvg_id": "NationalGeographic.nl@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+            "group": "Documentary",
+            "url": "https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8",
             "headers": {}
         },
         {
