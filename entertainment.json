@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 902,
-    "last_update": "2026-10-13 06:25:27 AM",
+    "channels_amount": 903,
+    "last_update": "2026-10-13 01:33:05 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -381,6 +381,14 @@
             "logo": "https://i.imgur.com/KtXQeeZ.png",
             "group": "Entertainment",
             "url": "https://2-fss-1.streamhoster.com/pl_154/amlst:205432-2055980/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Adult Swim Latin America",
+            "tvg_id": "AdultSwimLatinAmerica.us@Panregional",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
+            "group": "Entertainment",
+            "url": "http://170.244.209.30:8000/play/a02v/index.m3u8",
             "headers": {}
         },
         {
@@ -1877,6 +1885,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
             "group": "Entertainment",
             "url": "https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Discovery Channel (Poland) (1080p)",
+            "tvg_id": "DiscoveryChannel.pl@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+            "group": "Entertainment",
+            "url": "http://57.128.231.171:8080/282/index.m3u8",
             "headers": {}
         },
         {
@@ -3968,11 +3984,11 @@
             "headers": {}
         },
         {
-            "name": "Movistar Plus (576p)",
+            "name": "Movistar Plus (1080p)",
             "tvg_id": "MovistarPlus.pe@SD",
             "logo": "https://i.imgur.com/yGQGDoi.png",
             "group": "Entertainment",
-            "url": "http://45.4.1.201:8000/play/a19y/index.m3u8",
+            "url": "http://200.62.239.170:830/play/a08z/index.m3u8",
             "headers": {}
         },
         {
@@ -4477,14 +4493,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg",
             "group": "Entertainment;Lifestyle",
             "url": "https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "NBC Universo West (720p)",
-            "tvg_id": "NBCUniverso.us@West",
-            "logo": "https://i.imgur.com/RZ8pIKe.png",
-            "group": "Entertainment",
-            "url": "http://190.11.225.124:5000/live/universo_hd/playlist.m3u8",
             "headers": {}
         },
         {

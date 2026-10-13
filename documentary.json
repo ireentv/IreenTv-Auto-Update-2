@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 264,
-    "last_update": "2026-10-13 06:25:27 AM",
+    "channels_amount": 265,
+    "last_update": "2026-10-13 01:33:05 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -85,14 +85,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
             "group": "Documentary",
             "url": "http://23.239.31.26:8989/animalplanet/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Animal Planet (United States) East HD (720p)",
-            "tvg_id": "AnimalPlanet.us@EastHD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
-            "group": "Documentary",
-            "url": "http://193.254.245.162/ANIMAL-PLANET/index.m3u8",
             "headers": {}
         },
         {
@@ -429,6 +421,14 @@
             "logo": "https://i.imgur.com/wr2bLaA.png",
             "group": "Culture;Documentary",
             "url": "https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Discovery Historia (576p)",
+            "tvg_id": "DiscoveryHistoria.pl@SD",
+            "logo": "https://i.imgur.com/CXqCG0G.png",
+            "group": "Documentary",
+            "url": "http://57.128.231.171:8080/281/index.m3u8",
             "headers": {}
         },
         {
@@ -829,6 +829,14 @@
             "logo": "https://i.imgur.com/eEjPail.png",
             "group": "Documentary",
             "url": "http://hls127.freeott.top:8080/Istoriya/video.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Italiana (1080p)",
+            "tvg_id": "Italiana.it@SD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626",
+            "group": "Documentary",
+            "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8",
             "headers": {}
         },
         {

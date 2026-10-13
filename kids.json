@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 419,
-    "last_update": "2026-10-13 06:25:27 AM",
+    "channels_amount": 421,
+    "last_update": "2026-10-13 01:33:05 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -428,7 +428,7 @@
             "tvg_id": "CartoonNetwork.it@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
-            "url": "https://zg9mhld.s.gy/HD-CARTOON-IT.ts",
+            "url": "https://bin.webhookrelay.com/v1/webhooks/c804ab58-63c4-427d-bd2e-4d774eb34073",
             "headers": {}
         },
         {
@@ -456,6 +456,14 @@
             "headers": {}
         },
         {
+            "name": "Cartoon Network CEE Poland (1080p)",
+            "tvg_id": "CartoonNetworkCEE.uk@Poland",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+            "group": "Animation;Kids",
+            "url": "http://57.128.231.171:8080/293/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Cartoon Network CEE Ukraine (576p)",
             "tvg_id": "CartoonNetworkCEE.uk@Ukraine",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
@@ -477,14 +485,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
             "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Cartoon Network Latin America Mexico",
-            "tvg_id": "CartoonNetworkLatinAmerica.us@Mexico",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
-            "group": "Animation;Kids",
-            "url": "https://zg9mhld.s.gy/HD-CARTOON-MX.ts",
             "headers": {}
         },
         {
@@ -517,6 +517,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png",
             "group": "Animation;Kids",
             "url": "http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cartoonito CEE Czechia",
+            "tvg_id": "CartoonitoCEE.uk@Czechia",
+            "logo": "https://i.imgur.com/9MrzLb1.png",
+            "group": "Kids",
+            "url": "http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8",
             "headers": {}
         },
         {
@@ -701,6 +709,14 @@
             "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
             "group": "Kids",
             "url": "http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Discovery Kids Latin America Chile (1080p)",
+            "tvg_id": "DiscoveryKidsLatinAmerica.us@Chile",
+            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png",
+            "group": "Kids",
+            "url": "http://38.224.231.176:8000/play/a01j/index.m3u8",
             "headers": {}
         },
         {
@@ -892,7 +908,7 @@
             "tvg_id": "DisneyJrLatinAmerica.ar@SouthHD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
             "group": "Animation;Kids",
-            "url": "http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8",
+            "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/disney_jr.stream/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1836,7 +1852,7 @@
             "tvg_id": "NickSchweiz.ch@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/NickSchweiz.png/960px-NickSchweiz.png",
             "group": "Kids",
-            "url": "https://zg9mhld.s.gy/CH-NICK-SCHWEIZ-HD.ts",
+            "url": "https://bin.webhookrelay.com/v1/webhooks/0351cd0b-b0d7-4836-8cc9-4d2280c7961c",
             "headers": {}
         },
         {
@@ -1901,14 +1917,6 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
             "group": "Kids",
             "url": "http://103.185.24.134:3001/NICK/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Nickelodeon (Italy)",
-            "tvg_id": "Nickelodeon.it@SD",
-            "logo": "https://i.imgur.com/E84jnP8.png",
-            "group": "Kids",
-            "url": "https://zg9mhld.s.gy/HD-NICK-IT.ts",
             "headers": {}
         },
         {
@@ -3037,6 +3045,14 @@
             "logo": "https://i.imgur.com/3yXRbQy.png",
             "group": "Animation;Kids",
             "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Tooncast SouthAmerica (1080p)",
+            "tvg_id": "Tooncast.us@SouthAmerica",
+            "logo": "https://i.imgur.com/3yXRbQy.png",
+            "group": "Animation;Kids",
+            "url": "http://200.62.239.170:830/play/a07n/index.m3u8",
             "headers": {}
         },
         {

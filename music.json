@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 772,
-    "last_update": "2026-10-13 06:25:27 AM",
+    "channels_amount": 773,
+    "last_update": "2026-10-13 01:33:05 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1229,6 +1229,14 @@
             "logo": "https://i.imgur.com/B5zssCz.png",
             "group": "Music",
             "url": "https://astra.emitv.ro/hls/emi/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "EMI TV HD (1080i)",
+            "tvg_id": "EMITV.ro@HD",
+            "logo": "https://i.imgur.com/B5zssCz.png",
+            "group": "Music",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0",
             "headers": {}
         },
         {

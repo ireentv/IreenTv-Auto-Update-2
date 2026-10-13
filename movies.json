@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 780,
-    "last_update": "2026-10-13 06:25:27 AM",
+    "channels_amount": 782,
+    "last_update": "2026-10-13 01:33:05 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -664,11 +664,11 @@
             "headers": {}
         },
         {
-            "name": "Bollywood Classic Romania",
+            "name": "Bollywood Classic Romania (576p)",
             "tvg_id": "BollywoodClassic.ro@Romania",
             "logo": "https://i.imgur.com/ugPo6ca.png",
             "group": "Classic;Movies",
-            "url": "https://flash1.bogulus1.cfd/boly/usergenr9j8s2t.m3u8",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-bollywood-classic/live_hq?offsetSeconds=0",
             "headers": {}
         },
         {
@@ -2288,11 +2288,11 @@
             "headers": {}
         },
         {
-            "name": "HBO 2 Latin America (576p)",
-            "tvg_id": "HBO2LatinAmerica.us@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png",
-            "group": "Movies;Series",
-            "url": "http://38.65.175.84:8000/play/a0ct/index.m3u8",
+            "name": "HBO 2",
+            "tvg_id": "HBO2.cz@SD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226",
+            "group": "Movies",
+            "url": "http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2304,7 +2304,23 @@
             "headers": {}
         },
         {
-            "name": "HBO (720p)",
+            "name": "HBO 3",
+            "tvg_id": "HBO3.cz@SD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202",
+            "group": "Movies",
+            "url": "http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "HBO (Czech Republic)",
+            "tvg_id": "HBO.cz@SD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924",
+            "group": "Movies",
+            "url": "http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "HBO (United States) (720p)",
             "tvg_id": "HBO.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png",
             "group": "Movies;Series",

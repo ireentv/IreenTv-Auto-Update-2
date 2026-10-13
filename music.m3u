@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 772
-# Last Updated    : 2026-10-13 06:25:27 AM
+# Total Channels  : 773
+# Last Updated    : 2026-10-13 01:33:05 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -314,6 +314,8 @@ https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 tvg-name="EMI TV" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="Music" ,EMI TV
 https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1 tvg-name="EMI TV HD (1080i)" tvg-logo="https://i.imgur.com/B5zssCz.png" group-title="Music" ,EMI TV HD (1080i)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0
 #EXTINF:-1 tvg-name="EnerGeek Radio (1080p)" tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" group-title="Music" ,EnerGeek Radio (1080p)
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-name="Epic Music (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png" group-title="Music" ,Epic Music (576p)
