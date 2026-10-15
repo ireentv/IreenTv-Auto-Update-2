@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 265,
-    "last_update": "2026-10-15 07:19:15 AM",
+    "channels_amount": 269,
+    "last_update": "2026-10-15 01:11:54 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -69,6 +69,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png",
             "group": "Documentary",
             "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Animal Planet (India) HD (720p)",
+            "tvg_id": "AnimalPlanet.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
+            "group": "Documentary",
+            "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
             "headers": {}
         },
         {
@@ -600,6 +608,14 @@
             "headers": {}
         },
         {
+            "name": "History 2 (1080p)",
+            "tvg_id": "History2.pl@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
+            "group": "Documentary",
+            "url": "http://57.128.231.171:8080/247/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "History 2 Latin America (1080p)",
             "tvg_id": "History2LatinAmerica.us@Panregional",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
@@ -661,6 +677,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
             "group": "Documentary",
             "url": "https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "History (Poland) (1080p)",
+            "tvg_id": "History.pl@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+            "group": "Documentary",
+            "url": "http://57.128.231.171:8080/240/index.m3u8",
             "headers": {}
         },
         {
@@ -789,6 +813,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
             "group": "Documentary",
             "url": "http://88.212.15.17/live/id_hun/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Investigation Discovery (Poland) (1080p)",
+            "tvg_id": "InvestigationDiscovery.pl@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+            "group": "Documentary",
+            "url": "http://57.128.231.171:8080/239/index.m3u8",
             "headers": {}
         },
         {
