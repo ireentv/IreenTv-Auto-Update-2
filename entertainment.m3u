@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 904
-# Last Updated    : 2026-10-16 07:04:48 AM
+# Total Channels  : 908
+# Last Updated    : 2026-10-16 12:54:46 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -212,15 +212,15 @@ http://115.42.65.142:9981/stream/channelid/1380586642
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 #EXTINF:-1 tvg-name="AXN Spin (Hungary) Poland" tvg-logo="https://i.imgur.com/uVFenKm.png" group-title="Entertainment" ,AXN Spin (Hungary) Poland
 https://polska.hach.workers.dev/14847.m3u8
-#EXTINF:-1 tvg-name="AXN White" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White
+#EXTINF:-1 tvg-name="AXN White (United States)" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White (United States)
 https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
-#EXTINF:-1 tvg-name="AXN White Bulgaria (576p)" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White Bulgaria (576p)
+#EXTINF:-1 tvg-name="AXN White (United States) Bulgaria (576p)" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White (United States) Bulgaria (576p)
 http://hls127.freeott.top:8080/BG_AXN_White/video.m3u8
-#EXTINF:-1 tvg-name="AXN White CzechRepublic" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White CzechRepublic
+#EXTINF:-1 tvg-name="AXN White (United States) CzechRepublic" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White (United States) CzechRepublic
 http://88.212.15.19/live/test_white/playlist.m3u8
-#EXTINF:-1 tvg-name="AXN White Poland (576p)" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White Poland (576p)
+#EXTINF:-1 tvg-name="AXN White (United States) Poland (576p)" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White (United States) Poland (576p)
 http://185.227.34.179:8080/axn-white/index.m3u8
-#EXTINF:-1 tvg-name="AXN White Portugal (576p)" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White Portugal (576p)
+#EXTINF:-1 tvg-name="AXN White (United States) Portugal (576p)" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="Entertainment" ,AXN White (United States) Portugal (576p)
 http://188.115.15.121:8000/play/a01u
 #EXTINF:-1 tvg-name="Az Clic (1080p)" tvg-logo="https://i.imgur.com/ClqIQ4M.png" group-title="Entertainment" ,Az Clic (1080p)
 http://38.252.238.18:8000/play/a01g/index.m3u8
@@ -478,8 +478,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
 #EXTINF:-1 tvg-name="Det sene show med Christian Fuhlendorff" tvg-logo="https://images.pluto.tv/channels/660d6bc10cd4630008f4a25a/colorLogoPNG.png" group-title="Entertainment" ,Det sene show med Christian Fuhlendorff
 https://jmp2.uk/plu-660d6bc10cd4630008f4a25a.m3u8
+#EXTINF:-1 tvg-name="Discovery Asia Taiwan (1080p)" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="Entertainment" ,Discovery Asia Taiwan (1080p)
+http://125.227.210.55:1004/VideoInput/play.ts
 #EXTINF:-1 tvg-name="Discovery Channel (Hungary)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Entertainment" ,Discovery Channel (Hungary)
 http://88.212.15.17/live/discovery_hungary/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel (India) (720p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Entertainment" ,Discovery Channel (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel (Italy) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Entertainment" ,Discovery Channel (Italy) (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel (Netherlands) (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Entertainment" ,Discovery Channel (Netherlands) (360p)
@@ -628,6 +632,8 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="FX Latin America (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Entertainment" ,FX Latin America (1080p)
 http://15.204.246.24:8080/FXHD/index.m3u8
+#EXTINF:-1 tvg-name="FX Latin America South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" group-title="Entertainment" ,FX Latin America South
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/fx-key/chunks.m3u8
 #EXTINF:-1 tvg-name="GalaxiATeVe (360p)" tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" group-title="Entertainment" ,GalaxiATeVe (360p)
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
 #EXTINF:-1 tvg-name="Galxy TV (720p)" tvg-logo="https://i.imgur.com/7gZlQDn.png" group-title="Entertainment" ,Galxy TV (720p)
@@ -1393,7 +1399,7 @@ https://amixtv.com:8081/rikutv/index.m3u8
 #EXTINF:-1 tvg-name="Ritmu TV" tvg-logo="https://play-lh.googleusercontent.com/aO-2614npPjbJny21ljgGDRqfixPUG39uLfXwG-xX6fd2y5sxjp_SR6ty92d9l08yt10" group-title="Entertainment" ,Ritmu TV
 https://659605a54e9a6.streamlock.net:8443/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="RMC Life (1080p)" tvg-logo="https://img1.dc2.oqee.net/channel_pictures/3606/w512" group-title="Entertainment;Interactive" ,RMC Life (1080p)
-http://145.239.5.177/333/index.m3u8
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
 #EXTINF:-1 tvg-name="Roar (1080p)" tvg-logo="https://iili.io/FxYNwOB.md.png" group-title="Entertainment" ,Roar (1080p)
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 #EXTINF:-1 tvg-name="Roar KCWX (720p) [Not 24/7]" tvg-logo="https://iili.io/FxYNwOB.md.png" group-title="Entertainment" ,Roar KCWX (720p) [Not 24/7]
@@ -1414,6 +1420,8 @@ https://stmv2.srvif.com/rsvhonduras/rsvhonduras/playlist.m3u8
 http://145.239.5.177/308/index.m3u8
 #EXTINF:-1 tvg-name="RTL Otthon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png" group-title="Entertainment" ,RTL Otthon
 http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
+#EXTINF:-1 tvg-name="RTNB Divertissement" tvg-logo="https://i.imgur.com/vNCVLuO.png" group-title="Entertainment" ,RTNB Divertissement
+https://tv2-stream.rtnb.bi/hls/master.m3u8
 #EXTINF:-1 tvg-name="Rupashi Bangla TV (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="Entertainment" ,Rupashi Bangla TV (720p)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Rupasi Bangla (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143733_ld_h15_aa.png?lock=720x540" group-title="Entertainment" ,Rupasi Bangla (720p)
