@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 775,
-    "last_update": "2026-10-18 06:45:40 AM",
+    "channels_amount": 778,
+    "last_update": "2026-10-18 11:36:38 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -693,14 +693,6 @@
             "logo": "https://i.imgur.com/URKDlOZ.png",
             "group": "Music",
             "url": "https://canal.mediaserver.com.co/live/buenisimatv.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Busuioc TV",
-            "tvg_id": "BusuiocTV.md@SD",
-            "logo": "https://i.imgur.com/CQtfBPu.png",
-            "group": "Music",
-            "url": "https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8",
             "headers": {}
         },
         {
@@ -1765,6 +1757,14 @@
             "logo": "https://watchhmtv.com/hmtv_logo.svg",
             "group": "Music",
             "url": "https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Hope Channel PROYECTO JA (360p)",
+            "tvg_id": "HopeChannelPROYECTOJA.cr@SD",
+            "logo": "https://i.imgur.com/VDyf36C.png",
+            "group": "Family;Music;Religious",
+            "url": "https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8",
             "headers": {}
         },
         {
@@ -2924,7 +2924,7 @@
             "tvg_id": "MusicBoxClassic.cz@SD",
             "logo": "https://musicboxclassic.com/music_box_classic_logo.png",
             "group": "Music",
-            "url": "http://88.212.15.19/live/mb_classic/index.m3u8",
+            "url": "http://88.212.15.17/live/mb_classic/index.m3u8",
             "headers": {}
         },
         {
@@ -2932,7 +2932,7 @@
             "tvg_id": "MusicBoxDance.cz@SD",
             "logo": "https://musicboxdance.com/music_box_dance_logo.png",
             "group": "Music",
-            "url": "http://88.212.15.19/live/mb_dance/index.m3u8",
+            "url": "http://88.212.15.17/live/mb_dance/index.m3u8",
             "headers": {}
         },
         {
@@ -2940,7 +2940,7 @@
             "tvg_id": "MusicBoxHits.cz@SD",
             "logo": "https://musicboxhits.com/music_box_hits_logo.png",
             "group": "Music",
-            "url": "http://88.212.15.19/live/mb_hits/index.m3u8",
+            "url": "http://88.212.15.17/live/mb_hits/index.m3u8",
             "headers": {}
         },
         {
@@ -2956,7 +2956,7 @@
             "tvg_id": "MusicBoxSexy.cz@SD",
             "logo": "https://musicboxsexy.com/music_box_sexy_logo.png",
             "group": "Music",
-            "url": "http://88.212.15.19/live/mb_sexy/index.m3u8",
+            "url": "http://88.212.15.17/live/mb_sexy/index.m3u8",
             "headers": {}
         },
         {
@@ -3036,7 +3036,7 @@
             "tvg_id": "MuzsikaTV.hu@SD",
             "logo": "https://i.imgur.com/kmQ5vYC.png",
             "group": "Music",
-            "url": "http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
             "headers": {}
         },
         {
@@ -3405,6 +3405,14 @@
             "logo": "https://i.imgur.com/gbNh79Z.png",
             "group": "Movies;Music",
             "url": "https://orbitachiletv.org/hls/0/stream.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Orizont TV (576p)",
+            "tvg_id": "OrizontTV.ro@SD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",
+            "group": "Music",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0",
             "headers": {}
         },
         {
@@ -4636,7 +4644,7 @@
             "tvg_id": "SlagerTV.hu@SD",
             "logo": "https://i.imgur.com/qDNRgSQ.png",
             "group": "Music",
-            "url": "http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
             "headers": {}
         },
         {
@@ -5576,6 +5584,14 @@
             "headers": {}
         },
         {
+            "name": "TV AS (576p)",
+            "tvg_id": "TVAS.ro@SD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631",
+            "group": "Music",
+            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv-as/live_hq?offsetSeconds=0",
+            "headers": {}
+        },
+        {
             "name": "TV Cidade",
             "tvg_id": "TVCidade.cv@SD",
             "logo": "https://i.imgur.com/gmSu21X.jpg",
@@ -5693,6 +5709,14 @@
             "logo": "https://i.imgur.com/PXGqyLn.png",
             "group": "Music",
             "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "V90 (1080p)",
+            "tvg_id": "V90.pl@SD",
+            "logo": "https://static.wikia.nocookie.net/logaekranowe/images/e/eb/V90_%282026-.n.v.%29.png/revision/latest?cb=20260129212848&path-prefix=pl",
+            "group": "Music",
+            "url": "http://57.128.231.171:8080/228/index.m3u8",
             "headers": {}
         },
         {

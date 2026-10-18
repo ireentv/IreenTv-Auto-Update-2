@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 434,
-    "last_update": "2026-10-18 06:45:40 AM",
+    "channels_amount": 432,
+    "last_update": "2026-10-18 11:36:38 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -28,7 +28,7 @@
             "tvg_id": "4FunKids.pl@SD",
             "logo": "https://i.imgur.com/2JO5Y8c.png",
             "group": "Kids",
-            "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
+            "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8",
             "headers": {}
         },
         {
@@ -496,11 +496,11 @@
             "headers": {}
         },
         {
-            "name": "Cartoon Network Latin America Brazil (720p) [Geo-blocked]",
+            "name": "Cartoon Network Latin America Brazil (720p)",
             "tvg_id": "CartoonNetworkLatinAmerica.us@Brazil",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
-            "url": "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8",
+            "url": "http://45.162.64.114/CARTOON_NETWORK/index.m3u8",
             "headers": {}
         },
         {
@@ -668,7 +668,7 @@
             "tvg_id": "CTDecko.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+            "url": "http://88.212.15.17/live/ct_art_avc_25p/playlist.m3u8",
             "headers": {}
         },
         {
@@ -788,7 +788,7 @@
             "tvg_id": "DisneyChannel.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/test_disney/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_disney/playlist.m3u8",
             "headers": {}
         },
         {
@@ -804,7 +804,7 @@
             "tvg_id": "DisneyChannel.hu@SD",
             "logo": "https://i.imgur.com/aOa73uT.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/disney_channel_hun/index.m3u8",
+            "url": "http://88.212.15.17/live/disney_channel_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -853,14 +853,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
             "group": "Kids",
             "url": "https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Disney Channel (United States) (720p) [Geo-blocked]",
-            "tvg_id": "DisneyChannel.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
-            "group": "Kids",
-            "url": "http://212.5.144.156/disney/index.m3u8",
             "headers": {}
         },
         {
@@ -972,7 +964,7 @@
             "tvg_id": "DisneyJunior.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/test_disney_junior/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_disney_junior/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1412,7 +1404,7 @@
             "tvg_id": "JimJam.hu@SD",
             "logo": "https://i.imgur.com/ODhkYyx.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/jim_jam_hun/index.m3u8",
+            "url": "http://88.212.15.17/live/jim_jam_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -1540,7 +1532,7 @@
             "tvg_id": "Kolyokklub.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/kolyokklub_atk/index.m3u8",
+            "url": "http://88.212.15.17/live/kolyokklub_atk/index.m3u8",
             "headers": {}
         },
         {
@@ -1600,6 +1592,14 @@
             "headers": {}
         },
         {
+            "name": "Lucas & Friends",
+            "tvg_id": "LucasFriends.us@SD",
+            "logo": "https://i.postimg.cc/cLft65S5/Dmin-CTnq-400x400.jpg",
+            "group": "Kids",
+            "url": "https://app.viloud.tv/hls/channel/01e3b17a3605b7c0389411ae3d5dfd6e.m3u8",
+            "headers": {}
+        },
+        {
             "name": "M-Net Kids (720p)",
             "tvg_id": "MNetKids.mk@SD",
             "logo": "https://i.imgur.com/SbKkpuH.png",
@@ -1632,6 +1632,14 @@
             "headers": {}
         },
         {
+            "name": "MiMi TV (720p)",
+            "tvg_id": "MiMiTV.uz@SD",
+            "logo": "https://i.imgur.com/NmQglPa.png",
+            "group": "Kids",
+            "url": "https://fl.biztv.media/MiMiTV_720/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Minika Cocuk (720p)",
             "tvg_id": "MinikaCocuk.tr@SD",
             "logo": "https://i.imgur.com/VCywMTv.png",
@@ -1652,7 +1660,7 @@
             "tvg_id": "Minimax.hu@SD",
             "logo": "https://i.imgur.com/WWOlm1x.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/minimax_hun/index.m3u8",
+            "url": "http://88.212.15.17/live/minimax_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -1676,7 +1684,7 @@
             "tvg_id": "MinimaxCEE.cz@SD",
             "logo": "https://i.imgur.com/WWOlm1x.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/test_minimax/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_minimax/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1760,14 +1768,6 @@
             "headers": {}
         },
         {
-            "name": "Multimania (576p)",
-            "tvg_id": "Multimania.ru@SD",
-            "logo": "https://i.imgur.com/abh8ZBA.png",
-            "group": "Animation;Kids",
-            "url": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
-            "headers": {}
-        },
-        {
             "name": "My Kidz (720p)",
             "tvg_id": "MyKidz.id@SD",
             "logo": "https://i.imgur.com/qzZFU6d.png",
@@ -1812,7 +1812,7 @@
             "tvg_id": "NickJr.cz@SD",
             "logo": "https://i.imgur.com/KT4tdQs.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/test_nick_jr/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_nick_jr/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1820,7 +1820,7 @@
             "tvg_id": "NickJr.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/nick_junior_hun/index.m3u8",
+            "url": "http://88.212.15.17/live/nick_junior_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -1948,7 +1948,7 @@
             "tvg_id": "Nickelodeon.cz@SD",
             "logo": "https://i.imgur.com/E84jnP8.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_nickelodeon_hevc_25p/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1972,7 +1972,7 @@
             "tvg_id": "Nickelodeon.hu@SD",
             "logo": "https://i.imgur.com/fXs8f6a.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2156,7 +2156,7 @@
             "tvg_id": "Nicktoons.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/test_nicktoons/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_nicktoons/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2164,7 +2164,7 @@
             "tvg_id": "Nicktoons.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/nicktoons_hungary/index.m3u8",
+            "url": "http://88.212.15.17/live/nicktoons_hungary/index.m3u8",
             "headers": {}
         },
         {
@@ -2264,11 +2264,11 @@
             "headers": {}
         },
         {
-            "name": "O! International (576p)",
+            "name": "O! International (720p)",
             "tvg_id": "O.ru@International",
             "logo": "https://i.imgur.com/pDc665V.png",
             "group": "Kids",
-            "url": "https://fs.uplink.kz/o/mono.m3u8?token=onlinetv",
+            "url": "http://88.212.15.17/live/test_telekanal_o/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2904,14 +2904,6 @@
             "headers": {}
         },
         {
-            "name": "STS kids International (576p)",
-            "tvg_id": "STSkids.ru@International",
-            "logo": "https://i.imgur.com/o9kLpAL.png",
-            "group": "Kids",
-            "url": "https://fs.uplink.kz/sts_kids/mono.m3u8?token=onlinetv",
-            "headers": {}
-        },
-        {
             "name": "Super Hungama (576p)",
             "tvg_id": "SuperHungama.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png",
@@ -3144,14 +3136,6 @@
             "headers": {}
         },
         {
-            "name": "Tooncast SouthAmerica (1080p)",
-            "tvg_id": "Tooncast.us@SouthAmerica",
-            "logo": "https://i.imgur.com/3yXRbQy.png",
-            "group": "Animation;Kids",
-            "url": "http://200.62.239.170:830/play/a07n/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "ToonGoggles (720p)",
             "tvg_id": "ToonGoggles.us@SD",
             "logo": "https://i.imgur.com/JMnxswq.png",
@@ -3292,7 +3276,7 @@
             "tvg_id": "TV2Kids.hu@SD",
             "logo": "https://i.imgur.com/Zltlezm.png",
             "group": "Kids",
-            "url": "http://88.212.15.19/live/tv2_kids/index.m3u8",
+            "url": "http://88.212.15.17/live/tv2_kids/index.m3u8",
             "headers": {}
         },
         {

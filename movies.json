@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 806,
-    "last_update": "2026-10-18 06:45:40 AM",
+    "channels_amount": 800,
+    "last_update": "2026-10-18 11:36:38 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -244,7 +244,7 @@
             "tvg_id": "AMCEurope.uk@CzechRepublic",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_amc_25p/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_amc_25p/playlist.m3u8",
             "headers": {}
         },
         {
@@ -252,7 +252,7 @@
             "tvg_id": "AMCEurope.uk@Hungary",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/amc_hun/index.m3u8",
+            "url": "http://88.212.15.17/live/amc_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -404,7 +404,7 @@
             "tvg_id": "AXNBlack.us@CzechRepublic",
             "logo": "https://i.imgur.com/Peo1QiZ.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_black/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_black/playlist.m3u8",
             "headers": {}
         },
         {
@@ -436,7 +436,7 @@
             "tvg_id": "AXNCEE.es@Hungary",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/axn_hun/index.m3u8",
+            "url": "http://88.212.15.17/live/axn_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -452,7 +452,7 @@
             "tvg_id": "AXNCEE.es@CzechRepublic",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_axn/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_axn/playlist.m3u8",
             "headers": {}
         },
         {
@@ -468,7 +468,7 @@
             "tvg_id": "AXNCrime.us@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/AXN_Crime_-_Logo.png/960px-AXN_Crime_-_Logo.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/viasat_film/index.m3u8",
+            "url": "http://88.212.15.17/live/viasat_film/index.m3u8",
             "headers": {}
         },
         {
@@ -1780,7 +1780,7 @@
             "tvg_id": "Film4.hu@SD",
             "logo": "https://i.imgur.com/X5N8CHf.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/film4_hun/index.m3u8",
+            "url": "http://88.212.15.17/live/film4_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -1796,7 +1796,7 @@
             "tvg_id": "FilmCafe.hu@Hungary",
             "logo": "https://i.imgur.com/jaKRnzU.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/film_cafe/index.m3u8",
+            "url": "http://88.212.15.17/live/film_cafe/index.m3u8",
             "headers": {}
         },
         {
@@ -1828,7 +1828,7 @@
             "tvg_id": "FilmPlus.cz@SD",
             "logo": "https://i.imgur.com/OBYuY3S.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_film_plus_25p/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1836,7 +1836,7 @@
             "tvg_id": "FilmPlus.hu@SD",
             "logo": "https://i.imgur.com/OWqzJyy.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/film_plus_hun_atk/index.m3u8",
+            "url": "http://88.212.15.17/live/film_plus_hun_atk/index.m3u8",
             "headers": {}
         },
         {
@@ -1876,7 +1876,7 @@
             "tvg_id": "FILMBOXPlusComedy.pl@Czechia",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_filmbox_family_atk_1200/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_filmbox_family_atk_1200/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1884,7 +1884,7 @@
             "tvg_id": "FILMBOXPlusComedy.pl@Magyar",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_filmbox_family_hun_atk_1200/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1924,7 +1924,7 @@
             "tvg_id": "FILMBOXPlusEmotion.pl@Czechia",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_film_boxextra_hd_hevc/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_film_boxextra_hd_hevc/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1932,7 +1932,7 @@
             "tvg_id": "FILMBOXPlusEmotion.pl@Hungary",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1988,7 +1988,7 @@
             "tvg_id": "FILMBOXPlusHits.pl@Czechia",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_film_boxpremium_hd_hevc/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1996,7 +1996,7 @@
             "tvg_id": "FILMBOXPlusHits.pl@Hungary",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/fb_premium_hungary/index.m3u8",
+            "url": "http://88.212.15.17/live/fb_premium_hungary/index.m3u8",
             "headers": {}
         },
         {
@@ -2012,7 +2012,7 @@
             "tvg_id": "FILMBOXPlusLoveCrime.pl@Czechia",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_filmbox_plus_atk_1200/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2060,7 +2060,7 @@
             "tvg_id": "FILMBOXPlusOne.pl@Czechia",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_filmbox/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_filmbox/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2068,7 +2068,7 @@
             "tvg_id": "FILMBOXPlusOne.pl@Magyar",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2756,7 +2756,7 @@
             "tvg_id": "KinoBarrandov.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/960px-Kino_Barrandov_logo.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
+            "url": "http://88.212.15.17/live/test_kino_barrandov_sd_hevc50/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2980,7 +2980,7 @@
             "tvg_id": "MagyarMoziTV.hu@SD",
             "logo": "https://i.imgur.com/cXajs8V.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/mozi/index.m3u8",
+            "url": "http://88.212.15.17/live/mozi/index.m3u8",
             "headers": {}
         },
         {
@@ -3324,7 +3324,7 @@
             "tvg_id": "MoziPlus.hu@SD",
             "logo": "https://i.imgur.com/LtCnPFJ.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/mozi_plusz/index.m3u8",
+            "url": "http://88.212.15.17/live/mozi_plusz/index.m3u8",
             "headers": {}
         },
         {
@@ -3332,7 +3332,7 @@
             "tvg_id": "Moziverzum.hu@SD",
             "logo": "https://i.imgur.com/NMifecQ.png",
             "group": "Movies",
-            "url": "http://88.212.15.19/live/moziverzum/index.m3u8",
+            "url": "http://88.212.15.17/live/moziverzum/index.m3u8",
             "headers": {}
         },
         {
@@ -3464,11 +3464,11 @@
             "headers": {}
         },
         {
-            "name": "Nashe Novoe Kino (1080p)",
+            "name": "Nashe Novoe Kino",
             "tvg_id": "NasheNovoeKino.ru@SD",
             "logo": "https://i.imgur.com/IOxIsPj.png",
             "group": "Movies",
-            "url": "http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8",
+            "url": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
             "headers": {}
         },
         {
@@ -3581,14 +3581,6 @@
             "logo": "https://assets.antenaplay.ro/2026/03/10/fX5tvuPLymvvR8lQmwO7.png",
             "group": "Movies",
             "url": "https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Novyi Russkii (720p)",
-            "tvg_id": "NovyiRusskii.ru@HD",
-            "logo": "https://i.imgur.com/iuRSScH.png",
-            "group": "Movies",
-            "url": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
             "headers": {}
         },
         {
@@ -4976,14 +4968,6 @@
             "headers": {}
         },
         {
-            "name": "Pro100TV (576p)",
-            "tvg_id": "Pro100TV.ru@SD",
-            "logo": "https://i.imgur.com/YfQEflM.png",
-            "group": "Animation;Classic;Entertainment;Family;Movies",
-            "url": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Pro Cinema (1080p)",
             "tvg_id": "ProCinema.ro@SD",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a6/Pro_Cinema_logo_2022.svg/revision/latest/scale-to-width-down/1000?cb=20220419100521",
@@ -5029,6 +5013,14 @@
             "logo": "https://i.imgur.com/P4c53HA.png",
             "group": "Movies",
             "url": "http://57.128.231.171:8080/316/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Rai Movie HD (1080p)",
+            "tvg_id": "RaiMovie.it@HD",
+            "logo": "https://i.imgur.com/0FjxXU9.png",
+            "group": "Movies",
+            "url": "http://team-tv.co:81/raimovie/index.m3u8",
             "headers": {}
         },
         {
@@ -5380,7 +5372,7 @@
             "tvg_id": "RusskiyIllusion.ru@SD",
             "logo": "https://i.imgur.com/RlsqFN8.png",
             "group": "Movies",
-            "url": "https://fs.uplink.kz/russkiy_illusion/mono.m3u8?token=onlinetv",
+            "url": "http://31.148.48.15/Russkiy_illusion/index.m3u8",
             "headers": {}
         },
         {
@@ -6005,46 +5997,6 @@
             "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png",
             "group": "Movies",
             "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "True Film 1 (720p)",
-            "tvg_id": "TrueFilm1.th@SD",
-            "logo": "https://i.imgur.com/z9XvYLe.png",
-            "group": "Movies",
-            "url": "http://58.8.186.128:10004/bysid/2415",
-            "headers": {}
-        },
-        {
-            "name": "True Film 2 (720p)",
-            "tvg_id": "TrueFilm2.th@SD",
-            "logo": "https://i.imgur.com/4K1HbOB.png",
-            "group": "Movies",
-            "url": "http://58.8.186.128:10004/bysid/2432",
-            "headers": {}
-        },
-        {
-            "name": "True Film Asia (720p)",
-            "tvg_id": "TrueFilmAsia.th@SD",
-            "logo": "https://i.imgur.com/Ci872im.png",
-            "group": "Movies",
-            "url": "http://58.8.186.128:10004/bysid/2416",
-            "headers": {}
-        },
-        {
-            "name": "True Movie Hits (720p)",
-            "tvg_id": "TrueMovieHits.th@SD",
-            "logo": "https://i.imgur.com/65kk1R3.png",
-            "group": "Movies",
-            "url": "http://58.8.186.128:10003/bysid/2325",
-            "headers": {}
-        },
-        {
-            "name": "True Thai Film (720p)",
-            "tvg_id": "TrueThaiFilm.th@SD",
-            "logo": "https://i.imgur.com/MfLY3LF.png",
-            "group": "Movies",
-            "url": "http://58.8.186.128:10003/bysid/2326",
             "headers": {}
         },
         {
