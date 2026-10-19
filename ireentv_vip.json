@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 987,
-    "last_update": "2026-10-19 06:59:05 AM",
+    "last_update": "2026-10-19 12:02:01 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -664,19 +664,11 @@
             "headers": {}
         },
         {
-            "name": "Independent TV Server 1",
-            "tvg_id": "Combined_M3U_92_aHR0cHM6",
-            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Independent_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Independent TV Server 2",
+            "name": "Independent TV",
             "tvg_id": "Combined_M3U_93_aHR0cDov",
             "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Independent_TV_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Independent_TV.m3u8",
             "headers": {}
         },
         {
@@ -1505,7 +1497,7 @@
         },
         {
             "name": "Zee Bangla Sonar Server 1",
-            "tvg_id": "Combined_M3U_217_aHR0cHM6",
+            "tvg_id": "Combined_M3U_216_aHR0cDov",
             "logo": "https://i.ibb.co.com/LzpTBRRn/zee-bangla-sonar-in.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/Zee_Bangla_Sonar_Server_1.m3u8",
@@ -1513,7 +1505,7 @@
         },
         {
             "name": "Zee Bangla Sonar Server 2",
-            "tvg_id": "Combined_M3U_219_aHR0cHM6",
+            "tvg_id": "Combined_M3U_217_aHR0cHM6",
             "logo": "https://i.ibb.co.com/LzpTBRRn/zee-bangla-sonar-in.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/Zee_Bangla_Sonar_Server_2.m3u8",
@@ -1521,10 +1513,18 @@
         },
         {
             "name": "Zee Bangla Sonar Server 3",
-            "tvg_id": "Combined_M3U_220_aHR0cDov",
+            "tvg_id": "Combined_M3U_219_aHR0cHM6",
             "logo": "https://i.ibb.co.com/LzpTBRRn/zee-bangla-sonar-in.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/Zee_Bangla_Sonar_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Bangla Sonar Server 4",
+            "tvg_id": "Combined_M3U_220_aHR0cDov",
+            "logo": "https://i.ibb.co.com/LzpTBRRn/zee-bangla-sonar-in.png",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/Zee_Bangla_Sonar_Server_4.m3u8",
             "headers": {}
         },
         {
@@ -3609,7 +3609,7 @@
         },
         {
             "name": "A Sports Server 3",
-            "tvg_id": "Combined_M3U_541_aHR0cHM6",
+            "tvg_id": "Combined_M3U_544_aHR0cDov",
             "logo": "https://i.postimg.cc/0Npv7bpg/20260918-111738.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/A_Sports_Server_3.m3u8",
@@ -3617,26 +3617,10 @@
         },
         {
             "name": "A Sports Server 4",
-            "tvg_id": "Combined_M3U_542_aHR0cHM6",
-            "logo": "https://i.postimg.cc/0Npv7bpg/20260918-111738.png",
-            "group": "Sports",
-            "url": "https://ireentv.pages.dev/A_Sports_Server_4.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "A Sports Server 5",
-            "tvg_id": "Combined_M3U_544_aHR0cDov",
-            "logo": "https://i.postimg.cc/0Npv7bpg/20260918-111738.png",
-            "group": "Sports",
-            "url": "https://ireentv.pages.dev/A_Sports_Server_5.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "A Sports Server 6",
             "tvg_id": "Combined_M3U_545_aHR0cDov",
             "logo": "https://i.postimg.cc/0Npv7bpg/20260918-111738.png",
             "group": "Sports",
-            "url": "https://ireentv.pages.dev/A_Sports_Server_6.m3u8",
+            "url": "https://ireentv.pages.dev/A_Sports_Server_4.m3u8",
             "headers": {}
         },
         {
@@ -4352,6 +4336,22 @@
             "headers": {}
         },
         {
+            "name": "BTV National Server 3",
+            "tvg_id": "Example_M3U_1_32_aHR0cHM6",
+            "logo": "https://i.imgur.com/5OE2FDt.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/BTV_National_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BTV News",
+            "tvg_id": "Example_M3U_1_33_aHR0cHM6",
+            "logo": "https://i.postimg.cc/28VMF8hx/btv-news.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/BTV_News.m3u8",
+            "headers": {}
+        },
+        {
             "name": "BTV News [Backup 1]",
             "tvg_id": "Example_M3U_1_34_aHR0cDov",
             "logo": "https://i.postimg.cc/28VMF8hx/btv-news.png",
@@ -5037,6 +5037,14 @@
             "logo": "https://i.postimg.cc/wjWkWhzp/Zee-bangla.png",
             "group": "Indian Bangla",
             "url": "https://ireentv.pages.dev/Zee_Bangla_Backup_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Bangla Cinema",
+            "tvg_id": "Example_M3U_1_217_aHR0cHM6",
+            "logo": "https://i.postimg.cc/dtBRtL99/20240822_231732.png",
+            "group": "Indian Bangla",
+            "url": "https://ireentv.pages.dev/Zee_Bangla_Cinema.m3u8",
             "headers": {}
         },
         {
@@ -7437,14 +7445,6 @@
             "logo": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/KTV_Sport_Plus.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Live Cricket",
-            "tvg_id": "Example_M3U_1_661_aHR0cHM6",
-            "logo": "https://i.ibb.co.com/rMBV1xX/images.jpg",
-            "group": "Sports",
-            "url": "https://ireentv.pages.dev/Live_Cricket.m3u8",
             "headers": {}
         },
         {

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 800,
-    "last_update": "2026-10-19 06:59:05 AM",
+    "channels_amount": 801,
+    "last_update": "2026-10-19 12:02:01 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -88,6 +88,22 @@
             "headers": {}
         },
         {
+            "name": "&TV International (1080p)",
+            "tvg_id": "AndTV.in@International",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Movies",
+            "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "+MaisUm (720p)",
+            "tvg_id": "PlusMaisUm.br@HD",
+            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "group": "Entertainment;General;Movies;Music",
+            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+            "headers": {}
+        },
+        {
             "name": "&TV (576p)",
             "tvg_id": "AndTV.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
@@ -104,27 +120,11 @@
             "headers": {}
         },
         {
-            "name": "&TV International (1080p)",
-            "tvg_id": "AndTV.in@International",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-            "group": "Movies",
-            "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": "&xplor HD (1080p) [Geo-blocked]",
             "tvg_id": "AndxplorHD.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
             "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-            "headers": {}
-        },
-        {
-            "name": "+MaisUm (720p)",
-            "tvg_id": "PlusMaisUm.br@HD",
-            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
-            "group": "Entertainment;General;Movies;Music",
-            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
             "headers": {}
         },
         {
@@ -533,6 +533,14 @@
             "logo": "https://i.imgur.com/DaAyLE7.png",
             "group": "Movies;Series",
             "url": "http://92.114.85.87:8014/play/a004/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Az Cinema (1080p)",
+            "tvg_id": "AzCinema.mx@SD",
+            "logo": "https://i.imgur.com/B5UN7C8.png",
+            "group": "Movies",
+            "url": "http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8",
             "headers": {}
         },
         {
@@ -2032,6 +2040,14 @@
             "headers": {}
         },
         {
+            "name": "FILMBOX+ Love & Crime Magyar",
+            "tvg_id": "FILMBOXPlusLoveCrime.pl@Magyar",
+            "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
+            "group": "Movies",
+            "url": "http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "FILMBOX+ Love & Crime Romania",
             "tvg_id": "FILMBOXPlusLoveCrime.pl@Romania",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
@@ -2068,7 +2084,7 @@
             "tvg_id": "FILMBOXPlusOne.pl@Magyar",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
             "group": "Movies",
-            "url": "http://88.212.15.17/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8",
+            "url": "http://88.212.15.17/live/filmbox_hungary/index.m3u8",
             "headers": {}
         },
         {
@@ -2477,14 +2493,6 @@
             "logo": "https://i.imgur.com/CTjmocc.png",
             "group": "Movies",
             "url": "https://2x2.me/BbwzPx",
-            "headers": {}
-        },
-        {
-            "name": "HBO Movies (720p)",
-            "tvg_id": "HBOMovies.us@East",
-            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png",
-            "group": "Movies;Series",
-            "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8",
             "headers": {}
         },
         {

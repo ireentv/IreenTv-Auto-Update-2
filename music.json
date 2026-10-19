@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 778,
-    "last_update": "2026-10-19 06:59:05 AM",
+    "last_update": "2026-10-19 12:02:01 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -192,19 +192,19 @@
             "headers": {}
         },
         {
-            "name": "¡Viva Latino! (1080p)",
-            "tvg_id": "VivaLatino.ua@SD",
-            "logo": "https://i.imgur.com/KRakHAq.png",
-            "group": "Music",
-            "url": "http://stream.mcquack.net/285/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "+MaisUm (720p)",
             "tvg_id": "PlusMaisUm.br@HD",
             "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
             "group": "Entertainment;General;Movies;Music",
             "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "¡Viva Latino! (1080p)",
+            "tvg_id": "VivaLatino.ua@SD",
+            "logo": "https://i.imgur.com/KRakHAq.png",
+            "group": "Music",
+            "url": "http://stream.mcquack.net/285/index.m3u8",
             "headers": {}
         },
         {
