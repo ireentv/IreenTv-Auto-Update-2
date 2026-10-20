@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 907,
-    "last_update": "2026-10-20 06:10:19 AM",
+    "last_update": "2026-10-20 11:46:37 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -2656,6 +2656,14 @@
             "headers": {}
         },
         {
+            "name": "Giallo (1080p)",
+            "tvg_id": "Giallo.it@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/960px-Giallo_-_Logo_2014.svg.png",
+            "group": "Entertainment",
+            "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "GikTVMX (720p)",
             "tvg_id": "GikTVMX.mx@SD",
             "logo": "https://i.imgur.com/Gwz78jZ.png",
@@ -4653,14 +4661,6 @@
             "logo": "https://i.imgur.com/Dnfhdsm.png",
             "group": "Entertainment",
             "url": "http://stream.mcquack.net/157/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "NOW TV (720p)",
-            "tvg_id": "NOWTV.tr@SD",
-            "logo": "https://i.imgur.com/5EYjWK7.png",
-            "group": "Entertainment",
-            "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
             "headers": {}
         },
         {
@@ -7200,11 +7200,11 @@
             "headers": {}
         },
         {
-            "name": "Zee Telugu HD (720p)",
+            "name": "Zee Telugu HD (576p)",
             "tvg_id": "ZeeTelugu.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Entertainment",
-            "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8",
+            "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8",
             "headers": {}
         },
         {

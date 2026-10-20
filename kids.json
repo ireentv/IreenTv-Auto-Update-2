@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 432,
-    "last_update": "2026-10-20 06:10:19 AM",
+    "last_update": "2026-10-20 11:46:37 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1000,19 +1000,11 @@
             "headers": {}
         },
         {
-            "name": "Disney XD (Poland) (576p)",
+            "name": "Disney XD (576p)",
             "tvg_id": "DisneyXD.pl@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
             "group": "Kids",
             "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Disney XD (United States) (720p)",
-            "tvg_id": "DisneyXD.us@East",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
-            "group": "Kids",
-            "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8",
             "headers": {}
         },
         {
@@ -1893,6 +1885,14 @@
             "logo": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png",
             "group": "Kids",
             "url": "https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Nick Jr. Latin America (1080p)",
+            "tvg_id": "NickJrLatinAmerica.us@Panregional",
+            "logo": "https://i.imgur.com/KT4tdQs.png",
+            "group": "Kids",
+            "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
             "headers": {}
         },
         {

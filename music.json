@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 778,
-    "last_update": "2026-10-20 06:10:19 AM",
+    "channels_amount": 781,
+    "last_update": "2026-10-20 11:46:37 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -192,19 +192,19 @@
             "headers": {}
         },
         {
-            "name": "+MaisUm (720p)",
-            "tvg_id": "PlusMaisUm.br@HD",
-            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
-            "group": "Entertainment;General;Movies;Music",
-            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
-            "headers": {}
-        },
-        {
             "name": "¡Viva Latino! (1080p)",
             "tvg_id": "VivaLatino.ua@SD",
             "logo": "https://i.imgur.com/KRakHAq.png",
             "group": "Music",
             "url": "http://stream.mcquack.net/285/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "+MaisUm (720p)",
+            "tvg_id": "PlusMaisUm.br@HD",
+            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "group": "Entertainment;General;Movies;Music",
+            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
             "headers": {}
         },
         {
@@ -1114,7 +1114,7 @@
         {
             "name": "Dhool TV (576p)",
             "tvg_id": "DhoolTV.in@SD",
-            "logo": "https://i.ibb.co/Rk78p2LB/dhooltv.png",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/DhoolTV.png",
             "group": "Music",
             "url": "https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8",
             "headers": {}
@@ -3328,6 +3328,14 @@
             "headers": {}
         },
         {
+            "name": "ON Music (1080p)",
+            "tvg_id": "ONMusic.vn@SD",
+            "logo": "https://i.ibb.co/DHk2gv86/IMG-2524.webp",
+            "group": "Music",
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=185",
+            "headers": {}
+        },
+        {
             "name": "Onda 15 TV (224p)",
             "tvg_id": "Onda15TV.es@SD",
             "logo": "https://i.imgur.com/mUrZz9O.png",
@@ -4648,6 +4656,14 @@
             "headers": {}
         },
         {
+            "name": "Smart Radio (576p)",
+            "tvg_id": "SmartRadio.ro@SD",
+            "logo": "https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png",
+            "group": "Music",
+            "url": "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Sol Musica (720p)",
             "tvg_id": "SolMusica.es@SD",
             "logo": "https://i.imgur.com/rbJrmPw.png",
@@ -5101,6 +5117,14 @@
             "logo": "https://i.imgur.com/dPAPLsd.png",
             "group": "Music",
             "url": "https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Tequila Music TV",
+            "tvg_id": "TequilaMusicTV.ro@SD",
+            "logo": "https://tequilamusic.net/imagini/tv-logo.png",
+            "group": "Music",
+            "url": "https://stream.tequilamusic.net/hls/tequila_tv.m3u8",
             "headers": {}
         },
         {

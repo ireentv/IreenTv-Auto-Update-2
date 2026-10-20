@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 778
-# Last Updated    : 2026-10-20 06:10:19 AM
+# Total Channels  : 781
+# Last Updated    : 2026-10-20 11:46:37 AM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -54,10 +54,10 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-name="360TuneBox (1080p)" tvg-logo="https://i.imgur.com/1Fyezng.png" group-title="Music" ,360TuneBox (1080p)
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-name="+MaisUm (720p)" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" group-title="Entertainment;General;Movies;Music" ,+MaisUm (720p)
-https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="¡Viva Latino! (1080p)" tvg-logo="https://i.imgur.com/KRakHAq.png" group-title="Music" ,¡Viva Latino! (1080p)
 http://stream.mcquack.net/285/index.m3u8
+#EXTINF:-1 tvg-name="+MaisUm (720p)" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" group-title="Entertainment;General;Movies;Music" ,+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="A1 (576p)" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="Music" ,A1 (576p)
 http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-name="A2i Music (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Fykhzxh.jpg" group-title="Music" ,A2i Music (720p) [Not 24/7]
@@ -284,7 +284,7 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-name="Dhamaal (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="Music" ,Dhamaal (576p)
 http://107.167.16.138/dhamaal/index.m3u8?token=test
-#EXTINF:-1 tvg-name="Dhool TV (576p)" tvg-logo="https://i.ibb.co/Rk78p2LB/dhooltv.png" group-title="Music" ,Dhool TV (576p)
+#EXTINF:-1 tvg-name="Dhool TV (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DhoolTV.png" group-title="Music" ,Dhool TV (576p)
 https://d1msejlow1t3l4.cloudfront.net/fta/subhartitv/playlist.m3u8
 #EXTINF:-1 tvg-name="Dhoom Music (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png" group-title="Music" ,Dhoom Music (720p)
 https://cdn.pishow.tv/ott/live/1456/master.m3u8
@@ -840,6 +840,8 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-name="ON FM (720p)" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="Music" ,ON FM (720p)
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="ON Music (1080p)" tvg-logo="https://i.ibb.co/DHk2gv86/IMG-2524.webp" group-title="Music" ,ON Music (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=185
 #EXTINF:-1 tvg-name="Onda 15 TV (224p)" tvg-logo="https://i.imgur.com/mUrZz9O.png" group-title="Music;News" ,Onda 15 TV (224p)
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1 tvg-name="Onda Valencia TV (720p)" tvg-logo="https://i.imgur.com/6HxLUQd.png" group-title="Music;News" ,Onda Valencia TV (720p)
@@ -1170,6 +1172,8 @@ https://stream-23.mazana.tv/slagrmuzika.m3u8s
 https://stream-13.mazana.tv/slagroriginal.m3u8s
 #EXTINF:-1 tvg-name="Slager TV" tvg-logo="https://i.imgur.com/qDNRgSQ.png" group-title="Music" ,Slager TV
 http://88.212.15.17/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="Smart Radio (576p)" tvg-logo="https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png" group-title="Music" ,Smart Radio (576p)
+https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-name="Sol Musica (720p)" tvg-logo="https://i.imgur.com/rbJrmPw.png" group-title="Music" ,Sol Musica (720p)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-name="Solo Bailalo (480p)" tvg-logo="https://i.imgur.com/SImJE7c.png" group-title="Music" ,Solo Bailalo (480p)
@@ -1284,6 +1288,8 @@ http://190.61.47.54:8000/play/a029/index.m3u8
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 #EXTINF:-1 tvg-name="TeleMusik Senegal (720p)" tvg-logo="https://i.imgur.com/dPAPLsd.png" group-title="Music" ,TeleMusik Senegal (720p)
 https://58c04fb1d143f.streamlock.net/rezopropartner_1_live/rezopropartner_1_live/playlist.m3u8
+#EXTINF:-1 tvg-name="Tequila Music TV" tvg-logo="https://tequilamusic.net/imagini/tv-logo.png" group-title="Music" ,Tequila Music TV
+https://stream.tequilamusic.net/hls/tequila_tv.m3u8
 #EXTINF:-1 tvg-name="Tezaur TV (576i)" tvg-logo="https://i.imgur.com/eAagwLW.png" group-title="Music" ,Tezaur TV (576i)
 https://tezaurtv.md/stream/index.m3u8
 #EXTINF:-1 tvg-name="That's 70s (720p)" tvg-logo="https://i.imgur.com/j2q53JQ.png" group-title="Music" ,That's 70s (720p)
