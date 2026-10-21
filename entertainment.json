@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 907,
-    "last_update": "2026-10-21 05:42:21 AM",
+    "channels_amount": 905,
+    "last_update": "2026-10-21 10:07:48 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1192,6 +1192,14 @@
             "headers": {}
         },
         {
+            "name": "Botflix TV (1080p)",
+            "tvg_id": "BotflixTV.us@HD",
+            "logo": "https://botflix.tv/assets/img/botflix-mark.90c6a6f9a4.webp",
+            "group": "Animation;Entertainment",
+            "url": "https://hls.botflix.tv/tv/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Bounce XL (1080p)",
             "tvg_id": "BounceXL.us@SD",
             "logo": "https://i.imgur.com/GzxgSkc.png",
@@ -1988,7 +1996,7 @@
             "tvg_id": "DreamTV.mn@SD",
             "logo": "https://www.mongolsat.mn/assets/img/channel/701.png",
             "group": "Entertainment",
-            "url": "https://xykt-fix.github.io/play/a02j/index.m3u8",
+            "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
             "headers": {}
         },
         {
@@ -3253,14 +3261,6 @@
             "logo": "https://i.imgur.com/WIeZMKT.png",
             "group": "Entertainment",
             "url": "http://190.93.224.42/KANAL-D-DRAMA/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "KBS Joy [Not 24/7]",
-            "tvg_id": "KBSJoy.kr@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/960px-KBS_JOY.svg.png",
-            "group": "Entertainment",
-            "url": "https://xykt-fix.github.io/flv/KJ_W.m3u8",
             "headers": {}
         },
         {
@@ -5088,23 +5088,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Reality (Germany) FR",
-            "tvg_id": "PlutoTVReality.de@FR",
-            "logo": "https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Reality (Germany) GB",
-            "tvg_id": "PlutoTVReality.de@GB",
-            "logo": "https://images.pluto.tv/channels/67ebc1b6432a0e406f141341/colorLogoPNG.png",
-            "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Reality (United States)",
+            "name": "Pluto TV Reality",
             "tvg_id": "PlutoTVReality.us@US",
             "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
             "group": "Entertainment",
@@ -5112,7 +5096,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Reality (United States) CA",
+            "name": "Pluto TV Reality CA",
             "tvg_id": "PlutoTVReality.us@CA",
             "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
             "group": "Entertainment",
@@ -5120,7 +5104,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Reality (United States) LatAm",
+            "name": "Pluto TV Reality LatAm",
             "tvg_id": "PlutoTVReality.us@LatAm",
             "logo": "https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png",
             "group": "Entertainment",

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 274,
-    "last_update": "2026-10-21 05:42:21 AM",
+    "channels_amount": 269,
+    "last_update": "2026-10-21 10:07:48 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1608,23 +1608,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Science (Germany)",
-            "tvg_id": "PlutoTVScience.de@DACH",
-            "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
-            "group": "Documentary;Science",
-            "url": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Science (Germany) GB",
-            "tvg_id": "PlutoTVScience.de@GB",
-            "logo": "https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png",
-            "group": "Documentary;Science",
-            "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Science (United States)",
+            "name": "Pluto TV Science",
             "tvg_id": "PlutoTVScience.us@US",
             "logo": "https://i.imgur.com/uhunRoU.png",
             "group": "Documentary;Science",
@@ -1669,30 +1653,6 @@
             "logo": "https://images.pluto.tv/channels/600acaff5f2d6e000745effb/colorLogoPNG.png",
             "group": "Documentary;Series",
             "url": "https://jmp2.uk/plu-600acaff5f2d6e000745effb.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV True Crime (Germany)",
-            "tvg_id": "PlutoTVTrueCrime.de@DACH",
-            "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-            "group": "Documentary;Series",
-            "url": "https://jmp2.uk/plu-615333098185f00008715a56.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV True Crime (Germany) ES",
-            "tvg_id": "PlutoTVTrueCrime.de@ES",
-            "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-            "group": "Documentary;Series",
-            "url": "https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV True Crime (Germany) IT",
-            "tvg_id": "PlutoTVTrueCrime.de@IT",
-            "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-            "group": "Documentary;Series",
-            "url": "https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8",
             "headers": {}
         },
         {

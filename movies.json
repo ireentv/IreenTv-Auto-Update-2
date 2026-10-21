@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 799,
-    "last_update": "2026-10-21 05:42:21 AM",
+    "channels_amount": 788,
+    "last_update": "2026-10-21 10:07:48 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1637,6 +1637,14 @@
             "logo": "https://i.imgur.com/FxYhME9.png",
             "group": "Movies",
             "url": "https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "EBC Foreign Movie",
+            "tvg_id": "EBCForeignMovie.tw@SD",
+            "logo": "https://i.imgur.com/oUhYdea.png",
+            "group": "Movies",
+            "url": "http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv",
             "headers": {}
         },
         {
@@ -4544,46 +4552,6 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Paranormal (Germany)",
-            "tvg_id": "PlutoTVParanormal.de@DACH",
-            "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
-            "group": "Movies",
-            "url": "https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Paranormal (Germany) ES",
-            "tvg_id": "PlutoTVParanormal.de@ES",
-            "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
-            "group": "Movies",
-            "url": "https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Paranormal (Germany) FR",
-            "tvg_id": "PlutoTVParanormal.de@FR",
-            "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
-            "group": "Movies",
-            "url": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Paranormal (Germany) GB",
-            "tvg_id": "PlutoTVParanormal.de@GB",
-            "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
-            "group": "Movies",
-            "url": "https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Paranormal (Germany) IT",
-            "tvg_id": "PlutoTVParanormal.de@IT",
-            "logo": "https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png",
-            "group": "Movies",
-            "url": "https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Pluto TV Paranormal (Sweden)",
             "tvg_id": "PlutoTVParanormal.se@SE",
             "logo": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
@@ -4624,15 +4592,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Romance (Germany) DACH",
-            "tvg_id": "PlutoTVRomance.de@DACH",
-            "logo": "https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Romance (United States)",
+            "name": "Pluto TV Romance",
             "tvg_id": "PlutoTVRomance.us@US",
             "logo": "https://i.imgur.com/GJBxfyf.png",
             "group": "Movies;Series",
@@ -4661,38 +4621,6 @@
             "logo": "https://images.pluto.tv/channels/63a19bb5e6914b000721b5c0/colorLogoPNG_1767773376618.png",
             "group": "Movies",
             "url": "https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Sci-Fi (Germany)",
-            "tvg_id": "PlutoTVSciFi.de@DACH",
-            "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Sci-Fi (Germany) ES",
-            "tvg_id": "PlutoTVSciFi.de@ES",
-            "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Sci-Fi (Germany) GB",
-            "tvg_id": "PlutoTVSciFi.de@GB",
-            "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Sci-Fi (Germany) IT",
-            "tvg_id": "PlutoTVSciFi.de@IT",
-            "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8",
             "headers": {}
         },
         {
@@ -4800,23 +4728,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Thrillers (Germany)",
-            "tvg_id": "PlutoTVThrillers.de@ES",
-            "logo": "https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png",
-            "group": "Movies",
-            "url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Thrillers (Germany) GB",
-            "tvg_id": "PlutoTVThrillers.de@GB",
-            "logo": "https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png",
-            "group": "Movies",
-            "url": "https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Thrillers (United States)",
+            "name": "Pluto TV Thrillers",
             "tvg_id": "PlutoTVThrillers.us@US",
             "logo": "https://i.imgur.com/ULKvDN7.png",
             "group": "Movies",

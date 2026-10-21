@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 432,
-    "last_update": "2026-10-21 05:42:21 AM",
+    "channels_amount": 430,
+    "last_update": "2026-10-21 10:07:48 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -477,14 +477,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
             "url": "http://45.132.87.69:8080/cartoon_network/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Cartoon Network HD+ (720p)",
-            "tvg_id": "CartoonNetworkHDPlus.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
-            "group": "Animation;Kids",
-            "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8",
             "headers": {}
         },
         {
@@ -2488,15 +2480,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Kids Club (Germany)",
-            "tvg_id": "PlutoTVKidsClub.de@FR",
-            "logo": "https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG_1748852055317.png",
-            "group": "Kids",
-            "url": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Kids Club (United States)",
+            "name": "Pluto TV Kids Club",
             "tvg_id": "PlutoTVKidsClub.us@BR",
             "logo": "https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png",
             "group": "Kids",
