@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 430,
-    "last_update": "2026-10-22 05:07:54 AM",
+    "channels_amount": 432,
+    "last_update": "2026-10-22 10:08:13 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -440,11 +440,27 @@
             "headers": {}
         },
         {
+            "name": "Cartoon Network (Pakistan)",
+            "tvg_id": "CartoonNetwork.pk@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+            "group": "Animation;Kids",
+            "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Cartoon Network (United States) (720p)",
             "tvg_id": "CartoonNetwork.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
             "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cartoon Network Arabic",
+            "tvg_id": "CartoonNetworkArabic.ae@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/960px-Cartoon_Network_Arabic_logo.png",
+            "group": "Animation;Kids",
+            "url": "http://149.100.11.252:8000/play/a056/index.m3u8",
             "headers": {}
         },
         {
@@ -2200,14 +2216,6 @@
             "headers": {}
         },
         {
-            "name": "Nicktoons Scandinavia",
-            "tvg_id": "NicktoonsScandinavia.nl@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
-            "group": "Kids",
-            "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PE7C639D6VY8TCQQ4BYRZT7X/12059/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Niki Junior (1080p)",
             "tvg_id": "NikiJunior.ua@SD",
             "logo": "https://i.imgur.com/DrHsNin.png",
@@ -3117,6 +3125,14 @@
             "logo": "https://i.imgur.com/3yXRbQy.png",
             "group": "Animation;Kids",
             "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Tooncast SouthAmerica (480p)",
+            "tvg_id": "Tooncast.us@SouthAmerica",
+            "logo": "https://i.imgur.com/3yXRbQy.png",
+            "group": "Animation;Kids",
+            "url": "http://190.61.42.218:9000/play/a06i/index.m3u8",
             "headers": {}
         },
         {

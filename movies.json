@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 788,
-    "last_update": "2026-10-22 05:07:54 AM",
+    "channels_amount": 790,
+    "last_update": "2026-10-22 10:08:13 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -88,14 +88,6 @@
             "headers": {}
         },
         {
-            "name": "&TV International (1080p)",
-            "tvg_id": "AndTV.in@International",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-            "group": "Movies",
-            "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": "&TV (576p)",
             "tvg_id": "AndTV.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
@@ -109,6 +101,14 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
             "url": "http://202.70.146.135:8000/play/a06c/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "&TV International (1080p)",
+            "tvg_id": "AndTV.in@International",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Movies",
+            "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
             "headers": {}
         },
         {
@@ -309,6 +309,14 @@
             "logo": "https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png",
             "group": "Movies",
             "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Aneflix Live (720p)",
+            "tvg_id": "AneflixLive.us@HD",
+            "logo": "https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png",
+            "group": "Movies",
+            "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv",
             "headers": {}
         },
         {
@@ -3109,6 +3117,14 @@
             "logo": "https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg",
             "group": "Movies",
             "url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Mega Extreno HD (720p)",
+            "tvg_id": "MegaExtrenoHD.us@HD",
+            "logo": "https://cdn.vaughnsoft.net/profile/1792355588/mega_extremo.jpg",
+            "group": "Movies",
+            "url": "https://stream-cdn-iad3.vaughnsoft.net/play/live_mega_extremo.flv",
             "headers": {}
         },
         {
@@ -6304,8 +6320,8 @@
             "headers": {}
         },
         {
-            "name": "Zee Talkies (576p)",
-            "tvg_id": "ZeeTalkies.in@SD",
+            "name": "Zee Talkies HD (1080p)",
+            "tvg_id": "ZeeTalkies.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
             "url": "http://107.167.16.138/zeetalkies/index.m3u8?token=test",

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 905,
-    "last_update": "2026-10-22 05:07:54 AM",
+    "channels_amount": 908,
+    "last_update": "2026-10-22 10:08:13 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -296,11 +296,11 @@
             "headers": {}
         },
         {
-            "name": "Aathavan TV (720p) [Not 24/7]",
+            "name": "Aathavan TV (720p)",
             "tvg_id": "AathavanTV.uk@SD",
             "logo": "https://i.imgur.com/LEVEhTH.png",
             "group": "Entertainment",
-            "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
+            "url": "https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd",
             "headers": {}
         },
         {
@@ -1636,7 +1636,7 @@
             "tvg_id": "Colors.in@HD",
             "logo": "https://i.imgur.com/M8uCJ0D.png",
             "group": "Entertainment",
-            "url": "http://66.102.126.10:8000/play/a00a/index.m3u8",
+            "url": "http://103.151.60.162:2122/play/a02q/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -2284,7 +2284,7 @@
             "tvg_id": "ETVTelugu.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ETV_HD/images/LOGO_HD/image.png",
             "group": "Entertainment",
-            "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264_cloud_in/index.m3u8",
+            "url": "https://mumbai-edge.smartplaytv.in/ETVHD/index.m3u8",
             "headers": {}
         },
         {
@@ -2493,6 +2493,14 @@
             "logo": "",
             "group": "Entertainment",
             "url": "https://toonixhls.wns.live/hls/stream.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "FX (720p)",
+            "tvg_id": "FX.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+            "group": "Entertainment",
+            "url": "https://tvsen7.aynascope.net/fx/index.m3u8",
             "headers": {}
         },
         {
@@ -4741,6 +4749,14 @@
             "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
             "group": "Entertainment",
             "url": "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "ON Vie Giai Tri (1080p)",
+            "tvg_id": "ONVieGiaiTri.vn@HD",
+            "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png",
+            "group": "Entertainment",
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=180",
             "headers": {}
         },
         {
@@ -7205,6 +7221,14 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Entertainment",
             "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zingabad (1080p)",
+            "tvg_id": "Zingabad.in@SD",
+            "logo": "https://d229kpbsb5jevy.cloudfront.net/yupptvnew/content/common/logos/channel/logos/zingabad.png",
+            "group": "Entertainment",
+            "url": "https://stream.ottlive.co.in/zingabad/index.m3u8",
             "headers": {}
         },
         {

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 782,
-    "last_update": "2026-10-22 05:07:54 AM",
+    "channels_amount": 784,
+    "last_update": "2026-10-22 10:08:13 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -5584,6 +5584,14 @@
             "headers": {}
         },
         {
+            "name": "Tunes 6 (720p)",
+            "tvg_id": "Tunes6.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tunes_6.png",
+            "group": "Music",
+            "url": "https://stream.d6-pro.com/Tunes6music/live/video.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Turbo Mix Radio TV (720p)",
             "tvg_id": "TurboMixRadioTV.pe@SD",
             "logo": "https://i.imgur.com/AsdBQa3.png",
@@ -5973,6 +5981,14 @@
             "logo": "https://i.imgur.com/HV5tgcM.png",
             "group": "Music",
             "url": "https://cloudvideo.servers10.com:8081/8016/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "VIVA Russia",
+            "tvg_id": "VIVARussia.ru@SD",
+            "logo": "https://i.imgur.com/OFhQQCD.png",
+            "group": "Music",
+            "url": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8",
             "headers": {}
         },
         {
