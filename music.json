@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 784,
-    "last_update": "2026-10-23 05:07:19 AM",
+    "channels_amount": 783,
+    "last_update": "2026-10-23 10:11:57 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -85,6 +85,14 @@
             "logo": "https://i.imgur.com/zDiIhdN.png",
             "group": "Music",
             "url": "https://cdn.pishow.tv/ott/live/1257/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "7X Music (360p)",
+            "tvg_id": "7XMusic.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
+            "group": "Music",
+            "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
             "headers": {}
         },
         {
@@ -1112,11 +1120,11 @@
             "headers": {}
         },
         {
-            "name": "Dhamaal (576p)",
+            "name": "Dhamaal (576p) [Geo-blocked]",
             "tvg_id": "Dhamaal.in@SD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Dhamaal_TV.png",
             "group": "Music",
-            "url": "http://107.167.16.138/dhamaal/index.m3u8?token=test",
+            "url": "https://tvsen6.aynaott.com/F4Z6es8E/index.m3u8",
             "headers": {}
         },
         {
@@ -2032,14 +2040,6 @@
             "headers": {}
         },
         {
-            "name": "Kino Polska Muzyka (1080p)",
-            "tvg_id": "KinoPolskaMuzyka.pl@SD",
-            "logo": "https://i.imgur.com/lE1IlPQ.png",
-            "group": "Music",
-            "url": "http://57.128.231.171:8080/237/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Kiss Kiss Napoli TV (720p)",
             "tvg_id": "KissKissNapoliTV.it@SD",
             "logo": "https://i.imgur.com/RsGiBwE.png",
@@ -2392,11 +2392,11 @@
             "headers": {}
         },
         {
-            "name": "M6 Music (720p)",
+            "name": "M6 Music",
             "tvg_id": "M6Music.fr@SD",
             "logo": "",
             "group": "Music",
-            "url": "http://145.239.5.177/320/index.m3u8",
+            "url": "https://test.946985.filegear-sg.me/proxy/803c517b325bfafc",
             "headers": {}
         },
         {
@@ -2909,14 +2909,6 @@
             "logo": "https://www.utrk.kg/img/stream/45.png",
             "group": "Music",
             "url": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Music Box 80s (1080p)",
-            "tvg_id": "MusicBox80s.cz@SD",
-            "logo": "https://musicboxtv.net/logo_music_box_80s.png",
-            "group": "Music",
-            "url": "http://57.128.231.171:8080/229/index.m3u8",
             "headers": {}
         },
         {
@@ -3472,6 +3464,14 @@
             "headers": {}
         },
         {
+            "name": "Pankh (360p)",
+            "tvg_id": "Pankh.in@SD",
+            "logo": "https://papaji.freetvindia.com/media/pankh.png",
+            "group": "Music",
+            "url": "https://samitaorigin.tangotv.in/PANKH/SAMITAORIGIN/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Panorama FM (1080p)",
             "tvg_id": "PanoramaFM.sa@SD",
             "logo": "https://i.imgur.com/JkDD3bK.png",
@@ -3741,6 +3741,14 @@
             "logo": "https://dtil.tmsimg.com/assets/s143691_ld_h15_aa.png?lock=720x540",
             "group": "Music",
             "url": "https://stream.ottlive.co.in/punjabihits/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Punjabi Music HD (720p)",
+            "tvg_id": "PunjabiMusicHD.in@SD",
+            "logo": "https://papaji.freetvindia.com/media/Punjabi_Music_HD.png",
+            "group": "Music",
+            "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8",
             "headers": {}
         },
         {
@@ -5112,11 +5120,11 @@
             "headers": {}
         },
         {
-            "name": "Telehit Musica (1080p)",
+            "name": "Telehit Musica",
             "tvg_id": "TelehitMusica.mx@SD",
             "logo": "https://i.imgur.com/CofYjWh.png",
             "group": "Music",
-            "url": "http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8",
+            "url": "http://190.61.55.34:2401/play/a06t/index.m3u8",
             "headers": {}
         },
         {
@@ -5236,7 +5244,7 @@
             "tvg_id": "TMF.nl@HDFAST",
             "logo": "https://www.maxx-xs.nl/images/assets/3/c/3c123778ef66464786705dc4138303ec/COV/cover_l_01.png",
             "group": "Classic;Music",
-            "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8",
+            "url": "https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMzUzNGNiZTAtNWY4MS00ZmU4LWE1NGYtYjgyMjJmMTM3ZmZjIiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8",
             "headers": {}
         },
         {
@@ -5752,14 +5760,6 @@
             "headers": {}
         },
         {
-            "name": "V90 (1080p)",
-            "tvg_id": "V90.pl@SD",
-            "logo": "https://static.wikia.nocookie.net/logaekranowe/images/e/eb/V90_%282026-.n.v.%29.png/revision/latest?cb=20260129212848&path-prefix=pl",
-            "group": "Music",
-            "url": "http://57.128.231.171:8080/228/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "V Classic TV (720p)",
             "tvg_id": "VClassicTV.cl@SD",
             "logo": "https://i.imgur.com/WIACJSy.png",
@@ -6229,14 +6229,6 @@
             "logo": "https://i.imgur.com/8wbTnNW.png",
             "group": "Music",
             "url": "https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zing! (576p)",
-            "tvg_id": "Zing.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025L26R.png?lock=720x540",
-            "group": "Music",
-            "url": "http://107.167.16.138/zing/index.m3u8?token=test",
             "headers": {}
         },
         {

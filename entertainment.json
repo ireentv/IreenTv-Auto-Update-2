@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 908,
-    "last_update": "2026-10-23 05:07:19 AM",
+    "channels_amount": 897,
+    "last_update": "2026-10-23 10:11:57 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -72,14 +72,6 @@
             "headers": {}
         },
         {
-            "name": "6ter (1080p)",
-            "tvg_id": "6ter.fr@SD",
-            "logo": "https://i.imgur.com/2nd5Cox.png",
-            "group": "Entertainment",
-            "url": "http://145.239.5.177/314/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "7/8 TV",
             "tvg_id": "78TV.bg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png",
@@ -133,14 +125,6 @@
             "logo": "https://i.imgur.com/m0SuwMU.png",
             "group": "Entertainment",
             "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "13 Ulica (1080p)",
-            "tvg_id": "13Ulica.pl@SD",
-            "logo": "https://i.imgur.com/0gCNnLq.png",
-            "group": "Entertainment",
-            "url": "http://57.128.231.171:8080/325/index.m3u8",
             "headers": {}
         },
         {
@@ -304,14 +288,6 @@
             "headers": {}
         },
         {
-            "name": "AB1 (720p)",
-            "tvg_id": "AB1.fr@SD",
-            "logo": "https://i.imgur.com/9C7UsOe.png",
-            "group": "Entertainment",
-            "url": "http://145.239.5.177/332/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "ABC TV Plus (720p)",
             "tvg_id": "ABCTVPlus.au@Sydney",
             "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/ABC_TV_Plus_logo_2021.svg/500px-ABC_TV_Plus_logo_2021.svg.png",
@@ -341,14 +317,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png",
             "group": "Entertainment",
             "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0",
-            "headers": {}
-        },
-        {
-            "name": "Acasa HD",
-            "tvg_id": "Acasa.ro@HD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Acasa_2022_flat.png/960px-Acasa_2022_flat.png",
-            "group": "Entertainment",
-            "url": "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6988/index.m3u8",
             "headers": {}
         },
         {
@@ -420,7 +388,7 @@
             "tvg_id": "AguacateTV.ve@SD",
             "logo": "https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",
             "group": "Entertainment",
-            "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+            "url": "https://stream.aguacatetv.com:3949/hybrid/play.m3u8",
             "headers": {}
         },
         {
@@ -576,6 +544,14 @@
             "headers": {}
         },
         {
+            "name": "Anmol TV (720p)",
+            "tvg_id": "AnmolTV.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
+            "group": "Entertainment",
+            "url": "https://drk6xq0vhn.gpcdn.net/live/zee_anmol_abr/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "ANT1 (1080p) [Geo-blocked]",
             "tvg_id": "ANT1.gr@SD",
             "logo": "https://i.imgur.com/ItxKvVS.png",
@@ -672,11 +648,11 @@
             "headers": {}
         },
         {
-            "name": "arte (France) (720p)",
+            "name": "arte (France) (720p) [Geo-blocked]",
             "tvg_id": "arte.fr@SD",
             "logo": "https://i.imgur.com/ecXMjNl.png",
             "group": "Entertainment",
-            "url": "http://145.239.5.177/300/index.m3u8",
+            "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
             "headers": {}
         },
         {
@@ -893,22 +869,6 @@
             "logo": "https://i.imgur.com/pTiiPz0.png",
             "group": "Entertainment",
             "url": "http://23.239.31.26:8989/bbcamerica/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "BBC Brit (1080p)",
-            "tvg_id": "BBCBrit.uk@Poland",
-            "logo": "https://i.imgur.com/i4remZo.png",
-            "group": "Entertainment",
-            "url": "http://57.128.231.171:8080/309/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "BBC First (1080p)",
-            "tvg_id": "BBCFirst.uk@Poland",
-            "logo": "https://i.imgur.com/UBoBYUI.png",
-            "group": "Entertainment",
-            "url": "http://57.128.231.171:8080/306/index.m3u8",
             "headers": {}
         },
         {
@@ -1240,11 +1200,11 @@
             "headers": {}
         },
         {
-            "name": "C Star (1080p)",
+            "name": "C Star (477p)",
             "tvg_id": "CStar.fr@SD",
             "logo": "https://i.imgur.com/w4kAX1V.png",
             "group": "Entertainment",
-            "url": "http://145.239.5.177/361/index.m3u8",
+            "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8",
             "headers": {}
         },
         {
@@ -1404,7 +1364,7 @@
             "tvg_id": "Carac1.ch@SD",
             "logo": "https://i.imgur.com/TSc35U6.png",
             "group": "Entertainment",
-            "url": "http://145.239.5.177/371/index.m3u8",
+            "url": "https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8",
             "headers": {}
         },
         {
@@ -1752,11 +1712,11 @@
             "headers": {}
         },
         {
-            "name": "Crime + Investigation Polsat (1080p)",
+            "name": "Crime + Investigation Polsat (576i)",
             "tvg_id": "CrimePlusInvestigationPolsat.pl@SD",
             "logo": "https://i.imgur.com/kSZCvah.png",
             "group": "Entertainment",
-            "url": "http://57.128.231.171:8080/285/index.m3u8",
+            "url": "http://92.114.85.87:8015/play/a00d/index.m3u8",
             "headers": {}
         },
         {
@@ -1828,7 +1788,7 @@
             "tvg_id": "DDNational.in@SD",
             "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png",
             "group": "Entertainment",
-            "url": "http://107.167.16.138/ddnational/index.m3u8?token=test",
+            "url": "https://cdn.pishow.tv/ott/live/11/master.m3u8",
             "headers": {}
         },
         {
@@ -1936,14 +1896,6 @@
             "headers": {}
         },
         {
-            "name": "Discovery Channel (Poland) (1080p)",
-            "tvg_id": "DiscoveryChannel.pl@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
-            "group": "Entertainment",
-            "url": "http://57.128.231.171:8080/282/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Discovery Channel (Russia) (1080p)",
             "tvg_id": "DiscoveryChannel.ru@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
@@ -2016,15 +1968,7 @@
             "headers": {}
         },
         {
-            "name": "E! (Poland) (1080p)",
-            "tvg_id": "E.pl@SD",
-            "logo": "https://i.imgur.com/TWFDkap.png",
-            "group": "Entertainment",
-            "url": "http://57.128.231.171:8080/273/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "E! (United States) East (1080p)",
+            "name": "E! East (1080p)",
             "tvg_id": "E.us@East",
             "logo": "https://i.imgur.com/TWFDkap.png",
             "group": "Entertainment",
@@ -2240,14 +2184,6 @@
             "headers": {}
         },
         {
-            "name": "Estrella TV WMBC-TV (720p)",
-            "tvg_id": "EstrellaTV.us@WMBCTV",
-            "logo": "https://i.imgur.com/IZxjnyp.png",
-            "group": "Entertainment",
-            "url": "http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8",
-            "headers": {}
-        },
-        {
             "name": "ETB2 On (1080p)",
             "tvg_id": "ETB2On.es@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_ETB2_On_2026.svg",
@@ -2408,11 +2344,11 @@
             "headers": {}
         },
         {
-            "name": "Fox (Poland) (1080p)",
+            "name": "Fox (Poland) (576i)",
             "tvg_id": "Fox.pl@SD",
             "logo": "https://i.imgur.com/hSDN9YQ.png",
             "group": "Entertainment",
-            "url": "http://57.128.231.171:8080/249/index.m3u8",
+            "url": "http://92.114.85.87:8015/play/a00a/index.m3u8",
             "headers": {}
         },
         {
@@ -3444,7 +3380,7 @@
             "tvg_id": "LaUne.be@SD",
             "logo": "https://i.imgur.com/jMwZp7z.png",
             "group": "Entertainment",
-            "url": "http://145.239.5.177/329/index.m3u8",
+            "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
             "headers": {}
         },
         {
@@ -4101,14 +4037,6 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
             "group": "Entertainment",
             "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "MTV (Poland) (1080p)",
-            "tvg_id": "MTV.pl@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
-            "group": "Entertainment",
-            "url": "http://57.128.231.171:8080/227/index.m3u8",
             "headers": {}
         },
         {
@@ -5272,6 +5200,14 @@
             "headers": {}
         },
         {
+            "name": "Punjabi TV (720p)",
+            "tvg_id": "PunjabiTV.in@SD",
+            "logo": "https://papaji.freetvindia.com/media/PunjabiTV.png",
+            "group": "Entertainment",
+            "url": "https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Q TV (576p)",
             "tvg_id": "QTV.in@SD",
             "logo": "https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png",
@@ -5608,14 +5544,6 @@
             "headers": {}
         },
         {
-            "name": "RTL9 (720p)",
-            "tvg_id": "RTL9.lu@SD",
-            "logo": "https://i.imgur.com/nFqjVNW.png",
-            "group": "Entertainment",
-            "url": "http://145.239.5.177/308/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "RTL Otthon",
             "tvg_id": "RTLOtthon.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png",
@@ -5821,14 +5749,6 @@
             "logo": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
             "url": "http://38.96.178.205/SONYHD/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sony Marathi (576p)",
-            "tvg_id": "SonyMarathi.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540",
-            "group": "Entertainment",
-            "url": "http://107.167.16.138/sonymarathi/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -6429,14 +6349,6 @@
             "logo": "https://i.imgur.com/l0RGbRI.png",
             "group": "Entertainment",
             "url": "http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:",
-            "headers": {}
-        },
-        {
-            "name": "TNT International Belarus (1080p)",
-            "tvg_id": "TNTInternational.ru@Belarus",
-            "logo": "https://i.imgur.com/l0RGbRI.png",
-            "group": "Entertainment",
-            "url": "http://05cea6e8.ucomist.net/iptv/VK7YCHHWNDD8XC/15230/index.m3u8",
             "headers": {}
         },
         {
