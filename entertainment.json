@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 897,
-    "last_update": "2026-10-24 07:26:12 AM",
+    "channels_amount": 899,
+    "last_update": "2026-10-24 01:03:24 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -416,6 +416,14 @@
             "headers": {}
         },
         {
+            "name": "Alright! TV (1080p)",
+            "tvg_id": "AlrightTV.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/alrght.png",
+            "group": "Entertainment",
+            "url": "https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Alt Media TV",
             "tvg_id": "AltMediaTV.py@SD",
             "logo": "https://i.imgur.com/YkOgWMc.png",
@@ -648,11 +656,11 @@
             "headers": {}
         },
         {
-            "name": "arte (France) (720p) [Geo-blocked]",
+            "name": "arte (France) (720p)",
             "tvg_id": "arte.fr@SD",
             "logo": "https://i.imgur.com/ecXMjNl.png",
             "group": "Entertainment",
-            "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+            "url": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8",
             "headers": {}
         },
         {
@@ -1296,14 +1304,6 @@
             "headers": {}
         },
         {
-            "name": "Canal+ (720p)",
-            "tvg_id": "CanalPlus.fr@SD",
-            "logo": "https://i.imgur.com/5HcyMnW.png",
-            "group": "Entertainment",
-            "url": "http://151.80.18.177:86/Canal+_HD/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Canale 5 [Geo-blocked]",
             "tvg_id": "Canale5.it@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
@@ -1541,6 +1541,14 @@
             "logo": "https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cine Jomjomat (1080p)",
+            "tvg_id": "CineJomjomat.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Cine_Jomjomat.png",
+            "group": "Entertainment",
+            "url": "https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1829,6 +1837,14 @@
             "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg",
             "group": "Entertainment",
             "url": "https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Desde El Sur TV",
+            "tvg_id": "DesdeElSurTV.uy@SD",
+            "logo": "https://i.imgur.com/y3vNkEU.jpeg",
+            "group": "Entertainment",
+            "url": "https://stmv.gmpro.top/surtv/surtv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -4672,14 +4688,6 @@
             "headers": {}
         },
         {
-            "name": "ON Vie Drama (720p)",
-            "tvg_id": "ONVieDrama.vn@SD",
-            "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
-            "group": "Entertainment",
-            "url": "http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "ON Vie Giai Tri (1080p)",
             "tvg_id": "ONVieGiaiTri.vn@HD",
             "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png",
@@ -7101,6 +7109,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png",
             "group": "Entertainment",
             "url": "https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Tamil (576p) [Geo-blocked]",
+            "tvg_id": "ZeeTamil.in@SD",
+            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540",
+            "group": "Entertainment",
+            "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
             "headers": {}
         },
         {

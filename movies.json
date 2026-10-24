@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 776,
-    "last_update": "2026-10-24 07:26:12 AM",
+    "last_update": "2026-10-24 01:03:24 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -88,19 +88,11 @@
             "headers": {}
         },
         {
-            "name": "&TV (576p)",
+            "name": "&TV (720p)",
             "tvg_id": "AndTV.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a020/index.m3u8?hls",
-            "headers": {}
-        },
-        {
-            "name": "&TV HD (1080p)",
-            "tvg_id": "AndTV.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-            "group": "Movies",
-            "url": "http://202.70.146.135:8000/play/a06c/index.m3u8",
+            "url": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8",
             "headers": {}
         },
         {
@@ -376,14 +368,6 @@
             "headers": {}
         },
         {
-            "name": "AXN Asia Malaysia (1080p)",
-            "tvg_id": "AXNAsia.sg@Malaysia",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
-            "group": "Movies;Series",
-            "url": "https://2x2.me/5aE8sA",
-            "headers": {}
-        },
-        {
             "name": "AXN Asia Taiwan (1080p)",
             "tvg_id": "AXNAsia.sg@Taiwan",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
@@ -549,6 +533,14 @@
             "logo": "https://i.imgur.com/NwOQUDp.png",
             "group": "Movies",
             "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "B4U Bhojpuri Plus (1080p)",
+            "tvg_id": "B4UBhojpuri.in@Plus",
+            "logo": "https://i.imgur.com/NwOQUDp.png",
+            "group": "Movies",
+            "url": "https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8",
             "headers": {}
         },
         {
@@ -2392,14 +2384,6 @@
             "headers": {}
         },
         {
-            "name": "HBO Asia HD (1080p)",
-            "tvg_id": "HBOAsia.sg@HD",
-            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
-            "group": "Movies",
-            "url": "https://2x2.me/yTKXaE",
-            "headers": {}
-        },
-        {
             "name": "HBO Asia SD (720p) [Geo-blocked]",
             "tvg_id": "HBOAsia.sg@SD",
             "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
@@ -2421,14 +2405,6 @@
             "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png",
             "group": "Movies;Series",
             "url": "http://tvsen7.aynascope.net/hbo2/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "HBO Hits Asia HD (1080p)",
-            "tvg_id": "HBOHitsAsia.sg@HD",
-            "logo": "https://i.imgur.com/CTjmocc.png",
-            "group": "Movies",
-            "url": "https://2x2.me/BbwzPx",
             "headers": {}
         },
         {
@@ -2933,6 +2909,14 @@
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png",
             "group": "Movies",
             "url": "https://cdn.pishow.tv/ott/live/10007/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Mahua Play (1080p)",
+            "tvg_id": "MahuaPlay.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png",
+            "group": "Movies",
+            "url": "https://cdn.ottlive.co.in/mahuaplay/index.m3u8",
             "headers": {}
         },
         {
@@ -5312,6 +5296,14 @@
             "headers": {}
         },
         {
+            "name": "Sonar Bangla (360p)",
+            "tvg_id": "SonarBangla.in@SD",
+            "logo": "https://papaji.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png",
+            "group": "Movies",
+            "url": "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Soneri Cinema (360p)",
             "tvg_id": "SoneriCinema.in@SD",
             "logo": "https://papaji.freetvindia.com/media/1056_FreeTV_Soneri_Cinema.png",
@@ -6181,6 +6173,14 @@
             "logo": "https://i.imgur.com/Bgz7p5F.png",
             "group": "Movies",
             "url": "http://stream.mcquack.net/380/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "ZB Cinema (1080p)",
+            "tvg_id": "ZBCinema.in@HD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png",
+            "group": "Classic;Movies",
+            "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
             "headers": {}
         },
         {

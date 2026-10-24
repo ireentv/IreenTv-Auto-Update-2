@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 430,
-    "last_update": "2026-10-24 07:26:12 AM",
+    "channels_amount": 431,
+    "last_update": "2026-10-24 01:03:24 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1253,6 +1253,14 @@
             "logo": "https://i.imgur.com/xfVHrKQ.png",
             "group": "Animation;Kids",
             "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Green Gold TV (1080p)",
+            "tvg_id": "GreenGoldTV.in@India",
+            "logo": "https://i.ibb.co/TDPsPVkT/Greengoldtv.png",
+            "group": "Kids",
+            "url": "https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8",
             "headers": {}
         },
         {
