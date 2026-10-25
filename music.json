@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 787,
-    "last_update": "2026-10-25 06:55:58 AM",
+    "channels_amount": 790,
+    "last_update": "2026-10-25 11:52:26 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -4112,6 +4112,14 @@
             "headers": {}
         },
         {
+            "name": "Radio Romania Iasi (576i) [Not 24/7]",
+            "tvg_id": "RadioRomaniaIasi.ro@SD",
+            "logo": "https://www.radioiasi.ro/wp-content/themes/radioiasi/images/custom/logo-iasi.svg",
+            "group": "General;Music",
+            "url": "https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Radio Romania Oltenia-Craiova (576p) [Not 24/7]",
             "tvg_id": "RadioRomaniaOlteniaCraiova.ro@SD",
             "logo": "https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png",
@@ -4293,6 +4301,14 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TELUGU/images/LOGO_HD/image.png",
             "group": "Music",
             "url": "https://cdn.pishow.tv/ott/live/1213/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Ranchenato TV (1080p)",
+            "tvg_id": "RanchenatoTV.co@SD",
+            "logo": "https://i.imgur.com/TCv5NqN.png",
+            "group": "Music",
+            "url": "http://181.78.12.119:16123/play/ch15/index.m3u8",
             "headers": {}
         },
         {
@@ -5664,11 +5680,19 @@
             "headers": {}
         },
         {
-            "name": "TV AS (576p)",
+            "name": "TV AS",
             "tvg_id": "TVAS.ro@SD",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631",
             "group": "Music",
-            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-tv-as/live_hq?offsetSeconds=0",
+            "url": "https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "TV Bozsike Hamburg HD (1080p)",
+            "tvg_id": "TVBozsikeHamburgHD.de@HD",
+            "logo": "https://radiobozsike.com/img/icons/android-chrome-512x512.png",
+            "group": "Music",
+            "url": "https://rtmp.radiobozsike.com/hls/stream1.m3u8",
             "headers": {}
         },
         {

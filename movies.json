@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 776,
-    "last_update": "2026-10-25 06:55:58 AM",
+    "last_update": "2026-10-25 11:52:26 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1304,11 +1304,11 @@
             "headers": {}
         },
         {
-            "name": "CineWow (576p)",
+            "name": "CineWow",
             "tvg_id": "CineWow.ro@SD",
             "logo": "https://cdn.gamma.app/tfnglu66dwji8hw/d36b2d5c45a544749b3739d46fb119cc/original/CineWow.png",
             "group": "Movies",
-            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-aleph-news/live_hq?offsetSeconds=0",
+            "url": "https://hls02ns.antenaplay.ro/hls/bollywood-clasic-sd/index.m3u8",
             "headers": {}
         },
         {
@@ -2333,6 +2333,14 @@
             "logo": "https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png",
             "group": "Movies",
             "url": "https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709",
+            "headers": {}
+        },
+        {
+            "name": "Halloween Non Stop (720p)",
+            "tvg_id": "HalloweenNonStop.ro@SD",
+            "logo": "https://assets.antenaplay.ro/2026/10/18/ODGTMKI8mciV9cmCOxgn.png",
+            "group": "Movies",
+            "url": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8",
             "headers": {}
         },
         {
@@ -5320,27 +5328,11 @@
             "headers": {}
         },
         {
-            "name": "Sony Max 1",
-            "tvg_id": "SonyMax1.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/s179440_ld_h15_aa.png?lock=720x540",
-            "group": "Movies",
-            "url": "http://27.116.22.53:5001/live/3418.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sony Max (576p) [Geo-blocked]",
-            "tvg_id": "SonyMax.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
-            "group": "Movies",
-            "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-            "headers": {}
-        },
-        {
             "name": "Sony Max HD (1080p)",
             "tvg_id": "SonyMax.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
             "group": "Movies",
-            "url": "http://103.185.24.134:3001/SonyMAX/index.m3u8",
+            "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -5741,6 +5733,14 @@
             "logo": "https://i.imgur.com/BHYWG0h.png",
             "group": "Movies",
             "url": "http://46.151.196.223:14326/",
+            "headers": {}
+        },
+        {
+            "name": "TF1 Series Films",
+            "tvg_id": "TF1SeriesFilms.fr@SD",
+            "logo": "https://i.imgur.com/4CJIDKQ.png",
+            "group": "Movies",
+            "url": "http://149.62.177.107:9999/TF1_Series_Films/index.m3u8",
             "headers": {}
         },
         {

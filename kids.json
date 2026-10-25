@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 431,
-    "last_update": "2026-10-25 06:55:58 AM",
+    "last_update": "2026-10-25 11:52:26 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -221,6 +221,14 @@
             "logo": "https://i.imgur.com/4BDJ5FT.png",
             "group": "Kids",
             "url": "http://38.44.109.41:8003/play/a0eh",
+            "headers": {}
+        },
+        {
+            "name": "BabyTV Turkiye [Geo-blocked]",
+            "tvg_id": "BabyTV.uk@Turkiye",
+            "logo": "https://i.imgur.com/4BDJ5FT.png",
+            "group": "Kids",
+            "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
             "headers": {}
         },
         {
@@ -1148,15 +1156,7 @@
             "tvg_id": "France4.fr@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
             "group": "Kids",
-            "url": "http://176.65.146.100:8047/play/a074/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "France 4 HD (1080p)",
-            "tvg_id": "France4.fr@HD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png",
-            "group": "Kids",
-            "url": "https://sv1.data-stream.top/8c0a287e56a6e1843143904778be3775b4d3edd4fba4ffcc3f72638c7a71d4d4/hls/francetv4.m3u8",
+            "url": "http://149.62.177.107:9999/France_4/index.m3u8",
             "headers": {}
         },
         {
