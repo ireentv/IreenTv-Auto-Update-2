@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 899,
-    "last_update": "2026-10-26 05:59:12 AM",
+    "channels_amount": 900,
+    "last_update": "2026-10-26 10:33:29 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -69,6 +69,14 @@
             "logo": "https://i.imgur.com/Pi7so2l.png",
             "group": "Entertainment",
             "url": "https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "6ter",
+            "tvg_id": "6ter.fr@SD",
+            "logo": "https://i.imgur.com/2nd5Cox.png",
+            "group": "Entertainment",
+            "url": "http://149.62.177.107:9999/6ter/index.m3u8",
             "headers": {}
         },
         {
@@ -820,7 +828,7 @@
             "tvg_id": "AXNWhite.us@CzechRepublic",
             "logo": "https://i.imgur.com/47IKxmt.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/test_white/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_white/playlist.m3u8",
             "headers": {}
         },
         {
@@ -892,7 +900,7 @@
             "tvg_id": "BBCFirst.uk@Turkiye",
             "logo": "https://i.imgur.com/UBoBYUI.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/bbc_first/index.m3u8",
+            "url": "http://88.212.7.14/live/bbc_first/index.m3u8",
             "headers": {}
         },
         {
@@ -1716,7 +1724,7 @@
             "tvg_id": "CrimePlusInvestigationCEE.uk@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/test_cai_hevc/playlist.m3u8",
+            "url": "http://88.212.7.14/live/test_cai_hevc/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1876,7 +1884,7 @@
             "tvg_id": "DiscoveryChannel.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/discovery_hungary/index.m3u8",
+            "url": "http://88.212.7.14/live/discovery_hungary/index.m3u8",
             "headers": {}
         },
         {
@@ -2308,7 +2316,7 @@
             "tvg_id": "FEM3.hu@SD",
             "logo": "https://i.imgur.com/AF4Sz8Z.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8",
+            "url": "http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -3044,7 +3052,7 @@
             "tvg_id": "IzauraTV.hu@SD",
             "logo": "https://i.imgur.com/p9YFnpw.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/izaura/index.m3u8",
+            "url": "http://88.212.7.14/live/izaura/index.m3u8",
             "headers": {}
         },
         {
@@ -3148,7 +3156,7 @@
             "tvg_id": "JockyTV.hu@SD",
             "logo": "https://i.imgur.com/wLawFVP.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/jocky/index.m3u8",
+            "url": "http://88.212.7.14/live/jocky/index.m3u8",
             "headers": {}
         },
         {
@@ -3460,7 +3468,7 @@
             "tvg_id": "LifeTV.hu@SD",
             "logo": "https://i.imgur.com/3znYv1N.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/lifetv/index.m3u8",
+            "url": "http://88.212.7.14/live/lifetv/index.m3u8",
             "headers": {}
         },
         {
@@ -3596,7 +3604,7 @@
             "tvg_id": "M2.hu@SD",
             "logo": "https://i.imgur.com/B0nYT0l.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/m2_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/m2_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -4004,7 +4012,7 @@
             "tvg_id": "Moziklub.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Moziklub.svg/1920px-Moziklub.svg.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/moziklub_atk/index.m3u8",
+            "url": "http://88.212.7.14/live/moziklub_atk/index.m3u8",
             "headers": {}
         },
         {
@@ -4696,6 +4704,14 @@
             "headers": {}
         },
         {
+            "name": "ON Vie Dramas (1080i)",
+            "tvg_id": "ONVieDramas.vn@SD",
+            "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
+            "group": "Entertainment",
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=177",
+            "headers": {}
+        },
+        {
             "name": "ON Vie Giai Tri (1080p)",
             "tvg_id": "ONVieGiaiTri.vn@HD",
             "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png",
@@ -4724,7 +4740,7 @@
             "tvg_id": "OTV.ee@SD",
             "logo": "https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/otv/playlist.m3u8",
+            "url": "http://88.212.7.14/live/otv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -5564,7 +5580,7 @@
             "tvg_id": "RTLOtthon.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/rtl_otthon_atk/index.m3u8",
+            "url": "http://88.212.7.14/live/rtl_otthon_atk/index.m3u8",
             "headers": {}
         },
         {
@@ -5637,14 +5653,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SBS_6_logo_2013.png",
             "group": "Entertainment",
             "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "SciFi (720p)",
-            "tvg_id": "SciFi.fr@HD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d1/SciFi_2026.svg",
-            "group": "Entertainment",
-            "url": "http://41.205.93.154/SYFY/index.m3u8",
             "headers": {}
         },
         {
@@ -5796,7 +5804,7 @@
             "tvg_id": "Sorozatklub.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/sorozatklub_atk/index.m3u8",
+            "url": "http://88.212.7.14/live/sorozatklub_atk/index.m3u8",
             "headers": {}
         },
         {
@@ -5812,7 +5820,7 @@
             "tvg_id": "SpektrumHome.cz@SD",
             "logo": "https://i.imgur.com/VaVi65F.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/test_home_hevc/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_home_hevc/playlist.m3u8",
             "headers": {}
         },
         {
@@ -5820,7 +5828,7 @@
             "tvg_id": "SpektrumHome.hu@SD",
             "logo": "https://i.imgur.com/VaVi65F.png",
             "group": "Entertainment",
-            "url": "http://88.212.15.17/live/spektrum_home_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/spektrum_home_hun/index.m3u8",
             "headers": {}
         },
         {

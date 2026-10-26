@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 431,
-    "last_update": "2026-10-26 05:59:12 AM",
+    "channels_amount": 433,
+    "last_update": "2026-10-26 10:33:29 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -336,8 +336,8 @@
             "headers": {}
         },
         {
-            "name": "Boing (Italy) (720p)",
-            "tvg_id": "Boing.it@SD",
+            "name": "Boing (Italy) HD (1080p)",
+            "tvg_id": "Boing.it@HD",
             "logo": "https://i.imgur.com/rabKj9i.png",
             "group": "Kids",
             "url": "https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8",
@@ -492,7 +492,7 @@
             "tvg_id": "CartoonNetworkCEE.uk@CzechRepublic",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
-            "url": "http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8",
+            "url": "http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8",
             "headers": {}
         },
         {
@@ -552,6 +552,14 @@
             "headers": {}
         },
         {
+            "name": "Cartoonito HD (720p)",
+            "tvg_id": "Cartoonito.it@HD",
+            "logo": "https://i.imgur.com/6vYWCD0.png",
+            "group": "Animation;Kids",
+            "url": "https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Cartoonito Asia (720p)",
             "tvg_id": "CartoonitoAsia.sg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png",
@@ -564,7 +572,7 @@
             "tvg_id": "CartoonitoCEE.uk@Czechia",
             "logo": "https://i.imgur.com/9MrzLb1.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/test_boomerang_tizen/playlist.m3u8",
+            "url": "http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8",
             "headers": {}
         },
         {
@@ -692,7 +700,7 @@
             "tvg_id": "CTDecko.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C4%8CT-D_logo.svg/960px-%C4%8CT-D_logo.svg.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/ct_art_avc_25p/playlist.m3u8",
+            "url": "http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8",
             "headers": {}
         },
         {
@@ -812,7 +820,7 @@
             "tvg_id": "DisneyChannel.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/test_disney/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_disney/playlist.m3u8",
             "headers": {}
         },
         {
@@ -824,11 +832,19 @@
             "headers": {}
         },
         {
+            "name": "Disney Channel (Germany) HD",
+            "tvg_id": "DisneyChannel.de@HD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+            "group": "Kids",
+            "url": "http://109.85.181.77:9981/stream/channelid/652495718?profile=pass",
+            "headers": {}
+        },
+        {
             "name": "Disney Channel (Hungary)",
             "tvg_id": "DisneyChannel.hu@SD",
             "logo": "https://i.imgur.com/aOa73uT.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/disney_channel_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/disney_channel_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -980,7 +996,7 @@
             "tvg_id": "DisneyJunior.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/test_disney_junior/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_disney_junior/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1008,11 +1024,19 @@
             "headers": {}
         },
         {
-            "name": "Disney XD (576p)",
+            "name": "Disney XD (Poland) (576p)",
             "tvg_id": "DisneyXD.pl@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
             "group": "Kids",
             "url": "http://185.227.34.179:8080/disney-xd/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Disney XD (United States) (1080p)",
+            "tvg_id": "DisneyXD.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
+            "group": "Kids",
+            "url": "http://89.187.179.148:826/1368/gXwiagaXda/1672",
             "headers": {}
         },
         {
@@ -1404,7 +1428,7 @@
             "tvg_id": "JimJam.hu@SD",
             "logo": "https://i.imgur.com/ODhkYyx.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/jim_jam_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/jim_jam_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -1532,7 +1556,7 @@
             "tvg_id": "Kolyokklub.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/kolyokklub_atk/index.m3u8",
+            "url": "http://88.212.7.14/live/kolyokklub_atk/index.m3u8",
             "headers": {}
         },
         {
@@ -1660,7 +1684,7 @@
             "tvg_id": "Minimax.hu@SD",
             "logo": "https://i.imgur.com/WWOlm1x.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/minimax_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/minimax_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -1684,7 +1708,7 @@
             "tvg_id": "MinimaxCEE.cz@SD",
             "logo": "https://i.imgur.com/WWOlm1x.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/test_minimax/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_minimax/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1812,7 +1836,7 @@
             "tvg_id": "NickJr.cz@SD",
             "logo": "https://i.imgur.com/KT4tdQs.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/test_nick_jr/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_nick_jr/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1820,7 +1844,7 @@
             "tvg_id": "NickJr.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/nick_junior_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/nick_junior_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -1948,7 +1972,7 @@
             "tvg_id": "Nickelodeon.cz@SD",
             "logo": "https://i.imgur.com/E84jnP8.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/test_nickelodeon_hevc_25p/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1972,7 +1996,7 @@
             "tvg_id": "Nickelodeon.hu@SD",
             "logo": "https://i.imgur.com/fXs8f6a.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
+            "url": "http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2144,19 +2168,11 @@
             "headers": {}
         },
         {
-            "name": "NickOnline Bob Esponja (720p) [Not 24/7]",
-            "tvg_id": "NickOnlineBobEsponja.br@HD",
-            "logo": "https://x1colegal.com/nickonlinebobesponja.png",
-            "group": "Animation;Kids",
-            "url": "https://bob.x1colegal.com/hls/stream.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Nicktoons (Czech Republic)",
             "tvg_id": "Nicktoons.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/test_nicktoons/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_nicktoons/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2164,7 +2180,7 @@
             "tvg_id": "Nicktoons.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/nicktoons_hungary/index.m3u8",
+            "url": "http://88.212.7.14/live/nicktoons_hungary/index.m3u8",
             "headers": {}
         },
         {
@@ -2260,7 +2276,7 @@
             "tvg_id": "O.ru@International",
             "logo": "https://i.imgur.com/pDc665V.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/test_telekanal_o/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_telekanal_o/playlist.m3u8",
             "headers": {}
         },
         {
@@ -3268,7 +3284,7 @@
             "tvg_id": "TV2Kids.hu@SD",
             "logo": "https://i.imgur.com/Zltlezm.png",
             "group": "Kids",
-            "url": "http://88.212.15.17/live/tv2_kids/index.m3u8",
+            "url": "http://88.212.7.14/live/tv2_kids/index.m3u8",
             "headers": {}
         },
         {

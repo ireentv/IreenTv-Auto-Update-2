@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 254,
-    "last_update": "2026-10-26 05:59:12 AM",
+    "last_update": "2026-10-26 10:33:29 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -180,7 +180,7 @@
             "tvg_id": "BBCEarth.uk@Czechia",
             "logo": "https://i.imgur.com/nGSsUd4.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/test_bbc_eartch_hevc/playlist.m3u8",
+            "url": "http://88.212.7.14/live/test_bbc_eartch_hevc/playlist.m3u8",
             "headers": {}
         },
         {
@@ -188,7 +188,7 @@
             "tvg_id": "BBCEarth.uk@Hungary",
             "logo": "https://i.imgur.com/nGSsUd4.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/bbce_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/bbce_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -372,7 +372,7 @@
             "tvg_id": "CT2.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/test_ct2_25p/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_ct2_25p/playlist.m3u8",
             "headers": {}
         },
         {
@@ -492,7 +492,7 @@
             "tvg_id": "Dvojka.sk@SD",
             "logo": "https://i.imgur.com/ft10wQn.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/test_dvojka_25p/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8",
             "headers": {}
         },
         {
@@ -636,7 +636,7 @@
             "tvg_id": "History.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/test_history/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_history/playlist.m3u8",
             "headers": {}
         },
         {
@@ -644,7 +644,7 @@
             "tvg_id": "History.hu@SD",
             "logo": "https://i.imgur.com/OWIK7FJ.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/history_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/history_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -772,7 +772,7 @@
             "tvg_id": "InvestigationDiscovery.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/id_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/id_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -980,7 +980,7 @@
             "tvg_id": "NationalGeographic.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/test_ngc/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_ngc/playlist.m3u8",
             "headers": {}
         },
         {
@@ -996,7 +996,7 @@
             "tvg_id": "NationalGeographic.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/ngc_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/ngc_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -1092,7 +1092,7 @@
             "tvg_id": "NationalGeographicWild.cz@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/test_ngw/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_ngw/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1100,7 +1100,7 @@
             "tvg_id": "NationalGeographicWild.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/ngw_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/ngw_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -1764,7 +1764,7 @@
             "tvg_id": "Spektrum.cz@SD",
             "logo": "https://i.imgur.com/F5Uosum.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/test_spektrum/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_spektrum/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1772,7 +1772,7 @@
             "tvg_id": "Spektrum.hu@SD",
             "logo": "https://i.imgur.com/GmFRQ82.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/spektrum_hun/index.m3u8",
+            "url": "http://88.212.7.14/live/spektrum_hun/index.m3u8",
             "headers": {}
         },
         {
@@ -1884,7 +1884,7 @@
             "tvg_id": "ViasatExplore.cz@SD",
             "logo": "https://i.imgur.com/DyT5pKB.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/test_viasat_explore_atk_tv/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1916,7 +1916,7 @@
             "tvg_id": "ViasatHistory.cz@SD",
             "logo": "https://i.imgur.com/wRP9XA7.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/test_viasat_history_atk_tv/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1964,7 +1964,7 @@
             "tvg_id": "ViasatNature.cz@SD",
             "logo": "https://i.imgur.com/ousRqqD.png",
             "group": "Documentary",
-            "url": "http://88.212.15.17/live/test_viasat_nature_atk_tv/playlist.m3u8",
+            "url": "http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8",
             "headers": {}
         },
         {

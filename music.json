@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 790,
-    "last_update": "2026-10-26 05:59:12 AM",
+    "channels_amount": 786,
+    "last_update": "2026-10-26 10:33:29 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1152,14 +1152,6 @@
             "headers": {}
         },
         {
-            "name": "Disco Mix (576p)",
-            "tvg_id": "DiscoMix.ro@SD",
-            "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
-            "group": "Music",
-            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-disco-mix/live_hq?offsetSeconds=0",
-            "headers": {}
-        },
-        {
             "name": "Disco Polo Music (1080p)",
             "tvg_id": "DiscoPoloMusic.pl@SD",
             "logo": "https://i.imgur.com/ZZbuTv7.png",
@@ -1256,19 +1248,11 @@
             "headers": {}
         },
         {
-            "name": "EMI TV",
+            "name": "EMI TV (576i)",
             "tvg_id": "EMITV.ro@SD",
             "logo": "https://i.imgur.com/B5zssCz.png",
             "group": "Music",
-            "url": "https://astra.emitv.ro/hls/emi/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "EMI TV HD (1080i)",
-            "tvg_id": "EMITV.ro@HD",
-            "logo": "https://i.imgur.com/B5zssCz.png",
-            "group": "Music",
-            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-emi/live_hq?offsetSeconds=0",
+            "url": "https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8",
             "headers": {}
         },
         {
@@ -1680,19 +1664,11 @@
             "headers": {}
         },
         {
-            "name": "H!t Music Channel (Hungary) (480p)",
+            "name": "H!t Music Channel (480p)",
             "tvg_id": "HtMusicChannel.hu@SD",
             "logo": "https://i.imgur.com/sqC2hqV.png",
             "group": "Music",
             "url": "http://hitmusic.hu/hitmusic.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "H!t Music Channel (Romania)",
-            "tvg_id": "HtMusicChannel.ro@SD",
-            "logo": "https://i.imgur.com/sqC2hqV.png",
-            "group": "Music",
-            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-mooz-dance/live_hq?offsetSeconds=0",
             "headers": {}
         },
         {
@@ -2948,7 +2924,7 @@
             "tvg_id": "MusicBoxClassic.cz@SD",
             "logo": "https://musicboxclassic.com/music_box_classic_logo.png",
             "group": "Music",
-            "url": "http://88.212.15.17/live/mb_classic/index.m3u8",
+            "url": "http://88.212.15.50/live/mb_classic/index.m3u8",
             "headers": {}
         },
         {
@@ -2956,7 +2932,7 @@
             "tvg_id": "MusicBoxDance.cz@SD",
             "logo": "https://musicboxdance.com/music_box_dance_logo.png",
             "group": "Music",
-            "url": "http://88.212.15.17/live/mb_dance/index.m3u8",
+            "url": "http://88.212.15.50/live/mb_dance/index.m3u8",
             "headers": {}
         },
         {
@@ -2964,7 +2940,7 @@
             "tvg_id": "MusicBoxHits.cz@SD",
             "logo": "https://musicboxhits.com/music_box_hits_logo.png",
             "group": "Music",
-            "url": "http://88.212.15.17/live/mb_hits/index.m3u8",
+            "url": "http://88.212.15.50/live/mb_hits/index.m3u8",
             "headers": {}
         },
         {
@@ -2980,15 +2956,7 @@
             "tvg_id": "MusicBoxSexy.cz@SD",
             "logo": "https://musicboxsexy.com/music_box_sexy_logo.png",
             "group": "Music",
-            "url": "http://88.212.15.17/live/mb_sexy/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Music Channel SD",
-            "tvg_id": "MusicChannel.ro@SD",
-            "logo": "https://i.imgur.com/nadVCxM.png",
-            "group": "Music",
-            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-ncn/live_hq?offsetSeconds=0",
+            "url": "http://88.212.15.50/live/mb_sexy/index.m3u8",
             "headers": {}
         },
         {
@@ -3060,7 +3028,7 @@
             "tvg_id": "MuzsikaTV.hu@SD",
             "logo": "https://i.imgur.com/kmQ5vYC.png",
             "group": "Music",
-            "url": "http://88.212.15.17/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
+            "url": "http://88.212.7.14/live/test_muzsika_hungary_1200_atk/playlist.m3u8",
             "headers": {}
         },
         {
@@ -3440,11 +3408,11 @@
             "headers": {}
         },
         {
-            "name": "Orizont TV (576p)",
+            "name": "Orizont TV (576i)",
             "tvg_id": "OrizontTV.ro@SD",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",
             "group": "Music",
-            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-orizont-tv/live_hq?offsetSeconds=0",
+            "url": "https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8",
             "headers": {}
         },
         {
@@ -4716,7 +4684,7 @@
             "tvg_id": "SlagerTV.hu@SD",
             "logo": "https://i.imgur.com/qDNRgSQ.png",
             "group": "Music",
-            "url": "http://88.212.15.17/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
+            "url": "http://88.212.7.14/live/test_slager_tv_hungary_1200_atk/playlist.m3u8",
             "headers": {}
         },
         {
