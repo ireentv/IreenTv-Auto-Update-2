@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 434,
-    "last_update": "2026-10-28 05:41:40 AM",
+    "channels_amount": 435,
+    "last_update": "2026-10-28 10:59:41 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -472,11 +472,11 @@
             "headers": {}
         },
         {
-            "name": "Cartoon Network (United States) (720p)",
+            "name": "Cartoon Network (United States) (720p) [Geo-blocked]",
             "tvg_id": "CartoonNetwork.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
-            "url": "http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8",
+            "url": "http://212.5.144.156:8080/cartoon/index.m3u8",
             "headers": {}
         },
         {
@@ -1364,7 +1364,7 @@
             "tvg_id": "HungamaTV.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
             "group": "Kids",
-            "url": "http://103.185.24.134:3001/HUNGAMA/index.m3u8",
+            "url": "http://66.102.126.10:8000/play/a023/index.m3u8",
             "headers": {}
         },
         {
@@ -1788,7 +1788,7 @@
             "tvg_id": "Multimuzyka.ru@SD",
             "logo": "https://i.imgur.com/SYt6BZP.png",
             "group": "Kids",
-            "url": "http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8",
+            "url": "http://stream.mcquack.net/82/index.m3u8",
             "headers": {}
         },
         {
@@ -1960,11 +1960,11 @@
             "headers": {}
         },
         {
-            "name": "Nickelodeon (Bulgaria) (576p)",
+            "name": "Nickelodeon (Bulgaria)",
             "tvg_id": "Nickelodeon.bg@SD",
             "logo": "https://i.imgur.com/E84jnP8.png",
             "group": "Kids",
-            "url": "http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8",
+            "url": "http://213.91.179.28:8000/play/a056",
             "headers": {}
         },
         {
@@ -3144,6 +3144,14 @@
             "headers": {}
         },
         {
+            "name": "Tooncast Argentina (720p)",
+            "tvg_id": "Tooncast.us@Argentina",
+            "logo": "https://i.imgur.com/3yXRbQy.png",
+            "group": "Animation;Kids",
+            "url": "http://45.134.141.161:2200/ARG/Tooncast/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Tooncast SouthAmerica (480p)",
             "tvg_id": "Tooncast.us@SouthAmerica",
             "logo": "https://i.imgur.com/3yXRbQy.png",
@@ -3236,7 +3244,7 @@
             "tvg_id": "TraLaLaDSN.ro@SD",
             "logo": "https://tralaladsn.ro/assets/identity/logo.svg",
             "group": "Kids",
-            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0",
+            "url": "https://hls01ns.antenaplay.ro/hls/tralala-desene-animate-hd/index.m3u8",
             "headers": {}
         },
         {

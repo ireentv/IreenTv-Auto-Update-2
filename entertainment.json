@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 900,
-    "last_update": "2026-10-28 05:41:40 AM",
+    "channels_amount": 904,
+    "last_update": "2026-10-28 10:59:41 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1944,6 +1944,14 @@
             "headers": {}
         },
         {
+            "name": "Discovery Channel Latin America Brazil (720p)",
+            "tvg_id": "DiscoveryChannelLatinAmerica.us@Brazil",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+            "group": "Entertainment",
+            "url": "http://45.162.64.114/DISCOVERY_CHANNEL/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Discovery World (1080p)",
             "tvg_id": "DiscoveryWorld.us@LatinAmerica",
             "logo": "https://i.imgur.com/yNFmUkE.png",
@@ -2728,6 +2736,22 @@
             "headers": {}
         },
         {
+            "name": "GTC Punjabi UK (1080p)",
+            "tvg_id": "GTCPunjabi.in@UK",
+            "logo": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
+            "group": "Entertainment",
+            "url": "https://neotv.ottlive.co.in/gtcpunjabiuk/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "GTC Punjabi US (1080p)",
+            "tvg_id": "GTCPunjabi.in@US",
+            "logo": "https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg",
+            "group": "Entertainment",
+            "url": "https://neotv.ottlive.co.in/gtcpunjabiusa/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "GTV (Guatemala) (768p) [Not 24/7]",
             "tvg_id": "GTV.gt@SD",
             "logo": "https://i.imgur.com/gUiIC8E.png",
@@ -2960,6 +2984,14 @@
             "headers": {}
         },
         {
+            "name": "INSP (720p)",
+            "tvg_id": "INSP.us@SD",
+            "logo": "https://i.imgur.com/YgOC51j.png",
+            "group": "Entertainment",
+            "url": "https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Insula non stop (576i)",
             "tvg_id": "Insulanonstop.ro@SD",
             "logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
@@ -3168,6 +3200,14 @@
             "headers": {}
         },
         {
+            "name": "Justice Central TV (720p)",
+            "tvg_id": "JusticeCentralTV.us@SD",
+            "logo": "https://i.imgur.com/peuHszg.png",
+            "group": "Entertainment",
+            "url": "https://a-cdn.klowdtv.com/live2/justicecentral_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "K1 (1080p)",
             "tvg_id": "K1.ua@SD",
             "logo": "https://i.imgur.com/uuRGpEn.png",
@@ -3288,14 +3328,6 @@
             "headers": {}
         },
         {
-            "name": "Kluch (576p)",
-            "tvg_id": "Kluch.ru@SD",
-            "logo": "https://i.imgur.com/WA9TOPi.png",
-            "group": "Entertainment",
-            "url": "http://hls127.freeott.top:8080/Kluch/video.m3u8",
-            "headers": {}
-        },
-        {
             "name": "KMCT-TV 39.1",
             "tvg_id": "KMCTTV391.us@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/en/d/d9/KMCT_Monroe%27s_Christian_Television_logo.png",
@@ -3397,14 +3429,6 @@
             "logo": "https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png",
             "group": "Entertainment",
             "url": "http://181.78.8.199:8000/play/a0fs/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "La Une (720p)",
-            "tvg_id": "LaUne.be@SD",
-            "logo": "https://i.imgur.com/jMwZp7z.png",
-            "group": "Entertainment",
-            "url": "http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg",
             "headers": {}
         },
         {
@@ -4000,11 +4024,11 @@
             "headers": {}
         },
         {
-            "name": "Movistar Plus (1080p)",
+            "name": "Movistar Plus (576p)",
             "tvg_id": "MovistarPlus.pe@SD",
             "logo": "https://i.imgur.com/yGQGDoi.png",
             "group": "Entertainment",
-            "url": "http://200.62.239.170:830/play/a08z/index.m3u8",
+            "url": "http://45.4.1.201:8000/play/a19y/index.m3u8",
             "headers": {}
         },
         {
@@ -4928,6 +4952,14 @@
             "headers": {}
         },
         {
+            "name": "Pets.TV (720p)",
+            "tvg_id": "PetsTV.us@SD",
+            "logo": "https://i.imgur.com/qPqQmYo.png",
+            "group": "Entertainment",
+            "url": "https://a-cdn.klowdtv.com/live2/petstv_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Pimp My Ride",
             "tvg_id": "PimpMyRide.se@SE",
             "logo": "https://images.pluto.tv/channels/61c091343bf4940007803e03/colorLogoPNG.png",
@@ -5244,7 +5276,7 @@
             "tvg_id": "QTV.in@SD",
             "logo": "https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png",
             "group": "Entertainment",
-            "url": "https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8",
+            "url": "https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8",
             "headers": {}
         },
         {

@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 254,
-    "last_update": "2026-10-28 05:41:40 AM",
+    "last_update": "2026-10-28 10:59:41 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -820,7 +820,7 @@
             "tvg_id": "Istoriya.ru@SD",
             "logo": "https://i.imgur.com/eEjPail.png",
             "group": "Documentary",
-            "url": "http://hls127.freeott.top:8080/Istoriya/video.m3u8",
+            "url": "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv",
             "headers": {}
         },
         {
@@ -960,11 +960,11 @@
             "headers": {}
         },
         {
-            "name": "National Geographic (Bulgaria) (1080p)",
+            "name": "National Geographic (Bulgaria)",
             "tvg_id": "NationalGeographic.bg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
-            "url": "http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8",
+            "url": "http://213.91.179.28:8000/play/a0ct",
             "headers": {}
         },
         {
@@ -1080,11 +1080,11 @@
             "headers": {}
         },
         {
-            "name": "National Geographic Wild (Bulgaria) (1080p)",
+            "name": "National Geographic Wild (Bulgaria)",
             "tvg_id": "NationalGeographicWild.bg@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
-            "url": "http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8",
+            "url": "http://213.91.179.28:8000/play/a0cu",
             "headers": {}
         },
         {
@@ -1120,11 +1120,11 @@
             "headers": {}
         },
         {
-            "name": "National Geographic Wild (Russia) (1080p)",
+            "name": "National Geographic Wild (Russia) (576p)",
             "tvg_id": "NationalGeographicWild.ru@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
-            "url": "http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8",
+            "url": "https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv",
             "headers": {}
         },
         {

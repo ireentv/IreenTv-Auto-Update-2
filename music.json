@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 785,
-    "last_update": "2026-10-28 05:41:40 AM",
+    "channels_amount": 781,
+    "last_update": "2026-10-28 10:59:41 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -504,11 +504,11 @@
             "headers": {}
         },
         {
-            "name": "Balle Balle (576p)",
+            "name": "Balle Balle (1080p)",
             "tvg_id": "BalleBalle.in@SD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",
             "group": "Music",
-            "url": "https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8",
+            "url": "https://mcncdndigital.com/worldpunjabitv/index.m3u8",
             "headers": {}
         },
         {
@@ -1408,14 +1408,6 @@
             "headers": {}
         },
         {
-            "name": "Favorit TV2",
-            "tvg_id": "FavoritTV2.ro@SD",
-            "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a4/Favorit_TV_2_2026.png/revision/latest/scale-to-width-down/1000?cb=20260611201305",
-            "group": "Music",
-            "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-canal-33/live_hq?offsetSeconds=0",
-            "headers": {}
-        },
-        {
             "name": "Fiesta TV",
             "tvg_id": "FiestaTV.co@SD",
             "logo": "https://i.imgur.com/42wImV2.png",
@@ -1444,7 +1436,7 @@
             "tvg_id": "FirstMusicChannelRussia.by@SD",
             "logo": "https://i.imgur.com/rEo7nR1.png",
             "group": "Music",
-            "url": "http://hls127.freeott.top:8080/1muz_HD/video.m3u8",
+            "url": "http://rtmp.one.by:2300",
             "headers": {}
         },
         {
@@ -1781,6 +1773,14 @@
             "logo": "https://i.imgur.com/NlKFNHS.png",
             "group": "Music",
             "url": "http://45.171.64.30:6060/play/a012/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "HTV Argentina (720p)",
+            "tvg_id": "HTV.us@Argentina",
+            "logo": "https://i.imgur.com/NlKFNHS.png",
+            "group": "Music",
+            "url": "http://45.134.141.161:2200/ARG/HTV/index.m3u8",
             "headers": {}
         },
         {
@@ -2768,22 +2768,6 @@
             "headers": {}
         },
         {
-            "name": "Mooz Love (576p)",
-            "tvg_id": "MoozLove.ro@SD",
-            "logo": "https://static.wikia.nocookie.net/logopedia/images/5/50/Mooz_Love_2026.png",
-            "group": "Music",
-            "url": "https://tvextra-hls.b-cdn.net/moozlove/moozlove.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Mooz Retro (576p)",
-            "tvg_id": "MoozRetro.ro@SD",
-            "logo": "https://static.wikia.nocookie.net/tvfanon6528/images/0/0c/Mooz_Retro_%282026-.n.v.%29.png",
-            "group": "Music",
-            "url": "https://tvextra-hls.b-cdn.net/moozretro/moozretro.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Mooz Ro!",
             "tvg_id": "MoozRo.ro@SD",
             "logo": "https://i.imgur.com/Ft24x5T.png",
@@ -3253,14 +3237,6 @@
             "logo": "https://i.imgur.com/02cDIBi.png",
             "group": "Music",
             "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Nuta TV",
-            "tvg_id": "NutaTV.pl@SD",
-            "logo": "https://i.imgur.com/JHFUxDu.png",
-            "group": "Music",
-            "url": "http://92.114.85.87:8010/play/a00j/index.m3u8",
             "headers": {}
         },
         {
@@ -4069,14 +4045,6 @@
             "logo": "https://www.radio3net.ro/img/logos/logo_3.png",
             "group": "Music",
             "url": "https://media.3netmedia.ro/hls/stream.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Radio Romania Antena Satelor (720p) [Not 24/7]",
-            "tvg_id": "RadioRomaniaAntenaSatelor.ro@720p",
-            "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
-            "group": "Music",
-            "url": "https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8",
             "headers": {}
         },
         {
