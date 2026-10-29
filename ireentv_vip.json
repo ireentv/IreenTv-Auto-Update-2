@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 1038,
-    "last_update": "2026-10-29 05:02:54 AM",
+    "channels_amount": 1064,
+    "last_update": "2026-10-29 06:39:53 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -160,14 +160,6 @@
             "headers": {}
         },
         {
-            "name": "Ayna TV",
-            "tvg_id": "Combined_M3U_20_aHR0cHM6",
-            "logo": "https://i.ibb.co.com/5hy7S3wB/Ayna-TV.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Ayna_TV.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Bangla TV Server 1",
             "tvg_id": "Combined_M3U_21_aHR0cHM6",
             "logo": "https://i.postimg.cc/15jySx9q/20260918-105617.png",
@@ -317,6 +309,14 @@
             "logo": "https://i.postimg.cc/QdKhx6tn/20260918-110445.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Channel_1_Server_4.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Channel 16 Server 1",
+            "tvg_id": "Combined_M3U_43_aHR0cHM6",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png",
+            "group": "Bangla Music",
+            "url": "https://ireentv.pages.dev/Channel_16_Server_1.m3u8",
             "headers": {}
         },
         {
@@ -489,7 +489,7 @@
         },
         {
             "name": "Duronto TV Server 1",
-            "tvg_id": "Combined_M3U_71_aHR0cDov",
+            "tvg_id": "Combined_M3U_69_aHR0cDov",
             "logo": "https://i.postimg.cc/J73yRzgj/Duronto-tv.png",
             "group": "Kids",
             "url": "https://ireentv.pages.dev/Duronto_TV_Server_1.m3u8",
@@ -497,7 +497,7 @@
         },
         {
             "name": "Duronto TV Server 2",
-            "tvg_id": "Combined_M3U_72_aHR0cDov",
+            "tvg_id": "Combined_M3U_71_aHR0cDov",
             "logo": "https://i.postimg.cc/J73yRzgj/Duronto-tv.png",
             "group": "Kids",
             "url": "https://ireentv.pages.dev/Duronto_TV_Server_2.m3u8",
@@ -505,7 +505,7 @@
         },
         {
             "name": "Duronto TV Server 3",
-            "tvg_id": "Combined_M3U_73_aHR0cDov",
+            "tvg_id": "Combined_M3U_72_aHR0cDov",
             "logo": "https://i.postimg.cc/J73yRzgj/Duronto-tv.png",
             "group": "Kids",
             "url": "https://ireentv.pages.dev/Duronto_TV_Server_3.m3u8",
@@ -513,10 +513,18 @@
         },
         {
             "name": "Duronto TV Server 4",
-            "tvg_id": "Combined_M3U_74_aHR0cDov",
+            "tvg_id": "Combined_M3U_73_aHR0cDov",
             "logo": "https://i.postimg.cc/J73yRzgj/Duronto-tv.png",
             "group": "Kids",
             "url": "https://ireentv.pages.dev/Duronto_TV_Server_4.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Duronto TV Server 5",
+            "tvg_id": "Combined_M3U_74_aHR0cDov",
+            "logo": "https://i.postimg.cc/J73yRzgj/Duronto-tv.png",
+            "group": "Kids",
+            "url": "https://ireentv.pages.dev/Duronto_TV_Server_5.m3u8",
             "headers": {}
         },
         {
@@ -704,27 +712,19 @@
             "headers": {}
         },
         {
-            "name": "Green tv Server 1",
-            "tvg_id": "Combined_M3U_98_aHR0cHM6",
-            "logo": "https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Green_tv_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Green tv Server 2",
-            "tvg_id": "Combined_M3U_99_aHR0cHM6",
-            "logo": "https://s3.aynaott.com/storage/499219599639007120dc540bdc6e7d9d",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Green_tv_Server_2.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Independent TV Server 1",
-            "tvg_id": "Combined_M3U_101_aHR0cDov",
+            "tvg_id": "Combined_M3U_100_aHR0cHM6",
             "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Independent_TV_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Independent TV Server 2",
+            "tvg_id": "Combined_M3U_101_aHR0cDov",
+            "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778087037971.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Independent_TV_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -841,7 +841,7 @@
         },
         {
             "name": "Mohona TV Server 1",
-            "tvg_id": "Combined_M3U_117_aHR0cHM6",
+            "tvg_id": "Combined_M3U_118_aHR0cHM6",
             "logo": "https://i.postimg.cc/4y8snqVD/20260917-203419.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Mohona_TV_Server_1.m3u8",
@@ -849,7 +849,7 @@
         },
         {
             "name": "Mohona TV Server 2",
-            "tvg_id": "Combined_M3U_118_aHR0cHM6",
+            "tvg_id": "Combined_M3U_119_aHR0cHM6",
             "logo": "https://i.postimg.cc/4y8snqVD/20260917-203419.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Mohona_TV_Server_2.m3u8",
@@ -857,18 +857,10 @@
         },
         {
             "name": "Mohona TV Server 3",
-            "tvg_id": "Combined_M3U_119_aHR0cHM6",
-            "logo": "https://i.postimg.cc/4y8snqVD/20260917-203419.png",
-            "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Mohona_TV_Server_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Mohona TV Server 4",
             "tvg_id": "Combined_M3U_120_aHR0cDov",
             "logo": "https://i.postimg.cc/4y8snqVD/20260917-203419.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Mohona_TV_Server_4.m3u8",
+            "url": "https://ireentv.pages.dev/Mohona_TV_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -929,18 +921,10 @@
         },
         {
             "name": "NAGORIK TV HD Server 2",
-            "tvg_id": "Combined_M3U_128_aHR0cDov",
-            "logo": "https://i.postimg.cc/ZqyR2bpL/20260917-182236.png",
-            "group": "BANGLA",
-            "url": "https://ireentv.pages.dev/NAGORIK_TV_HD_Server_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "NAGORIK TV HD Server 3",
             "tvg_id": "Combined_M3U_129_aHR0cDov",
             "logo": "https://i.postimg.cc/ZqyR2bpL/20260917-182236.png",
             "group": "BANGLA",
-            "url": "https://ireentv.pages.dev/NAGORIK_TV_HD_Server_3.m3u8",
+            "url": "https://ireentv.pages.dev/NAGORIK_TV_HD_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -1193,7 +1177,7 @@
         },
         {
             "name": "T Sports HD Server 3",
-            "tvg_id": "Combined_M3U_170_aHR0cDov",
+            "tvg_id": "Combined_M3U_163_aHR0cDov",
             "logo": "https://i.postimg.cc/fLcbW8HQ/20260917-182941.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/T_Sports_HD_Server_3.m3u8",
@@ -1201,10 +1185,26 @@
         },
         {
             "name": "T Sports HD Server 4",
-            "tvg_id": "Combined_M3U_171_aHR0cDov",
+            "tvg_id": "Combined_M3U_166_aHR0cHM6",
             "logo": "https://i.postimg.cc/fLcbW8HQ/20260917-182941.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/T_Sports_HD_Server_4.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "T Sports HD Server 5",
+            "tvg_id": "Combined_M3U_170_aHR0cDov",
+            "logo": "https://i.postimg.cc/fLcbW8HQ/20260917-182941.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/T_Sports_HD_Server_5.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "T Sports HD Server 6",
+            "tvg_id": "Combined_M3U_171_aHR0cDov",
+            "logo": "https://i.postimg.cc/fLcbW8HQ/20260917-182941.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/T_Sports_HD_Server_6.m3u8",
             "headers": {}
         },
         {
@@ -1305,7 +1305,7 @@
         },
         {
             "name": "Colors Bangla Server 1",
-            "tvg_id": "Combined_M3U_187_aHR0cDov",
+            "tvg_id": "Combined_M3U_186_aHR0cDov",
             "logo": "https://i.ibb.co.com/2p677yw/Colors-Bangla-logo-svg.webp",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Colors_Bangla_Server_1.m3u8",
@@ -1313,10 +1313,18 @@
         },
         {
             "name": "Colors Bangla Server 2",
-            "tvg_id": "Combined_M3U_188_aHR0cDov",
+            "tvg_id": "Combined_M3U_187_aHR0cDov",
             "logo": "https://i.ibb.co.com/2p677yw/Colors-Bangla-logo-svg.webp",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Colors_Bangla_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Colors Bangla Server 3",
+            "tvg_id": "Combined_M3U_188_aHR0cDov",
+            "logo": "https://i.ibb.co.com/2p677yw/Colors-Bangla-logo-svg.webp",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Colors_Bangla_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -1441,7 +1449,7 @@
         },
         {
             "name": "Star Jalsha Server 1",
-            "tvg_id": "Combined_M3U_208_aHR0cHM6",
+            "tvg_id": "Combined_M3U_207_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_1.m3u8",
@@ -1449,7 +1457,7 @@
         },
         {
             "name": "Star Jalsha Server 2",
-            "tvg_id": "Combined_M3U_210_aHR0cHM6",
+            "tvg_id": "Combined_M3U_208_aHR0cHM6",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_2.m3u8",
@@ -1457,7 +1465,7 @@
         },
         {
             "name": "Star Jalsha Server 3",
-            "tvg_id": "Combined_M3U_211_aHR0cDov",
+            "tvg_id": "Combined_M3U_210_aHR0cHM6",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_3.m3u8",
@@ -1465,7 +1473,7 @@
         },
         {
             "name": "Star Jalsha Server 4",
-            "tvg_id": "Combined_M3U_213_aHR0cDov",
+            "tvg_id": "Combined_M3U_211_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_4.m3u8",
@@ -1473,10 +1481,18 @@
         },
         {
             "name": "Star Jalsha Server 5",
-            "tvg_id": "Combined_M3U_214_aHR0cDov",
+            "tvg_id": "Combined_M3U_213_aHR0cDov",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Star_Jalsha_Server_5.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Jalsha Server 6",
+            "tvg_id": "Combined_M3U_214_aHR0cDov",
+            "logo": "https://i.imgur.com/IlufzR5.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Star_Jalsha_Server_6.m3u8",
             "headers": {}
         },
         {
@@ -1585,7 +1601,7 @@
         },
         {
             "name": "Zee Bangla HD Server 1",
-            "tvg_id": "Combined_M3U_232_aHR0cDov",
+            "tvg_id": "Combined_M3U_231_aHR0cDov",
             "logo": "https://i.postimg.cc/zvf1m76p/20260918-142751.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Zee_Bangla_HD_Server_1.m3u8",
@@ -1593,10 +1609,18 @@
         },
         {
             "name": "Zee Bangla HD Server 2",
-            "tvg_id": "Combined_M3U_234_aHR0cHM6",
+            "tvg_id": "Combined_M3U_232_aHR0cDov",
             "logo": "https://i.postimg.cc/zvf1m76p/20260918-142751.png",
             "group": "Bangla",
             "url": "https://ireentv.pages.dev/Zee_Bangla_HD_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Bangla HD Server 3",
+            "tvg_id": "Combined_M3U_234_aHR0cHM6",
+            "logo": "https://i.postimg.cc/zvf1m76p/20260918-142751.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Zee_Bangla_HD_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -1768,19 +1792,11 @@
             "headers": {}
         },
         {
-            "name": "Colors Cineplex Superhits Server 1",
-            "tvg_id": "Combined_M3U_266_aHR0cHM6",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png",
-            "group": "Movies",
-            "url": "https://ireentv.pages.dev/Colors_Cineplex_Superhits_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Colors Cineplex Superhits Server 2",
+            "name": "Colors Cineplex Superhits",
             "tvg_id": "Combined_M3U_267_aHR0cDov",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_SUPERHITS/images/LOGO_HD/image.png",
             "group": "Movies",
-            "url": "https://ireentv.pages.dev/Colors_Cineplex_Superhits_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Colors_Cineplex_Superhits.m3u8",
             "headers": {}
         },
         {
@@ -2185,15 +2201,23 @@
         },
         {
             "name": "STAR GOLD SELECT HD Server 2",
-            "tvg_id": "Combined_M3U_328_aHR0cDov",
+            "tvg_id": "Combined_M3U_327_aHR0cDov",
             "logo": "https://i.ibb.co.com/spn4T6Kq/STS.jpg",
             "group": "Hindi Movies",
             "url": "https://ireentv.pages.dev/STAR_GOLD_SELECT_HD_Server_2.m3u8",
             "headers": {}
         },
         {
+            "name": "STAR GOLD SELECT HD Server 3",
+            "tvg_id": "Combined_M3U_328_aHR0cDov",
+            "logo": "https://i.ibb.co.com/spn4T6Kq/STS.jpg",
+            "group": "Hindi Movies",
+            "url": "https://ireentv.pages.dev/STAR_GOLD_SELECT_HD_Server_3.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Star Gold THRILLS",
-            "tvg_id": "Combined_M3U_330_aHR0cHM6",
+            "tvg_id": "Combined_M3U_329_aHR0cDov",
             "logo": "https://i.postimg.cc/Y08qYhB9/20260917-183853.png",
             "group": "Hindi Movies",
             "url": "https://ireentv.pages.dev/Star_Gold_THRILLS.m3u8",
@@ -2241,7 +2265,7 @@
         },
         {
             "name": "STAR MOVIES HD Server 2",
-            "tvg_id": "Combined_M3U_337_aHR0cDov",
+            "tvg_id": "Combined_M3U_336_aHR0cDov",
             "logo": "http://picons.cmshulk.com/picons/282639.png",
             "group": "Hindi Movies",
             "url": "https://ireentv.pages.dev/STAR_MOVIES_HD_Server_2.m3u8",
@@ -2249,7 +2273,7 @@
         },
         {
             "name": "STAR MOVIES HD Server 3",
-            "tvg_id": "Combined_M3U_338_aHR0cDov",
+            "tvg_id": "Combined_M3U_337_aHR0cDov",
             "logo": "http://picons.cmshulk.com/picons/282639.png",
             "group": "Hindi Movies",
             "url": "https://ireentv.pages.dev/STAR_MOVIES_HD_Server_3.m3u8",
@@ -2257,10 +2281,18 @@
         },
         {
             "name": "STAR MOVIES HD Server 4",
-            "tvg_id": "Combined_M3U_339_aHR0cDov",
+            "tvg_id": "Combined_M3U_338_aHR0cDov",
             "logo": "http://picons.cmshulk.com/picons/282639.png",
             "group": "Hindi Movies",
             "url": "https://ireentv.pages.dev/STAR_MOVIES_HD_Server_4.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "STAR MOVIES HD Server 5",
+            "tvg_id": "Combined_M3U_339_aHR0cDov",
+            "logo": "http://picons.cmshulk.com/picons/282639.png",
+            "group": "Hindi Movies",
+            "url": "https://ireentv.pages.dev/STAR_MOVIES_HD_Server_5.m3u8",
             "headers": {}
         },
         {
@@ -2273,7 +2305,7 @@
         },
         {
             "name": "Star Movies Select HD Server 2",
-            "tvg_id": "Combined_M3U_342_aHR0cDov",
+            "tvg_id": "Combined_M3U_341_aHR0cDov",
             "logo": "https://i.postimg.cc/kG7g2WZf/20260917-183528.png",
             "group": "Hindi Movies",
             "url": "https://ireentv.pages.dev/Star_Movies_Select_HD_Server_2.m3u8",
@@ -2281,7 +2313,7 @@
         },
         {
             "name": "Star Movies Select HD Server 3",
-            "tvg_id": "Combined_M3U_343_aHR0cDov",
+            "tvg_id": "Combined_M3U_342_aHR0cDov",
             "logo": "https://i.postimg.cc/kG7g2WZf/20260917-183528.png",
             "group": "Hindi Movies",
             "url": "https://ireentv.pages.dev/Star_Movies_Select_HD_Server_3.m3u8",
@@ -2289,10 +2321,18 @@
         },
         {
             "name": "Star Movies Select HD Server 4",
-            "tvg_id": "Combined_M3U_344_aHR0cDov",
+            "tvg_id": "Combined_M3U_343_aHR0cDov",
             "logo": "https://i.postimg.cc/kG7g2WZf/20260917-183528.png",
             "group": "Hindi Movies",
             "url": "https://ireentv.pages.dev/Star_Movies_Select_HD_Server_4.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Movies Select HD Server 5",
+            "tvg_id": "Combined_M3U_344_aHR0cDov",
+            "logo": "https://i.postimg.cc/kG7g2WZf/20260917-183528.png",
+            "group": "Hindi Movies",
+            "url": "https://ireentv.pages.dev/Star_Movies_Select_HD_Server_5.m3u8",
             "headers": {}
         },
         {
@@ -2437,6 +2477,14 @@
             "logo": "https://ah-media-eug.pages.dev/logos/ZeeTV.png",
             "group": "Hindi",
             "url": "https://ireentv.pages.dev/ZEE_TV_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "ZEE TV Server 3",
+            "tvg_id": "Combined_M3U_371_aHR0cDov",
+            "logo": "https://ah-media-eug.pages.dev/logos/ZeeTV.png",
+            "group": "Hindi",
+            "url": "https://ireentv.pages.dev/ZEE_TV_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -2752,14 +2800,6 @@
             "headers": {}
         },
         {
-            "name": "Tele7 Music",
-            "tvg_id": "Combined_M3U_419_aHR0cHM6",
-            "logo": "https://tele7music.ro/wp-content/uploads/2022/11/logo-tele7music-300x300.png",
-            "group": "Music",
-            "url": "https://ireentv.pages.dev/Tele7_Music.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Trace Ayiti",
             "tvg_id": "Combined_M3U_420_aHR0cHM6",
             "logo": "https://i.imgur.com/KkJ6fet.png",
@@ -2913,7 +2953,7 @@
         },
         {
             "name": "be Movies Action 2 HD Server 1",
-            "tvg_id": "Combined_M3U_443_aHR0cHM6",
+            "tvg_id": "Combined_M3U_442_aHR0cDov",
             "logo": "https://i.ibb.co.com/VYszLmWB/be-IN-Action-2.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/be_Movies_Action_2_HD_Server_1.m3u8",
@@ -2921,7 +2961,7 @@
         },
         {
             "name": "be Movies Action 2 HD Server 2",
-            "tvg_id": "Combined_M3U_444_aHR0cDov",
+            "tvg_id": "Combined_M3U_443_aHR0cHM6",
             "logo": "https://i.ibb.co.com/VYszLmWB/be-IN-Action-2.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/be_Movies_Action_2_HD_Server_2.m3u8",
@@ -2929,7 +2969,7 @@
         },
         {
             "name": "be Movies Action 2 HD Server 3",
-            "tvg_id": "Combined_M3U_445_aHR0cDov",
+            "tvg_id": "Combined_M3U_444_aHR0cDov",
             "logo": "https://i.ibb.co.com/VYszLmWB/be-IN-Action-2.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/be_Movies_Action_2_HD_Server_3.m3u8",
@@ -2937,10 +2977,18 @@
         },
         {
             "name": "be Movies Action 2 HD Server 4",
-            "tvg_id": "Combined_M3U_446_aHR0cDov",
+            "tvg_id": "Combined_M3U_445_aHR0cDov",
             "logo": "https://i.ibb.co.com/VYszLmWB/be-IN-Action-2.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/be_Movies_Action_2_HD_Server_4.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "be Movies Action 2 HD Server 5",
+            "tvg_id": "Combined_M3U_446_aHR0cDov",
+            "logo": "https://i.ibb.co.com/VYszLmWB/be-IN-Action-2.png",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/be_Movies_Action_2_HD_Server_5.m3u8",
             "headers": {}
         },
         {
@@ -3017,7 +3065,7 @@
         },
         {
             "name": "MOVIES NOW Server 1",
-            "tvg_id": "Combined_M3U_458_aHR0cDov",
+            "tvg_id": "Combined_M3U_457_aHR0cDov",
             "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_1.m3u8",
@@ -3025,10 +3073,18 @@
         },
         {
             "name": "MOVIES NOW Server 2",
-            "tvg_id": "Combined_M3U_459_aHR0cDov",
+            "tvg_id": "Combined_M3U_458_aHR0cDov",
             "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
             "group": "Movies",
             "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MOVIES NOW Server 3",
+            "tvg_id": "Combined_M3U_459_aHR0cDov",
+            "logo": "https://i.ibb.co.com/RT7Y4FKF/MOVIES-NOW.png",
+            "group": "Movies",
+            "url": "https://ireentv.pages.dev/MOVIES_NOW_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -3285,6 +3341,14 @@
             "logo": "https://i.postimg.cc/Gp0rBkTj/20260918-111219.png",
             "group": "SPORTS",
             "url": "https://ireentv.pages.dev/Ten_Sports_HD_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Ten Sports HD Server 4",
+            "tvg_id": "Combined_M3U_493_aHR0cDov",
+            "logo": "https://i.postimg.cc/Gp0rBkTj/20260918-111219.png",
+            "group": "SPORTS",
+            "url": "https://ireentv.pages.dev/Ten_Sports_HD_Server_4.m3u8",
             "headers": {}
         },
         {
@@ -3801,7 +3865,7 @@
         },
         {
             "name": "Sony Ten Sports 2 Server 3",
-            "tvg_id": "Combined_M3U_575_aHR0cHM6",
+            "tvg_id": "Combined_M3U_572_aHR0cDov",
             "logo": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Sony_Ten_Sports_2_Server_3.m3u8",
@@ -3809,10 +3873,18 @@
         },
         {
             "name": "Sony Ten Sports 2 Server 4",
-            "tvg_id": "Combined_M3U_577_aHR0cDov",
+            "tvg_id": "Combined_M3U_575_aHR0cHM6",
             "logo": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Sony_Ten_Sports_2_Server_4.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Sony Ten Sports 2 Server 5",
+            "tvg_id": "Combined_M3U_577_aHR0cDov",
+            "logo": "https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/Sony_Ten_Sports_2_Server_5.m3u8",
             "headers": {}
         },
         {
@@ -3833,10 +3905,18 @@
         },
         {
             "name": "Sony Ten Sports 3 Server 3",
-            "tvg_id": "Combined_M3U_583_aHR0cDov",
+            "tvg_id": "Combined_M3U_580_aHR0cDov",
             "logo": "https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Sony_Ten_Sports_3_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Sony Ten Sports 3 Server 4",
+            "tvg_id": "Combined_M3U_583_aHR0cDov",
+            "logo": "https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/Sony_Ten_Sports_3_Server_4.m3u8",
             "headers": {}
         },
         {
@@ -4392,14 +4472,6 @@
             "headers": {}
         },
         {
-            "name": "Pogo",
-            "tvg_id": "Combined_M3U_663_aHR0cHM6",
-            "logo": "https://i.postimg.cc/C1s5Hf5P/20240823_021444.png",
-            "group": "Kids",
-            "url": "https://ireentv.pages.dev/Pogo.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Sonic Bangla",
             "tvg_id": "Combined_M3U_664_aHR0cDov",
             "logo": "https://i.postimg.cc/y8DJ4dpx/20240823_021302.png",
@@ -4424,19 +4496,11 @@
             "headers": {}
         },
         {
-            "name": "Tom & Jerry TV Server 1",
+            "name": "Tom & Jerry TV",
             "tvg_id": "Combined_M3U_668_aHR0cHM6",
             "logo": "https://i.ibb.co.com/v4kdKGZ6/yyyr.png",
             "group": "Kids",
-            "url": "https://ireentv.pages.dev/Tom__Jerry_TV_Server_1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Tom & Jerry TV Server 2",
-            "tvg_id": "Combined_M3U_669_aHR0cDov",
-            "logo": "https://i.ibb.co.com/v4kdKGZ6/yyyr.png",
-            "group": "Kids",
-            "url": "https://ireentv.pages.dev/Tom__Jerry_TV_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Tom__Jerry_TV.m3u8",
             "headers": {}
         },
         {
@@ -4552,11 +4616,19 @@
             "headers": {}
         },
         {
-            "name": "National Geography Bangla",
+            "name": "National Geography Bangla Server 1",
+            "tvg_id": "Combined_M3U_686_aHR0cDov",
+            "logo": "https://i.ibb.co.com/v4Vs7JJ6/ns.webp",
+            "group": "Documentary",
+            "url": "https://ireentv.pages.dev/National_Geography_Bangla_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geography Bangla Server 2",
             "tvg_id": "Combined_M3U_687_aHR0cDov",
             "logo": "https://i.ibb.co.com/v4Vs7JJ6/ns.webp",
             "group": "Documentary",
-            "url": "https://ireentv.pages.dev/National_Geography_Bangla.m3u8",
+            "url": "https://ireentv.pages.dev/National_Geography_Bangla_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -4576,6 +4648,14 @@
             "headers": {}
         },
         {
+            "name": "ABC News",
+            "tvg_id": "Combined_M3U_690_aHR0cHM6",
+            "logo": "https://s3.aynaott.com/storage/065af1ce1aa68d9d96c27050a8125413",
+            "group": "News",
+            "url": "https://ireentv.pages.dev/ABC_News.m3u8",
+            "headers": {}
+        },
+        {
             "name": "CNN News",
             "tvg_id": "Combined_M3U_693_aHR0cHM6",
             "logo": "https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546",
@@ -4592,19 +4672,19 @@
             "headers": {}
         },
         {
-            "name": "Ananda TV Server 3",
-            "tvg_id": "Example_M3U_1_0_aHR0cHM6",
-            "logo": "https://i.imgur.com/jkbo7Qe.png",
-            "group": "Bangladesh",
-            "url": "https://ireentv.pages.dev/Ananda_TV_Server_3.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Ananda TV [Backup 2]",
             "tvg_id": "Example_M3U_1_2_aHR0cDov",
             "logo": "https://i.imgur.com/jkbo7Qe.png",
             "group": "Bangladesh",
             "url": "https://ireentv.pages.dev/Ananda_TV_Backup_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Ananda TV [Backup 3]",
+            "tvg_id": "Example_M3U_1_3_aHR0cDov",
+            "logo": "https://i.imgur.com/jkbo7Qe.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/Ananda_TV_Backup_3.m3u8",
             "headers": {}
         },
         {
@@ -4648,6 +4728,22 @@
             "headers": {}
         },
         {
+            "name": "BTV National Server 3",
+            "tvg_id": "Example_M3U_1_32_aHR0cHM6",
+            "logo": "https://i.imgur.com/5OE2FDt.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/BTV_National_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BTV News",
+            "tvg_id": "Example_M3U_1_33_aHR0cHM6",
+            "logo": "https://i.postimg.cc/28VMF8hx/btv-news.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/BTV_News.m3u8",
+            "headers": {}
+        },
+        {
             "name": "BTV News [Backup 1]",
             "tvg_id": "Example_M3U_1_34_aHR0cDov",
             "logo": "https://i.postimg.cc/28VMF8hx/btv-news.png",
@@ -4661,6 +4757,14 @@
             "logo": "https://i.postimg.cc/Zqgx8hm1/20260430-184013.png",
             "group": "Bangladesh",
             "url": "https://ireentv.pages.dev/Channel_1_Backup_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Channel 16 Server 2",
+            "tvg_id": "Example_M3U_1_38_aHR0cDov",
+            "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGN4JrZ3Ur3BHiD2tQhsQq3WQ5DXpv7HATFyNDT6o-rSNwAZaeQieMBdfPoGPio5UPipGV2ZBb8rLmyYJe5vySfQjEmTE5MLc_6q8CKfXuzb4eRQREjPiyL5tkncb1Xt5pVMJa6t77CT98JvAFozg95IH_9qofXJ2s1ubKCbJ-_JsuRVb458aBztLImQ/s1080/1000015295.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/Channel_16_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -4736,11 +4840,11 @@
             "headers": {}
         },
         {
-            "name": "Duronto TV Server 5",
+            "name": "Duronto TV Server 6",
             "tvg_id": "Example_M3U_1_66_aHR0cHM6",
             "logo": "https://i.postimg.cc/0QRKCsfQ/20240823_020937.png",
             "group": "Bangladesh",
-            "url": "https://ireentv.pages.dev/Duronto_TV_Server_5.m3u8",
+            "url": "https://ireentv.pages.dev/Duronto_TV_Server_6.m3u8",
             "headers": {}
         },
         {
@@ -4765,14 +4869,6 @@
             "logo": "https://i.imgur.com/tRrDh6z.png",
             "group": "Bangladesh",
             "url": "https://ireentv.pages.dev/Ekhon_TV_Backup_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Ekushey TV Server 4",
-            "tvg_id": "Example_M3U_1_78_aHR0cDov",
-            "logo": "https://i.postimg.cc/rsDjtcFp/20240822_225424.png",
-            "group": "Bangladesh",
-            "url": "https://ireentv.pages.dev/Ekushey_TV_Server_4.m3u8",
             "headers": {}
         },
         {
@@ -4840,27 +4936,11 @@
             "headers": {}
         },
         {
-            "name": "Green TV Server 3",
-            "tvg_id": "Example_M3U_1_96_aHR0cHM6",
-            "logo": "https://i.postimg.cc/ry4QcVbh/20240822-231240.png",
-            "group": "Bangladesh",
-            "url": "https://ireentv.pages.dev/Green_TV_Server_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Green TV [Backup 2]",
-            "tvg_id": "Example_M3U_1_98_aHR0cDov",
-            "logo": "https://i.postimg.cc/ry4QcVbh/20240822-231240.png",
-            "group": "Bangladesh",
-            "url": "https://ireentv.pages.dev/Green_TV_Backup_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Independent TV Server 2",
+            "name": "Independent TV Server 3",
             "tvg_id": "Example_M3U_1_100_aHR0cDov",
             "logo": "https://i.imgur.com/POXFhGN.png",
             "group": "Bangladesh",
-            "url": "https://ireentv.pages.dev/Independent_TV_Server_2.m3u8",
+            "url": "https://ireentv.pages.dev/Independent_TV_Server_3.m3u8",
             "headers": {}
         },
         {
@@ -5104,11 +5184,11 @@
             "headers": {}
         },
         {
-            "name": "Colors Bangla Server 3",
+            "name": "Colors Bangla Server 4",
             "tvg_id": "Example_M3U_1_174_aHR0cHM6",
             "logo": "https://dtil.tmsimg.com/assets/s157577_ld_h15_aa.png?lock=720x540",
             "group": "Indian Bangla",
-            "url": "https://ireentv.pages.dev/Colors_Bangla_Server_3.m3u8",
+            "url": "https://ireentv.pages.dev/Colors_Bangla_Server_4.m3u8",
             "headers": {}
         },
         {
@@ -5432,11 +5512,11 @@
             "headers": {}
         },
         {
-            "name": "Zee Bangla HD Server 3",
+            "name": "Zee Bangla HD Server 4",
             "tvg_id": "Example_M3U_1_228_aHR0cHM6",
             "logo": "https://i.postimg.cc/5tjSrbLS/20240822-231445.png",
             "group": "Indian Bangla",
-            "url": "https://ireentv.pages.dev/Zee_Bangla_HD_Server_3.m3u8",
+            "url": "https://ireentv.pages.dev/Zee_Bangla_HD_Server_4.m3u8",
             "headers": {}
         },
         {
@@ -5533,14 +5613,6 @@
             "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png",
             "group": "Indian Movies",
             "url": "https://ireentv.pages.dev/Goldmines_Movies.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Goldmines Movies [Backup 1]",
-            "tvg_id": "Example_M3U_1_247_aHR0cHM6",
-            "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png",
-            "group": "Indian Movies",
-            "url": "https://ireentv.pages.dev/Goldmines_Movies_Backup_1.m3u8",
             "headers": {}
         },
         {
@@ -5861,14 +5933,6 @@
             "logo": "https://i.imgur.com/oxkkWH5.png",
             "group": "Indian Music",
             "url": "https://ireentv.pages.dev/Balle_Balle.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Deewana HD",
-            "tvg_id": "Example_M3U_1_309_aHR0cHM6",
-            "logo": "https://i.imgur.com/xIYITQ9.png",
-            "group": "Indian Music",
-            "url": "https://ireentv.pages.dev/Deewana_HD.m3u8",
             "headers": {}
         },
         {
@@ -6288,6 +6352,14 @@
             "headers": {}
         },
         {
+            "name": "AMC [Backup 1]",
+            "tvg_id": "Example_M3U_1_397_aHR0cHM6",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-08/images_9db50b3bbf28a42f76b50d120b2e1db0_playmist_amc_400x400.jpg",
+            "group": "International Movies",
+            "url": "https://ireentv.pages.dev/AMC_Backup_1.m3u8",
+            "headers": {}
+        },
+        {
             "name": "AMC Triller",
             "tvg_id": "Example_M3U_1_398_aHR0cHM6",
             "logo": "https://commons.wikimedia.org/wiki/Special:FilePath/AMC%20logo%202019.svg",
@@ -6384,6 +6456,14 @@
             "headers": {}
         },
         {
+            "name": "Epix TV",
+            "tvg_id": "Example_M3U_1_410_aHR0cHM6",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_322ff67121137078dae63e65d4c72530_playmist_epix_tv400x400.jpg",
+            "group": "International Movies",
+            "url": "https://ireentv.pages.dev/Epix_TV.m3u8",
+            "headers": {}
+        },
+        {
             "name": "FX 1 Movies",
             "tvg_id": "Example_M3U_1_411_aHR0cHM6",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1200px-FX_Logo_2023.svg.png",
@@ -6429,6 +6509,14 @@
             "logo": "https://i.imgur.com/ZYNQuf1.png",
             "group": "International Movies",
             "url": "https://ireentv.pages.dev/GROOVE.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "HBO 2",
+            "tvg_id": "Example_M3U_1_418_aHR0cHM6",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_2e95a01c1a6b96b71670420cfd9d8cbc_playmist_hbo_2400x400.jpg",
+            "group": "International Movies",
+            "url": "https://ireentv.pages.dev/HBO_2.m3u8",
             "headers": {}
         },
         {
@@ -6664,6 +6752,14 @@
             "headers": {}
         },
         {
+            "name": "Axs TV",
+            "tvg_id": "Example_M3U_1_455_aHR0cHM6",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_4baf85a9e95e132ef2a7fb0d127eb50a_playmist_axs_400x400.jpg",
+            "group": "International Music",
+            "url": "https://ireentv.pages.dev/Axs_TV.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Baraza Music TV",
             "tvg_id": "Example_M3U_1_456_aHR0cHM6",
             "logo": "https://i.imgur.com/rEhhYpe.png",
@@ -6760,6 +6856,14 @@
             "headers": {}
         },
         {
+            "name": "MTV",
+            "tvg_id": "Example_M3U_1_468_aHR0cHM6",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_79fbc39a1e2b6627305b440da7c524d7_playmist_mtv_400x400.jpg",
+            "group": "International Music",
+            "url": "https://ireentv.pages.dev/MTV.m3u8",
+            "headers": {}
+        },
+        {
             "name": "MTV [Backup 1]",
             "tvg_id": "Example_M3U_1_469_aHR0cHM6",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_79fbc39a1e2b6627305b440da7c524d7_playmist_mtv_400x400.jpg",
@@ -6813,6 +6917,14 @@
             "logo": "https://i.imgur.com/TrecSeG.png",
             "group": "International Music",
             "url": "https://ireentv.pages.dev/P2M_TV.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Play TV",
+            "tvg_id": "Example_M3U_1_476_aHR0cDov",
+            "logo": "https://ui-avatars.com/api/?name=Play+TV&background=111827&color=ffffff&size=512&bold=true",
+            "group": "International Music",
+            "url": "https://ireentv.pages.dev/Play_TV.m3u8",
             "headers": {}
         },
         {
@@ -7008,6 +7120,14 @@
             "headers": {}
         },
         {
+            "name": "Animal Planet Server 3",
+            "tvg_id": "Example_M3U_1_505_aHR0cHM6",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+            "group": "Documentary & Wildlife",
+            "url": "https://ireentv.pages.dev/Animal_Planet_Server_3.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Animal Planet [Backup 1]",
             "tvg_id": "Example_M3U_1_506_aHR0cHM6",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
@@ -7064,6 +7184,14 @@
             "headers": {}
         },
         {
+            "name": "Discovery Server 3",
+            "tvg_id": "Example_M3U_1_513_aHR0cHM6",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+            "group": "Documentary & Wildlife",
+            "url": "https://ireentv.pages.dev/Discovery_Server_3.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Discovery [Backup 1]",
             "tvg_id": "Example_M3U_1_514_aHR0cDov",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
@@ -7077,6 +7205,22 @@
             "logo": "https://i.postimg.cc/wTvMLMp2/20240823_021706.png",
             "group": "Documentary & Wildlife",
             "url": "https://ireentv.pages.dev/Discovery_Kids_Backup_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Food Network",
+            "tvg_id": "Example_M3U_1_520_aHR0cHM6",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_7965b8693481f770bcd710f96cc6ea47_playmist_food_network_400x400.jpg",
+            "group": "Documentary & Wildlife",
+            "url": "https://ireentv.pages.dev/Food_Network.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "History",
+            "tvg_id": "Example_M3U_1_521_aHR0cHM6",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_5996545c3aa998805349c10a3677c877_playmist_history_channel_400x400.jpg",
+            "group": "Documentary & Wildlife",
+            "url": "https://ireentv.pages.dev/History.m3u8",
             "headers": {}
         },
         {
@@ -7117,6 +7261,14 @@
             "logo": "https://i.postimg.cc/MZR248Yw/20240823-024104.png",
             "group": "Documentary & Wildlife",
             "url": "https://ireentv.pages.dev/Love_Nature_Backup_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic",
+            "tvg_id": "Example_M3U_1_529_aHR0cHM6",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_25b786047244481532eb505dfba85580_playmist_nat_geo_tv_400x400.jpg",
+            "group": "Documentary & Wildlife",
+            "url": "https://ireentv.pages.dev/National_Geographic.m3u8",
             "headers": {}
         },
         {
@@ -7240,6 +7392,14 @@
             "headers": {}
         },
         {
+            "name": "Cartoon Network [Backup 2]",
+            "tvg_id": "Example_M3U_1_550_aHR0cHM6",
+            "logo": "https://i.postimg.cc/k4mDbyJR/20240823_021424.png",
+            "group": "Kids",
+            "url": "https://ireentv.pages.dev/Cartoon_Network_Backup_2.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Dios Te Ve Kids",
             "tvg_id": "Example_M3U_1_551_aHR0cHM6",
             "logo": "https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67",
@@ -7317,6 +7477,14 @@
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9M2.png?lock=720x540",
             "group": "Kids",
             "url": "https://ireentv.pages.dev/Nick_Jr.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Nicktoons",
+            "tvg_id": "Example_M3U_1_570_aHR0cHM6",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/4/49/Nicktoons_2004.svg",
+            "group": "Kids",
+            "url": "https://ireentv.pages.dev/Nicktoons.m3u8",
             "headers": {}
         },
         {
@@ -7440,6 +7608,14 @@
             "headers": {}
         },
         {
+            "name": "YTV",
+            "tvg_id": "Example_M3U_1_592_aHR0cHM6",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_e8cc865d910abad00a75ef72c8247262_playmist_ytv400x400.jpg",
+            "group": "Kids",
+            "url": "https://ireentv.pages.dev/YTV.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Zoo Moo [Backup 1]",
             "tvg_id": "Example_M3U_1_595_aHR0cHM6",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/4/44/ZooMoo_Kids_2020.svg",
@@ -7560,6 +7736,14 @@
             "headers": {}
         },
         {
+            "name": "Islam TV",
+            "tvg_id": "Example_M3U_1_614_aHR0cHM6",
+            "logo": "https://i.imgur.com/FpZMUTt.png",
+            "group": "Religious",
+            "url": "https://ireentv.pages.dev/Islam_TV.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Islamic TV",
             "tvg_id": "Example_M3U_1_615_aHR0cDov",
             "logo": "https://ui-avatars.com/api/?name=Islamic%20TV&background=17324d&color=ffffff&size=256&length=3&format=png",
@@ -7664,6 +7848,14 @@
             "headers": {}
         },
         {
+            "name": "Sky Life Bd Al Quran",
+            "tvg_id": "Example_M3U_1_634_aHR0cHM6",
+            "logo": "https://i.imgur.com/79g2kMA.png",
+            "group": "Religious",
+            "url": "https://ireentv.pages.dev/Sky_Life_Bd_Al_Quran.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Sunnah",
             "tvg_id": "Example_M3U_1_635_aHR0cDov",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a7/Saudi_Sunnah_TV_2020.png",
@@ -7677,6 +7869,14 @@
             "logo": "https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Bahrain_Sports_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "beIN Sports",
+            "tvg_id": "Example_M3U_1_639_aHR0cHM6",
+            "logo": "https://i.imgur.com/RLrMBlm.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/beIN_Sports.m3u8",
             "headers": {}
         },
         {
@@ -7760,11 +7960,11 @@
             "headers": {}
         },
         {
-            "name": "ESPN [Backup 1]",
-            "tvg_id": "Example_M3U_1_663_aHR0cDov",
+            "name": "ESPN",
+            "tvg_id": "Example_M3U_1_662_aHR0cHM6",
             "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_aa4e43db11b3d698b78989797debf18c_playmist_espn400x400.jpg",
             "group": "Sports",
-            "url": "https://ireentv.pages.dev/ESPN_Backup_1.m3u8",
+            "url": "https://ireentv.pages.dev/ESPN.m3u8",
             "headers": {}
         },
         {
@@ -7872,19 +8072,19 @@
             "headers": {}
         },
         {
-            "name": "Mundial",
-            "tvg_id": "Example_M3U_1_681_aHR0cHM6",
-            "logo": "https://i.imgur.com/jVBfQNj.png",
-            "group": "Sports",
-            "url": "https://ireentv.pages.dev/Mundial.m3u8",
-            "headers": {}
-        },
-        {
             "name": "NBC Sports",
             "tvg_id": "Example_M3U_1_683_aHR0cHM6",
             "logo": "https://i.imgur.com/EzNf2Yx.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/NBC_Sports.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "NFL Network",
+            "tvg_id": "Example_M3U_1_684_aHR0cHM6",
+            "logo": "https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_cadf0a534c4de626332004067cee3103_playmist_nfl_network400x400.jpg",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/NFL_Network.m3u8",
             "headers": {}
         },
         {
@@ -8285,6 +8485,14 @@
             "logo": "https://i.imgur.com/FabFP5A.png",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Trace_Sport_Stars.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Willow Sports [Backup 1]",
+            "tvg_id": "Example_M3U_1_793_aHR0cHM6",
+            "logo": "https://i.postimg.cc/HntSg3xw/20240823_024624.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/Willow_Sports_Backup_1.m3u8",
             "headers": {}
         },
         {
