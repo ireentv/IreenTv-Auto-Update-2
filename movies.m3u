@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 769
-# Last Updated    : 2026-10-29 05:02:54 AM
+# Total Channels  : 772
+# Last Updated    : 2026-10-29 11:12:25 AM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -80,6 +80,10 @@ http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTINF:-1 tvg-name="Aneflix Live (720p)" tvg-logo="https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png" group-title="Movies" ,Aneflix Live (720p)
 https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv
+#EXTINF:-1 tvg-name="Anmol Cinema 2 (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies" ,Anmol Cinema 2 (576p)
+https://fta.ektv.in/live/257/master.m3u8
+#EXTINF:-1 tvg-name="Anmol Cinema (576p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" group-title="Movies" ,Anmol Cinema (576p)
+https://fta.ektv.in/live/271/master.m3u8
 #EXTINF:-1 tvg-name="Armenia Premium (720p)" tvg-logo="" group-title="Movies" ,Armenia Premium (720p)
 http://stream.mcquack.net/123/index.m3u8
 #EXTINF:-1 tvg-name="ARTFLIX Movie Classics (720p)" tvg-logo="https://i.imgur.com/5pOZQB4.png" group-title="Classic;Movies" ,ARTFLIX Movie Classics (720p)
@@ -438,8 +442,6 @@ http://88.212.7.14/live/film_cafe/index.m3u8
 https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
 #EXTINF:-1 tvg-name="Film Now" tvg-logo="https://i.imgur.com/sSoRvGz.png" group-title="Movies" ,Film Now
 https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
-#EXTINF:-1 tvg-name="Film Now HD (1080i)" tvg-logo="https://i.imgur.com/sSoRvGz.png" group-title="Movies" ,Film Now HD (1080i)
-https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
 #EXTINF:-1 tvg-name="Film+ (Czech Republic)" tvg-logo="https://i.imgur.com/OBYuY3S.png" group-title="Movies" ,Film+ (Czech Republic)
 http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="Film+ (Hungary)" tvg-logo="https://i.imgur.com/OWqzJyy.png" group-title="Movies" ,Film+ (Hungary)
@@ -584,11 +586,13 @@ http://41.205.93.154/HALLMARK/index.m3u8
 https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
 #EXTINF:-1 tvg-name="Harbin Movie Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="Movies" ,Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" group-title="Movies" ,HBO 2
+#EXTINF:-1 tvg-name="HBO 2 (Czech Republic)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" group-title="Movies" ,HBO 2 (Czech Republic)
 http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO 2 (Poland) (1080p)" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="Movies;Series" ,HBO 2 (Poland) (1080p)
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
 #EXTINF:-1 tvg-name="HBO 2 Latin America HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Movies;Series" ,HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
-#EXTINF:-1 tvg-name="HBO 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202" group-title="Movies" ,HBO 3
+#EXTINF:-1 tvg-name="HBO 3 (Czech Republic)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202" group-title="Movies" ,HBO 3 (Czech Republic)
 http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO (Czech Republic)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924" group-title="Movies" ,HBO (Czech Republic)
 http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
@@ -618,7 +622,7 @@ http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Horoshee Kino (720p)" tvg-logo="https://i.imgur.com/ZbOqfy4.png" group-title="Movies" ,Horoshee Kino (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 tvg-name="HTVC Movies (720p)" tvg-logo="" group-title="Movies;Series" ,HTVC Movies (720p)
+#EXTINF:-1 tvg-name="HTVC Movies (720p)" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" group-title="Movies;Series" ,HTVC Movies (720p)
 https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-name="ICC plus (1080p)" tvg-logo="" group-title="Movies" ,ICC plus (1080p)
 https://icchls.wns.live/hls/stream.m3u8
@@ -643,7 +647,7 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-name="Itage TV (480p)" tvg-logo="https://i.imgur.com/FP1aUPw.jpg" group-title="Movies" ,Itage TV (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Jalsha Movies HD (1080p)" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="Movies" ,Jalsha Movies HD (1080p)
-http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
+http://103.151.60.162:2122/play/a00x/index.m3u8?hls
 #EXTINF:-1 tvg-name="Jiangsu Movie Channel (576p)" tvg-logo="https://www.tvchinese.net/uploads/tv/jsys.jpg" group-title="Movies" ,Jiangsu Movie Channel (576p)
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-name="Jiangxi Movie Channel" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxi.jpg" group-title="Movies" ,Jiangxi Movie Channel
@@ -725,7 +729,7 @@ https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-name="Magyar Mozi TV" tvg-logo="https://i.imgur.com/cXajs8V.png" group-title="Movies" ,Magyar Mozi TV
 http://88.212.7.14/live/mozi/index.m3u8
 #EXTINF:-1 tvg-name="Maha Movie (576p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies" ,Maha Movie (576p)
-https://cdn.pishow.tv/ott/live/10007/master.m3u8
+https://fta.ektv.in/live/48/48_0.m3u8
 #EXTINF:-1 tvg-name="Mahua Play (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png" group-title="Movies" ,Mahua Play (1080p)
 https://cdn.ottlive.co.in/mahuaplay/index.m3u8
 #EXTINF:-1 tvg-name="Manoranjan Grand (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540" group-title="Movies" ,Manoranjan Grand (720p)
@@ -1550,6 +1554,8 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 tvg-name="ZB Cinema (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" group-title="Classic;Movies" ,ZB Cinema (1080p)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-name="Zee Action (576p)" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" group-title="Movies" ,Zee Action (576p)
+https://fta.ektv.in/live/270/master.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema (576p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies" ,Zee Cinema (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema APAC (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies" ,Zee Cinema APAC (720p)
