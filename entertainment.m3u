@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 905
-# Last Updated    : 2026-10-30 05:10:46 AM
+# Total Channels  : 904
+# Last Updated    : 2026-10-30 11:12:03 AM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -54,16 +54,16 @@ https://30a-tv.com/feeds/masters/30atv.m3u8
 https://hls.247box.live/hls/stream.m3u8
 #EXTINF:-1 tvg-name="312 TV (406p)" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" group-title="Entertainment" ,312 TV (406p)
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-name="¡OPA! (720p)" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Entertainment" ,¡OPA! (720p)
+https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="+MaisUm (720p)" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" group-title="Entertainment;General;Movies;Music" ,+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-name=".black (576p)" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="Entertainment" ,.black (576p)
 http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-name=".red (576p)" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Entertainment" ,.red (576p)
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-name=".red HD (1080p)" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Entertainment" ,.red HD (1080p)
 http://178.134.1.158:8081/red/index.m3u8
-#EXTINF:-1 tvg-name="¡OPA! (720p)" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Entertainment" ,¡OPA! (720p)
-https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="+MaisUm (720p)" tvg-logo="https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png" group-title="Entertainment;General;Movies;Music" ,+MaisUm (720p)
-https://stream.ichibansys.com:3230/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="A&E (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment" ,A&E (720p)
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-name="A&E Latin America (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Entertainment" ,A&E Latin America (1080p)
@@ -996,8 +996,6 @@ https://d9069ugodwkju.cloudfront.net/Merit_Street.m3u8
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 #EXTINF:-1 tvg-name="Metro TV (Honduras) (720p)" tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="Entertainment" ,Metro TV (Honduras) (720p)
 https://s.emisoras.tv:8081/metrotv/index.m3u8
-#EXTINF:-1 tvg-name="MeTV (720p)" tvg-logo="https://play-lh.googleusercontent.com/PO0C2_-FdOtMVn1rw_Q0_iystfcf6Ab8h1Q37P8fEgSLuAkQJBCI9kax_FIkUgXppgs4" group-title="Entertainment" ,MeTV (720p)
-https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/23685237ffbb4047a8143ac2166ead44/index.m3u8
 #EXTINF:-1 tvg-name="meWATCH LIVE 1 (1080p)" tvg-logo="https://i.imgur.com/ppxUDxB.png" group-title="Entertainment" ,meWATCH LIVE 1 (1080p)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd

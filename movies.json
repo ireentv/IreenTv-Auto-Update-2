@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 772,
-    "last_update": "2026-10-30 05:10:46 AM",
+    "channels_amount": 771,
+    "last_update": "2026-10-30 11:12:03 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -293,22 +293,6 @@
             "logo": "https://cdn.pixabay.com/photo/2021/06/26/18/11/live-6366830_960_720.png",
             "group": "Movies",
             "url": "https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv",
-            "headers": {}
-        },
-        {
-            "name": "Anmol Cinema 2 (576p)",
-            "tvg_id": "AnmolCinema2.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png",
-            "group": "Movies",
-            "url": "https://fta.ektv.in/live/257/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Anmol Cinema (576p)",
-            "tvg_id": "AnmolCinema.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540",
-            "group": "Movies",
-            "url": "https://fta.ektv.in/live/271/master.m3u8",
             "headers": {}
         },
         {
@@ -5296,11 +5280,19 @@
             "headers": {}
         },
         {
-            "name": "Sony Movies (720p)",
+            "name": "Sony Movies (Brazil) (720p)",
             "tvg_id": "SonyMovies.br@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
             "group": "Movies",
             "url": "http://45.162.64.114/SONY_MOVIES/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Sony Movies (United States) (720p)",
+            "tvg_id": "SonyMovies.us@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png",
+            "group": "Movies",
+            "url": "https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8",
             "headers": {}
         },
         {

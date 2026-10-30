@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 782,
-    "last_update": "2026-10-30 05:10:46 AM",
+    "channels_amount": 783,
+    "last_update": "2026-10-30 11:12:03 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -4053,6 +4053,14 @@
             "logo": "https://www.radio3net.ro/img/logos/logo_3.png",
             "group": "Music",
             "url": "https://media.3netmedia.ro/hls/stream.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Radio Romania Antena Satelor (720p) [Not 24/7]",
+            "tvg_id": "RadioRomaniaAntenaSatelor.ro@720p",
+            "logo": "https://www.antenasatelor.ro/templates/default/images/custom/logo-main.svg",
+            "group": "Music",
+            "url": "https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8",
             "headers": {}
         },
         {
