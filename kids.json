@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 432,
-    "last_update": "2026-10-31 08:10:37 AM",
+    "channels_amount": 433,
+    "last_update": "2026-10-31 03:27:01 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -469,6 +469,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
             "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cartoon Network (Turkiye)",
+            "tvg_id": "CartoonNetwork.tr@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+            "group": "Animation;Kids",
+            "url": "http://176.65.153.40:6002/play/a013/index.m3u8",
             "headers": {}
         },
         {
@@ -1040,7 +1048,7 @@
             "headers": {}
         },
         {
-            "name": "Disney XD (United States) (1080p)",
+            "name": "Disney XD (United States) (720p)",
             "tvg_id": "DisneyXD.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png",
             "group": "Kids",

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 254,
-    "last_update": "2026-10-31 08:10:37 AM",
+    "channels_amount": 252,
+    "last_update": "2026-10-31 03:27:01 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -200,14 +200,6 @@
             "headers": {}
         },
         {
-            "name": "BBC Earth Romania HD (576p)",
-            "tvg_id": "BBCEarth.uk@RomaniaHD",
-            "logo": "https://i.imgur.com/nGSsUd4.png",
-            "group": "Documentary",
-            "url": "http://hls127.freeott.top:8080/BG_The_World/video.m3u8",
-            "headers": {}
-        },
-        {
             "name": "BBC Earth Turkiye",
             "tvg_id": "BBCEarth.uk@Turkiye",
             "logo": "https://i.imgur.com/nGSsUd4.png",
@@ -317,14 +309,6 @@
             "logo": "https://i.imgur.com/itRbMX3.png",
             "group": "Documentary;Series",
             "url": "https://cityeden.catcast.tv/content/38354/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "ClickTV Chile (720p)",
-            "tvg_id": "ClickTVChile.cl@SD",
-            "logo": "https://i.imgur.com/H0XNbMS.png",
-            "group": "Documentary",
-            "url": "https://v2.tustreaming.cl/clicktv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1848,11 +1832,11 @@
             "headers": {}
         },
         {
-            "name": "TRT Belgesel (1080p)",
+            "name": "TRT Belgesel (720p)",
             "tvg_id": "TRTBelgesel.tr@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png",
             "group": "Documentary",
-            "url": "http://hls127.freeott.top:8080/TRT_BELGESEL_TR/video.m3u8",
+            "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
             "headers": {}
         },
         {
@@ -1944,11 +1928,11 @@
             "headers": {}
         },
         {
-            "name": "Viasat History (Ukraine) (1080p)",
+            "name": "Viasat History (Ukraine)",
             "tvg_id": "ViasatHistory.ua@SD",
             "logo": "https://i.imgur.com/39qZ68J.png",
             "group": "Documentary",
-            "url": "http://hls127.freeott.top:8080/VIASAT_EXPLORE_HD_CEE/video.m3u8",
+            "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78",
             "headers": {}
         },
         {
