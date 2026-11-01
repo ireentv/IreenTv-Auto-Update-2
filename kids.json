@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 433,
-    "last_update": "2026-11-01 05:13:52 AM",
+    "channels_amount": 432,
+    "last_update": "2026-11-01 11:25:48 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1296,14 +1296,6 @@
             "headers": {}
         },
         {
-            "name": "Groovia Kids (576p)",
-            "tvg_id": "GrooviaKids.id@HD",
-            "logo": "https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png",
-            "group": "Kids",
-            "url": "https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Gulli",
             "tvg_id": "Gulli.fr@SD",
             "logo": "https://i.imgur.com/kqYssbW.png",
@@ -1357,14 +1349,6 @@
             "logo": "https://i.imgur.com/bScuilD.png",
             "group": "Kids",
             "url": "http://stream.mcquack.net/44/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Hungama TV (576p)",
-            "tvg_id": "HungamaTV.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_HUNGAMA/images/LOGO_HD/image.png",
-            "group": "Kids",
-            "url": "http://66.102.126.10:8000/play/a023/index.m3u8",
             "headers": {}
         },
         {
@@ -1952,6 +1936,14 @@
             "headers": {}
         },
         {
+            "name": "Nick/Comedy Central +1",
+            "tvg_id": "NickComedyCentralPlus1.de@SD",
+            "logo": "https://i.imgur.com/08ZUI9k.png",
+            "group": "Comedy;Kids",
+            "url": "http://90.183.52.46:4000/play/a046/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Nickelodeon (Brazil) (480p)",
             "tvg_id": "Nickelodeon.br@SD",
             "logo": "https://i.imgur.com/E84jnP8.png",
@@ -2021,6 +2013,14 @@
             "logo": "https://i.imgur.com/E84jnP8.png",
             "group": "Kids",
             "url": "https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Nickelodeon (Netherlands)",
+            "tvg_id": "Nickelodeon.nl@SD",
+            "logo": "https://i.imgur.com/E84jnP8.png",
+            "group": "Kids",
+            "url": "http://185.77.12.179:9981/stream/channelid/788918401?profile=pass",
             "headers": {}
         },
         {
@@ -2293,6 +2293,14 @@
             "logo": "https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png",
             "group": "Kids",
             "url": "https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "ON BiBi (1080p)",
+            "tvg_id": "ONBiBi.vn@SD",
+            "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab8%20-%20ON%20BiBi.png",
+            "group": "Kids",
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178",
             "headers": {}
         },
         {
@@ -2840,14 +2848,6 @@
             "headers": {}
         },
         {
-            "name": "Sony Yay! (576p)",
-            "tvg_id": "SonyYay.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
-            "group": "Animation;Kids",
-            "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Spacetoon Arabic (576p)",
             "tvg_id": "SpacetoonArabic.ae@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
@@ -2893,14 +2893,6 @@
             "logo": "https://i.imgur.com/o9kLpAL.png",
             "group": "Kids",
             "url": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Super Hungama (576p)",
-            "tvg_id": "SuperHungama.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUPER_HUNGAMA/images/LOGO_HD/image.png",
-            "group": "Animation;Kids",
-            "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
             "headers": {}
         },
         {

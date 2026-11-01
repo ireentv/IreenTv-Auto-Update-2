@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 776,
-    "last_update": "2026-11-01 05:13:52 AM",
+    "channels_amount": 780,
+    "last_update": "2026-11-01 11:25:48 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1157,6 +1157,14 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png",
             "group": "Music",
             "url": "https://cdn.pishow.tv/ott/live/1456/master.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Disco Mix (576i) [Geo-blocked]",
+            "tvg_id": "DiscoMix.ro@SD",
+            "logo": "https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",
+            "group": "Music",
+            "url": "https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2664,6 +2672,14 @@
             "headers": {}
         },
         {
+            "name": "Mi Musica Hits (720p)",
+            "tvg_id": "MiMusicaHits.us@SD",
+            "logo": "https://i.imgur.com/z9MlLFL.png",
+            "group": "Music",
+            "url": "http://38.188.186.47:4000/play/a04n/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Mi Musica Reggaeton (1080p)",
             "tvg_id": "MiMusicaReggaeton.us@SD",
             "logo": "https://i.imgur.com/MMb9u4u.png",
@@ -2741,6 +2757,14 @@
             "logo": "https://i.imgur.com/aX70RD2.png",
             "group": "Music",
             "url": "https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Mooz Dance HD (1080i) [Geo-blocked]",
+            "tvg_id": "MoozDance.ro@HD",
+            "logo": "https://i.imgur.com/aX70RD2.png",
+            "group": "Music",
+            "url": "https://meta.vcdn.biz/bb45aeed3156b62f01b6ca222920d46b_megogo/live/hls/b/700_2500/u_sid/0/o/183161921/rsid/20877e0c-fb47-4c47-a29d-19fadadbccb7/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8",
             "headers": {}
         },
         {
@@ -5525,6 +5549,14 @@
             "logo": "https://i.imgur.com/WcM7BP5.png",
             "group": "Music",
             "url": "https://sistemastr.tropicalmoonmedia.com:443/live/D8E123ACA054EF85B153C354A481A406/4.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Tropicalia 93.9 FM",
+            "tvg_id": "Tropicalia939FM.py@SD",
+            "logo": "https://i.imgur.com/oMML5Ue.png",
+            "group": "Music",
+            "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
             "headers": {}
         },
         {

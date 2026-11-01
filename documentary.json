@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 252,
-    "last_update": "2026-11-01 05:13:52 AM",
+    "channels_amount": 255,
+    "last_update": "2026-11-01 11:25:48 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -93,6 +93,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
             "group": "Documentary",
             "url": "http://stream.mcquack.net/114/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Animal Planet (United Kingdom)",
+            "tvg_id": "AnimalPlanet.uk@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
+            "group": "Documentary",
+            "url": "http://37.49.224.5/stream/10/index.m3u8",
             "headers": {}
         },
         {
@@ -408,6 +416,14 @@
             "headers": {}
         },
         {
+            "name": "Discovery History",
+            "tvg_id": "DiscoveryHistory.uk@SD",
+            "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png",
+            "group": "Documentary",
+            "url": "http://37.49.224.5/stream/12/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "DocuBay TV (1080p)",
             "tvg_id": "DocuBayTV.in@SD",
             "logo": "https://i.imgur.com/OGyeLLR.png",
@@ -685,6 +701,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
             "group": "Documentary",
             "url": "http://15.204.246.24:8080/HistoryHD/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "History Latin America South",
+            "tvg_id": "HistoryLatinAmerica.us@South",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+            "group": "Documentary",
+            "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8",
             "headers": {}
         },
         {

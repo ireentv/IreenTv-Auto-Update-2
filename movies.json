@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 769,
-    "last_update": "2026-11-01 05:13:52 AM",
+    "channels_amount": 772,
+    "last_update": "2026-11-01 11:25:48 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -484,7 +484,7 @@
             "tvg_id": "AXNLatinAmerica.us@South",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
             "group": "Movies",
-            "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8",
+            "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/10.m3u8",
             "headers": {}
         },
         {
@@ -1116,7 +1116,7 @@
             "tvg_id": "Cinecanal.us@South",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
             "group": "Movies",
-            "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8",
+            "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/17.m3u8",
             "headers": {}
         },
         {
@@ -2344,6 +2344,14 @@
             "headers": {}
         },
         {
+            "name": "HBO Asia HD (1080p)",
+            "tvg_id": "HBOAsia.sg@HD",
+            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+            "group": "Movies",
+            "url": "http://202.150.165.66:8088/play/100-HBO/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "HBO Asia SD (720p) [Geo-blocked]",
             "tvg_id": "HBOAsia.sg@SD",
             "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
@@ -2368,11 +2376,27 @@
             "headers": {}
         },
         {
+            "name": "HBO Hits Asia HD (1080p)",
+            "tvg_id": "HBOHitsAsia.sg@HD",
+            "logo": "https://i.imgur.com/CTjmocc.png",
+            "group": "Movies",
+            "url": "http://202.150.165.66:8088/play/102-HBOHits/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "HBO Mundi Latin America",
             "tvg_id": "HBOMundiLatinAmerica.us@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/960px-HBO_Mundi.svg.png",
             "group": "Movies",
             "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "HBO Signature Asia HD (1080p)",
+            "tvg_id": "HBOSignatureAsia.sg@HD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png",
+            "group": "Movies",
+            "url": "http://202.150.165.66:8088/play/101-HBOSignature/index.m3u8",
             "headers": {}
         },
         {
@@ -2533,14 +2557,6 @@
             "logo": "https://i.imgur.com/FP1aUPw.jpg",
             "group": "Movies",
             "url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Jalsha Movies HD (1080p)",
-            "tvg_id": "JalshaMovies.in@HD",
-            "logo": "https://i.imgur.com/25eWjX2.png",
-            "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -5388,7 +5404,7 @@
             "tvg_id": "StarChannelLatinAmerica.us@South",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
             "group": "Movies;Series",
-            "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8",
+            "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8",
             "headers": {}
         },
         {
@@ -6037,6 +6053,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
             "group": "Movies",
             "url": "http://38.134.250.110:8000/play/a029/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Warner Channel South",
+            "tvg_id": "WarnerChannel.us@South",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/960px-Warner_TV_logo.svg.png",
+            "group": "Movies",
+            "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/68.m3u8",
             "headers": {}
         },
         {
