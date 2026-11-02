@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 255
-# Last Updated    : 2026-11-02 08:14:28 AM
+# Total Channels  : 257
+# Last Updated    : 2026-11-02 04:47:00 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -492,6 +492,8 @@ https://lb.dstvmultimedia.com/ViasatExplore/index.m3u8
 https://shift03.isp.bg/ViasatHistory_HD/index.m3u8
 #EXTINF:-1 tvg-name="Viasat History (Czech Republic)" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Documentary" ,Viasat History (Czech Republic)
 http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat History (Hungary)" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="Documentary" ,Viasat History (Hungary)
+http://193.33.39.108:9007/play/a00p
 #EXTINF:-1 tvg-name="Viasat History (Romania)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg" group-title="Documentary" ,Viasat History (Romania)
 https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
 #EXTINF:-1 tvg-name="Viasat History (Slovenia)" tvg-logo="https://i.imgur.com/qCkCGqa.png" group-title="Documentary" ,Viasat History (Slovenia)
@@ -504,6 +506,8 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI
 https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 tvg-name="Viasat Nature (Czech Republic)" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="Documentary" ,Viasat Nature (Czech Republic)
 http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature (Hungary)" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="Documentary" ,Viasat Nature (Hungary)
+http://193.33.39.108:9000/play/a05r
 #EXTINF:-1 tvg-name="Viasat Nature (Romania)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" group-title="Documentary" ,Viasat Nature (Romania)
 https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
 #EXTINF:-1 tvg-name="Viasat Nature (Slovenia)" tvg-logo="https://i.imgur.com/gxlZZ91.png" group-title="Documentary" ,Viasat Nature (Slovenia)

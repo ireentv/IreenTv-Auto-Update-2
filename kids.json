@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 432,
-    "last_update": "2026-11-02 08:14:28 AM",
+    "channels_amount": 434,
+    "last_update": "2026-11-02 04:47:00 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -504,6 +504,14 @@
             "headers": {}
         },
         {
+            "name": "Cartoon Network CEE",
+            "tvg_id": "CartoonNetworkCEE.uk@Hungary",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+            "group": "Animation;Kids",
+            "url": "http://193.33.39.108:9007/play/a00l",
+            "headers": {}
+        },
+        {
             "name": "Cartoon Network CEE Czech Republic",
             "tvg_id": "CartoonNetworkCEE.uk@CzechRepublic",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
@@ -581,6 +589,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png",
             "group": "Animation;Kids",
             "url": "http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cartoonito CEE",
+            "tvg_id": "CartoonitoCEE.uk@SD",
+            "logo": "https://i.imgur.com/9MrzLb1.png",
+            "group": "Kids",
+            "url": "http://193.33.39.108:9019/play/a00t",
             "headers": {}
         },
         {

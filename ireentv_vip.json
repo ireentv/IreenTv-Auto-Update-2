@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 1051,
-    "last_update": "2026-11-02 08:14:28 AM",
+    "channels_amount": 1057,
+    "last_update": "2026-11-02 04:47:00 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -368,6 +368,14 @@
             "headers": {}
         },
         {
+            "name": "Channel 9 Server 3",
+            "tvg_id": "Combined_M3U_49_aHR0cHM6",
+            "logo": "https://i.postimg.cc/gkTGp9Y8/20260918-105823.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Channel_9_Server_3.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Channel i Server 1",
             "tvg_id": "Combined_M3U_52_aHR0cHM6",
             "logo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",
@@ -728,11 +736,19 @@
             "headers": {}
         },
         {
-            "name": "Jago News 24",
+            "name": "Jago News 24 Server 1",
+            "tvg_id": "Combined_M3U_102_aHR0cHM6",
+            "logo": "https://i.ibb.co.com/KpRt3cT5/Jago-News-24.png",
+            "group": "Bangla",
+            "url": "https://ireentv.pages.dev/Jago_News_24_Server_1.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Jago News 24 Server 2",
             "tvg_id": "Combined_M3U_103_aHR0cHM6",
             "logo": "https://i.ibb.co.com/KpRt3cT5/Jago-News-24.png",
             "group": "Bangla",
-            "url": "https://ireentv.pages.dev/Jago_News_24.m3u8",
+            "url": "https://ireentv.pages.dev/Jago_News_24_Server_2.m3u8",
             "headers": {}
         },
         {
@@ -2504,11 +2520,11 @@
             "headers": {}
         },
         {
-            "name": "Zee Anmol Server 1",
+            "name": "Zee Anmol",
             "tvg_id": "Combined_M3U_364_aHR0cHM6",
             "logo": "https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f630a176-73cc-48d7-94cf-69ba0d201b36.png",
             "group": "Hindi",
-            "url": "https://ireentv.pages.dev/Zee_Anmol_Server_1.m3u8",
+            "url": "https://ireentv.pages.dev/Zee_Anmol.m3u8",
             "headers": {}
         },
         {
@@ -4608,6 +4624,22 @@
             "headers": {}
         },
         {
+            "name": "BTV National Server 3",
+            "tvg_id": "Example_M3U_1_32_aHR0cHM6",
+            "logo": "https://i.imgur.com/5OE2FDt.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/BTV_National_Server_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BTV News",
+            "tvg_id": "Example_M3U_1_33_aHR0cHM6",
+            "logo": "https://i.postimg.cc/28VMF8hx/btv-news.png",
+            "group": "Bangladesh",
+            "url": "https://ireentv.pages.dev/BTV_News.m3u8",
+            "headers": {}
+        },
+        {
             "name": "BTV News [Backup 1]",
             "tvg_id": "Example_M3U_1_34_aHR0cDov",
             "logo": "https://i.postimg.cc/28VMF8hx/btv-news.png",
@@ -5472,6 +5504,14 @@
             "headers": {}
         },
         {
+            "name": "Goldmines [Backup 1]",
+            "tvg_id": "Example_M3U_1_242_aHR0cHM6",
+            "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Goldmines%20Logo_Transparent.png",
+            "group": "Indian Movies",
+            "url": "https://ireentv.pages.dev/Goldmines_Backup_1.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Goldmines Bollywood",
             "tvg_id": "Example_M3U_1_243_aHR0cHM6",
             "logo": "https://i.imgur.com/6mNQ9mM.png",
@@ -5488,19 +5528,19 @@
             "headers": {}
         },
         {
+            "name": "Goldmines Bollywood [Backup 2]",
+            "tvg_id": "Example_M3U_1_245_aHR0cHM6",
+            "logo": "https://i.imgur.com/6mNQ9mM.png",
+            "group": "Indian Movies",
+            "url": "https://ireentv.pages.dev/Goldmines_Bollywood_Backup_2.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Goldmines Movies",
             "tvg_id": "Example_M3U_1_246_aHR0cHM6",
             "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png",
             "group": "Indian Movies",
             "url": "https://ireentv.pages.dev/Goldmines_Movies.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Goldmines Movies [Backup 1]",
-            "tvg_id": "Example_M3U_1_247_aHR0cHM6",
-            "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/GoldminesMovies_Transparent_9b7db248-999e-4200-a459-6cc594650f3d.png",
-            "group": "Indian Movies",
-            "url": "https://ireentv.pages.dev/Goldmines_Movies_Backup_1.m3u8",
             "headers": {}
         },
         {
@@ -5557,6 +5597,14 @@
             "logo": "https://dtil.tmsimg.com/assets/s143686_ld_h9_aa.png?lock=720x540",
             "group": "Indian Movies",
             "url": "https://ireentv.pages.dev/Public_Movies.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Raj Digital Plus",
+            "tvg_id": "Example_M3U_1_259_aHR0cHM6",
+            "logo": "https://dtil.tmsimg.com/assets/s143704_ld_h15_ab.png?lock=720x540",
+            "group": "Indian Movies",
+            "url": "https://ireentv.pages.dev/Raj_Digital_Plus.m3u8",
             "headers": {}
         },
         {
@@ -6197,22 +6245,6 @@
             "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/%26TV_Transparent_c5cc189b-8493-48d2-b07c-3fa4f92d754a.png",
             "group": "Indian Entertainment",
             "url": "https://ireentv.pages.dev/TV_Backup_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zee Anmol Server 2",
-            "tvg_id": "Example_M3U_1_386_aHR0cDov",
-            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
-            "group": "Indian Entertainment",
-            "url": "https://ireentv.pages.dev/Zee_Anmol_Server_2.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Zee Anmol [Backup 1]",
-            "tvg_id": "Example_M3U_1_387_aHR0cDov",
-            "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=720x540",
-            "group": "Indian Entertainment",
-            "url": "https://ireentv.pages.dev/Zee_Anmol_Backup_1.m3u8",
             "headers": {}
         },
         {
@@ -7280,6 +7312,14 @@
             "headers": {}
         },
         {
+            "name": "Doraemon [Backup 1]",
+            "tvg_id": "Example_M3U_1_556_aHR0cHM6",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Doraemon_Merch_EN_Logo.svg",
+            "group": "Kids",
+            "url": "https://ireentv.pages.dev/Doraemon_Backup_1.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Duck TV",
             "tvg_id": "Example_M3U_1_557_aHR0cHM6",
             "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA3400004MA_20260421T140719SQUARE.png",
@@ -7973,6 +8013,14 @@
             "logo": "https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",
             "group": "Sports",
             "url": "https://ireentv.pages.dev/Oman_Sports_TV.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "PTV Sports Server 5",
+            "tvg_id": "Example_M3U_1_689_aHR0cHM6",
+            "logo": "https://i.imgur.com/CPm6GHA.png",
+            "group": "Sports",
+            "url": "https://ireentv.pages.dev/PTV_Sports_Server_5.m3u8",
             "headers": {}
         },
         {

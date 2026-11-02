@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 772,
-    "last_update": "2026-11-02 08:14:28 AM",
+    "channels_amount": 774,
+    "last_update": "2026-11-02 04:47:00 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -640,14 +640,6 @@
             "headers": {}
         },
         {
-            "name": "Bollywood Film",
-            "tvg_id": "BollywoodFilm.ro@SD",
-            "logo": "https://i.imgur.com/bEMUpHZ.png",
-            "group": "Classic;Movies",
-            "url": "https://tvextra-hls.b-cdn.net/bollywoodfilm/bollywoodfilm.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Bollywood HD Russia (576p)",
             "tvg_id": "BollywoodHD.ro@Russia",
             "logo": "https://i.imgur.com/scDKOLS.png",
@@ -749,6 +741,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
             "group": "Movies",
             "url": "http://46.149.191.219:9106/play/a01g",
+            "headers": {}
+        },
+        {
+            "name": "Canal+ Action Europe Magyar",
+            "tvg_id": "CanalPlusActionEurope.nl@Magyar",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png",
+            "group": "Movies",
+            "url": "http://193.33.39.108:9016/play/a02n",
             "headers": {}
         },
         {
@@ -988,7 +988,7 @@
             "tvg_id": "CineSony.us@SD",
             "logo": "https://i.imgur.com/bZWoDTg.png",
             "group": "Movies",
-            "url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
+            "url": "http://186.148.196.82:8001/play/a0a4",
             "headers": {}
         },
         {
@@ -1168,6 +1168,14 @@
             "headers": {}
         },
         {
+            "name": "Cinemax 2 Central Europe",
+            "tvg_id": "Cinemax2CentralEurope.hu@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png",
+            "group": "Movies",
+            "url": "http://193.33.39.108:9009/play/a024",
+            "headers": {}
+        },
+        {
             "name": "Cinemax (Czech Republic)",
             "tvg_id": "Cinemax.cz@Czechia",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
@@ -1197,6 +1205,14 @@
             "logo": "https://i.imgur.com/c8crJfA.png",
             "group": "Movies",
             "url": "http://125.227.210.55:1001/VideoInput/play.ts",
+            "headers": {}
+        },
+        {
+            "name": "Cinemax Central Europe",
+            "tvg_id": "CinemaxCentralEurope.hu@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",
+            "group": "Movies",
+            "url": "http://193.33.39.108:9023/play/a01b",
             "headers": {}
         },
         {
@@ -2346,7 +2362,7 @@
         {
             "name": "HBO Asia HD (1080p)",
             "tvg_id": "HBOAsia.sg@HD",
-            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+            "logo": "https://i.imgur.com/cE2gBt6.png",
             "group": "Movies",
             "url": "http://202.150.165.66:8088/play/100-HBO/index.m3u8",
             "headers": {}
@@ -2354,7 +2370,7 @@
         {
             "name": "HBO Asia SD (720p) [Geo-blocked]",
             "tvg_id": "HBOAsia.sg@SD",
-            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+            "logo": "https://i.imgur.com/cE2gBt6.png",
             "group": "Movies",
             "url": "https://tinyurl.com/yn3d3rmd",
             "headers": {}
@@ -2362,7 +2378,7 @@
         {
             "name": "HBO Asia Taiwan (1080p)",
             "tvg_id": "HBOAsia.sg@Taiwan",
-            "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png",
+            "logo": "https://i.imgur.com/cE2gBt6.png",
             "group": "Movies",
             "url": "http://125.227.210.55:1003/VideoInput/play.ts",
             "headers": {}
