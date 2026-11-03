@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 434
-# Last Updated    : 2026-11-03 08:50:09 AM
+# Total Channels  : 435
+# Last Updated    : 2026-11-03 04:38:55 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -244,6 +244,8 @@ http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (Romania)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids" ,Disney Channel (Romania)
 https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+#EXTINF:-1 tvg-name="Disney Channel (United States) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png" group-title="Kids" ,Disney Channel (United States) (720p)
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Disney Channel Latin America (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids" ,Disney Channel Latin America (1080p)
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Latin America Center (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids" ,Disney Channel Latin America Center (1080p)
@@ -803,7 +805,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-name="Tooku (1080p)" tvg-logo="https://tooku.ru/wp-content/uploads/2024/11/tooku-kanal-logo.png" group-title="Animation;Kids" ,Tooku (1080p)
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-name="Tooncast (1080p)" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Animation;Kids" ,Tooncast (1080p)
-http://38.134.250.110:8000/play/a01t/index.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
 #EXTINF:-1 tvg-name="Tooncast Argentina (720p)" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Animation;Kids" ,Tooncast Argentina (720p)
 http://45.134.141.161:2200/ARG/Tooncast/index.m3u8
 #EXTINF:-1 tvg-name="Tooncast SouthAmerica (480p)" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="Animation;Kids" ,Tooncast SouthAmerica (480p)

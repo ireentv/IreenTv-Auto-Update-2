@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 434,
-    "last_update": "2026-11-03 08:50:09 AM",
+    "channels_amount": 435,
+    "last_update": "2026-11-03 04:38:55 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -917,6 +917,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
             "group": "Kids",
             "url": "https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Disney Channel (United States) (720p)",
+            "tvg_id": "DisneyChannel.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/960px-2024_Disney_Channel_text_logo.svg.png",
+            "group": "Kids",
+            "url": "http://4.30.180.36:8420/disneychannel/index.m3u8?token=test",
             "headers": {}
         },
         {
@@ -3129,10 +3137,10 @@
         },
         {
             "name": "Tooncast (1080p)",
-            "tvg_id": "Tooncast.us@SD",
+            "tvg_id": "Tooncast.us@Panregional",
             "logo": "https://i.imgur.com/3yXRbQy.png",
             "group": "Animation;Kids",
-            "url": "http://38.134.250.110:8000/play/a01t/index.m3u8",
+            "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8",
             "headers": {}
         },
         {

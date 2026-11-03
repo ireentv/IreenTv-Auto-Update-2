@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 774,
-    "last_update": "2026-11-03 08:50:09 AM",
+    "channels_amount": 773,
+    "last_update": "2026-11-03 04:38:55 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1204,6 +1204,14 @@
             "tvg_id": "CinemaxAsia.sg@HD",
             "logo": "https://i.imgur.com/c8crJfA.png",
             "group": "Movies",
+            "url": "http://202.150.165.66:8088/play/104-Cinemax/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cinemax Asia Taiwan (1080p)",
+            "tvg_id": "CinemaxAsia.sg@Taiwan",
+            "logo": "https://i.imgur.com/c8crJfA.png",
+            "group": "Movies",
             "url": "http://125.227.210.55:1001/VideoInput/play.ts",
             "headers": {}
         },
@@ -1936,11 +1944,11 @@
             "headers": {}
         },
         {
-            "name": "FILMBOX+ Love & Crime Bulgaria (720p)",
+            "name": "FILMBOX+ Love & Crime Bulgaria",
             "tvg_id": "FILMBOXPlusLoveCrime.pl@Bulgaria",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
             "group": "Movies",
-            "url": "http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8",
+            "url": "http://213.91.179.28:8000/play/a066",
             "headers": {}
         },
         {
@@ -1960,11 +1968,11 @@
             "headers": {}
         },
         {
-            "name": "FILMBOX+ One Bulgaria (576p)",
+            "name": "FILMBOX+ One Bulgaria",
             "tvg_id": "FILMBOXPlusOne.pl@Bulgaria",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",
             "group": "Movies",
-            "url": "http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8",
+            "url": "http://213.91.179.28:8000/play/a06i",
             "headers": {}
         },
         {
@@ -3349,14 +3357,6 @@
             "logo": "https://i.imgur.com/HYgxPVQ.png",
             "group": "Movies",
             "url": "https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Nash Kinomir (576p)",
-            "tvg_id": "NashKinomir.de@SD",
-            "logo": "https://i.imgur.com/7M1J42A.png",
-            "group": "Movies",
-            "url": "http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8",
             "headers": {}
         },
         {
@@ -5221,14 +5221,6 @@
             "logo": "https://i.imgur.com/UG63hZ0.png",
             "group": "Movies",
             "url": "http://stream.mcquack.net/75/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Shot TV (576p)",
-            "tvg_id": "ShotTV.ru@SD",
-            "logo": "https://i.imgur.com/MLSG7tA.png",
-            "group": "Movies",
-            "url": "http://hls127.freeott.top:8080/SHOT_TV/video.m3u8",
             "headers": {}
         },
         {
