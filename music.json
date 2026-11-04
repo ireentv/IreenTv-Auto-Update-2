@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 781,
-    "last_update": "2026-11-04 05:55:05 AM",
+    "last_update": "2026-11-04 11:42:23 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -2560,7 +2560,15 @@
             "headers": {}
         },
         {
-            "name": "MCM Top (576p)",
+            "name": "MCM Top (France)",
+            "tvg_id": "MCMTop.fr@SD",
+            "logo": "https://i.imgur.com/EVtWQLd.png",
+            "group": "Music",
+            "url": "http://185.228.163.146:8000/play/a00g/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MCM Top (Russia) (576p)",
             "tvg_id": "MCMTop.ru@SD",
             "logo": "https://i.imgur.com/EVtWQLd.png",
             "group": "Music",
@@ -5725,14 +5733,6 @@
             "logo": "https://i.imgur.com/KVVU9PI.png",
             "group": "Music",
             "url": "https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "V2BEAT TV (720p) [Not 24/7]",
-            "tvg_id": "V2BEATTV.uk@SD",
-            "logo": "https://i.imgur.com/PXGqyLn.png",
-            "group": "Music",
-            "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
             "headers": {}
         },
         {

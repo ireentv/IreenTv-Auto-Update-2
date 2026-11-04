@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 773,
-    "last_update": "2026-11-04 05:55:05 AM",
+    "channels_amount": 770,
+    "last_update": "2026-11-04 11:42:23 AM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1264,6 +1264,14 @@
             "headers": {}
         },
         {
+            "name": "CineStar Action Bulgaria",
+            "tvg_id": "CineStarActionBulgaria.bg@SD",
+            "logo": "https://i.imgur.com/bTf7A9J.png",
+            "group": "Movies",
+            "url": "http://213.91.179.28:8000/play/a06b",
+            "headers": {}
+        },
+        {
             "name": "Cinevault 80s (720p)",
             "tvg_id": "Cinevault80s.us@SD",
             "logo": "https://i.imgur.com/xaCyyDd.png",
@@ -2301,14 +2309,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg",
             "group": "Movies;Series",
             "url": "http://41.205.93.154/HALLMARK/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Halloween Non Stop (720p)",
-            "tvg_id": "HalloweenNonStop.ro@SD",
-            "logo": "https://assets.antenaplay.ro/2026/10/18/ODGTMKI8mciV9cmCOxgn.png",
-            "group": "Movies",
-            "url": "https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8",
             "headers": {}
         },
         {
@@ -3429,14 +3429,6 @@
             "logo": "https://i.ibb.co/yF9MPTDK/blyflx.png",
             "group": "Movies",
             "url": "https://jmp2.uk/stvp-IN46000140Q",
-            "headers": {}
-        },
-        {
-            "name": "NH BollyGold (1080p)",
-            "tvg_id": "NHBollyGold.in@HD",
-            "logo": "https://i.ibb.co/x9PsrMy/NH-BOLLYGOLD.png",
-            "group": "Movies",
-            "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
             "headers": {}
         },
         {
@@ -5456,14 +5448,6 @@
             "headers": {}
         },
         {
-            "name": "Star Movies (India) HD (1080p)",
-            "tvg_id": "StarMovies.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
-            "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a02k/index.m3u8?hls",
-            "headers": {}
-        },
-        {
             "name": "Star Movies (Portugal)",
             "tvg_id": "StarMovies.pt@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",
@@ -5717,14 +5701,6 @@
             "logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",
             "group": "Movies",
             "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "The Film Detective (720p)",
-            "tvg_id": "TheFilmDetective.us@SD",
-            "logo": "https://i.imgur.com/yfOwmsP.png",
-            "group": "Movies",
-            "url": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/playlist.m3u8",
             "headers": {}
         },
         {

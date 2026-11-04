@@ -5,7 +5,7 @@
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
 # Total Channels  : 781
-# Last Updated    : 2026-11-04 05:55:05 AM
+# Last Updated    : 2026-11-04 11:42:23 AM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -650,7 +650,9 @@ https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
 #EXTINF:-1 tvg-name="MCM Pop (580p)" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music" ,MCM Pop (580p)
 http://188.115.15.121:8000/play/a014
-#EXTINF:-1 tvg-name="MCM Top (576p)" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music" ,MCM Top (576p)
+#EXTINF:-1 tvg-name="MCM Top (France)" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music" ,MCM Top (France)
+http://185.228.163.146:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-name="MCM Top (Russia) (576p)" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music" ,MCM Top (Russia) (576p)
 http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1 tvg-name="MCN6 Music Channel (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/j6IiysJ.png" group-title="Animation;Kids;Music" ,MCN6 Music Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
@@ -1442,8 +1444,6 @@ http://stream.mcquack.net/281/index.m3u8
 https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-name="Urbano TV (720p)" tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="Music" ,Urbano TV (720p)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 tvg-name="V2BEAT TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Music" ,V2BEAT TV (720p) [Not 24/7]
-https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-name="V Classic TV (1080p)" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Music" ,V Classic TV (1080p)
 http://186.148.196.100:8000/play/a02z
 #EXTINF:-1 tvg-name="Vaanavil TV (720p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png" group-title="Music" ,Vaanavil TV (720p)
