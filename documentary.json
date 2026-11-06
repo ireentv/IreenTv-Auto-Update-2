@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 256,
-    "last_update": "2026-11-06 05:59:15 AM",
+    "last_update": "2026-11-06 12:25:56 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -108,7 +108,7 @@
             "tvg_id": "AnimalPlanet.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png",
             "group": "Documentary",
-            "url": "http://23.239.31.26:8989/animalplanet/index.m3u8",
+            "url": "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8",
             "headers": {}
         },
         {
@@ -1156,7 +1156,7 @@
             "tvg_id": "NationalGeographicWild.ua@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
-            "url": "http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8",
+            "url": "http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8",
             "headers": {}
         },
         {
@@ -1708,7 +1708,7 @@
             "tvg_id": "SafariTV.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png",
             "group": "Documentary",
-            "url": "https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8",
+            "url": "https://fta.ektv.in/live/410/master.m3u8",
             "headers": {}
         },
         {
@@ -1956,7 +1956,7 @@
             "tvg_id": "ViasatHistory.ua@SD",
             "logo": "https://i.imgur.com/39qZ68J.png",
             "group": "Documentary",
-            "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78",
+            "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==",
             "headers": {}
         },
         {
@@ -2004,7 +2004,7 @@
             "tvg_id": "vijuExplore.ru@SD",
             "logo": "https://i.imgur.com/EGIpLPu.png",
             "group": "Documentary",
-            "url": "http://stream.mcquack.net/239/index.m3u8",
+            "url": "http://46.53.200.153:7777/play/a01i/index.m3u8",
             "headers": {}
         },
         {
@@ -2012,7 +2012,7 @@
             "tvg_id": "vijuHistory.ru@SD",
             "logo": "https://i.imgur.com/FqWkeXb.png",
             "group": "Documentary",
-            "url": "http://178.124.179.122:8080/HistoryHD/index.m3u8",
+            "url": "http://46.53.200.153:7777/play/a01j/index.m3u8",
             "headers": {}
         },
         {
@@ -2020,7 +2020,7 @@
             "tvg_id": "vijuNature.ru@SD",
             "logo": "https://i.imgur.com/8BPZ18l.png",
             "group": "Documentary",
-            "url": "https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv",
+            "url": "http://46.53.200.153:7777/play/a01k/index.m3u8",
             "headers": {}
         },
         {

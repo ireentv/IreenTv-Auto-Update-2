@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 770,
-    "last_update": "2026-11-06 05:59:15 AM",
+    "last_update": "2026-11-06 12:25:56 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -180,7 +180,7 @@
             "tvg_id": "AllTimeMovies.in@SD",
             "logo": "https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj",
             "group": "Movies",
-            "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+            "url": "https://fta.ektv.in/live/54/54_0.m3u8",
             "headers": {}
         },
         {
@@ -396,7 +396,7 @@
             "tvg_id": "AXNBlack.us@Hungary",
             "logo": "https://i.imgur.com/Peo1QiZ.png",
             "group": "Movies",
-            "url": "http://141.94.193.53:80/axn_black/index.m3u8",
+            "url": "http://141.94.193.53/axn_black/index.m3u8",
             "headers": {}
         },
         {
@@ -548,7 +548,7 @@
             "tvg_id": "B4UKadak.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540",
             "group": "Movies",
-            "url": "https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/227/master.m3u8",
             "headers": {}
         },
         {
@@ -556,7 +556,7 @@
             "tvg_id": "B4UMovies.in@India",
             "logo": "https://i.imgur.com/M9kMFJl.png",
             "group": "Movies",
-            "url": "https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8",
+            "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
             "headers": {}
         },
         {
@@ -1052,7 +1052,7 @@
             "tvg_id": "CinePlus.ua@SD",
             "logo": "https://i.imgur.com/SAtdShq.png",
             "group": "Movies",
-            "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&master=567",
+            "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=567&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR",
             "headers": {}
         },
         {
@@ -1076,7 +1076,7 @@
             "tvg_id": "CinePlusHit.ua@SD",
             "logo": "https://i.imgur.com/b3FcLU1.png",
             "group": "Movies",
-            "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539",
+            "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=539&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw==",
             "headers": {}
         },
         {
@@ -1084,7 +1084,7 @@
             "tvg_id": "CinePlusLegend.ua@SD",
             "logo": "https://i.imgur.com/QtOfzSH.png",
             "group": "Movies",
-            "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568",
+            "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==",
             "headers": {}
         },
         {
@@ -1124,7 +1124,7 @@
             "tvg_id": "CineLatino.mx@SD",
             "logo": "https://i.imgur.com/2V0R0xT.png",
             "group": "Movies",
-            "url": "http://206.135.11.174:8010/play/a0lq/index.m3u8",
+            "url": "http://168.196.127.137:6001/play/a08o/index.m3u8",
             "headers": {}
         },
         {
@@ -1372,7 +1372,7 @@
             "tvg_id": "ClaroCinema.mx@SD",
             "logo": "https://i.imgur.com/SOLGQxQ.jpg",
             "group": "Movies",
-            "url": "http://158.172.217.18:8000/play/a00d/index.m3u8",
+            "url": "http://45.171.64.30:6060/play/a039/index.m3u8",
             "headers": {}
         },
         {
@@ -1468,7 +1468,7 @@
             "tvg_id": "DePeliculaLatinAmerica.mx@SD",
             "logo": "https://i.imgur.com/aksM8pa.png",
             "group": "Movies",
-            "url": "http://38.19.41.46:8081/DEPELICULA/index.m3u8",
+            "url": "http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8",
             "headers": {}
         },
         {
@@ -1516,7 +1516,7 @@
             "tvg_id": "Domkino.ru@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
             "group": "Movies",
-            "url": "http://stream.mcquack.net/236/index.m3u8",
+            "url": "http://88.212.15.50/live/test_dom_kino/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1620,7 +1620,7 @@
             "tvg_id": "EpicBhojpuri.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0032BVJ8.png?lock=720x540",
             "group": "Movies",
-            "url": "https://mumt01.tangotv.in/O5aw8Zn3EPICBHOJPURI/index.m3u8",
+            "url": "https://fta.ektv.in/live/467/master.m3u8",
             "headers": {}
         },
         {
@@ -1652,7 +1652,7 @@
             "tvg_id": "Evrokino.ru@SD",
             "logo": "https://i.imgur.com/8LPtPf6.png",
             "group": "Movies",
-            "url": "https://fs.uplink.kz/eurokino/mono.m3u8?token=onlinetv",
+            "url": "http://176.118.197.101/Evrokino/index.m3u8",
             "headers": {}
         },
         {
@@ -1832,7 +1832,7 @@
             "headers": {}
         },
         {
-            "name": "FILMBOX+ Emotion Adria",
+            "name": "FILMBOX+ Emotion Adria (720p)",
             "tvg_id": "FILMBOXPlusEmotion.pl@Adria",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png",
             "group": "Movies",
@@ -1904,7 +1904,7 @@
             "headers": {}
         },
         {
-            "name": "FILMBOX+ Hits Adria",
+            "name": "FILMBOX+ Hits Adria (720p)",
             "tvg_id": "FILMBOXPlusHits.pl@Adria",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png",
             "group": "Movies",
@@ -1944,7 +1944,7 @@
             "headers": {}
         },
         {
-            "name": "FILMBOX+ Love & Crime Adria",
+            "name": "FILMBOX+ Love & Crime Adria (720p)",
             "tvg_id": "FILMBOXPlusLoveCrime.pl@Adria",
             "logo": "https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png",
             "group": "Movies",
@@ -2196,7 +2196,7 @@
             "tvg_id": "GoldenPremier2.mx@SD",
             "logo": "https://i.imgur.com/GBlvQBI.png",
             "group": "Movies",
-            "url": "http://200.229.147.210:9999/play/a00l/index.m3u8",
+            "url": "http://200.57.28.141:8540/play/a0lo",
             "headers": {}
         },
         {
@@ -2204,7 +2204,7 @@
             "tvg_id": "GoldenPremier.mx@SD",
             "logo": "https://i.imgur.com/JMa7jws.png",
             "group": "Movies",
-            "url": "http://200.229.147.210:9999/play/a00k/index.m3u8",
+            "url": "http://200.57.28.141:8540/play/a0ln",
             "headers": {}
         },
         {
@@ -2212,7 +2212,7 @@
             "tvg_id": "Goldmines2.in@SD",
             "logo": "",
             "group": "Movies",
-            "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
+            "url": "https://fta.ektv.in/live/46/46_0.m3u8",
             "headers": {}
         },
         {
@@ -2220,7 +2220,7 @@
             "tvg_id": "Goldmines.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png",
             "group": "Movies",
-            "url": "https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8",
+            "url": "https://fta.ektv.in/live/53/53_0.m3u8",
             "headers": {}
         },
         {
@@ -2228,7 +2228,7 @@
             "tvg_id": "GoldminesAction.in@SD",
             "logo": "https://yt3.googleusercontent.com/_X6U6bMLF-pTu5wBMFwsSI6aubGrXk2B0kUKdGiLIMqFLyDIne4Ot4ro76BS1S8fX3pWcCwS=s900-c-k-c0x00ffffff-no-rj",
             "group": "Movies",
-            "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
+            "url": "https://fta.ektv.in/live/584/master.m3u8",
             "headers": {}
         },
         {
@@ -2236,7 +2236,7 @@
             "tvg_id": "GoldminesBollywood.in@SD",
             "logo": "https://i.imgur.com/6mNQ9mM.png",
             "group": "Movies",
-            "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
+            "url": "https://fta.ektv.in/live/52/52_0.m3u8",
             "headers": {}
         },
         {
@@ -2612,7 +2612,7 @@
             "tvg_id": "KairaliWe.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png",
             "group": "Movies",
-            "url": "https://streams.tangotv.in/WETV/ORIGIN/index.m3u8",
+            "url": "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8",
             "headers": {}
         },
         {
@@ -2880,7 +2880,7 @@
             "headers": {}
         },
         {
-            "name": "Made In Hollywood",
+            "name": "Made In Hollywood (720p)",
             "tvg_id": "MadeInHollywood.us@SD",
             "logo": "https://i.imgur.com/p16HNIM.png",
             "group": "Movies",
@@ -2932,7 +2932,7 @@
             "tvg_id": "ManoranjanMovies.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/s143303_ld_h15_aa.png?lock=720x540",
             "group": "Movies",
-            "url": "https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8",
+            "url": "https://fta.ektv.in/live/47/47_0.m3u8",
             "headers": {}
         },
         {
@@ -2948,7 +2948,7 @@
             "tvg_id": "MAX4.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Max4_logo.png/960px-Max4_logo.png",
             "group": "Movies",
-            "url": "http://141.94.193.53:80/MAX4_HD/index.m3u8",
+            "url": "http://141.94.193.53/MAX4_HD/index.m3u8",
             "headers": {}
         },
         {
@@ -3044,7 +3044,7 @@
             "tvg_id": "MeiAhMovieChannel.hk@SD",
             "logo": "https://i.imgur.com/laGiFM1.png",
             "group": "Movies",
-            "url": "http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8",
+            "url": "http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8",
             "headers": {}
         },
         {
@@ -3084,7 +3084,7 @@
             "tvg_id": "MHOneMovies.in@SD",
             "logo": "",
             "group": "Movies",
-            "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
+            "url": "https://fta.ektv.in/live/639/master.m3u8",
             "headers": {}
         },
         {
@@ -3140,7 +3140,7 @@
             "tvg_id": "MoviePunjab.in@SD",
             "logo": "https://papaji.freetvindia.com/media/900_FreeTV_Movie_punjab.png",
             "group": "Movies",
-            "url": "https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8",
+            "url": "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8",
             "headers": {}
         },
         {
@@ -3200,7 +3200,7 @@
             "headers": {}
         },
         {
-            "name": "Movies! KPVM-LD",
+            "name": "Movies! KPVM-LD (480p)",
             "tvg_id": "Movies.us@KPVMLD",
             "logo": "https://i.imgur.com/gAGn3mK.png",
             "group": "Movies",
@@ -4788,7 +4788,7 @@
             "tvg_id": "PublicMovies.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png",
             "group": "Movies",
-            "url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8",
+            "url": "https://fta.ektv.in/live/239/master.m3u8",
             "headers": {}
         },
         {
@@ -4796,7 +4796,7 @@
             "tvg_id": "PunjabiShorts.in@SD",
             "logo": "https://www.thegtcnetwork.com/punjabi-shorts.jpg",
             "group": "Movies",
-            "url": "https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8",
+            "url": "https://gtc.ottlive.co.in/punjabshort/index.m3u8",
             "headers": {}
         },
         {
@@ -4804,7 +4804,7 @@
             "tvg_id": "QTV3.cn@SD",
             "logo": "https://www.tvchinese.net/uploads/tv/qdtv3.jpg",
             "group": "Movies",
-            "url": "http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8",
+            "url": "http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1",
             "headers": {}
         },
         {
@@ -5204,7 +5204,7 @@
             "tvg_id": "ShemarooJosh.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540",
             "group": "Movies",
-            "url": "https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/337/master.m3u8",
             "headers": {}
         },
         {
@@ -5436,7 +5436,7 @@
             "tvg_id": "StarGold.in@HD",
             "logo": "https://i.imgur.com/xC460sj.png",
             "group": "Movies",
-            "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
+            "url": "http://103.151.60.162:2122/play/a01n/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -5636,7 +5636,7 @@
             "tvg_id": "SuriyanTV.in@SD",
             "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png",
             "group": "Movies",
-            "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
+            "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
             "headers": {}
         },
         {
@@ -5684,11 +5684,11 @@
             "tvg_id": "TelecineAction.br@SD",
             "logo": "https://i.imgur.com/BHYWG0h.png",
             "group": "Movies",
-            "url": "http://46.151.196.223:14326/",
+            "url": "http://46.151.196.223:14326",
             "headers": {}
         },
         {
-            "name": "TF1 Series Films",
+            "name": "TF1 Series Films (1080p)",
             "tvg_id": "TF1SeriesFilms.fr@SD",
             "logo": "https://i.imgur.com/4CJIDKQ.png",
             "group": "Movies",
@@ -5708,7 +5708,7 @@
             "tvg_id": "TheMovieClub.in@HD",
             "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20260325T012318SQUARE.png",
             "group": "Movies",
-            "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8",
+            "url": "https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8",
             "headers": {}
         },
         {
@@ -5780,7 +5780,7 @@
             "tvg_id": "TV21International.ru@SD",
             "logo": "https://ibb.co/BH6CZx3K",
             "group": "Movies",
-            "url": "http://stream.mcquack.net/152/index.m3u8",
+            "url": "http://46.53.200.153:7777/play/TV-21M/index.m3u8",
             "headers": {}
         },
         {
@@ -5956,7 +5956,7 @@
             "tvg_id": "ViasatKinoComedy.ua@SD",
             "logo": "https://i.imgur.com/qVYt8kP.png",
             "group": "Comedy;Movies",
-            "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249",
+            "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==",
             "headers": {}
         },
         {
@@ -5964,7 +5964,7 @@
             "tvg_id": "ViasatKinoWorld.ua@SD",
             "logo": "https://i.imgur.com/GPiE2Rb.png",
             "group": "Movies",
-            "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102",
+            "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ==",
             "headers": {}
         },
         {
@@ -5972,7 +5972,7 @@
             "tvg_id": "ViasatSerial.ua@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Viasat_Serial.svg",
             "group": "Movies;Series",
-            "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599",
+            "url": "http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==",
             "headers": {}
         },
         {
@@ -5980,7 +5980,7 @@
             "tvg_id": "vijuTV1000.ru@SD",
             "logo": "https://i.imgur.com/ZMsyjSr.png",
             "group": "Movies",
-            "url": "http://stream.mcquack.net/110/index.m3u8",
+            "url": "http://46.53.200.153:7777/play/TV_1000/index.m3u8",
             "headers": {}
         },
         {
@@ -5988,7 +5988,7 @@
             "tvg_id": "vijuTV1000action.ru@SD",
             "logo": "https://i.imgur.com/TMmyuzh.png",
             "group": "Movies",
-            "url": "http://stream.mcquack.net/100/index.m3u8",
+            "url": "http://46.53.200.153:7777/play/a01h/index.m3u8",
             "headers": {}
         },
         {
@@ -6004,7 +6004,7 @@
             "tvg_id": "vijuTV1000russkoe.ru@SD",
             "logo": "https://i.imgur.com/Meak2y4.png",
             "group": "Movies",
-            "url": "https://fs.uplink.kz/viju_tv1000_russkoe/mono.m3u8?token=onlinetv",
+            "url": "http://46.53.200.153:7777/play/a01g/index.m3u8",
             "headers": {}
         },
         {
@@ -6012,7 +6012,7 @@
             "tvg_id": "vijuPlusMegahit.ru@HD",
             "logo": "https://i.imgur.com/oIQNddV.png",
             "group": "Movies",
-            "url": "http://stream.mcquack.net/200/index.m3u8",
+            "url": "http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8",
             "headers": {}
         },
         {
@@ -6020,7 +6020,7 @@
             "tvg_id": "vijuPlusPremiere.ru@HD",
             "logo": "https://i.imgur.com/klRvhR5.png",
             "group": "Movies",
-            "url": "http://stream.mcquack.net/202/index.m3u8",
+            "url": "http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8",
             "headers": {}
         },
         {
@@ -6156,7 +6156,7 @@
             "tvg_id": "ZeeCinema.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a024/index.m3u8?hls",
+            "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls",
             "headers": {}
         },
         {
