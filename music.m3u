@@ -5,7 +5,7 @@
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
 # Total Channels  : 781
-# Last Updated    : 2026-11-07 06:46:44 AM
+# Last Updated    : 2026-11-07 12:56:17 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -438,8 +438,8 @@ https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-name="High Vision TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/zhCgoru.png" group-title="Music" ,High Vision TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
-#EXTINF:-1 tvg-name="Hindi Hits (720p)" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="Music" ,Hindi Hits (720p)
-https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-name="Hindi Hits (1080p)" tvg-logo="https://i.postimg.cc/ryC1Y2K4/Capture.png" group-title="Music" ,Hindi Hits (1080p)
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="Hit FM" tvg-logo="https://i.imgur.com/QwqM5j6.png" group-title="Music" ,Hit FM
 https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Hit Mix Music" tvg-logo="https://i.imgur.com/Gbaxq6P.png" group-title="Music" ,Hit Mix Music
@@ -472,7 +472,7 @@ https://online.tvimpact.live/hls/impact_tv2.m3u8
 https://live.tvimpact.ro:8088/hevc/index.m3u8
 #EXTINF:-1 tvg-name="Impact TV Dance (1080p)" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music" ,Impact TV Dance (1080p)
 https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:-1 tvg-name="Impact TV Manele (1080p)" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music" ,Impact TV Manele (1080p)
+#EXTINF:-1 tvg-name="Impact TV Manele (1080p)" tvg-logo="https://i.imgur.com/4JdnUAd.png" group-title="Music" ,Impact TV Manele (1080p)
 https://online.tvimpact.live/hls/impact_tv.m3u8
 #EXTINF:-1 tvg-name="Infinita TV (1080p)" tvg-logo="https://i.imgur.com/1nHxdkR.png" group-title="Music" ,Infinita TV (1080p)
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
@@ -648,8 +648,8 @@ https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/ind
 https://radio-loud-fm.mbc.net/radio-loud-fm_1.m3u8
 #EXTINF:-1 tvg-name="MBC Mood (1080p)" tvg-logo="https://shahid.mbc.net/mediaObject/c2b6a882-458b-446e-b0fe-f97f7992149a?height=auto&width=144&croppingPoint=&version=1&type=png" group-title="Music" ,MBC Mood (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
-#EXTINF:-1 tvg-name="MCM Pop (580p)" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music" ,MCM Pop (580p)
-http://188.115.15.121:8000/play/a014
+#EXTINF:-1 tvg-name="MCM Pop" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music" ,MCM Pop
+http://176.65.153.78:8201/play/a070/index.m3u8
 #EXTINF:-1 tvg-name="MCM Top (France)" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music" ,MCM Top (France)
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-name="MCM Top (Russia) (576p)" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music" ,MCM Top (Russia) (576p)

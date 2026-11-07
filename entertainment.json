@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 905,
-    "last_update": "2026-11-07 06:46:44 AM",
+    "channels_amount": 912,
+    "last_update": "2026-11-07 12:56:17 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -192,22 +192,6 @@
             "headers": {}
         },
         {
-            "name": "¡OPA! (720p)",
-            "tvg_id": "OPA.cr@SD",
-            "logo": "https://i.imgur.com/300c1ZH.png",
-            "group": "Entertainment",
-            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "+MaisUm (720p)",
-            "tvg_id": "PlusMaisUm.br@HD",
-            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
-            "group": "Entertainment;General;Movies;Music",
-            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
-            "headers": {}
-        },
-        {
             "name": ".black (576p)",
             "tvg_id": "black.ru@SD",
             "logo": "https://i.imgur.com/Q4A6ci4.png",
@@ -229,6 +213,22 @@
             "logo": "https://i.imgur.com/GET9Qut.png",
             "group": "Entertainment",
             "url": "http://178.134.1.158:8081/red/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "¡OPA! (720p)",
+            "tvg_id": "OPA.cr@SD",
+            "logo": "https://i.imgur.com/300c1ZH.png",
+            "group": "Entertainment",
+            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "+MaisUm (720p)",
+            "tvg_id": "PlusMaisUm.br@HD",
+            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "group": "Entertainment;General;Movies;Music",
+            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
             "headers": {}
         },
         {
@@ -616,6 +616,14 @@
             "headers": {}
         },
         {
+            "name": "Antena Stars HD (1080i)",
+            "tvg_id": "AntenaStars.ro@HD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7e/A_Stars_2022.png/revision/latest/scale-to-width-down/300",
+            "group": "Entertainment",
+            "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8",
+            "headers": {}
+        },
+        {
             "name": "AP TV (720p)",
             "tvg_id": "APTV.gh@SD",
             "logo": "https://i.imgur.com/Oky18bX.png",
@@ -685,6 +693,14 @@
             "logo": "https://i.imgur.com/9s6LZJZ.png",
             "group": "Entertainment",
             "url": "https://rtmpcontrol.com:1936/atvplus/ngrp:atvplus_all/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Asia Express NonStop (576p)",
+            "tvg_id": "AsiaExpressNonStop.ro@SD",
+            "logo": "https://assets.antenaplay.ro/2026/08/25/00keSCoSw0EaWnICcuYB.png",
+            "group": "Entertainment",
+            "url": "https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8",
             "headers": {}
         },
         {
@@ -1780,7 +1796,7 @@
             "tvg_id": "DDNational.in@SD",
             "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png",
             "group": "Entertainment",
-            "url": "https://cdn.pishow.tv/ott/live/11/master.m3u8",
+            "url": "http://163.61.226.31:9981/stream/channelid/1991369999?profile=pass",
             "headers": {}
         },
         {
@@ -1856,6 +1872,14 @@
             "headers": {}
         },
         {
+            "name": "Discovery Channel (Bulgaria)",
+            "tvg_id": "DiscoveryChannel.bg@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+            "group": "Entertainment",
+            "url": "http://213.91.179.28:8000/play/a044",
+            "headers": {}
+        },
+        {
             "name": "Discovery Channel (Hungary)",
             "tvg_id": "DiscoveryChannel.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
@@ -1872,11 +1896,11 @@
             "headers": {}
         },
         {
-            "name": "Discovery Channel (India) HD (720p)",
+            "name": "Discovery Channel (India) HD (1080p)",
             "tvg_id": "DiscoveryChannel.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
-            "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8",
+            "url": "http://103.135.253.32:8080/DISCOVERY/index.m3u8",
             "headers": {}
         },
         {
@@ -2768,11 +2792,11 @@
             "headers": {}
         },
         {
-            "name": "Happy Channel",
-            "tvg_id": "HappyChannel.ro@SD",
+            "name": "Happy Channel HD (1080i)",
+            "tvg_id": "HappyChannel.ro@HD",
             "logo": "https://i.imgur.com/kpFaiku.png",
             "group": "Entertainment",
-            "url": "https://live4dai.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_600k.m3u8",
+            "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8",
             "headers": {}
         },
         {
@@ -2997,6 +3021,14 @@
             "logo": "https://i.imgur.com/YgOC51j.png",
             "group": "Entertainment",
             "url": "https://a-cdn.klowdtv.com/live2/insp_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Insula non stop (576i)",
+            "tvg_id": "Insulanonstop.ro@SD",
+            "logo": "https://assets.antenaplay.ro/2026/08/20/DlZIyQ0kSAH3YYj30Ovi.png",
+            "group": "Entertainment",
+            "url": "https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8",
             "headers": {}
         },
         {
@@ -4512,6 +4544,14 @@
             "headers": {}
         },
         {
+            "name": "Namma Bangalore (1080p)",
+            "tvg_id": "NammaBangalore.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Namma_Bangalore.png",
+            "group": "Entertainment",
+            "url": "https://stream.ottlive.co.in/nammatv/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Nasim",
             "tvg_id": "Nasim.ir@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png",
@@ -5880,7 +5920,15 @@
             "headers": {}
         },
         {
-            "name": "Star Bharat (576p)",
+            "name": "SRK TV (1080p)",
+            "tvg_id": "SRKTV.in@SD",
+            "logo": "https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnail_backgrounds_01b5b56aa2e80823f23cc9d708141d1a_goplay_srk_tv_landscape.jpg",
+            "group": "Entertainment",
+            "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Bharat (United Kingdom) (576p)",
             "tvg_id": "StarBharat.uk@SD",
             "logo": "https://i.imgur.com/Q8ajPij.png",
             "group": "Entertainment",
@@ -5928,11 +5976,11 @@
             "headers": {}
         },
         {
-            "name": "Star Jalsha HD (720p)",
+            "name": "Star Jalsha HD (1080p)",
             "tvg_id": "StarJalsha.in@HD",
             "logo": "https://i.imgur.com/IlufzR5.png",
             "group": "Entertainment",
-            "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8",
+            "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
             "headers": {}
         },
         {
@@ -5957,6 +6005,14 @@
             "logo": "https://i.imgur.com/ZT0u7AK.png",
             "group": "Entertainment",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Utsav (576p)",
+            "tvg_id": "StarUtsav.in@SD",
+            "logo": "https://i.imgur.com/H1jhHDl.png",
+            "group": "Entertainment",
+            "url": "http://163.61.226.31:9981/stream/channelid/894286890?profile=pass",
             "headers": {}
         },
         {
@@ -7088,11 +7144,11 @@
             "headers": {}
         },
         {
-            "name": "Zee Bangla HD (720p)",
+            "name": "Zee Bangla HD (1080p)",
             "tvg_id": "ZeeBangla.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Entertainment",
-            "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8",
+            "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
             "headers": {}
         },
         {
@@ -7176,11 +7232,11 @@
             "headers": {}
         },
         {
-            "name": "Zee Telugu HD (576p)",
+            "name": "Zee Telugu HD (720p)",
             "tvg_id": "ZeeTelugu.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Entertainment",
-            "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8",
+            "url": "https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8",
             "headers": {}
         },
         {
@@ -7192,11 +7248,11 @@
             "headers": {}
         },
         {
-            "name": "Zee TV HD (720p) [Geo-blocked]",
+            "name": "Zee TV HD (1080p)",
             "tvg_id": "ZeeTV.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Entertainment",
-            "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+            "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
             "headers": {}
         },
         {

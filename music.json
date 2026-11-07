@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 781,
-    "last_update": "2026-11-07 06:46:44 AM",
+    "last_update": "2026-11-07 12:56:17 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1720,11 +1720,11 @@
             "headers": {}
         },
         {
-            "name": "Hindi Hits (720p)",
+            "name": "Hindi Hits (1080p)",
             "tvg_id": "HindiHits.in@SD",
             "logo": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
             "group": "Music",
-            "url": "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8",
+            "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
             "headers": {}
         },
         {
@@ -1850,7 +1850,7 @@
         {
             "name": "Impact TV Manele (1080p)",
             "tvg_id": "ImpactTVManele.ro@SD",
-            "logo": "https://i.imgur.com/G5mNdpE.png",
+            "logo": "https://i.imgur.com/4JdnUAd.png",
             "group": "Music",
             "url": "https://online.tvimpact.live/hls/impact_tv.m3u8",
             "headers": {}
@@ -2552,11 +2552,11 @@
             "headers": {}
         },
         {
-            "name": "MCM Pop (580p)",
+            "name": "MCM Pop",
             "tvg_id": "MCMPop.fr@SD",
             "logo": "https://i.imgur.com/j31lBL7.png",
             "group": "Music",
-            "url": "http://188.115.15.121:8000/play/a014",
+            "url": "http://176.65.153.78:8201/play/a070/index.m3u8",
             "headers": {}
         },
         {
