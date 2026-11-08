@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 781,
-    "last_update": "2026-11-08 08:12:11 AM",
+    "last_update": "2026-11-08 04:02:38 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -944,11 +944,11 @@
             "headers": {}
         },
         {
-            "name": "Corazon TV",
+            "name": "Corazon TV (720p)",
             "tvg_id": "CorazonTV.pa@SD",
             "logo": "https://i.imgur.com/HVdbXku.png",
             "group": "Music",
-            "url": "https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8",
+            "url": "http://181.79.86.130:8000/play/a05d/index.m3u8",
             "headers": {}
         },
         {
@@ -5296,14 +5296,6 @@
             "headers": {}
         },
         {
-            "name": "Tra Vinh TV (1080p)",
-            "tvg_id": "TraVinhTV.vn@SD",
-            "logo": "https://i.imgur.com/F12VdKO.png",
-            "group": "Culture;Entertainment;Music;News",
-            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
-            "headers": {}
-        },
-        {
             "name": "Trace Africa (1080p)",
             "tvg_id": "TraceAfrica.fr@SD",
             "logo": "https://i.imgur.com/kPUkoS7.png",
@@ -5933,6 +5925,14 @@
             "logo": "https://dtil.tmsimg.com/assets/s144078_ld_h15_aa.png?lock=720x540",
             "group": "Music",
             "url": "https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd",
+            "headers": {}
+        },
+        {
+            "name": "Vinh Long TV 5 (1080p)",
+            "tvg_id": "VinhLongTV5.vn@SD",
+            "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png",
+            "group": "Culture;Entertainment;Music;News",
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
             "headers": {}
         },
         {

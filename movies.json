@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 782,
-    "last_update": "2026-11-08 08:12:11 AM",
+    "last_update": "2026-11-08 04:02:38 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -88,19 +88,19 @@
             "headers": {}
         },
         {
-            "name": "&TV International (1080p)",
-            "tvg_id": "AndTV.in@International",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-            "group": "Movies",
-            "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
-            "headers": {}
-        },
-        {
             "name": "&pictures HD (1080p)",
             "tvg_id": "Andpictures.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
             "group": "Movies",
             "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "&TV International (1080p)",
+            "tvg_id": "AndTV.in@International",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Movies",
+            "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
             "headers": {}
         },
         {
@@ -240,14 +240,6 @@
             "headers": {}
         },
         {
-            "name": "AMC Europe Romania",
-            "tvg_id": "AMCEurope.uk@Romania",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
-            "group": "Movies",
-            "url": "https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8",
-            "headers": {}
-        },
-        {
             "name": "AMC Latin America (1080p)",
             "tvg_id": "AMCLatinAmerica.us@Panregional",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png",
@@ -352,11 +344,11 @@
             "headers": {}
         },
         {
-            "name": "AXN Adria",
+            "name": "AXN Adria (576p)",
             "tvg_id": "AXNAdria.us@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
             "group": "Movies",
-            "url": "http://5.57.74.130:8000/play/a0at/index.m3u8",
+            "url": "http://87.238.211.217:2209/stream/104/index.m3u8",
             "headers": {}
         },
         {
@@ -373,6 +365,22 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
             "group": "Movies;Series",
             "url": "http://125.227.210.55:4050/VideoInput/play.ts",
+            "headers": {}
+        },
+        {
+            "name": "AXN Asia Thailand",
+            "tvg_id": "AXNAsia.sg@Thailand",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+            "group": "Movies;Series",
+            "url": "http://103.253.74.210:7070/stream/89/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "AXN Black (Germany)",
+            "tvg_id": "AXNBlack.de@SD",
+            "logo": "https://i.imgur.com/Peo1QiZ.png",
+            "group": "Movies",
+            "url": "http://46.244.99.71:8181/stream/35/index.m3u8",
             "headers": {}
         },
         {
@@ -405,14 +413,6 @@
             "logo": "https://i.imgur.com/Peo1QiZ.png",
             "group": "Movies",
             "url": "http://185.227.34.179:8080/axn-black/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "AXN Black (United States) Romania",
-            "tvg_id": "AXNBlack.us@Romania",
-            "logo": "https://i.imgur.com/Peo1QiZ.png",
-            "group": "Movies",
-            "url": "https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8",
             "headers": {}
         },
         {
@@ -1420,7 +1420,7 @@
             "tvg_id": "ColorsBanglaCinema.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",
             "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls",
+            "url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8",
             "headers": {}
         },
         {
@@ -1436,7 +1436,7 @@
             "tvg_id": "ColorsCineplex.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_CINEPLEX_HD/images/LOGO_HD/image.png",
             "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls",
+            "url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8",
             "headers": {}
         },
         {
@@ -1757,14 +1757,6 @@
             "logo": "https://i.imgur.com/jaKRnzU.png",
             "group": "Movies",
             "url": "https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Film Now",
-            "tvg_id": "FilmNow.ro@SD",
-            "logo": "https://i.imgur.com/sSoRvGz.png",
-            "group": "Movies",
-            "url": "https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8",
             "headers": {}
         },
         {
@@ -2461,14 +2453,6 @@
             "logo": "https://i.imgur.com/jl3MNPe.png",
             "group": "Movies",
             "url": "http://stream.mcquack.net/363/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "HITS Movies (576p)",
-            "tvg_id": "HITSMovies.sg@SD",
-            "logo": "https://i.imgur.com/kyE3vXf.png",
-            "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a01h/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -3212,7 +3196,7 @@
             "tvg_id": "MoviesNow.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png",
             "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls",
+            "url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
             "headers": {}
         },
         {
@@ -5332,7 +5316,7 @@
             "tvg_id": "SonyMax.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540",
             "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
+            "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8",
             "headers": {}
         },
         {
@@ -5381,14 +5365,6 @@
             "logo": "https://i.imgur.com/8sHuxxS.png",
             "group": "Movies",
             "url": "https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sony Pix HD (1080p)",
-            "tvg_id": "SonyPix.in@HD",
-            "logo": "https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",
-            "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
             "headers": {}
         },
         {
@@ -5472,19 +5448,11 @@
             "headers": {}
         },
         {
-            "name": "Star Gold 2 HD (1080p)",
-            "tvg_id": "StarGold2.in@HD",
-            "logo": "https://i.imgur.com/G0ZfzZr.png",
-            "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a01v/index.m3u8?hls",
-            "headers": {}
-        },
-        {
             "name": "Star Gold HD (1080p)",
             "tvg_id": "StarGold.in@HD",
             "logo": "https://i.imgur.com/xC460sj.png",
             "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a01n/index.m3u8?hls",
+            "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
             "headers": {}
         },
         {
@@ -5765,6 +5733,38 @@
             "logo": "https://i.imgur.com/BHYWG0h.png",
             "group": "Movies",
             "url": "http://46.151.196.223:14326",
+            "headers": {}
+        },
+        {
+            "name": "Telecine Cult",
+            "tvg_id": "TelecineCult.br@SD",
+            "logo": "https://i.imgur.com/6GuHXnr.png",
+            "group": "Movies",
+            "url": "http://45.185.15.154:9080/stream/64/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Telecine Fun",
+            "tvg_id": "TelecineFun.br@SD",
+            "logo": "https://i.imgur.com/MO2Ynki.png",
+            "group": "Movies",
+            "url": "http://45.185.15.154:9080/stream/63/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Telecine Premium",
+            "tvg_id": "TelecinePremium.br@SD",
+            "logo": "https://i.imgur.com/uVFgIr8.png",
+            "group": "Movies",
+            "url": "http://45.185.15.154:9080/stream/28/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Telecine Touch",
+            "tvg_id": "TelecineTouch.br@SD",
+            "logo": "https://i.imgur.com/Nky0hRo.png",
+            "group": "Movies",
+            "url": "http://45.185.15.154:9080/stream/29/index.m3u8",
             "headers": {}
         },
         {
@@ -6252,7 +6252,7 @@
             "tvg_id": "ZeeCinema.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
-            "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls",
+            "url": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8",
             "headers": {}
         },
         {

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 258,
-    "last_update": "2026-11-08 08:12:11 AM",
+    "channels_amount": 254,
+    "last_update": "2026-11-08 04:02:38 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -197,14 +197,6 @@
             "logo": "https://i.imgur.com/nGSsUd4.png",
             "group": "Documentary",
             "url": "http://88.212.7.14/live/bbce_hun/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "BBC Earth Romania",
-            "tvg_id": "BBCEarth.uk@Romania",
-            "logo": "https://i.imgur.com/nGSsUd4.png",
-            "group": "Documentary",
-            "url": "https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8",
             "headers": {}
         },
         {
@@ -776,6 +768,14 @@
             "headers": {}
         },
         {
+            "name": "Investigation Discovery (France)",
+            "tvg_id": "InvestigationDiscovery.fr@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
+            "group": "Documentary",
+            "url": "http://192.99.186.30/stream/81/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Investigation Discovery (Hungary)",
             "tvg_id": "InvestigationDiscovery.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
@@ -1045,14 +1045,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
             "group": "Documentary",
             "url": "http://92.114.85.87:8006/play/a00a/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic (Romania)",
-            "tvg_id": "NationalGeographic.ro@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-            "group": "Documentary",
-            "url": "https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8",
             "headers": {}
         },
         {
@@ -1904,14 +1896,6 @@
             "headers": {}
         },
         {
-            "name": "Viasat Explore (Romania)",
-            "tvg_id": "ViasatExplore.ro@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
-            "group": "Documentary",
-            "url": "https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Viasat Explore (Slovenia)",
             "tvg_id": "ViasatExplore.si@HD",
             "logo": "https://i.imgur.com/jboGcoY.png",
@@ -1941,14 +1925,6 @@
             "logo": "https://i.imgur.com/wRP9XA7.png",
             "group": "Documentary",
             "url": "http://193.33.39.108:9007/play/a00p",
-            "headers": {}
-        },
-        {
-            "name": "Viasat History (Romania)",
-            "tvg_id": "ViasatHistory.ro@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
-            "group": "Documentary",
-            "url": "https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8",
             "headers": {}
         },
         {
@@ -1997,14 +1973,6 @@
             "logo": "https://i.imgur.com/ousRqqD.png",
             "group": "Documentary",
             "url": "http://193.33.39.108:9000/play/a05r",
-            "headers": {}
-        },
-        {
-            "name": "Viasat Nature (Romania)",
-            "tvg_id": "ViasatNature.ro@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
-            "group": "Documentary",
-            "url": "https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8",
             "headers": {}
         },
         {
