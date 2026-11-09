@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 781,
-    "last_update": "2026-11-09 07:31:50 AM",
+    "last_update": "2026-11-09 03:28:49 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -2648,14 +2648,6 @@
             "headers": {}
         },
         {
-            "name": "Mezzo (576p)",
-            "tvg_id": "Mezzo.fr@SD",
-            "logo": "https://i.imgur.com/auNdGeW.png",
-            "group": "Music",
-            "url": "http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:",
-            "headers": {}
-        },
-        {
             "name": "Mezzo Live (1080p)",
             "tvg_id": "MezzoLive.fr@SD",
             "logo": "https://i.imgur.com/H9ytKPN.png",
@@ -2685,6 +2677,14 @@
             "logo": "https://i.imgur.com/z9MlLFL.png",
             "group": "Music",
             "url": "http://38.188.186.47:4000/play/a04n/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Mi Musica Popular (1080p)",
+            "tvg_id": "MiMusicaPopular.us@SD",
+            "logo": "https://i.imgur.com/auW6Ve1.png",
+            "group": "Music",
+            "url": "http://45.226.205.96:48000/play/a0f8/index.m3u8",
             "headers": {}
         },
         {

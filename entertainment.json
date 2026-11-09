@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 909,
-    "last_update": "2026-11-09 07:31:50 AM",
+    "channels_amount": 908,
+    "last_update": "2026-11-09 03:28:49 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -93,14 +93,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
             "group": "Entertainment",
             "url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "8TV",
-            "tvg_id": "8TV.my@SD",
-            "logo": "https://i.imgur.com/Jkx9W88.png",
-            "group": "Entertainment",
-            "url": "http://cdn6.163189.xyz/163189/8tv",
             "headers": {}
         },
         {
@@ -2037,6 +2029,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
             "group": "Entertainment;News",
             "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "E! Latin America Colombia (1080p)",
+            "tvg_id": "ELatinAmerica.us@Colombia",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/500px-E%21_Logo_2012.svg.png",
+            "group": "Entertainment;News",
+            "url": "http://38.134.250.110:8000/play/a00x/index.m3u8",
             "headers": {}
         },
         {
@@ -4280,11 +4280,11 @@
             "headers": {}
         },
         {
-            "name": "MTV Global (720p)",
+            "name": "MTV Global",
             "tvg_id": "MTVGlobal.uk@SD",
             "logo": "https://i.imgur.com/n2BoU7Q.png",
             "group": "Entertainment",
-            "url": "http://dvr2.kablova.tv/MTV/index.m3u8",
+            "url": "http://85.14.32.26:8800/udp/239.100.10.67:5000",
             "headers": {}
         },
         {
@@ -6301,14 +6301,6 @@
             "logo": "https://i.imgur.com/vPwiJTw.png",
             "group": "Entertainment",
             "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "TF1 (1080p)",
-            "tvg_id": "TF1.fr@SD",
-            "logo": "https://i.imgur.com/QxHt9NC.png",
-            "group": "Entertainment",
-            "url": "http://149.62.177.107:9999/TF1/index.m3u8",
             "headers": {}
         },
         {

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 442,
-    "last_update": "2026-11-09 07:31:50 AM",
+    "channels_amount": 445,
+    "last_update": "2026-11-09 03:28:49 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -517,6 +517,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
             "url": "https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Cartoon Network Asia Thailand",
+            "tvg_id": "CartoonNetworkAsia.sg@Thailand",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
+            "group": "Animation;Kids",
+            "url": "http://103.253.74.210:7070/stream/118/index.m3u8",
             "headers": {}
         },
         {
@@ -2128,6 +2136,14 @@
             "headers": {}
         },
         {
+            "name": "Nickelodeon (United Kingdom)",
+            "tvg_id": "Nickelodeon.uk@SD",
+            "logo": "https://i.imgur.com/E84jnP8.png",
+            "group": "Kids",
+            "url": "http://93.186.201.93/stream/397/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Nickelodeon Asia",
             "tvg_id": "NickelodeonAsia.sg@SD",
             "logo": "https://i.imgur.com/E84jnP8.png",
@@ -2229,6 +2245,14 @@
             "logo": "https://x1colegal.com/logo.png",
             "group": "Animation;Kids",
             "url": "https://x1colegal.com/hls/stream.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "NickToons 90s [Geo-blocked]",
+            "tvg_id": "NickToons90s.au@AU",
+            "logo": "https://images.pluto.tv/channels/64805525536e0c0008a19ca8/colorLogoPNG.png",
+            "group": "Kids",
+            "url": "https://i.mjh.nz/.r/10-nicktoons-90s.m3u8",
             "headers": {}
         },
         {
