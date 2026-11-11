@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 782,
-    "last_update": "2026-11-11 07:08:00 AM",
+    "channels_amount": 779,
+    "last_update": "2026-11-11 03:04:24 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -472,11 +472,11 @@
             "headers": {}
         },
         {
-            "name": "AXS TV (720p)",
+            "name": "AXS TV (576p)",
             "tvg_id": "AXSTV.us@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",
             "group": "Music",
-            "url": "http://23.239.31.26:8989/axstv/index.m3u8",
+            "url": "https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8",
             "headers": {}
         },
         {
@@ -1368,14 +1368,6 @@
             "headers": {}
         },
         {
-            "name": "Exa TV",
-            "tvg_id": "ExaTV.mx@SD",
-            "logo": "https://i.imgur.com/JWOqr1a.png",
-            "group": "Music",
-            "url": "http://190.61.90.17:40000/play/a0hk/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Fabulosa Estereo 100.5 FM (720p)",
             "tvg_id": "FabulosaEstereo1005FM.pa@SD",
             "logo": "https://i.imgur.com/YFmzkOp.png",
@@ -1722,7 +1714,7 @@
         {
             "name": "Hindi Hits (1080p)",
             "tvg_id": "HindiHits.in@SD",
-            "logo": "https://i.postimg.cc/ryC1Y2K4/Capture.png",
+            "logo": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
             "group": "Music",
             "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
             "headers": {}
@@ -2892,7 +2884,7 @@
             "tvg_id": "MusicBoxBrazil.br@SD",
             "logo": "https://i.imgur.com/CDPCF2X.png",
             "group": "Music",
-            "url": "http://168.197.104.22/MUSIC/index.m3u8",
+            "url": "http://170.83.49.66:8083/MUSICBOXBRASILHD/index.m3u8",
             "headers": {}
         },
         {
@@ -3077,14 +3069,6 @@
             "logo": "https://i.imgur.com/YteKXJy.png",
             "group": "Music",
             "url": "https://hls.navahang.live/hls/stream.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "New Channel (480p)",
-            "tvg_id": "NewChannel.ca@SD",
-            "logo": "https://videocdn.bamboo-cloud.com/p/11294/sp/1129400/thumbnail/entry_id/0_hd6fo6eq/version/100002/width/1920",
-            "group": "Kids;Music",
-            "url": "https://vodcdn.bamboo-cloud.com/livehls/6ab2104508fd5ee36702e3d4/master.m3u8",
             "headers": {}
         },
         {
@@ -4592,14 +4576,6 @@
             "headers": {}
         },
         {
-            "name": "Sin Limites (1080p)",
-            "tvg_id": "SinLimites.co@SD",
-            "logo": "https://i.imgur.com/wrFfgzC.png",
-            "group": "Music",
-            "url": "http://170.244.209.30:8000/play/a1im/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Sky Folk TV (720p) [Not 24/7]",
             "tvg_id": "SkyFolkTV.mk@SD",
             "logo": "https://i.imgur.com/ya5xpUL.png",
@@ -5962,7 +5938,7 @@
         {
             "name": "Vision Beats (720p)",
             "tvg_id": "VisionBeats.in@SD",
-            "logo": "https://i.imgur.com/xx5RQdi.png",
+            "logo": "https://i.imgur.com/lxR5FKh.png",
             "group": "Music",
             "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
             "headers": {}

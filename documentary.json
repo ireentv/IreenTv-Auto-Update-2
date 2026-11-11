@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 255,
-    "last_update": "2026-11-11 07:08:00 AM",
+    "channels_amount": 252,
+    "last_update": "2026-11-11 03:04:24 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -69,22 +69,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png",
             "group": "Documentary",
             "url": "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Animal Planet (India) (720p)",
-            "tvg_id": "AnimalPlanet.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
-            "group": "Documentary",
-            "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Animal Planet (India) HD (720p)",
-            "tvg_id": "AnimalPlanet.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ANIMAL_PLANET/images/LOGO_HD/image.png",
-            "group": "Documentary",
-            "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8",
             "headers": {}
         },
         {
@@ -784,14 +768,6 @@
             "headers": {}
         },
         {
-            "name": "Investigation Discovery (India) (720p)",
-            "tvg_id": "InvestigationDiscovery.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
-            "group": "Documentary",
-            "url": "https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Investigation Discovery (Russia) (1080p)",
             "tvg_id": "InvestigationDiscovery.ru@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
@@ -808,11 +784,11 @@
             "headers": {}
         },
         {
-            "name": "Investigation Discovery Latin America South (1080p)",
+            "name": "Investigation Discovery Latin America South",
             "tvg_id": "InvestigationDiscoveryLatinAmerica.us@South",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
             "group": "Documentary",
-            "url": "http://38.65.175.84:8000/play/a0ch/index.m3u8",
+            "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8",
             "headers": {}
         },
         {
