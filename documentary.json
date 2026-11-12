@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 252,
-    "last_update": "2026-11-12 06:20:04 AM",
+    "channels_amount": 251,
+    "last_update": "2026-11-12 02:05:16 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -984,14 +984,6 @@
             "headers": {}
         },
         {
-            "name": "National Geographic (India) HD (1080p)",
-            "tvg_id": "NationalGeographic.in@HD",
-            "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-            "group": "Documentary",
-            "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "National Geographic (Mexico) (1080p)",
             "tvg_id": "NationalGeographic.mx@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
@@ -1784,11 +1776,11 @@
             "headers": {}
         },
         {
-            "name": "TERRA (720p)",
+            "name": "TERRA (1080p)",
             "tvg_id": "TERRA.ru@SD",
             "logo": "https://i.imgur.com/ZxUjCpF.png",
             "group": "Documentary",
-            "url": "http://31.148.48.15/Terra_HD/index.m3u8",
+            "url": "http://s1.merlive.am/TerraHD/index.m3u8",
             "headers": {}
         },
         {

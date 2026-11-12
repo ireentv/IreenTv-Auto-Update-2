@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 903,
-    "last_update": "2026-11-12 06:20:04 AM",
+    "channels_amount": 906,
+    "last_update": "2026-11-12 02:05:16 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -192,6 +192,22 @@
             "headers": {}
         },
         {
+            "name": "¡OPA! (720p)",
+            "tvg_id": "OPA.cr@SD",
+            "logo": "https://i.imgur.com/300c1ZH.png",
+            "group": "Entertainment",
+            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "+MaisUm (720p)",
+            "tvg_id": "PlusMaisUm.br@HD",
+            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "group": "Entertainment;General;Movies;Music",
+            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+            "headers": {}
+        },
+        {
             "name": ".black (576p)",
             "tvg_id": "black.ru@SD",
             "logo": "https://i.imgur.com/Q4A6ci4.png",
@@ -213,22 +229,6 @@
             "logo": "https://i.imgur.com/GET9Qut.png",
             "group": "Entertainment",
             "url": "http://178.134.1.158:8081/red/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "¡OPA! (720p)",
-            "tvg_id": "OPA.cr@SD",
-            "logo": "https://i.imgur.com/300c1ZH.png",
-            "group": "Entertainment",
-            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "+MaisUm (720p)",
-            "tvg_id": "PlusMaisUm.br@HD",
-            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
-            "group": "Entertainment;General;Movies;Music",
-            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
             "headers": {}
         },
         {
@@ -1792,11 +1792,11 @@
             "headers": {}
         },
         {
-            "name": "Desi Channel (720p)",
+            "name": "Desi Channel (1080p)",
             "tvg_id": "DesiChannel.in@SD",
             "logo": "https://desichannel.in/wp-content/uploads/2025/01/desi-channel.png",
             "group": "Entertainment",
-            "url": "https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8",
+            "url": "https://desichannel.kableone.com/desichannel/master.m3u8",
             "headers": {}
         },
         {
@@ -4744,6 +4744,14 @@
             "headers": {}
         },
         {
+            "name": "ON Info TV (1080p)",
+            "tvg_id": "ONInfoTV.vn@SD",
+            "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab9%20-%20ON%20Info%20TV.png",
+            "group": "Business;Entertainment",
+            "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189",
+            "headers": {}
+        },
+        {
             "name": "ON Vie Dramas (1080i)",
             "tvg_id": "ONVieDramas.vn@SD",
             "logo": "https://i.ibb.co/VptvgFVx/IMG-2530.webp",
@@ -5280,6 +5288,14 @@
             "headers": {}
         },
         {
+            "name": "Punjab Plus (1080p)",
+            "tvg_id": "PunjabPlus.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Punjab_Plus.png",
+            "group": "Entertainment",
+            "url": "https://punjabplustv.akamaized.net/punjabplustv/master.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Punjabi TV (720p)",
             "tvg_id": "PunjabiTV.in@SD",
             "logo": "https://papaji.freetvindia.com/media/PunjabiTV.png",
@@ -5808,11 +5824,11 @@
             "headers": {}
         },
         {
-            "name": "Sony Aath (576p)",
+            "name": "Sony Aath (1080p)",
             "tvg_id": "SonyAath.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png",
             "group": "Entertainment",
-            "url": "http://103.165.93.31:8095/sonyAath/index.m3u8",
+            "url": "http://27.124.71.27/Sony_Aath/index.m3u8",
             "headers": {}
         },
         {
@@ -6117,6 +6133,14 @@
             "logo": "https://images.pluto.tv/channels/61f128f68a1dfc00086470af/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-645cc855e1979c000875ee47.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Swastik Stories (1080p)",
+            "tvg_id": "SwastikStories.in@SD",
+            "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Swastik_Stories.png",
+            "group": "Entertainment",
+            "url": "https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8",
             "headers": {}
         },
         {
