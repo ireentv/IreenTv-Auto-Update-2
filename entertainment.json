@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 903,
-    "last_update": "2026-11-14 08:06:43 AM",
+    "channels_amount": 906,
+    "last_update": "2026-11-14 03:58:40 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -192,6 +192,22 @@
             "headers": {}
         },
         {
+            "name": "¡OPA! (720p)",
+            "tvg_id": "OPA.cr@SD",
+            "logo": "https://i.imgur.com/300c1ZH.png",
+            "group": "Entertainment",
+            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "+MaisUm (720p)",
+            "tvg_id": "PlusMaisUm.br@HD",
+            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "group": "Entertainment;General;Movies;Music",
+            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+            "headers": {}
+        },
+        {
             "name": ".black (576p)",
             "tvg_id": "black.ru@SD",
             "logo": "https://i.imgur.com/Q4A6ci4.png",
@@ -213,22 +229,6 @@
             "logo": "https://i.imgur.com/GET9Qut.png",
             "group": "Entertainment",
             "url": "http://178.134.1.158:8081/red/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "¡OPA! (720p)",
-            "tvg_id": "OPA.cr@SD",
-            "logo": "https://i.imgur.com/300c1ZH.png",
-            "group": "Entertainment",
-            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "+MaisUm (720p)",
-            "tvg_id": "PlusMaisUm.br@HD",
-            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
-            "group": "Entertainment;General;Movies;Music",
-            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
             "headers": {}
         },
         {
@@ -3376,6 +3376,14 @@
             "headers": {}
         },
         {
+            "name": "La Sexta (1080p)",
+            "tvg_id": "LaSexta.es@SD",
+            "logo": "https://i.imgur.com/aKV5voq.png",
+            "group": "Entertainment",
+            "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd",
+            "headers": {}
+        },
+        {
             "name": "La Tele (1080p)",
             "tvg_id": "LaTele.pe@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
@@ -3869,6 +3877,14 @@
             "logo": "https://i.imgur.com/j6IiysJ.png",
             "group": "Entertainment;General",
             "url": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Mega (Spain) (1080p)",
+            "tvg_id": "Mega.es@SD",
+            "logo": "https://i.imgur.com/Udrt2eK.png",
+            "group": "Entertainment",
+            "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd",
             "headers": {}
         },
         {
@@ -4533,6 +4549,14 @@
             "logo": "https://i.imgur.com/bS5JtYX.jpeg",
             "group": "Entertainment",
             "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Neox (1080p)",
+            "tvg_id": "Neox.es@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/500px-Neox_2023_logo.svg.png",
+            "group": "Entertainment",
+            "url": "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd",
             "headers": {}
         },
         {
@@ -7080,11 +7104,11 @@
             "headers": {}
         },
         {
-            "name": "Zee Bangla HD (1080p)",
+            "name": "Zee Bangla HD (720p)",
             "tvg_id": "ZeeBangla.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Entertainment",
-            "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
+            "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8",
             "headers": {}
         },
         {
