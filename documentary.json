@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 250,
-    "last_update": "2026-11-17 09:34:00 AM",
+    "channels_amount": 251,
+    "last_update": "2026-11-17 06:57:08 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -557,6 +557,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",
             "group": "Documentary",
             "url": "https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Histoire TV (720p)",
+            "tvg_id": "HistoireTV.fr@SD",
+            "logo": "https://i.imgur.com/hxuJXll.png",
+            "group": "Documentary",
+            "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/histoire/live.livx/playlist.m3u8",
             "headers": {}
         },
         {

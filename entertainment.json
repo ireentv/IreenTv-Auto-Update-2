@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 913,
-    "last_update": "2026-11-17 09:34:00 AM",
+    "channels_amount": 918,
+    "last_update": "2026-11-17 06:57:08 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -192,22 +192,6 @@
             "headers": {}
         },
         {
-            "name": "¡OPA! (720p)",
-            "tvg_id": "OPA.cr@SD",
-            "logo": "https://i.imgur.com/300c1ZH.png",
-            "group": "Entertainment",
-            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "+MaisUm (720p)",
-            "tvg_id": "PlusMaisUm.br@HD",
-            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
-            "group": "Entertainment;General;Movies;Music",
-            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
-            "headers": {}
-        },
-        {
             "name": ".black (576p)",
             "tvg_id": "black.ru@SD",
             "logo": "https://i.imgur.com/Q4A6ci4.png",
@@ -229,6 +213,30 @@
             "logo": "https://i.imgur.com/GET9Qut.png",
             "group": "Entertainment",
             "url": "http://178.134.1.158:8081/red/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "¡OPA! (720p)",
+            "tvg_id": "OPA.cr@SD",
+            "logo": "https://i.imgur.com/300c1ZH.png",
+            "group": "Entertainment",
+            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "+MaisUm (720p)",
+            "tvg_id": "PlusMaisUm.br@HD",
+            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "group": "Entertainment;General;Movies;Music",
+            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "A&E (1080p)",
+            "tvg_id": "AE.us@East",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+            "group": "Entertainment",
+            "url": "https://cache0.wonvt.st/live/0c4r73315dt0we0fitn3j/master.m3u8",
             "headers": {}
         },
         {
@@ -268,7 +276,7 @@
             "tvg_id": "AakaashAath.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540",
             "group": "Entertainment",
-            "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+            "url": "https://cdn.pishow.tv/ott/live/969/master.m3u8",
             "headers": {}
         },
         {
@@ -285,6 +293,14 @@
             "logo": "https://i.imgur.com/LEVEhTH.png",
             "group": "Entertainment",
             "url": "https://yuppmumfta1.vgcdn.net/211125/athvantv/manifest.mpd",
+            "headers": {}
+        },
+        {
+            "name": "AB1 (720p)",
+            "tvg_id": "AB1.fr@SD",
+            "logo": "https://i.imgur.com/9C7UsOe.png",
+            "group": "Entertainment",
+            "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/ab1/live.livx/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1144,11 +1160,11 @@
             "headers": {}
         },
         {
-            "name": "C Star (477p)",
+            "name": "C Star (720p)",
             "tvg_id": "CStar.fr@SD",
             "logo": "https://i.imgur.com/w4kAX1V.png",
             "group": "Entertainment",
-            "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cstar-dm.m3u8",
+            "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/cstar/live.livx/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1248,11 +1264,11 @@
             "headers": {}
         },
         {
-            "name": "Canale 5 HD",
+            "name": "Canale 5 HD (1080p)",
             "tvg_id": "Canale5.it@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png",
             "group": "Entertainment",
-            "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8",
+            "url": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2868,7 +2884,7 @@
             "tvg_id": "HTVLive.do@SD",
             "logo": "https://i.imgur.com/0WBsAin.png",
             "group": "Entertainment",
-            "url": "https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8",
+            "url": "https://stream1.28tv.online/HTVLiveCanal52/index.m3u8",
             "headers": {}
         },
         {
@@ -3037,14 +3053,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/960px-Logo_Italia2.svg.png",
             "group": "Entertainment",
             "url": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "ITV3 (360p)",
-            "tvg_id": "ITV3.uk@SD",
-            "logo": "https://i.imgur.com/JuyM2z5.png",
-            "group": "Entertainment",
-            "url": "https://lb.iptvnetwork.net/ls28/10107/playlist.m3u8",
             "headers": {}
         },
         {
@@ -4120,6 +4128,14 @@
             "headers": {}
         },
         {
+            "name": "MTV (Japan)",
+            "tvg_id": "MTV.jp@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+            "group": "Entertainment",
+            "url": "http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying",
+            "headers": {}
+        },
+        {
             "name": "MTV (United States) (1080p)",
             "tvg_id": "MTV.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
@@ -4800,7 +4816,7 @@
             "headers": {}
         },
         {
-            "name": "ON V Family (480p)",
+            "name": "ON VFamily (480p)",
             "tvg_id": "ONVFamily.vn@SD",
             "logo": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab20%20-%20ON%20VFamily.png",
             "group": "Entertainment;Family",
@@ -5696,6 +5712,14 @@
             "headers": {}
         },
         {
+            "name": "RTL9 (720p)",
+            "tvg_id": "RTL9.lu@SD",
+            "logo": "https://i.imgur.com/nFqjVNW.png",
+            "group": "Entertainment",
+            "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rtl_9/live.livx/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "RTL Otthon",
             "tvg_id": "RTLOtthon.hu@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png",
@@ -5845,6 +5869,14 @@
             "logo": "https://images.pluto.tv/channels/643808dce0789d00084797f6/colorLogoPNG.png",
             "group": "Entertainment",
             "url": "https://jmp2.uk/plu-643808dce0789d00084797f6.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Smash Radio TT (720p)",
+            "tvg_id": "SmashRadioTT.tt@HD",
+            "logo": "https://webtv.smashradiott.com/__l5e/assets-v1/a6ab6eca-c330-4710-8e62-8dc07b29e91c/smash-logo.png",
+            "group": "Entertainment;Music",
+            "url": "https://nginx.smashradiott.com/hls/program/master.m3u8",
             "headers": {}
         },
         {
@@ -6341,6 +6373,14 @@
             "logo": "https://i.imgur.com/vPwiJTw.png",
             "group": "Entertainment",
             "url": "https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "TF1",
+            "tvg_id": "TF1.fr@SD",
+            "logo": "https://i.imgur.com/QxHt9NC.png",
+            "group": "Entertainment",
+            "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8",
             "headers": {}
         },
         {
@@ -7016,11 +7056,11 @@
             "headers": {}
         },
         {
-            "name": "W9 (1086p)",
+            "name": "W9 (1080p)",
             "tvg_id": "W9.fr@SD",
             "logo": "https://i.imgur.com/reYeMuE.png",
             "group": "Entertainment",
-            "url": "http://5.180.164.197:8080/W9/index.m3u8",
+            "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8",
             "headers": {}
         },
         {

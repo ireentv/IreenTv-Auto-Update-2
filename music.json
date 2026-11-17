@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 779,
-    "last_update": "2026-11-17 09:34:00 AM",
+    "channels_amount": 781,
+    "last_update": "2026-11-17 06:57:08 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1712,7 +1712,7 @@
             "headers": {}
         },
         {
-            "name": "Hindi Hits (1080p)",
+            "name": "Hindi Hits SD (1080p)",
             "tvg_id": "HindiHits.in@SD",
             "logo": "https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png",
             "group": "Music",
@@ -2384,11 +2384,11 @@
             "headers": {}
         },
         {
-            "name": "M6 Music",
+            "name": "M6 Music (1080p)",
             "tvg_id": "M6Music.fr@SD",
             "logo": "",
             "group": "Music",
-            "url": "https://test.946985.filegear-sg.me/proxy/803c517b325bfafc",
+            "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/m6_music_hits/live.livx/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2597,6 +2597,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/MEGOGO_Music_%28%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%29.png",
             "group": "Music",
             "url": "https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Melody (720p)",
+            "tvg_id": "Melody.fr@SD",
+            "logo": "https://i.imgur.com/9GVyQ6x.png",
+            "group": "Music",
+            "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/melody/live.livx/playlist.m3u8",
             "headers": {}
         },
         {
@@ -4621,6 +4629,14 @@
             "logo": "https://www.smartradio.ro/wp-content/themes/smart-radio/img/Logo_SmartRadio.png",
             "group": "Music",
             "url": "https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Smash Radio TT (720p)",
+            "tvg_id": "SmashRadioTT.tt@HD",
+            "logo": "https://webtv.smashradiott.com/__l5e/assets-v1/a6ab6eca-c330-4710-8e62-8dc07b29e91c/smash-logo.png",
+            "group": "Entertainment;Music",
+            "url": "https://nginx.smashradiott.com/hls/program/master.m3u8",
             "headers": {}
         },
         {
