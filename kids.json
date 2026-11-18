@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 457,
-    "last_update": "2026-11-18 09:29:20 AM",
+    "last_update": "2026-11-18 06:50:43 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -508,7 +508,7 @@
             "tvg_id": "CartoonNetwork.jp@HD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
-            "url": "http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying",
+            "url": "http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun",
             "headers": {}
         },
         {
@@ -980,7 +980,7 @@
             "tvg_id": "DisneyChannel.jp@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
             "group": "Kids",
-            "url": "http://103.255.250.188:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying",
+            "url": "http://103.255.250.188:5002/bs24.m3u8?channel=zhongying&gid=bs24&token=guoziyun",
             "headers": {}
         },
         {
@@ -1956,7 +1956,7 @@
             "tvg_id": "NickJr.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
             "group": "Kids",
-            "url": "http://103.185.24.134:3001/NICK-JR/index.m3u8",
+            "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
             "headers": {}
         },
         {
@@ -2132,7 +2132,7 @@
             "tvg_id": "Nickelodeon.in@SD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
             "group": "Kids",
-            "url": "http://103.185.24.134:3001/NICK/index.m3u8",
+            "url": "http://103.135.253.32:8080/NICK/index.m3u8",
             "headers": {}
         },
         {
@@ -2168,7 +2168,7 @@
             "headers": {}
         },
         {
-            "name": "Nickelodeon (Spain) HD",
+            "name": "Nickelodeon (Spain) HD (1080p)",
             "tvg_id": "Nickelodeon.es@HD",
             "logo": "https://i.imgur.com/E84jnP8.png",
             "group": "Kids",
@@ -3032,11 +3032,11 @@
             "headers": {}
         },
         {
-            "name": "Sony Yay! (576p)",
+            "name": "Sony Yay! (1080p)",
             "tvg_id": "SonyYay.in@SD",
             "logo": "https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",
             "group": "Animation;Kids",
-            "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+            "url": "https://r2.amml.in/sony-yay/live.m3u8",
             "headers": {}
         },
         {
@@ -3104,7 +3104,7 @@
             "headers": {}
         },
         {
-            "name": "Super!",
+            "name": "Super! (720p)",
             "tvg_id": "Super.it@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/960px-Super%21_logo_2021.svg.png",
             "group": "Kids",
@@ -3304,11 +3304,11 @@
             "headers": {}
         },
         {
-            "name": "Tom Sings TV (1080p)",
+            "name": "Tom Sings TV (576p)",
             "tvg_id": "TomSingsTV.us@HD",
             "logo": "https://videocdn.bamboo-cloud.com/p/11389/sp/1138900/thumbnail/entry_id/0_osv1x0bp/version/100002/width/1920",
             "group": "Kids",
-            "url": "https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8",
+            "url": "https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8",
             "headers": {}
         },
         {
@@ -3548,7 +3548,7 @@
             "tvg_id": "UniqueTV.in@SD",
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Unique_Tv.png",
             "group": "Entertainment;Kids",
-            "url": "https://fta.ektv.in/live/688/master.m3u8",
+            "url": "http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass",
             "headers": {}
         },
         {

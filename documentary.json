@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 251,
-    "last_update": "2026-11-18 09:29:20 AM",
+    "channels_amount": 252,
+    "last_update": "2026-11-18 06:50:43 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -732,7 +732,7 @@
             "tvg_id": "ID.bg@SD",
             "logo": "",
             "group": "Documentary",
-            "url": "http://213.91.179.28:8000/play/a0cf",
+            "url": "http://213.91.179.28:8000/play/a0c0",
             "headers": {}
         },
         {
@@ -1653,6 +1653,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
             "group": "Documentary",
             "url": "http://23.237.104.106:8080/USA_REELZ/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Reelz Famous & Infamous (1080p)",
+            "tvg_id": "ReelzFamousInfamous.us@HD",
+            "logo": "https://i.imgur.com/czrTtNK.png",
+            "group": "Documentary",
+            "url": "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8",
             "headers": {}
         },
         {

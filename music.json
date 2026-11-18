@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 781,
-    "last_update": "2026-11-18 09:29:20 AM",
+    "last_update": "2026-11-18 06:50:43 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1720,7 +1720,7 @@
             "headers": {}
         },
         {
-            "name": "Hit FM",
+            "name": "Hit FM (1080p)",
             "tvg_id": "HitFM.md@SD",
             "logo": "https://i.imgur.com/QwqM5j6.png",
             "group": "Music",
@@ -2716,7 +2716,7 @@
             "tvg_id": "MiMusicaSalsa.us@SD",
             "logo": "https://i.imgur.com/sT91t83.png",
             "group": "Music",
-            "url": "http://181.78.12.119:16123/play/ch55/index.m3u8",
+            "url": "http://38.134.250.110:8000/play/a02m/index.m3u8",
             "headers": {}
         },
         {
@@ -3688,11 +3688,11 @@
             "headers": {}
         },
         {
-            "name": "Punjabi Beats HD (720p)",
+            "name": "Punjabi Beats HD (576p)",
             "tvg_id": "PunjabiBeatsHD.in@HD",
             "logo": "https://i.imgur.com/1Za9gNQ.jpg",
             "group": "Music",
-            "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+            "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
             "headers": {}
         },
         {
@@ -5032,7 +5032,7 @@
             "headers": {}
         },
         {
-            "name": "TDI Radio TV",
+            "name": "TDI Radio TV (720p)",
             "tvg_id": "TDIRadioTV.rs@SD",
             "logo": "https://i.imgur.com/POdTmaD.png",
             "group": "Music",
