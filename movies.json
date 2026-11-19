@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 781,
-    "last_update": "2026-11-19 09:01:55 AM",
+    "channels_amount": 783,
+    "last_update": "2026-11-19 06:41:14 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1644,7 +1644,7 @@
             "tvg_id": "ETVCinema.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540",
             "group": "Movies",
-            "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
+            "url": "https://d1z9okhs5q5o80.cloudfront.net/e8903f8e970841deb594cc7c7f11bc8a/etv6N316.m3u8",
             "headers": {}
         },
         {
@@ -5301,6 +5301,22 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sky_Cinema_Uno_-_Logo_2021.svg/960px-Sky_Cinema_Uno_-_Logo_2021.svg.png",
             "group": "Movies",
             "url": "http://109.169.87.42:8080/stream/2/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "SkyShowtime 1",
+            "tvg_id": "SkyShowtime1.ro@HD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a0/SkyShowtime_1.svg/revision/latest?cb=20220920074626",
+            "group": "Movies",
+            "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi1%2Fusergendxn430rnd-got.htm",
+            "headers": {}
+        },
+        {
+            "name": "SkyShowtime 2",
+            "tvg_id": "SkyShowtime2.ro@HD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/0/09/SkyShowtime_2.svg/revision/latest?cb=20220920074646",
+            "group": "Movies",
+            "url": "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fthor1.syndula001.cfd%2Fschi2%2Fusergendxj85trnd-got.htm",
             "headers": {}
         },
         {
