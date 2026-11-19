@@ -1,0 +1,44 @@
+#EXTM3U name="IreenTV vip"
+# =====================================================
+# Playlist Name   : IreenTV vip
+# Developer       : MD ANAMUL HOQUE
+# Telegram Channel: https://t.me/ireentv
+# Website         : https://anamul.pages.dev
+# Total Channels  : 17
+# Last Updated    : 2026-11-20 03:16:19 AM
+# =====================================================
+
+#EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
+https://ireentvlive.pages.dev/promo/master.m3u8
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<!doctype html>
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<html lang="en">
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<head>
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<meta charset="UTF-8" />
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<title>IreenTV</title>
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<meta name="description" content="IreenTV - একটি আধুনিক এবং দৃষ্টিনন্দন লাইভ টিভি ওয়েবসাইট যা অটো-আপডেটেড চ্যানেল প্লেলিস্ট সমর্থন করে।" />
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<meta property="og:title" content="IreenTV" />
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<meta property="og:description" content="IreenTV - একটি আধুনিক এবং দৃষ্টিনন্দন লাইভ টিভি ওয়েবসাইট যা অটো-আপডেটেড চ্যানেল প্লেলিস্ট সমর্থন করে।" />
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<script type="module" crossorigin src="/assets/index-CoHa7AGu.js"></script>
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<link rel="stylesheet" crossorigin href="/assets/index-Bb54VLOU.css">
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+</head>
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<body>
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+<div id="root"></div>
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+</body>
+#EXTINF:-1 tvg-name="Unnamed Channel" tvg-logo="" group-title="General" ,Unnamed Channel
+</html>
