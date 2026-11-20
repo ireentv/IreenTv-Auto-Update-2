@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 785
-# Last Updated    : 2026-11-20 08:54:20 AM
+# Total Channels  : 784
+# Last Updated    : 2026-11-20 05:09:55 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -34,8 +34,8 @@ https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
 #EXTINF:-1 tvg-name="7X Music (1080p)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" group-title="Music" ,7X Music (1080p)
 https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8
-#EXTINF:-1 tvg-name="8XM" tvg-logo="https://i.ibb.co/Kc0xHyBb/8XM-Logo.png" group-title="Music" ,8XM
-https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8
+#EXTINF:-1 tvg-name="8XM (576p)" tvg-logo="https://i.imgur.com/KLrfKRn.png" group-title="Music" ,8XM (576p)
+http://116.90.120.149:8000/play/a0tw/index.m3u8
 #EXTINF:-1 tvg-name="9X Jalwa (1080p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png" group-title="Music" ,9X Jalwa (1080p)
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1 tvg-name="9X Jhakaas (1080p)" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" group-title="Music" ,9X Jhakaas (1080p)
@@ -130,7 +130,7 @@ https://hls.avang.live/hls/stream.m3u8
 https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
 #EXTINF:-1 tvg-name="Azahares Radiovisual Multimedia (720p)" tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Music" ,Azahares Radiovisual Multimedia (720p)
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF:-1 tvg-name="B4U Music (1080p)" tvg-logo="https://i.imgur.com/hytapio.png" group-title="Music" ,B4U Music (1080p)
+#EXTINF:-1 tvg-name="B4U Music (1080p)" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540" group-title="Music" ,B4U Music (1080p)
 https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
 #EXTINF:-1 tvg-name="Baby Time (576p)" tvg-logo="https://i.imgur.com/lW3WIBD.png" group-title="Kids;Music" ,Baby Time (576p)
 http://178.134.1.158:8081/babytime/index.m3u8
@@ -305,7 +305,7 @@ http://92.114.85.87:8014/play/a007/index.m3u8
 #EXTINF:-1 tvg-name="Dismar Radio TV (720p)" tvg-logo="https://i.imgur.com/KOuxdMD.png" group-title="Music" ,Dismar Radio TV (720p)
 https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:-1 tvg-name="DM Sat (576p)" tvg-logo="https://i.imgur.com/LdeA1Cn.png" group-title="Music" ,DM Sat (576p)
-https://shift03.isp.bg/DMSat/index.m3u8
+http://85.14.32.26:8800/udp/239.100.10.40:5000
 #EXTINF:-1 tvg-name="DMF (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/sJaBU7X.jpeg" group-title="Music" ,DMF (1080p) [Not 24/7]
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 #EXTINF:-1 tvg-name="Dream Turk (720p)" tvg-logo="https://i.imgur.com/vJ8VaZi.png" group-title="Music" ,Dream Turk (720p)
@@ -464,6 +464,8 @@ http://45.134.141.161:2200/ARG/HTV/index.m3u8
 https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Identite Tele Caraibes (548p)" tvg-logo="https://i.imgur.com/Atsf6Cd.png" group-title="Music" ,Identite Tele Caraibes (548p)
 https://vdo2.pro-fhi.net:3769/stream/play.m3u8
+#EXTINF:-1 tvg-name="IDJTV (576p)" tvg-logo="https://i.imgur.com/btvyrzr.png" group-title="Music" ,IDJTV (576p)
+https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 #EXTINF:-1 tvg-name="Imagen FM 105.1 (720p) [Not 24/7]" tvg-logo="https://i.ibb.co/C9zjz9p/343159606-190989583743350-3489987129696505785-n.jpg" group-title="Music" ,Imagen FM 105.1 (720p) [Not 24/7]
 https://streaming.imagenfm105-1.com/hls/stream.m3u8
 #EXTINF:-1 tvg-name="Impact TV 2 (1080p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwL2-8r1l1NDdmA6jkZYvHxPFrsIA7a8m-XdSpwC6Z&s=10" group-title="Music" ,Impact TV 2 (1080p)
@@ -494,8 +496,8 @@ https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 #EXTINF:-1 tvg-name="Ivoire Channel (720p)" tvg-logo="https://i.imgur.com/gKbNqQv.png" group-title="Music" ,Ivoire Channel (720p)
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
-#EXTINF:-1 tvg-name="Jalwa TV" tvg-logo="https://i.imgur.com/HWb5Iat.png" group-title="Music" ,Jalwa TV
-http://119.156.228.231:9983/stream/channelid/1893273325?profile=pass&ticket=B3DB50D5930411D593B973B8404789C46D3559B8
+#EXTINF:-1 tvg-name="Jalwa TV (576p)" tvg-logo="https://i.imgur.com/HWb5Iat.png" group-title="Music" ,Jalwa TV (576p)
+http://116.90.120.149:8000/play/a0tv/index.m3u8
 #EXTINF:-1 tvg-name="Jazz TV (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/CbQlSFX.png" group-title="Music" ,Jazz TV (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 #EXTINF:-1 tvg-name="Jeddah Radio (1080p)" tvg-logo="https://aloula.faulio.com/storage/mediagallery/bd/f5/fullhd_527bf54a5adb56ac17f572ac2cd0801304db3baf.png" group-title="Music" ,Jeddah Radio (1080p)
@@ -774,7 +776,7 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
 https://kino-1.catcast.tv/content/37745/index.m3u8
 #EXTINF:-1 tvg-name="Muzyka Kino [Not 24/7]" tvg-logo="https://i.imgur.com/2SG0Swa.png" group-title="Music" ,Muzyka Kino [Not 24/7]
 https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 tvg-name="Muzyka Live (576p)" tvg-logo="https://i.imgur.com/RH6hTWG.png" group-title="Music" ,Muzyka Live (576p)
+#EXTINF:-1 tvg-name="Muzyka Live (576p)" tvg-logo="https://cdn2.red-media.ru/wp-content/uploads/2016/08/LOGO_MUSIC_LIVE.png" group-title="Music" ,Muzyka Live (576p)
 http://stream.mcquack.net/303/index.m3u8
 #EXTINF:-1 tvg-name="Muzyka Pervogo (576p)" tvg-logo="https://i.imgur.com/U0vKj3P.png" group-title="Music" ,Muzyka Pervogo (576p)
 http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8
@@ -1124,8 +1126,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/p
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 #EXTINF:-1 tvg-name="RTL Gold (Luxembourg) (1080p)" tvg-logo="https://i.imgur.com/LzHQoUv.png" group-title="Music" ,RTL Gold (Luxembourg) (1080p)
 https://stream.rtl.lu/data/live/tele/rtlgold/playlist.m3u8
-#EXTINF:-1 tvg-name="RTS Muzika (576p)" tvg-logo="https://i.imgur.com/n8p11NI.png" group-title="Music" ,RTS Muzika (576p)
-https://de1.dstv.cx/RTSMuzika/index.m3u8
 #EXTINF:-1 tvg-name="RTV Glas Drine (404p) [Not 24/7]" tvg-logo="https://i.imgur.com/9NgxOdb.png" group-title="General;Music" ,RTV Glas Drine (404p) [Not 24/7]
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV Vida (1080p)" tvg-logo="https://i.imgur.com/EqUfEAh.png" group-title="Music" ,RTV Vida (1080p)
@@ -1322,8 +1322,6 @@ https://tmf-nl-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558
 https://stream.rtl.lu/data/live/tele/rtltodayradio/playlist.m3u8
 #EXTINF:-1 tvg-name="Top Latino TV" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music" ,Top Latino TV
 http://38.87.224.20:2220/play/a02b/index.m3u8
-#EXTINF:-1 tvg-name="Top TV (Serbia) (1080p)" tvg-logo="https://i.imgur.com/UJqbKEC.png" group-title="Music" ,Top TV (Serbia) (1080p)
-http://82.165.71.58:8081/TopTV/live/playlist.m3u8
 #EXTINF:-1 tvg-name="TopEstrada TV (720p)" tvg-logo="https://i.imgur.com/0Dh1FJZ.png" group-title="Music" ,TopEstrada TV (720p)
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 tvg-name="Topical Moon RD (720p) [Not 24/7]" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3900-294x165-FFFFFF.jpg" group-title="Music" ,Topical Moon RD (720p) [Not 24/7]
@@ -1416,7 +1414,7 @@ https://alpha.tv.online.tm/hls/ch005.m3u8
 https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Arberia Retro Hits (720p)" tvg-logo="https://i.imgur.com/zLRzyVS.png" group-title="Music" ,TV Arberia Retro Hits (720p)
 https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
-#EXTINF:-1 tvg-name="TV AS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631" group-title="Music" ,TV AS
+#EXTINF:-1 tvg-name="TV AS (Romania)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/TV_AS.png/revision/latest/scale-to-width-down/1000?cb=20241117150631" group-title="Music" ,TV AS (Romania)
 https://hls01ns.antenaplay.ro/hls/tv-as-sd/index.m3u8
 #EXTINF:-1 tvg-name="TV Bozsike Hamburg HD (1080p)" tvg-logo="https://radiobozsike.com/img/icons/android-chrome-512x512.png" group-title="Music" ,TV Bozsike Hamburg HD (1080p)
 https://rtmp.radiobozsike.com/hls/stream1.m3u8
@@ -1424,8 +1422,8 @@ https://rtmp.radiobozsike.com/hls/stream1.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Cidade" tvg-logo="https://i.imgur.com/gmSu21X.jpg" group-title="Music" ,TV Cidade
 https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Duga+ (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/qZV3JW5.png" group-title="Music" ,TV Duga+ (480p) [Not 24/7]
-http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1 tvg-name="TV Duga+ (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/qZV3JW5.png" group-title="Music" ,TV Duga+ (720p) [Not 24/7]
+http://135.125.238.20:8080/memfs/6c06b323-a7db-443a-a75f-b745da6ca308.m3u8
 #EXTINF:-1 tvg-name="TV Exitos (720p)" tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="Music" ,TV Exitos (720p)
 https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 #EXTINF:-1 tvg-name="TV Peruanisima (720p)" tvg-logo="https://i.imgur.com/m50qAVY.png" group-title="Music" ,TV Peruanisima (720p)

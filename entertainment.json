@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 920,
-    "last_update": "2026-11-20 08:54:20 AM",
+    "channels_amount": 925,
+    "last_update": "2026-11-20 05:09:55 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -26,7 +26,7 @@
         {
             "name": "2x2 (576p)",
             "tvg_id": "2x2.ru@SD",
-            "logo": "https://i.imgur.com/fhQFLEl.png",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2x2_TV_Logo.svg/1920px-2x2_TV_Logo.svg.png",
             "group": "Entertainment",
             "url": "http://176.118.197.101/2x2/index.m3u8",
             "headers": {}
@@ -192,11 +192,35 @@
             "headers": {}
         },
         {
+            "name": "¡OPA! (720p)",
+            "tvg_id": "OPA.cr@SD",
+            "logo": "https://i.imgur.com/300c1ZH.png",
+            "group": "Entertainment",
+            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "+MaisUm (720p)",
+            "tvg_id": "PlusMaisUm.br@HD",
+            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
+            "group": "Entertainment;General;Movies;Music",
+            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+            "headers": {}
+        },
+        {
             "name": ".black (576p)",
             "tvg_id": "black.ru@SD",
             "logo": "https://i.imgur.com/Q4A6ci4.png",
             "group": "Entertainment",
-            "url": "http://s1.merlive.am/black/index.m3u8",
+            "url": "http://116.90.120.149:8000/play/a0s4/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": ".black HD (1080p)",
+            "tvg_id": "black.ru@HD",
+            "logo": "https://i.imgur.com/Q4A6ci4.png",
+            "group": "Entertainment",
+            "url": "http://116.90.120.149:8000/play/a0ac/index.m3u8",
             "headers": {}
         },
         {
@@ -213,22 +237,6 @@
             "logo": "https://i.imgur.com/GET9Qut.png",
             "group": "Entertainment",
             "url": "http://178.134.1.158:8081/red/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "¡OPA! (720p)",
-            "tvg_id": "OPA.cr@SD",
-            "logo": "https://i.imgur.com/300c1ZH.png",
-            "group": "Entertainment",
-            "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "+MaisUm (720p)",
-            "tvg_id": "PlusMaisUm.br@HD",
-            "logo": "https://i.ibb.co/ZRDvqJcf/Logo-Mais-Um-original-sem-fundo.png",
-            "group": "Entertainment;General;Movies;Music",
-            "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
             "headers": {}
         },
         {
@@ -408,11 +416,11 @@
             "headers": {}
         },
         {
-            "name": "ALLBLK Gems (720p)",
+            "name": "ALLBLK Gems (1080p)",
             "tvg_id": "ALLBLKGems.us@SD",
             "logo": "https://i.imgur.com/gnkepQJ.png",
             "group": "Entertainment",
-            "url": "https://df1zke3zj042m.cloudfront.net/playlist.m3u8",
+            "url": "https://amc-allblk-gems-1-us.vizio.wurl.tv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -448,11 +456,11 @@
             "headers": {}
         },
         {
-            "name": "AMC en Espanol",
+            "name": "AMC en Espanol (1080p)",
             "tvg_id": "AMCenEspanol.us@SD",
             "logo": "https://i.imgur.com/L1h6W5Q.png",
             "group": "Entertainment",
-            "url": "https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8",
+            "url": "https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8",
             "headers": {}
         },
         {
@@ -880,11 +888,11 @@
             "headers": {}
         },
         {
-            "name": "Best of Dr Phil",
+            "name": "Best of Dr Phil (1080p)",
             "tvg_id": "BestofDrPhil.us@SD",
             "logo": "https://i.imgur.com/Jj0wTFQ.png",
             "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8",
+            "url": "https://44afb29d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRHJQaGlsX0hMUw/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1984,6 +1992,14 @@
             "headers": {}
         },
         {
+            "name": "E! (Poland) (576p)",
+            "tvg_id": "E.pl@SD",
+            "logo": "https://i.imgur.com/TWFDkap.png",
+            "group": "Entertainment",
+            "url": "http://116.90.120.149:8000/play/a0kz/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "E! (Romania)",
             "tvg_id": "E.ro@SD",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ef/E%21_2022_%28Scarlet%29.svg/revision/latest?cb=20260709150437",
@@ -2504,11 +2520,11 @@
             "headers": {}
         },
         {
-            "name": "Game Show Central (720p)",
+            "name": "Game Show Central (1080p)",
             "tvg_id": "GameShowCentral.us@SD",
             "logo": "https://i.imgur.com/Uuc5h1s.png",
             "group": "Entertainment",
-            "url": "https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8",
+            "url": "https://d56be438.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fR2FtZVNob3dDZW50cmFsX0hMUw/playlist.m3u8",
             "headers": {}
         },
         {
@@ -3026,17 +3042,17 @@
         {
             "name": "ION Plus (1080p)",
             "tvg_id": "IONPlus.us@East",
-            "logo": "https://i.imgur.com/1dgCvNE.png",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/960px-ION_Plus_logo.svg.png",
             "group": "Entertainment",
             "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8",
             "headers": {}
         },
         {
-            "name": "ION TV (720p)",
+            "name": "ION TV (1080p)",
             "tvg_id": "IONTV.us@East",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/960px-Ion_logo.svg.png",
             "group": "Entertainment",
-            "url": "http://23.237.104.106:8080/USA_ION/index.m3u8",
+            "url": "https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8",
             "headers": {}
         },
         {
@@ -3450,7 +3466,7 @@
         {
             "name": "La Tele Tuya (576p)",
             "tvg_id": "LaTeleTuya.ve@SD",
-            "logo": "https://i.ibb.co/vvqk2hw/LOGO-HORIZONTAL-text.png",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Tele_Tuya_Logo_%282026%29.png",
             "group": "Entertainment",
             "url": "http://181.78.8.199:8000/play/a0fs/index.m3u8",
             "headers": {}
@@ -4144,11 +4160,11 @@
             "headers": {}
         },
         {
-            "name": "MTV (India) HD (396p)",
+            "name": "MTV (India) HD (1080p)",
             "tvg_id": "MTV.in@HD",
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
             "group": "Entertainment",
-            "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
+            "url": "http://116.90.120.149:8000/play/a136/index.m3u8",
             "headers": {}
         },
         {
@@ -5034,7 +5050,7 @@
         {
             "name": "Peretz International (576p)",
             "tvg_id": "PeretzInternational.ru@SD",
-            "logo": "https://i.imgur.com/On6ggLe.png",
+            "logo": "https://i.imgur.com/Y84p1y6.png",
             "group": "Entertainment",
             "url": "http://stream.mcquack.net/121/index.m3u8",
             "headers": {}
@@ -5712,6 +5728,14 @@
             "headers": {}
         },
         {
+            "name": "Roar WTVF (1080p)",
+            "tvg_id": "Roar.us@WTVF",
+            "logo": "https://iili.io/FxYNwOB.md.png",
+            "group": "Entertainment",
+            "url": "https://amg01438-amg01438c25-vizio-us-10911.playouts.now.amagi.tv/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Robinson Ekspeditionen",
             "tvg_id": "RobinsonEkspeditionen.se@DK",
             "logo": "https://images.pluto.tv/channels/63a42df60cc44a0007dd47f8/colorLogoPNG.png",
@@ -5904,11 +5928,27 @@
             "headers": {}
         },
         {
-            "name": "Smotrim 100% Prazdnik (720p)",
+            "name": "Smotrim 100% k 1 (1080p)",
+            "tvg_id": "Smotrim100k1.ru@SD",
+            "logo": "https://cdn.smotrim.ru/photobank/prod/large/156/263/96.jpg",
+            "group": "Entertainment",
+            "url": "https://stream.smotrim.ru/hls2/fasttv08/playlist_2.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Smotrim 100% Prazdnik (1080p)",
             "tvg_id": "Smotrim100Prazdnik.ru@SD",
             "logo": "https://i.imgur.com/NEcqFse.png",
             "group": "Entertainment",
-            "url": "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8",
+            "url": "https://stream.smotrim.ru/hls2/fasttv04/playlist_3.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Smotrim 100% Talk-show (1080p)",
+            "tvg_id": "Smotrim100Talkshow.ru@SD",
+            "logo": "https://cdn.smotrim.ru/photobank/prod/large/156/431/82.jpg",
+            "group": "Entertainment",
+            "url": "https://stream.smotrim.ru/hls2/fasttv09/playlist_3.m3u8",
             "headers": {}
         },
         {
@@ -6004,7 +6044,7 @@
             "tvg_id": "Spondon.in@SD",
             "logo": "https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png",
             "group": "Entertainment",
-            "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
+            "url": "https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8",
             "headers": {}
         },
         {
@@ -6522,7 +6562,7 @@
         {
             "name": "TNT4 International (576p)",
             "tvg_id": "TNT4International.ru@SD",
-            "logo": "https://i.imgur.com/SjdOaya.png",
+            "logo": "https://i.imgur.com/gBokU5i.png",
             "group": "Entertainment",
             "url": "https://fs.uplink.kz/tnt4/mono.m3u8?token=onlinetv",
             "headers": {}
@@ -6560,11 +6600,11 @@
             "headers": {}
         },
         {
-            "name": "Top Gear (720p)",
+            "name": "Top Gear (1080p)",
             "tvg_id": "TopGear.uk@SD",
             "logo": "https://i.imgur.com/S6Su6QH.png",
             "group": "Auto;Entertainment",
-            "url": "https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8",
+            "url": "https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8",
             "headers": {}
         },
         {
@@ -7354,7 +7394,7 @@
         {
             "name": "Zoom (Ukraine) (1080p)",
             "tvg_id": "Zoom.ua@SD",
-            "logo": "https://i.imgur.com/EzIiXIT.png",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/ZoomUA_%282025%29.png",
             "group": "Entertainment",
             "url": "http://stream.mcquack.net/327/index.m3u8",
             "headers": {}
