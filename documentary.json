@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 257,
-    "last_update": "2026-11-21 07:15:08 AM",
+    "channels_amount": 252,
+    "last_update": "2026-11-21 03:27:31 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1496,7 +1496,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Paranormal (United States)",
+            "name": "Pluto TV Paranormal",
             "tvg_id": "PlutoTVParanormal.us@US",
             "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
             "group": "Documentary",
@@ -1504,7 +1504,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Paranormal (United States) CA",
+            "name": "Pluto TV Paranormal CA",
             "tvg_id": "PlutoTVParanormal.us@CA",
             "logo": "https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png",
             "group": "Documentary",
@@ -1584,31 +1584,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV True Crime (Sweden)",
-            "tvg_id": "PlutoTVTrueCrime.se@SE",
-            "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-            "group": "Documentary;Series",
-            "url": "https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV True Crime (Sweden) DK",
-            "tvg_id": "PlutoTVTrueCrime.se@DK",
-            "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-            "group": "Documentary;Series",
-            "url": "https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV True Crime (Sweden) NO",
-            "tvg_id": "PlutoTVTrueCrime.se@NO",
-            "logo": "https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png",
-            "group": "Documentary;Series",
-            "url": "https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV True Crime (United States)",
+            "name": "Pluto TV True Crime",
             "tvg_id": "PlutoTVTrueCrime.us@US",
             "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
             "group": "Documentary;Series",
@@ -1616,7 +1592,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV True Crime (United States) CA",
+            "name": "Pluto TV True Crime CA",
             "tvg_id": "PlutoTVTrueCrime.us@CA",
             "logo": "https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png",
             "group": "Documentary;Series",
@@ -1752,22 +1728,6 @@
             "headers": {}
         },
         {
-            "name": "Smithsonian Channel Selects (Sweden)",
-            "tvg_id": "SmithsonianChannelSelects.se@SE",
-            "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
-            "group": "Documentary",
-            "url": "https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Smithsonian Channel Selects (Sweden) DK",
-            "tvg_id": "SmithsonianChannelSelects.se@DK",
-            "logo": "https://images.pluto.tv/channels/61fb988e032c0100077d5252/colorLogoPNG.png",
-            "group": "Documentary",
-            "url": "https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Smotrim 100% Fakty (1080p)",
             "tvg_id": "Smotrim100Fakty.ru@SD",
             "logo": "https://i.imgur.com/dB3cJzO.png",
@@ -1816,7 +1776,7 @@
             "headers": {}
         },
         {
-            "name": "Teen Mom (United States)",
+            "name": "Teen Mom",
             "tvg_id": "TeenMom.us@SD",
             "logo": "https://i.imgur.com/8o3ClCV.png",
             "group": "Documentary",

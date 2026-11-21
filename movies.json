@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 796,
-    "last_update": "2026-11-21 07:15:08 AM",
+    "channels_amount": 783,
+    "last_update": "2026-11-21 03:27:31 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -88,6 +88,14 @@
             "headers": {}
         },
         {
+            "name": "&TV International (1080p)",
+            "tvg_id": "AndTV.in@International",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Movies",
+            "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "&pictures HD (1080p)",
             "tvg_id": "Andpictures.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540",
@@ -101,14 +109,6 @@
             "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
             "group": "Movies",
             "url": "http://116.90.120.149:8000/play/a133/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "&TV International (1080p)",
-            "tvg_id": "AndTV.in@International",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png",
-            "group": "Movies",
-            "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8",
             "headers": {}
         },
         {
@@ -376,11 +376,11 @@
             "headers": {}
         },
         {
-            "name": "AXN (Spain)",
+            "name": "AXN (Spain) (1080p)",
             "tvg_id": "AXN.es@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
             "group": "Movies",
-            "url": "http://sultanios.alwaysdata.net/vavo.php?ID=4238619703",
+            "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703",
             "headers": {}
         },
         {
@@ -520,19 +520,11 @@
             "headers": {}
         },
         {
-            "name": "AXN Movies (Portugal) (720p)",
+            "name": "AXN Movies (720p)",
             "tvg_id": "AXNMovies.pt@SD",
             "logo": "https://i.imgur.com/tJQckal.png",
             "group": "Movies",
             "url": "http://50.7.120.34:8080/AXN_BLACK/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "AXN Movies (Spain)",
-            "tvg_id": "AXNMovies.es@SD",
-            "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/AXN_Movies_logo.svg/revision/latest/scale-to-width-down/512",
-            "group": "Movies",
-            "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2493319111",
             "headers": {}
         },
         {
@@ -1096,11 +1088,11 @@
             "headers": {}
         },
         {
-            "name": "Cine+ Classic",
+            "name": "Cine+ Classic (1080p)",
             "tvg_id": "CinePlusClassic.fr@SD",
             "logo": "https://i.imgur.com/y2zeLS3.jpeg",
             "group": "Movies",
-            "url": "http://99.27.51.147/CineClassic/index.m3u8",
+            "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1398934027",
             "headers": {}
         },
         {
@@ -1709,38 +1701,6 @@
             "logo": "https://i.imgur.com/S9OPMLE.png",
             "group": "Movies",
             "url": "http://31.148.48.15/Feniks_plus_kino/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Film1 Action",
-            "tvg_id": "Film1Action.nl@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/960px-Film1_Action_SVG.svg.png",
-            "group": "Movies",
-            "url": "http://86.87.15.10:8008/play/a01l/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Film1 Drama",
-            "tvg_id": "Film1Drama.nl@SD",
-            "logo": "https://i.imgur.com/oqrnvib.png",
-            "group": "Movies",
-            "url": "http://86.87.15.10:8008/play/a01k/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Film1 Family",
-            "tvg_id": "Film1Family.nl@SD",
-            "logo": "https://i.imgur.com/8XRfXIa.png",
-            "group": "Movies",
-            "url": "http://86.87.15.10:8008/play/a01m/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Film1 Premiere",
-            "tvg_id": "Film1Premiere.nl@SD",
-            "logo": "https://i.imgur.com/Kn9LX8i.png",
-            "group": "Movies",
-            "url": "http://86.87.15.10:8008/play/a01n/index.m3u8",
             "headers": {}
         },
         {
@@ -3624,11 +3584,11 @@
             "headers": {}
         },
         {
-            "name": "Paramount Network (Poland)",
+            "name": "Paramount Network (Poland) (1080p)",
             "tvg_id": "ParamountNetwork.pl@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png",
             "group": "Movies;Series",
-            "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3390498693",
+            "url": "https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693",
             "headers": {}
         },
         {
@@ -3736,31 +3696,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Action (Sweden)",
-            "tvg_id": "PlutoTVAction.se@SE",
-            "logo": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Action (Sweden) DK",
-            "tvg_id": "PlutoTVAction.se@DK",
-            "logo": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Action (Sweden) NO",
-            "tvg_id": "PlutoTVAction.se@NO",
-            "logo": "https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Action (United States)",
+            "name": "Pluto TV Action",
             "tvg_id": "PlutoTVAction.us@US",
             "logo": "https://i.imgur.com/tDapGal.png",
             "group": "Movies",
@@ -4320,31 +4256,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Horror (Sweden)",
-            "tvg_id": "PlutoTVHorror.se@SE",
-            "logo": "https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-63a19e1b9ab2df0007bef7a7.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Horror (Sweden) DK",
-            "tvg_id": "PlutoTVHorror.se@DK",
-            "logo": "https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-63a1c9790cc44a0007dc8857.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Horror (Sweden) NO",
-            "tvg_id": "PlutoTVHorror.se@NO",
-            "logo": "https://images.pluto.tv/channels/63a1c9790cc44a0007dc8857/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-63a19cb7847a090007f230d7.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Horror (United States)",
+            "name": "Pluto TV Horror",
             "tvg_id": "PlutoTVHorror.us@US",
             "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
             "group": "Movies;Series",
@@ -4352,19 +4264,11 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Horror (United States) CA",
+            "name": "Pluto TV Horror CA",
             "tvg_id": "PlutoTVHorror.us@CA",
             "logo": "https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
             "group": "Movies;Series",
             "url": "https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Humor (Sweden)",
-            "tvg_id": "PlutoTVHumor.se@DK",
-            "logo": "https://images.pluto.tv/channels/61c0974945b45d0007aaa5ac/colorLogoPNG.png",
-            "group": "Comedy;Movies",
-            "url": "https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8",
             "headers": {}
         },
         {
@@ -4528,22 +4432,6 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Paranormal (Sweden)",
-            "tvg_id": "PlutoTVParanormal.se@SE",
-            "logo": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
-            "group": "Movies",
-            "url": "https://jmp2.uk/plu-62b1e4189f5db20007ff03be.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Paranormal (Sweden) DK",
-            "tvg_id": "PlutoTVParanormal.se@DK",
-            "logo": "https://images.pluto.tv/channels/62b30beb81f89900071fc7b9/colorLogoPNG.png",
-            "group": "Movies",
-            "url": "https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Pluto TV Psycho",
             "tvg_id": "PlutoTVPsycho.de@ES",
             "logo": "https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png",
@@ -4600,31 +4488,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Sci-Fi (Sweden)",
-            "tvg_id": "PlutoTVSciFi.se@SE",
-            "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-61f9597e78607000074f6c2a.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Sci-Fi (Sweden) DK",
-            "tvg_id": "PlutoTVSciFi.se@DK",
-            "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Sci-Fi (Sweden) NO",
-            "tvg_id": "PlutoTVSciFi.se@NO",
-            "logo": "https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Sci-Fi (United States)",
+            "name": "Pluto TV Sci-Fi",
             "tvg_id": "PlutoTVSciFi.us@US",
             "logo": "https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png",
             "group": "Movies;Series",
@@ -4632,7 +4496,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Sci-Fi (United States) CA",
+            "name": "Pluto TV Sci-Fi CA",
             "tvg_id": "PlutoTVSciFi.us@CA",
             "logo": "https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png",
             "group": "Movies;Series",
@@ -4640,7 +4504,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Sci-Fi (United States) LatAm",
+            "name": "Pluto TV Sci-Fi LatAm",
             "tvg_id": "PlutoTVSciFi.us@LatAm",
             "logo": "https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png",
             "group": "Movies;Series",
@@ -4760,15 +4624,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Westerns (Germany)",
-            "tvg_id": "PlutoTVWesterns.de@GB",
-            "logo": "https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/colorLogoPNG.png",
-            "group": "Movies",
-            "url": "https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Pluto TV Westerns (United States)",
+            "name": "Pluto TV Westerns",
             "tvg_id": "PlutoTVWesterns.us@US",
             "logo": "https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png",
             "group": "Movies",
@@ -4776,7 +4632,7 @@
             "headers": {}
         },
         {
-            "name": "Pluto TV Westerns (United States) CA",
+            "name": "Pluto TV Westerns CA",
             "tvg_id": "PlutoTVWesterns.us@CA",
             "logo": "https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png",
             "group": "Movies",
@@ -5160,7 +5016,7 @@
             "headers": {}
         },
         {
-            "name": "Rawhide (United States)",
+            "name": "Rawhide",
             "tvg_id": "Rawhide.us@SD",
             "logo": "https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png",
             "group": "Movies;Series",
@@ -5168,7 +5024,7 @@
             "headers": {}
         },
         {
-            "name": "Rawhide (United States) CA",
+            "name": "Rawhide CA",
             "tvg_id": "Rawhide.us@CA",
             "logo": "https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png",
             "group": "Movies;Series",
@@ -5616,11 +5472,51 @@
             "headers": {}
         },
         {
+            "name": "Star Gold 2 (576p)",
+            "tvg_id": "StarGold2.in@SD",
+            "logo": "https://i.imgur.com/G0ZfzZr.png",
+            "group": "Movies",
+            "url": "http://116.90.120.149:8000/play/a12b/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Gold HD (1080p)",
+            "tvg_id": "StarGold.in@HD",
+            "logo": "https://i.imgur.com/xC460sj.png",
+            "group": "Movies",
+            "url": "http://116.90.120.149:8000/play/a12a/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Gold Romance (576p)",
+            "tvg_id": "StarGoldRomance.in@SD",
+            "logo": "https://i.imgur.com/gSWv9U3.png",
+            "group": "Movies",
+            "url": "http://116.90.120.149:8000/play/a12c/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Gold Select HD (1080p)",
+            "tvg_id": "StarGoldSelect.in@HD",
+            "logo": "https://i.imgur.com/U7eiuqv.png",
+            "group": "Movies",
+            "url": "http://116.90.120.149:8000/play/a131/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Star Maa Movies HD (720p)",
             "tvg_id": "StarMaaMovies.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540",
             "group": "Movies",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Star Movies (India) HD (1080p)",
+            "tvg_id": "StarMovies.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
             "headers": {}
         },
         {
@@ -5637,6 +5533,14 @@
             "logo": "https://i.imgur.com/JcoAgDF.png",
             "group": "Movies",
             "url": "http://92.36.202.5:10001/play/a01o",
+            "headers": {}
+        },
+        {
+            "name": "Star Movies Select HD (1080p)",
+            "tvg_id": "StarMoviesSelect.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
+            "group": "Movies",
+            "url": "http://116.90.120.149:8000/play/a139/index.m3u8",
             "headers": {}
         },
         {
@@ -5680,15 +5584,7 @@
             "headers": {}
         },
         {
-            "name": "Star Trek: The Next Generation (Germany)",
-            "tvg_id": "StarTrekTheNextGeneration.de@DACH",
-            "logo": "https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Trek: The Next Generation (United States)",
+            "name": "Star Trek: The Next Generation",
             "tvg_id": "StarTrekTheNextGeneration.us@SD",
             "logo": "https://images.pluto.tv/channels/695c32e61ca20bb8ca802eb9/colorLogoPNG_1768440087394.png",
             "group": "Movies;Series",
@@ -5728,23 +5624,7 @@
             "headers": {}
         },
         {
-            "name": "Star Trek: Voyager (Germany)",
-            "tvg_id": "StarTrekVoyager.de@ES",
-            "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Trek: Voyager (Germany) IT",
-            "tvg_id": "StarTrekVoyager.de@IT",
-            "logo": "https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png",
-            "group": "Movies;Series",
-            "url": "https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Star Trek: Voyager (United States)",
+            "name": "Star Trek: Voyager",
             "tvg_id": "StarTrekVoyager.us@SD",
             "logo": "https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png",
             "group": "Movies;Series",
@@ -5960,7 +5840,7 @@
             "headers": {}
         },
         {
-            "name": "The Wild Wild West (United States)",
+            "name": "The Wild Wild West",
             "tvg_id": "TheWildWildWest.us@SD",
             "logo": "https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png",
             "group": "Movies;Series",
@@ -6373,6 +6253,22 @@
             "logo": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",
             "group": "Movies",
             "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Talkies HD (1080p)",
+            "tvg_id": "ZeeTalkies.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Movies",
+            "url": "http://116.90.120.149:8000/play/a116/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Zee Thirai HD (1080p)",
+            "tvg_id": "ZeeThirai.in@HD",
+            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png",
+            "group": "Movies",
+            "url": "http://116.90.120.149:8000/play/a11q/index.m3u8",
             "headers": {}
         }
     ]
