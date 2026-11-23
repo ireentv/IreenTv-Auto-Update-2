@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 458,
-    "last_update": "2026-11-23 06:40:06 AM",
+    "channels_amount": 454,
+    "last_update": "2026-11-23 02:46:10 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -136,7 +136,7 @@
             "headers": {}
         },
         {
-            "name": "Aqlvoy",
+            "name": "Aqlvoy (1080p)",
             "tvg_id": "Aqlvoy.uz@SD",
             "logo": "https://i.imgur.com/ekF5cAi.png",
             "group": "Kids",
@@ -144,7 +144,7 @@
             "headers": {}
         },
         {
-            "name": "Arutz HaYeladim",
+            "name": "Arutz HaYeladim (720p)",
             "tvg_id": "ArutzHaYeladim.il@SD",
             "logo": "https://i.imgur.com/n1KusFW.png",
             "group": "Kids",
@@ -488,6 +488,14 @@
             "headers": {}
         },
         {
+            "name": "Cartoon Cartoons (720p)",
+            "tvg_id": "CartoonCartoons.us@SD",
+            "logo": "https://cartooncartoons.thatsoretro.com/logo",
+            "group": "Animation;Kids",
+            "url": "https://cartooncartoons.thatsoretro.com/hls/stream.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Cartoon Classics (Poland)",
             "tvg_id": "CartoonClassics.pl@FAST",
             "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg",
@@ -621,14 +629,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",
             "group": "Animation;Kids",
             "url": "http://45.132.87.69:8080/cartoon_network/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Cartoon Network HD+ (1080p)",
-            "tvg_id": "CartoonNetworkHDPlus.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png",
-            "group": "Animation;Kids",
-            "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
             "headers": {}
         },
         {
@@ -997,22 +997,6 @@
             "logo": "https://i.imgur.com/aOa73uT.png",
             "group": "Kids",
             "url": "http://88.212.7.14/live/disney_channel_hun/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Disney Channel (India) (576p)",
-            "tvg_id": "DisneyChannel.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL/images/LOGO_HD/image.png",
-            "group": "Kids",
-            "url": "http://116.90.120.149:8000/play/a124/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Disney Channel (India) HD (1080p)",
-            "tvg_id": "DisneyChannel.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png",
-            "group": "Kids",
-            "url": "http://116.90.120.149:8000/play/a11r/index.m3u8",
             "headers": {}
         },
         {
@@ -1520,7 +1504,7 @@
             "headers": {}
         },
         {
-            "name": "IRIB Omid",
+            "name": "IRIB Omid (1080p)",
             "tvg_id": "IRIBOmid.ir@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png",
             "group": "Kids",
@@ -1576,7 +1560,7 @@
             "headers": {}
         },
         {
-            "name": "Junior",
+            "name": "Junior (720p)",
             "tvg_id": "Junior.il@SD",
             "logo": "https://i.imgur.com/w8fYTnw.png",
             "group": "Kids",
@@ -1928,11 +1912,11 @@
             "headers": {}
         },
         {
-            "name": "Multilandia (576p)",
+            "name": "Multilandia (1080p)",
             "tvg_id": "Multilandia.ru@SD",
             "logo": "https://i.imgur.com/ccwijY0.png",
             "group": "Kids",
-            "url": "https://fs.uplink.kz/multilandia/mono.m3u8?token=onlinetv",
+            "url": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8",
             "headers": {}
         },
         {
@@ -1989,14 +1973,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",
             "group": "Kids",
             "url": "http://88.212.7.14/live/nick_junior_hun/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Nick Jr. (India) (576p)",
-            "tvg_id": "NickJr.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK_JUNIOR/images/LOGO_HD/image.png",
-            "group": "Kids",
-            "url": "http://103.135.253.32:8080/NICK-Jr/index.m3u8",
             "headers": {}
         },
         {
@@ -2168,14 +2144,6 @@
             "headers": {}
         },
         {
-            "name": "Nickelodeon (India) (576p)",
-            "tvg_id": "Nickelodeon.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png",
-            "group": "Kids",
-            "url": "http://103.135.253.32:8080/NICK/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Nickelodeon (Italy)",
             "tvg_id": "Nickelodeon.it@SD",
             "logo": "https://i.imgur.com/E84jnP8.png",
@@ -2189,6 +2157,22 @@
             "logo": "https://i.imgur.com/E84jnP8.png",
             "group": "Kids",
             "url": "http://185.77.12.179:9981/stream/channelid/788918401?profile=pass",
+            "headers": {}
+        },
+        {
+            "name": "Nickelodeon (Netherlands) HD (1080i)",
+            "tvg_id": "Nickelodeon.nl@HD",
+            "logo": "https://i.imgur.com/E84jnP8.png",
+            "group": "Kids",
+            "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071",
+            "headers": {}
+        },
+        {
+            "name": "Nickelodeon (Poland)",
+            "tvg_id": "Nickelodeon.pl@SD",
+            "logo": "https://i.imgur.com/E84jnP8.png",
+            "group": "Kids",
+            "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5189779876700e71d303b",
             "headers": {}
         },
         {
@@ -2904,14 +2888,6 @@
             "headers": {}
         },
         {
-            "name": "Pogo (576p)",
-            "tvg_id": "Pogo.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
-            "group": "Animation;Kids",
-            "url": "http://103.135.253.32:8080/POGO/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Polsat JimJam (576i)",
             "tvg_id": "PolsatJimJam.pl@SD",
             "logo": "https://i.imgur.com/GjppUlg.png",
@@ -2920,15 +2896,15 @@
             "headers": {}
         },
         {
-            "name": "Pooya TV",
+            "name": "Pooya TV (1080p)",
             "tvg_id": "PooyaTV.ir@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
             "group": "Kids",
-            "url": "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8",
+            "url": "https://ncdn.telewebion.ir/pooya/live/playlist.m3u8",
             "headers": {}
         },
         {
-            "name": "Pooya TV Plus",
+            "name": "Pooya TV Plus (576p)",
             "tvg_id": "PooyaTVPlus.ir@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png",
             "group": "Kids",
@@ -3085,14 +3061,6 @@
             "logo": "https://i.imgur.com/HCefxaK.png",
             "group": "Animation;Kids",
             "url": "http://31.148.48.15/Solnce/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sonic (576p)",
-            "tvg_id": "Sonic.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png",
-            "group": "Kids",
-            "url": "http://103.185.24.134:3001/SONIC/index.m3u8",
             "headers": {}
         },
         {
@@ -3388,7 +3356,7 @@
             "tvg_id": "Tooncast.us@Brazil",
             "logo": "https://i.imgur.com/3yXRbQy.png",
             "group": "Animation;Kids",
-            "url": "http://170.83.16.50:80/TOONCAST/index.m3u8",
+            "url": "http://170.83.16.50/TOONCAST/index.m3u8",
             "headers": {}
         },
         {

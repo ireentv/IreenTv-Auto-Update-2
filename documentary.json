@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 252,
-    "last_update": "2026-11-23 06:40:06 AM",
+    "channels_amount": 250,
+    "last_update": "2026-11-23 02:46:10 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -165,6 +165,14 @@
             "logo": "https://i.imgur.com/qcTNvNU.png",
             "group": "Documentary",
             "url": "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BBC Earth Asia (720p)",
+            "tvg_id": "BBCEarth.uk@Asia",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",
+            "group": "Documentary",
+            "url": "https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8",
             "headers": {}
         },
         {
@@ -413,6 +421,14 @@
             "logo": "https://i.imgur.com/pX4U9OG.png",
             "group": "Documentary",
             "url": "https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "DocuBox Polska",
+            "tvg_id": "DocuBox.nl@Polska",
+            "logo": "https://i.imgur.com/pX4U9OG.png",
+            "group": "Documentary",
+            "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28937292062f43eb29b758",
             "headers": {}
         },
         {
@@ -704,11 +720,11 @@
             "headers": {}
         },
         {
-            "name": "History TV18 HD (1080p)",
+            "name": "History TV18 HD (1080p) [Geo-blocked]",
             "tvg_id": "HistoryTV18.in@HD",
             "logo": "https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540",
             "group": "Documentary",
-            "url": "http://116.90.120.149:8000/play/a12z/index.m3u8",
+            "url": "https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8",
             "headers": {}
         },
         {
@@ -781,14 +797,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png",
             "group": "Documentary",
             "url": "http://88.212.7.14/live/id_hun/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Investigation Discovery (India) (576p)",
-            "tvg_id": "InvestigationDiscovery.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png",
-            "group": "Documentary",
-            "url": "http://116.90.120.149:8000/play/a119/index.m3u8",
             "headers": {}
         },
         {
@@ -1008,14 +1016,6 @@
             "headers": {}
         },
         {
-            "name": "National Geographic (India) HD (1080p)",
-            "tvg_id": "NationalGeographic.in@HD",
-            "logo": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540",
-            "group": "Documentary",
-            "url": "http://116.90.120.149:8000/play/a115/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "National Geographic (Mexico) (1080p)",
             "tvg_id": "NationalGeographic.mx@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
@@ -1117,14 +1117,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
             "url": "http://88.212.7.14/live/ngw_hun/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "National Geographic Wild (India) HD (1080p)",
-            "tvg_id": "NationalGeographicWild.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png",
-            "group": "Documentary",
-            "url": "http://116.90.120.149:8000/play/a11h/index.m3u8",
             "headers": {}
         },
         {
@@ -1672,7 +1664,7 @@
             "headers": {}
         },
         {
-            "name": "RL PRO TV",
+            "name": "RL PRO TV (480p)",
             "tvg_id": "RLPROTV.cd@SD",
             "logo": "https://i.imgur.com/PIBtCEN.jpeg",
             "group": "Documentary",
@@ -1733,14 +1725,6 @@
             "logo": "https://i.imgur.com/dB3cJzO.png",
             "group": "Documentary",
             "url": "https://stream.smotrim.ru/hls2/fasttv06/playlist_3.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Sony BBC Earth HD (1080p)",
-            "tvg_id": "SonyBBCEarth.in@HD",
-            "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
-            "group": "Documentary",
-            "url": "http://116.90.120.149:8000/play/a130/index.m3u8",
             "headers": {}
         },
         {
@@ -1984,11 +1968,11 @@
             "headers": {}
         },
         {
-            "name": "viju Nature (576p)",
+            "name": "viju Nature (1080p)",
             "tvg_id": "vijuNature.ru@SD",
             "logo": "https://i.imgur.com/8BPZ18l.png",
             "group": "Documentary",
-            "url": "http://46.53.200.153:7777/play/a01k/index.m3u8",
+            "url": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8",
             "headers": {}
         },
         {

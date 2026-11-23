@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 782,
-    "last_update": "2026-11-23 06:40:06 AM",
+    "last_update": "2026-11-23 02:46:10 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1560,7 +1560,7 @@
             "headers": {}
         },
         {
-            "name": "Fun Vision",
+            "name": "Fun Vision (1080p)",
             "tvg_id": "FunVision.be@SD",
             "logo": "https://i.imgur.com/AhkKr7Y.png",
             "group": "Music",
@@ -2149,6 +2149,14 @@
             "logo": "https://i.imgur.com/GjME5H0.png",
             "group": "Music",
             "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "La Granja TV (1080p)",
+            "tvg_id": "LaGranjaTV.cl@SD",
+            "logo": "https://i.imgur.com/90luGab.png",
+            "group": "Music",
+            "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8",
             "headers": {}
         },
         {
@@ -2856,14 +2864,6 @@
             "headers": {}
         },
         {
-            "name": "MTV Live (720p)",
-            "tvg_id": "MTVLive.us@SD",
-            "logo": "https://i.imgur.com/3UByLqb.png",
-            "group": "Music",
-            "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "MTV Spankin' New (1080p)",
             "tvg_id": "MTVSpankinNew.us@US",
             "logo": "https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png",
@@ -2936,7 +2936,7 @@
             "headers": {}
         },
         {
-            "name": "Music IL",
+            "name": "Music IL (720p)",
             "tvg_id": "MusicIL.il@SD",
             "logo": "https://i.imgur.com/tTVOc31.png",
             "group": "Music",
@@ -2984,7 +2984,7 @@
             "headers": {}
         },
         {
-            "name": "Muz TV Uzbekistan",
+            "name": "Muz TV Uzbekistan (1080p)",
             "tvg_id": "MuzTVUzbekistan.uz@SD",
             "logo": "https://s8.vcdn.biz/static/f/6010782281/image.jpg",
             "group": "Music",
@@ -2992,11 +2992,11 @@
             "headers": {}
         },
         {
-            "name": "Muz-TV (576p)",
+            "name": "Muz-TV (1080p)",
             "tvg_id": "MuzTV.ru@SD",
             "logo": "https://i.imgur.com/BtqrHmz.png",
             "group": "Music",
-            "url": "http://31.148.5.241/kanal_20/index.m3u8",
+            "url": "https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8",
             "headers": {}
         },
         {
@@ -3048,11 +3048,11 @@
             "headers": {}
         },
         {
-            "name": "Muzyka Pervogo (576p)",
+            "name": "Muzyka Pervogo (1080p)",
             "tvg_id": "MuzykaPervogo.ru@SD",
             "logo": "https://i.imgur.com/U0vKj3P.png",
             "group": "Music",
-            "url": "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8",
+            "url": "https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8",
             "headers": {}
         },
         {
@@ -3189,14 +3189,6 @@
             "logo": "https://i.imgur.com/2xDVwOh.png",
             "group": "Music",
             "url": "https://test.946985.filegear-sg.me/proxy/a23981548880f405",
-            "headers": {}
-        },
-        {
-            "name": "Nueva Vida FM (720p)",
-            "tvg_id": "NuevaVidaFM.pr@SD",
-            "logo": "https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png",
-            "group": "Music;Religious",
-            "url": "https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8",
             "headers": {}
         },
         {
@@ -3397,6 +3389,14 @@
             "logo": "https://i.imgur.com/TrecSeG.png",
             "group": "Music",
             "url": "https://vdo2.pro-fhi.net:3207/stream/play.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "PalMundo FM (1080p)",
+            "tvg_id": "PalMundoFM.cl@SD",
+            "logo": "https://cdn.m3u.cl/logo/1803_PalMundo_FM.png",
+            "group": "Music",
+            "url": "https://streampanelcp.palmundofm.cl/hls/palmundofm/visual/hd.m3u8",
             "headers": {}
         },
         {
@@ -4952,7 +4952,7 @@
             "headers": {}
         },
         {
-            "name": "Strana FM",
+            "name": "Strana FM (720p)",
             "tvg_id": "StranaFM.ru@SD",
             "logo": "https://i.imgur.com/WsPlKJJ.png",
             "group": "Music",
@@ -5552,11 +5552,11 @@
             "headers": {}
         },
         {
-            "name": "TRT Muzik (720p)",
+            "name": "TRT Muzik (1080p)",
             "tvg_id": "TRTMuzik.tr@SD",
             "logo": "https://i.imgur.com/JgUzRH8.png",
             "group": "Music",
-            "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+            "url": "https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8",
             "headers": {}
         },
         {
