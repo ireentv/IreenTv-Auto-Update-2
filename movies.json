@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 772,
-    "last_update": "2026-11-24 11:48:41 AM",
+    "channels_amount": 769,
+    "last_update": "2026-11-24 11:19:30 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1413,14 +1413,6 @@
             "logo": "https://i.imgur.com/4uG8HsQ.png",
             "group": "Movies",
             "url": "http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=",
-            "headers": {}
-        },
-        {
-            "name": "Colors Bangla Cinema (576p)",
-            "tvg_id": "ColorsBanglaCinema.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_BANGLA_CINEMA/images/LOGO_HD/image.png",
-            "group": "Movies",
-            "url": "http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8",
             "headers": {}
         },
         {
@@ -2861,14 +2853,6 @@
             "logo": "https://i.imgur.com/8wLfkl9.jpg",
             "group": "Movies",
             "url": "http://27.124.71.27/Sun_Bangla/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "Lifetime Movies (1080p)",
-            "tvg_id": "LifetimeMovies.us@East",
-            "logo": "https://i.imgur.com/BWmqYTO.png",
-            "group": "Movies",
-            "url": "http://23.237.104.106:8080/USA_LMN/index.m3u8",
             "headers": {}
         },
         {
@@ -5032,11 +5016,11 @@
             "headers": {}
         },
         {
-            "name": "Rotana Cinema KSA (1080p) [Geo-blocked]",
+            "name": "Rotana Cinema KSA (540p)",
             "tvg_id": "RotanaCinemaKSA.sa@SD",
             "logo": "https://i.imgur.com/pGgp38I.png",
             "group": "Movies",
-            "url": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8",
+            "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/rotana_cinema/live.livx/playlist.m3u8",
             "headers": {}
         },
         {
@@ -5448,14 +5432,6 @@
             "headers": {}
         },
         {
-            "name": "Star Movies (India) HD (1080p)",
-            "tvg_id": "StarMovies.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
-            "group": "Movies",
-            "url": "http://116.90.120.149:8000/play/a13a/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "Star Movies (Portugal)",
             "tvg_id": "StarMovies.pt@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png",
@@ -5581,14 +5557,6 @@
             "logo": "https://images.iptv.rt.ru/images/d6iist8mifeailfopupg.png",
             "group": "Movies",
             "url": "https://fs.uplink.kz/start_world/mono.m3u8?token=onlinetv",
-            "headers": {}
-        },
-        {
-            "name": "Starz Cinema (720p)",
-            "tvg_id": "StarzCinema.us@East",
-            "logo": "https://i.imgur.com/ghzzKoT.png",
-            "group": "Movies",
-            "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8",
             "headers": {}
         },
         {
@@ -6061,6 +6029,14 @@
             "logo": "https://i.imgur.com/OQXEhqu.png",
             "group": "Entertainment;Movies",
             "url": "https://dethich.pw/thvl3/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Warner Channel (720p)",
+            "tvg_id": "WarnerChannel.us@Panregional",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
+            "group": "Movies",
+            "url": "http://181.78.197.59:8000/play/a07s/index.m3u8",
             "headers": {}
         },
         {
