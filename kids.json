@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 456,
-    "last_update": "2026-11-25 08:06:07 AM",
+    "last_update": "2026-11-25 06:24:24 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -2184,11 +2184,11 @@
             "headers": {}
         },
         {
-            "name": "Nickelodeon (Romania)",
+            "name": "Nickelodeon (Romania) (576i)",
             "tvg_id": "Nickelodeon.ro@SD",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20241009234318",
             "group": "Kids",
-            "url": "http://178.76.68.60:7442/64/mpegts",
+            "url": "http://91.235.165.117:8001/play/a05z/index.m3u8",
             "headers": {}
         },
         {
@@ -2400,11 +2400,11 @@
             "headers": {}
         },
         {
-            "name": "Nicktoons (Romania)",
+            "name": "Nicktoons (Romania) (576p)",
             "tvg_id": "Nicktoons.ro@SD",
             "logo": "https://static.wikia.nocookie.net/logopedia/images/7/71/NickToons_US_2023_Splat_Variant.png/revision/latest?cb=20251214221939",
             "group": "Kids",
-            "url": "http://178.76.68.60:7442/80/mpegts",
+            "url": "http://91.235.165.117:8001/play/a061/index.m3u8",
             "headers": {}
         },
         {

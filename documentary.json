@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 246,
-    "last_update": "2026-11-25 08:06:07 AM",
+    "channels_amount": 244,
+    "last_update": "2026-11-25 06:24:24 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -165,14 +165,6 @@
             "logo": "https://i.imgur.com/qcTNvNU.png",
             "group": "Documentary",
             "url": "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "BBC Earth Asia (720p)",
-            "tvg_id": "BBCEarth.uk@Asia",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",
-            "group": "Documentary",
-            "url": "https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8",
             "headers": {}
         },
         {
@@ -1048,14 +1040,6 @@
             "headers": {}
         },
         {
-            "name": "National Geographic (Turkiye)",
-            "tvg_id": "NationalGeographic.tr@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
-            "group": "Documentary",
-            "url": "https://nord.ayakkabiparti.lol/natgeo/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "National Geographic (United Kingdom)",
             "tvg_id": "NationalGeographic.uk@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
@@ -1136,11 +1120,11 @@
             "headers": {}
         },
         {
-            "name": "National Geographic Wild (Turkiye)",
+            "name": "National Geographic Wild (Turkiye) (1080p) [Geo-blocked]",
             "tvg_id": "NationalGeographicWild.tr@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
-            "url": "https://nord.ayakkabiparti.lol/natgeowild/index.m3u8",
+            "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
             "headers": {}
         },
         {

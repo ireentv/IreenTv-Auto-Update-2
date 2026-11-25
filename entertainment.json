@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 889,
-    "last_update": "2026-11-25 08:06:07 AM",
+    "channels_amount": 905,
+    "last_update": "2026-11-25 06:24:24 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1328,6 +1328,14 @@
             "headers": {}
         },
         {
+            "name": "CCTV Kunnamkulam (720p)",
+            "tvg_id": "CCTVKunnamkulam.in@SD",
+            "logo": "https://i.ibb.co/ndPywxZ/cctv-logo.jpg",
+            "group": "Entertainment",
+            "url": "https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "CCTV-3 (720p)",
             "tvg_id": "CCTV3.cn@SD",
             "logo": "https://i.imgur.com/iFlkIuw.png",
@@ -1477,6 +1485,22 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/960px-Circle_Network_logo.svg.png",
             "group": "Entertainment",
             "url": "https://circle-roku.amagi.tv/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "City Channel HD (1080p)",
+            "tvg_id": "CityChannelHD.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/jVbypmZKBHnQD2xcN_p_6CitA-oxAzm_iU5HePN8mmAppOwH5BJaV5taGNdbsIpUyqM",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/citytv2924/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "City Vision Kannur (576p)",
+            "tvg_id": "CityVisionKannur.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/eO1Si1pAb0f-4E5ZTHqOCvIrcVEtNBOgex-Y6lRQTYaV04mbjQpm4oJKmv42CIM5L12bdbmH6Voh7dXZk6ZW=w240-h480",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/citykannurcity/index.m3u8",
             "headers": {}
         },
         {
@@ -1893,6 +1917,22 @@
             "logo": "https://www.mongolsat.mn/assets/img/channel/701.png",
             "group": "Entertainment",
             "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd",
+            "headers": {}
+        },
+        {
+            "name": "Drishya TV (576p)",
+            "tvg_id": "DrishyaTV.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/drishya5060/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Drisya TV (576p)",
+            "tvg_id": "DrisyaTV.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/8O2ugQ2n4Y3Mt8j4sfTd52RizgIJwbu7U1mtF3Fk1hDbXc3yIGgvFqriLoO2InOX0ajgwaITdnGJV_w6HRac0Q",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/drishyakarunagapally/index.m3u8",
             "headers": {}
         },
         {
@@ -3176,6 +3216,14 @@
             "headers": {}
         },
         {
+            "name": "Kasargod Vision (576p)",
+            "tvg_id": "KasargodVision.in@SD",
+            "logo": "https://coakerala.com/wp-content/uploads/2014/11/KSD-VISION-district-channel.jpg",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/kasaragodvsn/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "KC2 (720p) [Not 24/7]",
             "tvg_id": "KC2.rw@SD",
             "logo": "https://i.imgur.com/PsYPzNc.png",
@@ -3197,6 +3245,22 @@
             "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/KCM.png",
             "group": "Entertainment;Movies",
             "url": "https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "KCN Kasargod (576p)",
+            "tvg_id": "KCNKasargod.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/sfxGAj8et5iKbygQ7Plp6gSvsvLodM4b7HU0K_1dx_etJMo3FUEIkf0z7KdWTEb-Gwhx5Vz9bQjpB8g_oz6jry0=w240-h480",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/kcnksrgod/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Kerala Today TV (1080p)",
+            "tvg_id": "KeralaTodayTV.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/JpdLqTP2IiQDuLkr_jw0QeeDHfHOPd-vk00pnPF06f95Jca01t7v2BbrSENDeNuHktB2t0EbSfk_XyXvvUAumQ",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/krlatoday/index.m3u8",
             "headers": {}
         },
         {
@@ -3624,6 +3688,22 @@
             "headers": {}
         },
         {
+            "name": "Malabar Plus (720p)",
+            "tvg_id": "MalabarPlus.in@SD",
+            "logo": "https://i.ibb.co/p6kf0FfH/1000151556.png",
+            "group": "Entertainment",
+            "url": "http://cloud.logichost.in:1935/live/mplus/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Malappuram Cable Vision (1080p)",
+            "tvg_id": "MalappuramCableVision.in@SD",
+            "logo": "https://cdn.aptoide.com/imgs/f/c/d/fcdcdfe7f3ced7623f252e9ea0080374_icon.png",
+            "group": "Entertainment",
+            "url": "http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "MaLive (1080p)",
             "tvg_id": "MaLive.nl@SD",
             "logo": "https://i.imgur.com/0Vzg2OR.png",
@@ -3677,14 +3757,6 @@
             "logo": "https://i.imgur.com/8wE1Lbp.png",
             "group": "Entertainment",
             "url": "https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202",
-            "headers": {}
-        },
-        {
-            "name": "Mansudae Television (1080p) [Not 24/7]",
-            "tvg_id": "MansudaeTelevision.kp@HD",
-            "logo": "https://i.imgur.com/7xowUs2.png",
-            "group": "Entertainment",
-            "url": "https://live.koryocdn.org/mansudae/index.m3u8",
             "headers": {}
         },
         {
@@ -4010,7 +4082,7 @@
         {
             "name": "MTV (India) (396p)",
             "tvg_id": "MTV.in@SD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+            "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8",
             "headers": {}
@@ -4018,7 +4090,7 @@
         {
             "name": "MTV (India) HD (396p)",
             "tvg_id": "MTV.in@HD",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+            "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
             "headers": {}
@@ -4026,7 +4098,7 @@
         {
             "name": "MTV (India) International (576p)",
             "tvg_id": "MTV.in@International",
-            "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png",
+            "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
             "group": "Entertainment",
             "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
             "headers": {}
@@ -4448,6 +4520,14 @@
             "headers": {}
         },
         {
+            "name": "New Vision HD (576p)",
+            "tvg_id": "NewVisionHD.in@SD",
+            "logo": "https://i.ibb.co/Sw4cdy9b/new-vision-hd.jpg",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/newvision2924/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "NHK World Premium (720p)",
             "tvg_id": "NHKWorldPremium.jp@SD",
             "logo": "https://i.imgur.com/4ESi2La.png",
@@ -4493,6 +4573,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/960px-Nitro_Logo.svg.png",
             "group": "Entertainment",
             "url": "https://dash4.antik.sk/live/test_rtl_nitro_tizen/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "NM Media Channel HD (1080p)",
+            "tvg_id": "NMMediaChannelHD.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/bS6HNpsLqv-Irw64TaPYqk3o8AlMiA96GJjD8qUfIzgtoeC23CCLrGW5iReGh1jMlP7djBZhxsJ_2wFLWpHB",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/newmedia2924/index.m3u8",
             "headers": {}
         },
         {
@@ -4557,6 +4645,14 @@
             "logo": "https://i.imgur.com/n79nkVC.png",
             "group": "Entertainment;General",
             "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "NTV UAE HD (720p)",
+            "tvg_id": "NTVUAEHD.ae@SD",
+            "logo": "https://play-lh.googleusercontent.com/YwH6c1AqIM7LFOIBx0taFOmdHeoyIhLChk8PZCEHMtdm06-fK4fmpmsTl9tMjDRHSvOtz6gFKQygccgXQgAVSTE",
+            "group": "Entertainment",
+            "url": "https://stream.logichost.in/NTV/live/chunklist_w833817414.m3u8",
             "headers": {}
         },
         {
@@ -4821,6 +4917,14 @@
             "logo": "https://i.imgur.com/Y84p1y6.png",
             "group": "Entertainment",
             "url": "http://stream.mcquack.net/121/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Periyar Vision (1080p)",
+            "tvg_id": "PeriyarVision.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/Oh0y8uEVV7LIlMBig3mi5xthzsUeOMWXxkHh6CpNf8uousEVwTCCEgLnNIYPPOd5aWw5f7lAWOqPqP93y2H7",
+            "group": "Entertainment",
+            "url": "https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8",
             "headers": {}
         },
         {
@@ -5472,22 +5576,6 @@
             "headers": {}
         },
         {
-            "name": "ROCK Action (720p)",
-            "tvg_id": "ROCKAction.sg@SD",
-            "logo": "https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png",
-            "group": "Entertainment",
-            "url": "https://proxy-v.rctiplus.id/live/web/rockaction/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "ROCK Entertainment (720p)",
-            "tvg_id": "ROCKEntertainment.sg@SD",
-            "logo": "https://i.imgur.com/PWzq0aU.png",
-            "group": "Entertainment",
-            "url": "https://proxy-v.rctiplus.id/live/web/rockent/index.m3u8",
-            "headers": {}
-        },
-        {
             "name": "ROTV Valencia (720p)",
             "tvg_id": "ROTVValencia.es@SD",
             "logo": "https://i.imgur.com/0TDnVQ4.png",
@@ -5757,6 +5845,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sorozatklub.svg/1920px-Sorozatklub.svg.png",
             "group": "Entertainment",
             "url": "http://88.212.7.14/live/sorozatklub_atk/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "South Vision (1080p)",
+            "tvg_id": "SouthVision.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/R8Z8juih4xjZthHZeKnFqJTLFmf-GZfRLvcVHdeX7VNw568mvI6mES5LVbvTlPOSO8qoAjDE01fGy93XKkliyg=w512-h512",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/southvsnklm/index.m3u8",
             "headers": {}
         },
         {
@@ -6149,6 +6245,14 @@
             "logo": "https://i.imgur.com/QxHt9NC.png",
             "group": "Entertainment",
             "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1/live.livx/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Thanima (1080p)",
+            "tvg_id": "Thanima.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/cEXeXLHYTRthQoC8y_7SIr5hWU1gVpuRUc139KMbm-HqdllHs1IYig3voRgXrxG5XmELu95FBhLMEqyjNljHgog",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/thanimatvtvm/index.m3u8",
             "headers": {}
         },
         {
@@ -6680,6 +6784,14 @@
             "headers": {}
         },
         {
+            "name": "UTV HD 24x7 (1080i)",
+            "tvg_id": "UTVHD24x7.in@SD",
+            "logo": "https://i.ibb.co/BVR60w26/utv-hd-24x7.jpg",
+            "group": "Entertainment",
+            "url": "https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Vacation Channel",
             "tvg_id": "VacationChannel.il@SD",
             "logo": "https://static.g-cdn.app/streams/vacation-channel-il-hd.png",
@@ -6845,6 +6957,22 @@
             "logo": "https://i.imgur.com/reYeMuE.png",
             "group": "Entertainment",
             "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/w9_fr/live.livx/playlist.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Wayanad Vision Movies (720p)",
+            "tvg_id": "WayanadVisionMovies.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/UxJ6sG6LdpaAXZOvR8EJyYa9PVx3gZWzetMe6MKHeguGSyyDHBDzKX5gN6Z75cQCni609w3YyuLSlE5qWPhG-Q",
+            "group": "Entertainment",
+            "url": "https://online.wayanadvision.in/hls/wvmovies.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Wayanad Vision Plus (720p)",
+            "tvg_id": "WayanadVisionPlus.in@SD",
+            "logo": "https://i.ibb.co/zTZk83Z3/wayand-vision-plus.jpg",
+            "group": "Entertainment",
+            "url": "https://online.wayanadvision.in/hls/streaming1.m3u8",
             "headers": {}
         },
         {
