@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 795,
-    "last_update": "2026-11-26 10:49:05 AM",
+    "channels_amount": 784,
+    "last_update": "2026-11-26 08:52:16 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -492,7 +492,7 @@
             "tvg_id": "B4UMusic.in@India",
             "logo": "https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=720x540",
             "group": "Music",
-            "url": "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/playlist.m3u8",
+            "url": "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8",
             "headers": {}
         },
         {
@@ -6173,94 +6173,6 @@
             "logo": "https://i.imgur.com/28b810Y.png",
             "group": "Music",
             "url": "https://live2.tensila.com/onair-v-1.xfm1027/hls/master.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE 90's Throwback (1080p)",
-            "tvg_id": "XITE90sThrowback.us@SD",
-            "logo": "https://i.imgur.com/vwpOzuz.png",
-            "group": "Music",
-            "url": "https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE (720p)",
-            "tvg_id": "XITE.nl@SD",
-            "logo": "https://i.imgur.com/jxuwGRi.png",
-            "group": "Music",
-            "url": "https://xite-rakuten.amagi.tv/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE Classic Country (720p)",
-            "tvg_id": "XITEClassicCountry.nl@SD",
-            "logo": "https://i.imgur.com/XQrMCkT.png",
-            "group": "Music",
-            "url": "https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE Hits (1080p)",
-            "tvg_id": "XITEHits.nl@NL",
-            "logo": "https://i.imgur.com/N51Rp7E.png",
-            "group": "Music",
-            "url": "https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE Hits Germany (1080p)",
-            "tvg_id": "XITEHits.nl@Germany",
-            "logo": "https://i.imgur.com/N51Rp7E.png",
-            "group": "Music",
-            "url": "https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE Hits UK (1080p)",
-            "tvg_id": "XITEHits.nl@UK",
-            "logo": "https://i.imgur.com/N51Rp7E.png",
-            "group": "Music",
-            "url": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE Just Chill (1080p)",
-            "tvg_id": "XITEJustChill.nl@US",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png",
-            "group": "Music",
-            "url": "https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE Nuevo Latino (1080p)",
-            "tvg_id": "XITENuevoLatino.us@SD",
-            "logo": "https://i.imgur.com/2qyl2y3.png",
-            "group": "Music",
-            "url": "https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE Reggae Vibes (1080p)",
-            "tvg_id": "XITEReggaeVibes.nl@HD",
-            "logo": "https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png",
-            "group": "Music",
-            "url": "https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE Rock x Metal (1080p)",
-            "tvg_id": "XITERockxMetal.nl@US",
-            "logo": "https://i.imgur.com/uIIUIuN.png",
-            "group": "Music",
-            "url": "https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "XITE Siempre Latino (1080p)",
-            "tvg_id": "XITESiempreLatino.us@SD",
-            "logo": "https://i.imgur.com/bwmIEgG.png",
-            "group": "Music",
-            "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8",
             "headers": {}
         },
         {

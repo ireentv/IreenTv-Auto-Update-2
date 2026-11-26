@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 905,
-    "last_update": "2026-11-26 10:49:05 AM",
+    "channels_amount": 908,
+    "last_update": "2026-11-26 08:52:16 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1328,6 +1328,14 @@
             "headers": {}
         },
         {
+            "name": "CC NET (1080p)",
+            "tvg_id": "CCNET.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/ccnet7082/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "CCTV Kunnamkulam (720p)",
             "tvg_id": "CCTVKunnamkulam.in@SD",
             "logo": "https://i.ibb.co/ndPywxZ/cctv-logo.jpg",
@@ -1925,6 +1933,14 @@
             "logo": "https://play-lh.googleusercontent.com/P1gCOSlZjwEzxi6wy4zcvqYwBf6SdTXiGhnuIAIW8lNu9Ka-v28vXz2vUFqwFXQH6mCeFkQdphJVjYK0Qj30hQ=w240-h480-rw",
             "group": "Entertainment",
             "url": "https://live.skystream.in/live/drishya5060/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Drisya News Pala (576p)",
+            "tvg_id": "DrisyaNewsPala.in@SD",
+            "logo": "https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/DrisyaPala2924/index.m3u8",
             "headers": {}
         },
         {
@@ -3165,6 +3181,14 @@
             "logo": "https://i.imgur.com/NMhydr5.png",
             "group": "Entertainment",
             "url": "http://stream.mcquack.net/324/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "K7 Keralam Channel (1080p)",
+            "tvg_id": "K7KeralamChannel.in@SD",
+            "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10",
+            "group": "Entertainment",
+            "url": "https://live.skystream.in/live/keralam2742/index.m3u8",
             "headers": {}
         },
         {
