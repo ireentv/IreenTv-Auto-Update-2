@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 245,
-    "last_update": "2026-11-27 05:37:23 AM",
+    "channels_amount": 254,
+    "last_update": "2026-11-27 01:43:27 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -181,6 +181,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",
             "group": "Documentary",
             "url": "http://88.212.7.14/live/bbce_hun/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "BBC Earth Romania (576i)",
+            "tvg_id": "BBCEarth.uk@Romania",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",
+            "group": "Documentary",
+            "url": "https://rundle.tv/proxy5.php?src=https://saruman1.tharen001.cfd/ert/usergenrx8ofzq1kr.m3u8",
             "headers": {}
         },
         {
@@ -828,7 +836,7 @@
             "tvg_id": "Istoriya.ru@SD",
             "logo": "https://i.imgur.com/eEjPail.png",
             "group": "Documentary",
-            "url": "https://fs.uplink.kz/istoriya/mono.m3u8?token=onlinetv",
+            "url": "http://s7.merlive.am/History2/index.m3u8",
             "headers": {}
         },
         {
@@ -1040,6 +1048,14 @@
             "headers": {}
         },
         {
+            "name": "National Geographic (Romania) (576i)",
+            "tvg_id": "NationalGeographic.ro@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
+            "group": "Documentary",
+            "url": "https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/ngeo/usergenrnd84oeigt.m3u8",
+            "headers": {}
+        },
+        {
             "name": "National Geographic (Russia) (1080p)",
             "tvg_id": "NationalGeographic.ru@SD",
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",
@@ -1109,6 +1125,14 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
             "group": "Documentary",
             "url": "https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "National Geographic Wild (Romania) HD (1080i)",
+            "tvg_id": "NationalGeographicWild.ro@HD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",
+            "group": "Documentary",
+            "url": "https://rundle.tv/proxy5.php?src=https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8",
             "headers": {}
         },
         {
@@ -1620,7 +1644,7 @@
             "tvg_id": "ReelzFamousInfamous.us@HD",
             "logo": "https://i.imgur.com/czrTtNK.png",
             "group": "Documentary",
-            "url": "https://aegis-cloudfront-1.tubi.video/dfd312a3-99b3-45fe-89b2-d20579fee2e9/playlist.m3u8",
+            "url": "https://linear-190.frequency.stream/mt/vizio/190/hls/master/playlist.m3u8",
             "headers": {}
         },
         {
@@ -1720,6 +1744,14 @@
             "headers": {}
         },
         {
+            "name": "Tayny Galaktiki (576p)",
+            "tvg_id": "TaynyGalaktiki.ru@SD",
+            "logo": "https://i.imgur.com/fR3abSD.png",
+            "group": "Documentary",
+            "url": "http://s7.merlive.am/tainigalaktiki/index.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Teen Mom",
             "tvg_id": "TeenMom.us@SD",
             "logo": "https://i.imgur.com/8o3ClCV.png",
@@ -1765,6 +1797,22 @@
             "logo": "https://iili.io/JGqD21e.png",
             "group": "Documentary;Entertainment",
             "url": "https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Tochka.rf (1080p)",
+            "tvg_id": "Tochkarf.ru@HD",
+            "logo": "https://cdn2.red-media.ru/wp-content/uploads/2016/08/TochkaRF-Logo.png",
+            "group": "Documentary;Travel",
+            "url": "http://s7.merlive.am/HDLife/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Top Secret (576p)",
+            "tvg_id": "TopSecret.ru@SD",
+            "logo": "https://i.imgur.com/HM4xy4G.png",
+            "group": "Documentary",
+            "url": "http://s7.merlive.am/sovershennosekretno/index.m3u8",
             "headers": {}
         },
         {
@@ -1824,6 +1872,14 @@
             "headers": {}
         },
         {
+            "name": "Viasat Explore (Romania)",
+            "tvg_id": "ViasatExplore.ro@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg",
+            "group": "Documentary",
+            "url": "https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/vexplr/usergenrnd7ke5lgt.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Viasat Explore (Slovenia)",
             "tvg_id": "ViasatExplore.si@HD",
             "logo": "https://i.imgur.com/jboGcoY.png",
@@ -1853,6 +1909,14 @@
             "logo": "https://i.imgur.com/wRP9XA7.png",
             "group": "Documentary",
             "url": "http://193.33.39.108:9007/play/a00p",
+            "headers": {}
+        },
+        {
+            "name": "Viasat History (Romania) (576i)",
+            "tvg_id": "ViasatHistory.ro@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg",
+            "group": "Documentary",
+            "url": "https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/vhis/usergenrnd4v6g8eigt.m3u8",
             "headers": {}
         },
         {
@@ -1901,6 +1965,14 @@
             "logo": "https://i.imgur.com/ousRqqD.png",
             "group": "Documentary",
             "url": "http://193.33.39.108:9000/play/a05r",
+            "headers": {}
+        },
+        {
+            "name": "Viasat Nature (Romania) (576i)",
+            "tvg_id": "ViasatNature.ro@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png",
+            "group": "Documentary",
+            "url": "https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/vnature/usergenrnd2g9eqk.m3u8",
             "headers": {}
         },
         {

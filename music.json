@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 784,
-    "last_update": "2026-11-27 05:37:23 AM",
+    "channels_amount": 786,
+    "last_update": "2026-11-27 01:43:27 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -228,7 +228,7 @@
             "tvg_id": "A1.ru@SD",
             "logo": "https://i.imgur.com/2pAHdAi.png",
             "group": "Music",
-            "url": "http://31.148.48.15/A1/index.m3u8",
+            "url": "http://s7.merlive.am/Amedia1/index.m3u8",
             "headers": {}
         },
         {
@@ -501,6 +501,14 @@
             "logo": "https://i.imgur.com/lW3WIBD.png",
             "group": "Kids;Music",
             "url": "http://178.134.1.158:8081/babytime/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Balcan Music TV (1080i)",
+            "tvg_id": "BalcanMusicTV.ro@HD",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d4/Balcan_Music_TV.svg/revision/latest?cb=20220815201215",
+            "group": "Music",
+            "url": "https://rundle.tv/proxy5.php?src=https://arwen1.panaka001.cfd/balkmus/usergenko4x0g.m3u8",
             "headers": {}
         },
         {
@@ -1588,7 +1596,7 @@
             "tvg_id": "FONMusic.ru@SD",
             "logo": "https://i.imgur.com/tXABQDE.png",
             "group": "Music",
-            "url": "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8",
+            "url": "http://s7.merlive.am/TNTMusic/index.m3u8",
             "headers": {}
         },
         {
@@ -2712,11 +2720,11 @@
             "headers": {}
         },
         {
-            "name": "Mezzo",
+            "name": "Mezzo (576p)",
             "tvg_id": "Mezzo.fr@SD",
             "logo": "https://i.imgur.com/auNdGeW.png",
             "group": "Music",
-            "url": "http://92.180.26.103/stream/62/index.m3u8",
+            "url": "http://s7.merlive.am/Mezzo/index.m3u8",
             "headers": {}
         },
         {
@@ -2957,6 +2965,14 @@
             "logo": "https://www.utrk.kg/img/stream/45.png",
             "group": "Music",
             "url": "https://st2.mediabay.tv/KG_KTRK-Muzika/index.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "Music Box SD (720p)",
+            "tvg_id": "MusicBox.vn@SD",
+            "logo": "https://i.ibb.co/cSHpm7qf/Music-Box.webp",
+            "group": "Music",
+            "url": "http://antm.dynu.net:14285/rtp/232.84.3.144:9588",
             "headers": {}
         },
         {
