@@ -5,7 +5,7 @@
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
 # Total Channels  : 786
-# Last Updated    : 2026-11-28 07:22:06 AM
+# Last Updated    : 2026-11-28 04:00:19 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -458,6 +458,8 @@ http://88.212.7.14/live/film_cafe/index.m3u8
 https://rundle.tv/proxy5.php?src=https://atlantida1.aquax001.shop/cofyfilm/usergendxn8lzrnd.m3u8
 #EXTINF:-1 tvg-name="Film Mania" tvg-logo="https://i.imgur.com/crhsomk.png" group-title="Movies" ,Film Mania
 http://205.237.104.26:8080/stream/340/index.m3u8
+#EXTINF:-1 tvg-name="Film Mania Romania (576i)" tvg-logo="https://i.imgur.com/crhsomk.png" group-title="Movies" ,Film Mania Romania (576i)
+https://dokagents.site/live/filmmania/mono.m3u8
 #EXTINF:-1 tvg-name="Film Now (576i)" tvg-logo="https://i.imgur.com/sSoRvGz.png" group-title="Movies" ,Film Now (576i)
 https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/df/usergendlg1ks0t2n.m3u8
 #EXTINF:-1 tvg-name="Film+ (Czech Republic)" tvg-logo="https://i.imgur.com/OBYuY3S.png" group-title="Movies" ,Film+ (Czech Republic)
@@ -733,7 +735,7 @@ https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Kinoteatr (1080p)" tvg-logo="https://i.imgur.com/emH1BgC.png" group-title="Movies" ,Kinoteatr (1080p)
 https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="Kinouzhas (1080p)" tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="Movies" ,Kinouzhas (1080p)
-http://s1.merlive.am/Kinoujas/index.m3u8
+http://s7.merlive.am/Kinoujas/index.m3u8
 #EXTINF:-1 tvg-name="Kinowood (1080p)" tvg-logo="https://i.imgur.com/PQcXNBI.png" group-title="Movies" ,Kinowood (1080p)
 http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1 tvg-name="Klasik (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/C90BYlb.png" group-title="Movies" ,Klasik (576p) [Not 24/7]
@@ -1356,8 +1358,6 @@ https://samitaorigin.tangotv.in/SONERICINEMA/SAMITAORIGIN/index.m3u8
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Max (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies" ,Sony Max (720p)
 https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
-#EXTINF:-1 tvg-name="Sony Max HD (1080p)" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies" ,Sony Max HD (1080p)
-https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="Sony Movies (Brazil) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies" ,Sony Movies (Brazil) (720p)
 http://45.177.114.115/SONY_MOVIES/index.m3u8
 #EXTINF:-1 tvg-name="Sony Movies (United States) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies" ,Sony Movies (United States) (720p)
@@ -1391,7 +1391,7 @@ http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-name="Star Channel Latin America South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies;Series" ,Star Channel Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 #EXTINF:-1 tvg-name="Star Cinema (576p)" tvg-logo="https://i.imgur.com/5sis895.png" group-title="Movies" ,Star Cinema (576p)
-http://s1.merlive.am/starsinema/index.m3u8
+http://s7.merlive.am/starsinema/index.m3u8
 #EXTINF:-1 tvg-name="Star Family (1080p)" tvg-logo="https://i.imgur.com/eGuGHnZ.png" group-title="Movies" ,Star Family (1080p)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Maa Movies HD (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540" group-title="Movies" ,Star Maa Movies HD (720p)

@@ -3,8 +3,8 @@
     "developer": "MD ANAMUL HOQUE",
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
-    "channels_amount": 254,
-    "last_update": "2026-11-28 07:22:06 AM",
+    "channels_amount": 256,
+    "last_update": "2026-11-28 04:00:19 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -356,7 +356,7 @@
             "tvg_id": "CuriosityNOW.de@EN",
             "logo": "https://i.imgur.com/gJ9eMaG.png",
             "group": "Documentary",
-            "url": "https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8",
+            "url": "https://eafbca58.wurl.com/master/319dc4325e352117ff2ba16d22f2fb8968990c39/U2VsZWN0VFZfQ3VyaW9zaXR5Tk9XVVNfSExT/playlist.m3u8",
             "headers": {}
         },
         {
@@ -917,6 +917,14 @@
             "logo": "https://i.imgur.com/1j4gwL3.png",
             "group": "Documentary",
             "url": "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "M3U World 4K (1080p)",
+            "tvg_id": "M3UWorld4K.bd@HD",
+            "logo": "https://i.imgur.com/9V6lrgV.png",
+            "group": "Documentary;Relax",
+            "url": "https://m3uworld4k.paid4k.workers.dev/index.m3u8",
             "headers": {}
         },
         {
@@ -1640,6 +1648,14 @@
             "headers": {}
         },
         {
+            "name": "Reelz (720p)",
+            "tvg_id": "Reelz.us@SD",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png",
+            "group": "Documentary",
+            "url": "https://a-cdn.klowdtv.com/live2/reelz_720p/playlist.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Reelz Famous & Infamous (1080p)",
             "tvg_id": "ReelzFamousInfamous.us@HD",
             "logo": "https://i.imgur.com/czrTtNK.png",
@@ -1764,7 +1780,7 @@
             "tvg_id": "TERRA.ru@SD",
             "logo": "https://i.imgur.com/ZxUjCpF.png",
             "group": "Documentary",
-            "url": "http://s1.merlive.am/TerraHD/index.m3u8",
+            "url": "http://s7.merlive.am/TerraHD/index.m3u8",
             "headers": {}
         },
         {

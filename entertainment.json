@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 921,
-    "last_update": "2026-11-28 07:22:06 AM",
+    "last_update": "2026-11-28 04:00:19 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -212,7 +212,7 @@
             "tvg_id": "black.ru@SD",
             "logo": "https://i.imgur.com/Q4A6ci4.png",
             "group": "Entertainment",
-            "url": "http://s1.merlive.am/black/index.m3u8",
+            "url": "http://stream.mcquack.net/263/index.m3u8",
             "headers": {}
         },
         {
@@ -1672,11 +1672,11 @@
             "headers": {}
         },
         {
-            "name": "Crime + Investigation Polsat (576i)",
+            "name": "Crime + Investigation Polsat (1080p)",
             "tvg_id": "CrimePlusInvestigationPolsat.pl@SD",
             "logo": "https://i.imgur.com/kSZCvah.png",
             "group": "Entertainment",
-            "url": "http://92.114.85.87:8015/play/a00d/index.m3u8",
+            "url": "http://185.227.34.179:8080/ci_polsat_hd/index.m3u8",
             "headers": {}
         },
         {
@@ -2356,7 +2356,7 @@
             "tvg_id": "FEVATV.ca@SD",
             "logo": "https://i.imgur.com/QSi0YTS.png",
             "group": "Entertainment",
-            "url": "https://d21x3vavxu7p2x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-FEVATV/416.m3u8?ads.vf=nn5CUAdOxVu",
+            "url": "https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8",
             "headers": {}
         },
         {
@@ -4170,7 +4170,7 @@
         {
             "name": "MTV (India) (396p)",
             "tvg_id": "MTV.in@SD",
-            "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d2/MTV_2021_%283D%29_%28Print%29.svg/revision/latest?cb=20220218200449",
             "group": "Entertainment",
             "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8",
             "headers": {}
@@ -4178,7 +4178,7 @@
         {
             "name": "MTV (India) HD (396p)",
             "tvg_id": "MTV.in@HD",
-            "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d0/MTV_India_HD_2022_II.svg/revision/latest?cb=20220404071038",
             "group": "Entertainment",
             "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
             "headers": {}
@@ -4186,7 +4186,7 @@
         {
             "name": "MTV (India) International (576p)",
             "tvg_id": "MTV.in@International",
-            "logo": "https://dtil.tmsimg.com/assets/s143558_ld_h15_aa.png?lock=720x540",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a5/MTV_India_2022.svg/revision/latest?cb=20250206154414",
             "group": "Entertainment",
             "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
             "headers": {}
@@ -5984,6 +5984,14 @@
             "headers": {}
         },
         {
+            "name": "Spark TV (Uganda) (1080p)",
+            "tvg_id": "SparkTV.ug@SD",
+            "logo": "https://i.imgur.com/c4pthr9.png",
+            "group": "Entertainment",
+            "url": "https://ams-2629.antmedia.cloud/LiveApp/streams/spark2026_adaptive.m3u8",
+            "headers": {}
+        },
+        {
             "name": "Spektrum Home (Czech Republic)",
             "tvg_id": "SpektrumHome.cz@SD",
             "logo": "https://i.imgur.com/VaVi65F.png",
@@ -6589,14 +6597,6 @@
             "logo": "https://i.imgur.com/Tm8hj45.png",
             "group": "Entertainment;Lifestyle",
             "url": "http://stream.mcquack.net/373/index.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "TV CAJUI WEB (720p)",
-            "tvg_id": "TVCAJUIWEB.br@HD",
-            "logo": "https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891",
-            "group": "Entertainment;General;Music;News;Religious",
-            "url": "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8",
             "headers": {}
         },
         {

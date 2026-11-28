@@ -4,8 +4,8 @@
 # Developer       : MD ANAMUL HOQUE
 # Telegram Channel: https://t.me/ireentv
 # Website         : https://anamul.pages.dev
-# Total Channels  : 254
-# Last Updated    : 2026-11-28 07:22:06 AM
+# Total Channels  : 256
+# Last Updated    : 2026-11-28 04:00:19 PM
 # =====================================================
 
 #EXTINF:-1 tvg-name="IreenTV Promo" tvg-logo="https://i.ibb.co.com/XkDv6gpS/ireenTV.png" group-title="Bangla" ,IreenTV Promo
@@ -97,7 +97,7 @@ https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
 #EXTINF:-1 tvg-name="CT2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/960px-%C4%8CT2_logo_2012.svg.png" group-title="Documentary" ,CT2
 http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="Curiosity NOW EN (1080p)" tvg-logo="https://i.imgur.com/gJ9eMaG.png" group-title="Documentary" ,Curiosity NOW EN (1080p)
-https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
+https://eafbca58.wurl.com/master/319dc4325e352117ff2ba16d22f2fb8968990c39/U2VsZWN0VFZfQ3VyaW9zaXR5Tk9XVVNfSExT/playlist.m3u8
 #EXTINF:-1 tvg-name="Danger TV (1080p)" tvg-logo="https://i.imgur.com/4aTk45R.png" group-title="Documentary" ,Danger TV (1080p)
 https://wurldangertv.global.transmit.live/hls/6862ae41cebca70ae8b8c068/v1/dangertv/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="Dateline 24/7 (1080p)" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="Documentary" ,Dateline 24/7 (1080p)
@@ -240,6 +240,8 @@ https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist
 https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Lucky Dog (720p)" tvg-logo="https://i.imgur.com/1j4gwL3.png" group-title="Documentary" ,Lucky Dog (720p)
 https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8
+#EXTINF:-1 tvg-name="M3U World 4K (1080p)" tvg-logo="https://i.imgur.com/9V6lrgV.png" group-title="Documentary;Relax" ,M3U World 4K (1080p)
+https://m3uworld4k.paid4k.workers.dev/index.m3u8
 #EXTINF:-1 tvg-name="MagellanTV Now (1080p)" tvg-logo="https://i.imgur.com/gEraSp5.png" group-title="Documentary" ,MagellanTV Now (1080p)
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Military History (720p)" tvg-logo="https://i.imgur.com/S1SnpoA.png" group-title="Documentary" ,Military History (720p)
@@ -420,6 +422,8 @@ http://92.114.85.87:8014/play/a00g/index.m3u8
 http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 #EXTINF:-1 tvg-name="Polsat Viasat Nature" tvg-logo="https://i.imgur.com/TUcM0oS.png" group-title="Documentary" ,Polsat Viasat Nature
 http://92.114.85.87:8016/play/a004/index.m3u8
+#EXTINF:-1 tvg-name="Reelz (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/960px-Reelz.svg.png" group-title="Documentary" ,Reelz (720p)
+https://a-cdn.klowdtv.com/live2/reelz_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Reelz Famous & Infamous (1080p)" tvg-logo="https://i.imgur.com/czrTtNK.png" group-title="Documentary" ,Reelz Famous & Infamous (1080p)
 https://linear-190.frequency.stream/mt/vizio/190/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="RL PRO TV (480p)" tvg-logo="https://i.imgur.com/PIBtCEN.jpeg" group-title="Documentary" ,RL PRO TV (480p)
@@ -451,7 +455,7 @@ http://s7.merlive.am/tainigalaktiki/index.m3u8
 #EXTINF:-1 tvg-name="Teen Mom" tvg-logo="https://i.imgur.com/8o3ClCV.png" group-title="Documentary" ,Teen Mom
 https://jmp2.uk/plu-6127e12ed140e900077e7b6f.m3u8
 #EXTINF:-1 tvg-name="TERRA (1080p)" tvg-logo="https://i.imgur.com/ZxUjCpF.png" group-title="Documentary" ,TERRA (1080p)
-http://s1.merlive.am/TerraHD/index.m3u8
+http://s7.merlive.am/TerraHD/index.m3u8
 #EXTINF:-1 tvg-name="Terra Mater WILD (1080p)" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="Documentary" ,Terra Mater WILD (1080p)
 https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name="Terra Mater WILD English (1080p)" tvg-logo="https://i.imgur.com/EbMK3Ph.png" group-title="Documentary" ,Terra Mater WILD English (1080p)

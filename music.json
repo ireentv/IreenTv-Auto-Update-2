@@ -4,7 +4,7 @@
     "telegram": "https://t.me/ireentv",
     "website": "https://anamul.pages.dev",
     "channels_amount": 786,
-    "last_update": "2026-11-28 07:22:06 AM",
+    "last_update": "2026-11-28 04:00:19 PM",
     "channels": [
         {
             "name": "IreenTV Promo",
@@ -1730,7 +1730,7 @@
         {
             "name": "H!t Music Channel (Romania) (576i)",
             "tvg_id": "HtMusicChannel.ro@SD",
-            "logo": "https://i.imgur.com/sqC2hqV.png",
+            "logo": "https://static.wikia.nocookie.net/logopedia/images/8/88/H%21T_Music_Channel_%282013%29.svg/revision/latest?cb=20210206133912",
             "group": "Music",
             "url": "http://91.235.165.117:8001/play/a01e/index.m3u8",
             "headers": {}
@@ -1906,7 +1906,7 @@
         {
             "name": "Impact TV Dance (1080p)",
             "tvg_id": "ImpactTVDance.ro@SD",
-            "logo": "https://i.imgur.com/G5mNdpE.png",
+            "logo": "https://ritsatv.ru/files/poster/medium/900491.webp",
             "group": "Music",
             "url": "https://online.tvimpact.live/hls/dancetv.m3u8",
             "headers": {}
@@ -2941,6 +2941,14 @@
             "logo": "https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png",
             "group": "Music",
             "url": "https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8",
+            "headers": {}
+        },
+        {
+            "name": "MTV Live (1080p)",
+            "tvg_id": "MTVLive.us@SD",
+            "logo": "https://i.imgur.com/3UByLqb.png",
+            "group": "Music",
+            "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8",
             "headers": {}
         },
         {
@@ -5717,14 +5725,6 @@
             "logo": "https://radiobozsike.com/img/icons/android-chrome-512x512.png",
             "group": "Music",
             "url": "https://rtmp.radiobozsike.com/hls/stream1.m3u8",
-            "headers": {}
-        },
-        {
-            "name": "TV CAJUI WEB (720p)",
-            "tvg_id": "TVCAJUIWEB.br@HD",
-            "logo": "https://github.com/user-attachments/assets/e7af691d-0d31-4576-a1eb-bcf85507c891",
-            "group": "Entertainment;General;Music;News;Religious",
-            "url": "https://cdn.live.br1.jmvstream.com/webtv/tvcajui/playlist/playlist.m3u8",
             "headers": {}
         },
         {
